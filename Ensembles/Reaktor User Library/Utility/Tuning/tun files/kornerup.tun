@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kornerup's regular temperament with fifth of (15 - sqrt 5) / 22 octaves
+;
+; VAZ Plus section
+[Tuning]
+note 0=2208
+note 1=2281
+note 2=2355
+note 3=2400
+note 4=2474
+note 5=2519
+note 6=2592
+note 7=2666
+note 8=2711
+note 9=2785
+note 10=2858
+note 11=2904
+note 12=2977
+note 13=3023
+note 14=3096
+note 15=3170
+note 16=3215
+note 17=3289
+note 18=3362
+note 19=3408
+note 20=3481
+note 21=3555
+note 22=3600
+note 23=3674
+note 24=3719
+note 25=3792
+note 26=3866
+note 27=3911
+note 28=3985
+note 29=4058
+note 30=4104
+note 31=4177
+note 32=4223
+note 33=4296
+note 34=4370
+note 35=4415
+note 36=4489
+note 37=4562
+note 38=4608
+note 39=4681
+note 40=4755
+note 41=4800
+note 42=4874
+note 43=4919
+note 44=4992
+note 45=5066
+note 46=5111
+note 47=5185
+note 48=5258
+note 49=5304
+note 50=5377
+note 51=5423
+note 52=5496
+note 53=5570
+note 54=5615
+note 55=5689
+note 56=5762
+note 57=5808
+note 58=5881
+note 59=5955
+note 60=6000
+note 61=6074
+note 62=6119
+note 63=6192
+note 64=6266
+note 65=6311
+note 66=6385
+note 67=6458
+note 68=6504
+note 69=6577
+note 70=6623
+note 71=6696
+note 72=6770
+note 73=6815
+note 74=6889
+note 75=6962
+note 76=7008
+note 77=7081
+note 78=7155
+note 79=7200
+note 80=7274
+note 81=7319
+note 82=7392
+note 83=7466
+note 84=7511
+note 85=7585
+note 86=7658
+note 87=7704
+note 88=7777
+note 89=7823
+note 90=7896
+note 91=7970
+note 92=8015
+note 93=8089
+note 94=8162
+note 95=8208
+note 96=8281
+note 97=8355
+note 98=8400
+note 99=8474
+note 100=8519
+note 101=8592
+note 102=8666
+note 103=8711
+note 104=8785
+note 105=8858
+note 106=8904
+note 107=8977
+note 108=9023
+note 109=9096
+note 110=9170
+note 111=9215
+note 112=9289
+note 113=9362
+note 114=9408
+note 115=9481
+note 116=9555
+note 117=9600
+note 118=9674
+note 119=9719
+note 120=9792
+note 121=9866
+note 122=9911
+note 123=9985
+note 124=10058
+note 125=10104
+note 126=10177
+note 127=10223
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kornerup.tun"
+ID= "ID_kornerup.tun"
+Filename= "kornerup.scl"
+Description= "Kornerup's regular temperament with fifth of (15 - sqrt 5) / 22 octaves"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2207.571050
+note 1= 2281.072370
+note 2= 2354.573690
+note 3= 2400.000000
+note 4= 2473.501320
+note 5= 2518.927630
+note 6= 2592.428950
+note 7= 2665.930270
+note 8= 2711.356580
+note 9= 2784.857900
+note 10= 2858.359210
+note 11= 2903.785530
+note 12= 2977.286840
+note 13= 3022.713160
+note 14= 3096.214470
+note 15= 3169.715790
+note 16= 3215.142100
+note 17= 3288.643420
+note 18= 3362.144740
+note 19= 3407.571050
+note 20= 3481.072370
+note 21= 3554.573690
+note 22= 3600.000000
+note 23= 3673.501320
+note 24= 3718.927630
+note 25= 3792.428950
+note 26= 3865.930270
+note 27= 3911.356580
+note 28= 3984.857900
+note 29= 4058.359210
+note 30= 4103.785530
+note 31= 4177.286840
+note 32= 4222.713160
+note 33= 4296.214470
+note 34= 4369.715790
+note 35= 4415.142100
+note 36= 4488.643420
+note 37= 4562.144740
+note 38= 4607.571050
+note 39= 4681.072370
+note 40= 4754.573690
+note 41= 4800.000000
+note 42= 4873.501320
+note 43= 4918.927630
+note 44= 4992.428950
+note 45= 5065.930270
+note 46= 5111.356580
+note 47= 5184.857900
+note 48= 5258.359210
+note 49= 5303.785530
+note 50= 5377.286840
+note 51= 5422.713160
+note 52= 5496.214470
+note 53= 5569.715790
+note 54= 5615.142100
+note 55= 5688.643420
+note 56= 5762.144740
+note 57= 5807.571050
+note 58= 5881.072370
+note 59= 5954.573690
+note 60= 6000.000000
+note 61= 6073.501320
+note 62= 6118.927630
+note 63= 6192.428950
+note 64= 6265.930270
+note 65= 6311.356580
+note 66= 6384.857900
+note 67= 6458.359210
+note 68= 6503.785530
+note 69= 6577.286840
+note 70= 6622.713160
+note 71= 6696.214470
+note 72= 6769.715790
+note 73= 6815.142100
+note 74= 6888.643420
+note 75= 6962.144740
+note 76= 7007.571050
+note 77= 7081.072370
+note 78= 7154.573690
+note 79= 7200.000000
+note 80= 7273.501320
+note 81= 7318.927630
+note 82= 7392.428950
+note 83= 7465.930270
+note 84= 7511.356580
+note 85= 7584.857900
+note 86= 7658.359210
+note 87= 7703.785530
+note 88= 7777.286840
+note 89= 7822.713160
+note 90= 7896.214470
+note 91= 7969.715790
+note 92= 8015.142100
+note 93= 8088.643420
+note 94= 8162.144740
+note 95= 8207.571050
+note 96= 8281.072370
+note 97= 8354.573690
+note 98= 8400.000000
+note 99= 8473.501320
+note 100= 8518.927630
+note 101= 8592.428950
+note 102= 8665.930270
+note 103= 8711.356580
+note 104= 8784.857900
+note 105= 8858.359210
+note 106= 8903.785530
+note 107= 8977.286840
+note 108= 9022.713160
+note 109= 9096.214470
+note 110= 9169.715790
+note 111= 9215.142100
+note 112= 9288.643420
+note 113= 9362.144740
+note 114= 9407.571050
+note 115= 9481.072370
+note 116= 9554.573690
+note 117= 9600.000000
+note 118= 9673.501320
+note 119= 9718.927630
+note 120= 9792.428950
+note 121= 9865.930270
+note 122= 9911.356580
+note 123= 9984.857900
+note 124= 10058.359210
+note 125= 10103.785530
+note 126= 10177.286840
+note 127= 10222.713160
+
+[Functional Tuning]
+note 1="#=0 % 73.501320"
+note 2="#=0 % 118.927630"
+note 3="#=0 % 192.428950"
+note 4="#=0 % 265.930270"
+note 5="#=0 % 311.356580"
+note 6="#=0 % 384.857900"
+note 7="#=0 % 458.359210"
+note 8="#=0 % 503.785530"
+note 9="#=0 % 577.286840"
+note 10="#=0 % 622.713160"
+note 11="#=0 % 696.214470"
+note 12="#=0 % 769.715790"
+note 13="#=0 % 815.142100"
+note 14="#=0 % 888.643420"
+note 15="#=0 % 962.144740"
+note 16="#=0 % 1007.571050"
+note 17="#=0 % 1081.072370"
+note 18="#=0 % 1154.573690"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; George Secor's closed 12-tone well-temperament #2, with 7 just fifths
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=90
+note 2=195
+note 3=294
+note 4=388
+note 5=498
+note 6=588
+note 7=698
+note 8=792
+note 9=891
+note 10=996
+note 11=1086
+note 12=1200
+note 13=1290
+note 14=1395
+note 15=1494
+note 16=1588
+note 17=1698
+note 18=1788
+note 19=1898
+note 20=1992
+note 21=2091
+note 22=2196
+note 23=2286
+note 24=2400
+note 25=2490
+note 26=2595
+note 27=2694
+note 28=2788
+note 29=2898
+note 30=2988
+note 31=3098
+note 32=3192
+note 33=3291
+note 34=3396
+note 35=3486
+note 36=3600
+note 37=3690
+note 38=3795
+note 39=3894
+note 40=3988
+note 41=4098
+note 42=4188
+note 43=4298
+note 44=4392
+note 45=4491
+note 46=4596
+note 47=4686
+note 48=4800
+note 49=4890
+note 50=4995
+note 51=5094
+note 52=5188
+note 53=5298
+note 54=5388
+note 55=5498
+note 56=5592
+note 57=5691
+note 58=5796
+note 59=5886
+note 60=6000
+note 61=6090
+note 62=6195
+note 63=6294
+note 64=6388
+note 65=6498
+note 66=6588
+note 67=6698
+note 68=6792
+note 69=6891
+note 70=6996
+note 71=7086
+note 72=7200
+note 73=7290
+note 74=7395
+note 75=7494
+note 76=7588
+note 77=7698
+note 78=7788
+note 79=7898
+note 80=7992
+note 81=8091
+note 82=8196
+note 83=8286
+note 84=8400
+note 85=8490
+note 86=8595
+note 87=8694
+note 88=8788
+note 89=8898
+note 90=8988
+note 91=9098
+note 92=9192
+note 93=9291
+note 94=9396
+note 95=9486
+note 96=9600
+note 97=9690
+note 98=9795
+note 99=9894
+note 100=9988
+note 101=10098
+note 102=10188
+note 103=10298
+note 104=10392
+note 105=10491
+note 106=10596
+note 107=10686
+note 108=10800
+note 109=10890
+note 110=10995
+note 111=11094
+note 112=11188
+note 113=11298
+note 114=11388
+note 115=11498
+note 116=11592
+note 117=11691
+note 118=11796
+note 119=11886
+note 120=12000
+note 121=12090
+note 122=12195
+note 123=12294
+note 124=12388
+note 125=12498
+note 126=12588
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "secor12_2.tun"
+ID= "ID_secor12_2.tun"
+Filename= "secor12_2.scl"
+Description= "George Secor's closed 12-tone well-temperament #2, with 7 just fifths"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 90.224996
+note 2= 194.868280
+note 3= 294.134997
+note 4= 388.025140
+note 5= 498.044999
+note 6= 588.269995
+note 7= 698.289850
+note 8= 792.179997
+note 9= 891.446710
+note 10= 996.089998
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1290.224996
+note 14= 1394.868280
+note 15= 1494.134997
+note 16= 1588.025140
+note 17= 1698.044999
+note 18= 1788.269995
+note 19= 1898.289850
+note 20= 1992.179997
+note 21= 2091.446710
+note 22= 2196.089998
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2490.224996
+note 26= 2594.868280
+note 27= 2694.134997
+note 28= 2788.025140
+note 29= 2898.044999
+note 30= 2988.269995
+note 31= 3098.289850
+note 32= 3192.179997
+note 33= 3291.446710
+note 34= 3396.089998
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3690.224996
+note 38= 3794.868280
+note 39= 3894.134997
+note 40= 3988.025140
+note 41= 4098.044999
+note 42= 4188.269995
+note 43= 4298.289850
+note 44= 4392.179997
+note 45= 4491.446710
+note 46= 4596.089998
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4890.224996
+note 50= 4994.868280
+note 51= 5094.134997
+note 52= 5188.025140
+note 53= 5298.044999
+note 54= 5388.269995
+note 55= 5498.289850
+note 56= 5592.179997
+note 57= 5691.446710
+note 58= 5796.089998
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6194.868280
+note 63= 6294.134997
+note 64= 6388.025140
+note 65= 6498.044999
+note 66= 6588.269995
+note 67= 6698.289850
+note 68= 6792.179997
+note 69= 6891.446710
+note 70= 6996.089998
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7290.224996
+note 74= 7394.868280
+note 75= 7494.134997
+note 76= 7588.025140
+note 77= 7698.044999
+note 78= 7788.269995
+note 79= 7898.289850
+note 80= 7992.179997
+note 81= 8091.446710
+note 82= 8196.089998
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8490.224996
+note 86= 8594.868280
+note 87= 8694.134997
+note 88= 8788.025140
+note 89= 8898.044999
+note 90= 8988.269995
+note 91= 9098.289850
+note 92= 9192.179997
+note 93= 9291.446710
+note 94= 9396.089998
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9690.224996
+note 98= 9794.868280
+note 99= 9894.134997
+note 100= 9988.025140
+note 101= 10098.044999
+note 102= 10188.269995
+note 103= 10298.289850
+note 104= 10392.179997
+note 105= 10491.446710
+note 106= 10596.089998
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10890.224996
+note 110= 10994.868280
+note 111= 11094.134997
+note 112= 11188.025140
+note 113= 11298.044999
+note 114= 11388.269995
+note 115= 11498.289850
+note 116= 11592.179997
+note 117= 11691.446710
+note 118= 11796.089998
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12090.224996
+note 122= 12194.868280
+note 123= 12294.134997
+note 124= 12388.025140
+note 125= 12498.044999
+note 126= 12588.269995
+note 127= 12698.289850
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 % 194.868280"
+note 3="#=0 * 32/27"
+note 4="#=0 % 388.025140"
+note 5="#=0 * 4/3"
+note 6="#=0 * 1024/729"
+note 7="#=0 % 698.289850"
+note 8="#=0 * 128/81"
+note 9="#=0 % 891.446710"
+note 10="#=0 * 16/9"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

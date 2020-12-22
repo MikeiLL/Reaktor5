@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Harm. 1/4-11/4 and subh. 4/1-4/11. Joseph Pehrson (1999)
+;
+; VAZ Plus section
+[Tuning]
+note 0=-2196
+note 1=-2014
+note 2=-1849
+note 3=-1200
+note 4=-3600
+note 5=-2951
+note 6=-2786
+note 7=-2604
+note 8=-2400
+note 9=-2169
+note 10=-1902
+note 11=-1698
+note 12=-1586
+note 13=-1200
+note 14=-814
+note 15=-702
+note 16=-498
+note 17=-231
+note 18=0
+note 19=204
+note 20=386
+note 21=551
+note 22=1200
+note 23=-1200
+note 24=-551
+note 25=-386
+note 26=-204
+note 27=0
+note 28=231
+note 29=498
+note 30=702
+note 31=814
+note 32=1200
+note 33=1586
+note 34=1698
+note 35=1902
+note 36=2169
+note 37=2400
+note 38=2604
+note 39=2786
+note 40=2951
+note 41=3600
+note 42=1200
+note 43=1849
+note 44=2014
+note 45=2196
+note 46=2400
+note 47=2631
+note 48=2898
+note 49=3102
+note 50=3214
+note 51=3600
+note 52=3986
+note 53=4098
+note 54=4302
+note 55=4569
+note 56=4800
+note 57=5004
+note 58=5186
+note 59=5351
+note 60=6000
+note 61=3600
+note 62=4249
+note 63=4414
+note 64=4596
+note 65=4800
+note 66=5031
+note 67=5298
+note 68=5502
+note 69=5614
+note 70=6000
+note 71=6386
+note 72=6498
+note 73=6702
+note 74=6969
+note 75=7200
+note 76=7404
+note 77=7586
+note 78=7751
+note 79=8400
+note 80=6000
+note 81=6649
+note 82=6814
+note 83=6996
+note 84=7200
+note 85=7431
+note 86=7698
+note 87=7902
+note 88=8014
+note 89=8400
+note 90=8786
+note 91=8898
+note 92=9102
+note 93=9369
+note 94=9600
+note 95=9804
+note 96=9986
+note 97=10151
+note 98=10800
+note 99=8400
+note 100=9049
+note 101=9214
+note 102=9396
+note 103=9600
+note 104=9831
+note 105=10098
+note 106=10302
+note 107=10414
+note 108=10800
+note 109=11186
+note 110=11298
+note 111=11502
+note 112=11769
+note 113=12000
+note 114=12204
+note 115=12386
+note 116=12551
+note 117=13200
+note 118=10800
+note 119=11449
+note 120=11614
+note 121=11796
+note 122=12000
+note 123=12231
+note 124=12498
+note 125=12702
+note 126=12814
+note 127=13200
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "harm_pehrson.tun"
+ID= "ID_harm_pehrson.tun"
+Filename= "harm_pehrson.scl"
+Description= "Harm. 1/4-11/4 and subh. 4/1-4/11. Joseph Pehrson (1999)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-2196.089998
+note 1=-2013.686286
+note 2=-1848.682058
+note 3=-1200.000000
+note 4=-3600.000000
+note 5=-2951.317942
+note 6=-2786.313714
+note 7=-2603.910002
+note 8=-2400.000000
+note 9=-2168.825906
+note 10=-1901.955001
+note 11=-1698.044999
+note 12=-1586.313714
+note 13=-1200.000000
+note 14=-813.686286
+note 15=-701.955001
+note 16=-498.044999
+note 17=-231.174094
+note 18= 0.000000
+note 19= 203.910002
+note 20= 386.313714
+note 21= 551.317942
+note 22= 1200.000000
+note 23=-1200.000000
+note 24=-551.317942
+note 25=-386.313714
+note 26=-203.910002
+note 27= 0.000000
+note 28= 231.174094
+note 29= 498.044999
+note 30= 701.955001
+note 31= 813.686286
+note 32= 1200.000000
+note 33= 1586.313714
+note 34= 1698.044999
+note 35= 1901.955001
+note 36= 2168.825906
+note 37= 2400.000000
+note 38= 2603.910002
+note 39= 2786.313714
+note 40= 2951.317942
+note 41= 3600.000000
+note 42= 1200.000000
+note 43= 1848.682058
+note 44= 2013.686286
+note 45= 2196.089998
+note 46= 2400.000000
+note 47= 2631.174094
+note 48= 2898.044999
+note 49= 3101.955001
+note 50= 3213.686286
+note 51= 3600.000000
+note 52= 3986.313714
+note 53= 4098.044999
+note 54= 4301.955001
+note 55= 4568.825906
+note 56= 4800.000000
+note 57= 5003.910002
+note 58= 5186.313714
+note 59= 5351.317942
+note 60= 6000.000000
+note 61= 3600.000000
+note 62= 4248.682058
+note 63= 4413.686286
+note 64= 4596.089998
+note 65= 4800.000000
+note 66= 5031.174094
+note 67= 5298.044999
+note 68= 5501.955001
+note 69= 5613.686286
+note 70= 6000.000000
+note 71= 6386.313714
+note 72= 6498.044999
+note 73= 6701.955001
+note 74= 6968.825906
+note 75= 7200.000000
+note 76= 7403.910002
+note 77= 7586.313714
+note 78= 7751.317942
+note 79= 8400.000000
+note 80= 6000.000000
+note 81= 6648.682058
+note 82= 6813.686286
+note 83= 6996.089998
+note 84= 7200.000000
+note 85= 7431.174094
+note 86= 7698.044999
+note 87= 7901.955001
+note 88= 8013.686286
+note 89= 8400.000000
+note 90= 8786.313714
+note 91= 8898.044999
+note 92= 9101.955001
+note 93= 9368.825906
+note 94= 9600.000000
+note 95= 9803.910002
+note 96= 9986.313714
+note 97= 10151.317942
+note 98= 10800.000000
+note 99= 8400.000000
+note 100= 9048.682058
+note 101= 9213.686286
+note 102= 9396.089998
+note 103= 9600.000000
+note 104= 9831.174094
+note 105= 10098.044999
+note 106= 10301.955001
+note 107= 10413.686286
+note 108= 10800.000000
+note 109= 11186.313714
+note 110= 11298.044999
+note 111= 11501.955001
+note 112= 11768.825906
+note 113= 12000.000000
+note 114= 12203.910002
+note 115= 12386.313714
+note 116= 12551.317942
+note 117= 13200.000000
+note 118= 10800.000000
+note 119= 11448.682058
+note 120= 11613.686286
+note 121= 11796.089998
+note 122= 12000.000000
+note 123= 12231.174094
+note 124= 12498.044999
+note 125= 12701.955001
+note 126= 12813.686286
+note 127= 13200.000000
+
+[Functional Tuning]
+note 1="#=0 * 1/4"
+note 2="#=0 * 4/11"
+note 3="#=0 * 2/5"
+note 4="#=0 * 4/9"
+note 5="#=0 * 1/2"
+note 6="#=0 * 4/7"
+note 7="#=0 * 2/3"
+note 8="#=0 * 3/4"
+note 9="#=0 * 4/5"
+note 10="#=0 * 1/1"
+note 11="#=0 * 5/4"
+note 12="#=0 * 4/3"
+note 13="#=0 * 3/2"
+note 14="#=0 * 7/4"
+note 15="#=0 * 2/1"
+note 16="#=0 * 9/4"
+note 17="#=0 * 5/2"
+note 18="#=0 * 11/4"
+note 19="#>-19 * 4/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

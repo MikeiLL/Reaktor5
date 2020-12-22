@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Combined Surd Scale, combination of Surd and Inverted Surd, JHC, 26-6-97
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1276
+note 2=1361
+note 3=1456
+note 4=1526
+note 5=1567
+note 6=1698
+note 7=1740
+note 8=1860
+note 9=1902
+note 10=2033
+note 11=2074
+note 12=2144
+note 13=2239
+note 14=2324
+note 15=2400
+note 16=2476
+note 17=2561
+note 18=2656
+note 19=2726
+note 20=2767
+note 21=2898
+note 22=2940
+note 23=3060
+note 24=3102
+note 25=3233
+note 26=3274
+note 27=3344
+note 28=3439
+note 29=3524
+note 30=3600
+note 31=3676
+note 32=3761
+note 33=3856
+note 34=3926
+note 35=3967
+note 36=4098
+note 37=4140
+note 38=4260
+note 39=4302
+note 40=4433
+note 41=4474
+note 42=4544
+note 43=4639
+note 44=4724
+note 45=4800
+note 46=4876
+note 47=4961
+note 48=5056
+note 49=5126
+note 50=5167
+note 51=5298
+note 52=5340
+note 53=5460
+note 54=5502
+note 55=5633
+note 56=5674
+note 57=5744
+note 58=5839
+note 59=5924
+note 60=6000
+note 61=6076
+note 62=6161
+note 63=6256
+note 64=6326
+note 65=6367
+note 66=6498
+note 67=6540
+note 68=6660
+note 69=6702
+note 70=6833
+note 71=6874
+note 72=6944
+note 73=7039
+note 74=7124
+note 75=7200
+note 76=7276
+note 77=7361
+note 78=7456
+note 79=7526
+note 80=7567
+note 81=7698
+note 82=7740
+note 83=7860
+note 84=7902
+note 85=8033
+note 86=8074
+note 87=8144
+note 88=8239
+note 89=8324
+note 90=8400
+note 91=8476
+note 92=8561
+note 93=8656
+note 94=8726
+note 95=8767
+note 96=8898
+note 97=8940
+note 98=9060
+note 99=9102
+note 100=9233
+note 101=9274
+note 102=9344
+note 103=9439
+note 104=9524
+note 105=9600
+note 106=9676
+note 107=9761
+note 108=9856
+note 109=9926
+note 110=9967
+note 111=10098
+note 112=10140
+note 113=10260
+note 114=10302
+note 115=10433
+note 116=10474
+note 117=10544
+note 118=10639
+note 119=10724
+note 120=10800
+note 121=10876
+note 122=10961
+note 123=11056
+note 124=11126
+note 125=11167
+note 126=11298
+note 127=11340
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "chalmers_csurd.tun"
+ID= "ID_chalmers_csurd.tun"
+Filename= "chalmers_csurd.scl"
+Description= "Combined Surd Scale, combination of Surd and Inverted Surd, JHC, 26-6-97"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1275.901870
+note 2= 1360.538170
+note 3= 1456.346650
+note 4= 1525.855090
+note 5= 1566.906340
+note 6= 1698.044999
+note 7= 1739.985360
+note 8= 1860.019950
+note 9= 1901.955001
+note 10= 2033.081480
+note 11= 2074.144910
+note 12= 2143.653350
+note 13= 2239.461830
+note 14= 2324.098130
+note 15= 2400.000000
+note 16= 2475.901870
+note 17= 2560.538170
+note 18= 2656.346650
+note 19= 2725.855090
+note 20= 2766.906340
+note 21= 2898.044999
+note 22= 2939.985360
+note 23= 3060.019950
+note 24= 3101.955001
+note 25= 3233.081480
+note 26= 3274.144910
+note 27= 3343.653350
+note 28= 3439.461830
+note 29= 3524.098130
+note 30= 3600.000000
+note 31= 3675.901870
+note 32= 3760.538170
+note 33= 3856.346650
+note 34= 3925.855090
+note 35= 3966.906340
+note 36= 4098.044999
+note 37= 4139.985360
+note 38= 4260.019950
+note 39= 4301.955001
+note 40= 4433.081480
+note 41= 4474.144910
+note 42= 4543.653350
+note 43= 4639.461830
+note 44= 4724.098130
+note 45= 4800.000000
+note 46= 4875.901870
+note 47= 4960.538170
+note 48= 5056.346650
+note 49= 5125.855090
+note 50= 5166.906340
+note 51= 5298.044999
+note 52= 5339.985360
+note 53= 5460.019950
+note 54= 5501.955001
+note 55= 5633.081480
+note 56= 5674.144910
+note 57= 5743.653350
+note 58= 5839.461830
+note 59= 5924.098130
+note 60= 6000.000000
+note 61= 6075.901870
+note 62= 6160.538170
+note 63= 6256.346650
+note 64= 6325.855090
+note 65= 6366.906340
+note 66= 6498.044999
+note 67= 6539.985360
+note 68= 6660.019950
+note 69= 6701.955001
+note 70= 6833.081480
+note 71= 6874.144910
+note 72= 6943.653350
+note 73= 7039.461830
+note 74= 7124.098130
+note 75= 7200.000000
+note 76= 7275.901870
+note 77= 7360.538170
+note 78= 7456.346650
+note 79= 7525.855090
+note 80= 7566.906340
+note 81= 7698.044999
+note 82= 7739.985360
+note 83= 7860.019950
+note 84= 7901.955001
+note 85= 8033.081480
+note 86= 8074.144910
+note 87= 8143.653350
+note 88= 8239.461830
+note 89= 8324.098130
+note 90= 8400.000000
+note 91= 8475.901870
+note 92= 8560.538170
+note 93= 8656.346650
+note 94= 8725.855090
+note 95= 8766.906340
+note 96= 8898.044999
+note 97= 8939.985360
+note 98= 9060.019950
+note 99= 9101.955001
+note 100= 9233.081480
+note 101= 9274.144910
+note 102= 9343.653350
+note 103= 9439.461830
+note 104= 9524.098130
+note 105= 9600.000000
+note 106= 9675.901870
+note 107= 9760.538170
+note 108= 9856.346650
+note 109= 9925.855090
+note 110= 9966.906340
+note 111= 10098.044999
+note 112= 10139.985360
+note 113= 10260.019950
+note 114= 10301.955001
+note 115= 10433.081480
+note 116= 10474.144910
+note 117= 10543.653350
+note 118= 10639.461830
+note 119= 10724.098130
+note 120= 10800.000000
+note 121= 10875.901870
+note 122= 10960.538170
+note 123= 11056.346650
+note 124= 11125.855090
+note 125= 11166.906340
+note 126= 11298.044999
+note 127= 11339.985360
+
+[Functional Tuning]
+note 1="#=0 % 75.901870"
+note 2="#=0 % 160.538170"
+note 3="#=0 % 256.346650"
+note 4="#=0 % 325.855090"
+note 5="#=0 % 366.906340"
+note 6="#=0 * 4/3"
+note 7="#=0 % 539.985360"
+note 8="#=0 % 660.019950"
+note 9="#=0 * 3/2"
+note 10="#=0 % 833.081480"
+note 11="#=0 % 874.144910"
+note 12="#=0 % 943.653350"
+note 13="#=0 % 1039.461830"
+note 14="#=0 % 1124.098130"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

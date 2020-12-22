@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Partial Meso-Iph fifth transposition of two Iph fractal series (2010)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=135
+note 2=171
+note 3=233
+note 4=367
+note 5=499
+note 6=600
+note 7=699
+note 8=873
+note 9=967
+note 10=1000
+note 11=1066
+note 12=1200
+note 13=1335
+note 14=1371
+note 15=1433
+note 16=1567
+note 17=1699
+note 18=1800
+note 19=1899
+note 20=2073
+note 21=2167
+note 22=2200
+note 23=2266
+note 24=2400
+note 25=2535
+note 26=2571
+note 27=2633
+note 28=2767
+note 29=2899
+note 30=3000
+note 31=3099
+note 32=3273
+note 33=3367
+note 34=3400
+note 35=3466
+note 36=3600
+note 37=3735
+note 38=3771
+note 39=3833
+note 40=3967
+note 41=4099
+note 42=4200
+note 43=4299
+note 44=4473
+note 45=4567
+note 46=4600
+note 47=4666
+note 48=4800
+note 49=4935
+note 50=4971
+note 51=5033
+note 52=5167
+note 53=5299
+note 54=5400
+note 55=5499
+note 56=5673
+note 57=5767
+note 58=5800
+note 59=5866
+note 60=6000
+note 61=6135
+note 62=6171
+note 63=6233
+note 64=6367
+note 65=6499
+note 66=6600
+note 67=6699
+note 68=6873
+note 69=6967
+note 70=7000
+note 71=7066
+note 72=7200
+note 73=7335
+note 74=7371
+note 75=7433
+note 76=7567
+note 77=7699
+note 78=7800
+note 79=7899
+note 80=8073
+note 81=8167
+note 82=8200
+note 83=8266
+note 84=8400
+note 85=8535
+note 86=8571
+note 87=8633
+note 88=8767
+note 89=8899
+note 90=9000
+note 91=9099
+note 92=9273
+note 93=9367
+note 94=9400
+note 95=9466
+note 96=9600
+note 97=9735
+note 98=9771
+note 99=9833
+note 100=9967
+note 101=10099
+note 102=10200
+note 103=10299
+note 104=10473
+note 105=10567
+note 106=10600
+note 107=10666
+note 108=10800
+note 109=10935
+note 110=10971
+note 111=11033
+note 112=11167
+note 113=11299
+note 114=11400
+note 115=11499
+note 116=11673
+note 117=11767
+note 118=11800
+note 119=11866
+note 120=12000
+note 121=12135
+note 122=12171
+note 123=12233
+note 124=12367
+note 125=12499
+note 126=12600
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_meso-iph12.tun"
+ID= "ID_dudon_meso-iph12.tun"
+Filename= "dudon_meso-iph12.scl"
+Description= "Partial Meso-Iph fifth transposition of two Iph fractal series (2010)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 134.596390
+note 2= 171.044769
+note 3= 233.039313
+note 4= 366.921188
+note 5= 498.666962
+note 6= 600.107174
+note 7= 699.257243
+note 8= 872.999770
+note 9= 966.602784
+note 10= 1000.439054
+note 11= 1066.190022
+note 12= 1200.000000
+note 13= 1334.596390
+note 14= 1371.044769
+note 15= 1433.039313
+note 16= 1566.921188
+note 17= 1698.666962
+note 18= 1800.107174
+note 19= 1899.257243
+note 20= 2072.999770
+note 21= 2166.602784
+note 22= 2200.439054
+note 23= 2266.190022
+note 24= 2400.000000
+note 25= 2534.596390
+note 26= 2571.044769
+note 27= 2633.039313
+note 28= 2766.921188
+note 29= 2898.666962
+note 30= 3000.107174
+note 31= 3099.257243
+note 32= 3272.999770
+note 33= 3366.602784
+note 34= 3400.439054
+note 35= 3466.190022
+note 36= 3600.000000
+note 37= 3734.596390
+note 38= 3771.044769
+note 39= 3833.039313
+note 40= 3966.921188
+note 41= 4098.666962
+note 42= 4200.107174
+note 43= 4299.257243
+note 44= 4472.999770
+note 45= 4566.602784
+note 46= 4600.439054
+note 47= 4666.190022
+note 48= 4800.000000
+note 49= 4934.596390
+note 50= 4971.044769
+note 51= 5033.039313
+note 52= 5166.921188
+note 53= 5298.666962
+note 54= 5400.107174
+note 55= 5499.257243
+note 56= 5672.999770
+note 57= 5766.602784
+note 58= 5800.439054
+note 59= 5866.190022
+note 60= 6000.000000
+note 61= 6134.596390
+note 62= 6171.044769
+note 63= 6233.039313
+note 64= 6366.921188
+note 65= 6498.666962
+note 66= 6600.107174
+note 67= 6699.257243
+note 68= 6872.999770
+note 69= 6966.602784
+note 70= 7000.439054
+note 71= 7066.190022
+note 72= 7200.000000
+note 73= 7334.596390
+note 74= 7371.044769
+note 75= 7433.039313
+note 76= 7566.921188
+note 77= 7698.666962
+note 78= 7800.107174
+note 79= 7899.257243
+note 80= 8072.999770
+note 81= 8166.602784
+note 82= 8200.439054
+note 83= 8266.190022
+note 84= 8400.000000
+note 85= 8534.596390
+note 86= 8571.044769
+note 87= 8633.039313
+note 88= 8766.921188
+note 89= 8898.666962
+note 90= 9000.107174
+note 91= 9099.257243
+note 92= 9272.999770
+note 93= 9366.602784
+note 94= 9400.439054
+note 95= 9466.190022
+note 96= 9600.000000
+note 97= 9734.596390
+note 98= 9771.044769
+note 99= 9833.039313
+note 100= 9966.921188
+note 101= 10098.666962
+note 102= 10200.107174
+note 103= 10299.257243
+note 104= 10472.999770
+note 105= 10566.602784
+note 106= 10600.439054
+note 107= 10666.190022
+note 108= 10800.000000
+note 109= 10934.596390
+note 110= 10971.044769
+note 111= 11033.039313
+note 112= 11166.921188
+note 113= 11298.666962
+note 114= 11400.107174
+note 115= 11499.257243
+note 116= 11672.999770
+note 117= 11766.602784
+note 118= 11800.439054
+note 119= 11866.190022
+note 120= 12000.000000
+note 121= 12134.596390
+note 122= 12171.044769
+note 123= 12233.039313
+note 124= 12366.921188
+note 125= 12498.666962
+note 126= 12600.107174
+note 127= 12699.257243
+
+[Functional Tuning]
+note 1="#=0 * 3008/2783"
+note 2="#=0 * 3072/2783"
+note 3="#=0 * 3184/2783"
+note 4="#=0 * 3440/2783"
+note 5="#=0 * 3712/2783"
+note 6="#=0 * 3936/2783"
+note 7="#=0 * 4168/2783"
+note 8="#=0 * 4608/2783"
+note 9="#=0 * 4864/2783"
+note 10="#=0 * 4960/2783"
+note 11="#=0 * 224/121"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

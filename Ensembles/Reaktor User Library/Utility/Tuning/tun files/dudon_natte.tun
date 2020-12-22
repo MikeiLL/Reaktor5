@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Natté series from 28 to 151, pentatonic sequence out of 7 consecutive tones
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=712
+note 2=227
+note 3=938
+note 4=452
+note 5=487
+note 6=1200
+note 7=712
+note 8=227
+note 9=938
+note 10=452
+note 11=1169
+note 12=1200
+note 13=1912
+note 14=1427
+note 15=2138
+note 16=1652
+note 17=1687
+note 18=2400
+note 19=1912
+note 20=1427
+note 21=2138
+note 22=1652
+note 23=2369
+note 24=2400
+note 25=3112
+note 26=2627
+note 27=3338
+note 28=2852
+note 29=2887
+note 30=3600
+note 31=3112
+note 32=2627
+note 33=3338
+note 34=2852
+note 35=3569
+note 36=3600
+note 37=4312
+note 38=3827
+note 39=4538
+note 40=4052
+note 41=4087
+note 42=4800
+note 43=4312
+note 44=3827
+note 45=4538
+note 46=4052
+note 47=4769
+note 48=4800
+note 49=5512
+note 50=5027
+note 51=5738
+note 52=5252
+note 53=5287
+note 54=6000
+note 55=5512
+note 56=5027
+note 57=5738
+note 58=5252
+note 59=5969
+note 60=6000
+note 61=6712
+note 62=6227
+note 63=6938
+note 64=6452
+note 65=6487
+note 66=7200
+note 67=6712
+note 68=6227
+note 69=6938
+note 70=6452
+note 71=7169
+note 72=7200
+note 73=7912
+note 74=7427
+note 75=8138
+note 76=7652
+note 77=7687
+note 78=8400
+note 79=7912
+note 80=7427
+note 81=8138
+note 82=7652
+note 83=8369
+note 84=8400
+note 85=9112
+note 86=8627
+note 87=9338
+note 88=8852
+note 89=8887
+note 90=9600
+note 91=9112
+note 92=8627
+note 93=9338
+note 94=8852
+note 95=9569
+note 96=9600
+note 97=10312
+note 98=9827
+note 99=10538
+note 100=10052
+note 101=10087
+note 102=10800
+note 103=10312
+note 104=9827
+note 105=10538
+note 106=10052
+note 107=10769
+note 108=10800
+note 109=11512
+note 110=11027
+note 111=11738
+note 112=11252
+note 113=11287
+note 114=12000
+note 115=11512
+note 116=11027
+note 117=11738
+note 118=11252
+note 119=11969
+note 120=12000
+note 121=12712
+note 122=12227
+note 123=12938
+note 124=12452
+note 125=12487
+note 126=13200
+note 127=12712
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_natte.tun"
+ID= "ID_dudon_natte.tun"
+Filename= "dudon_natte.scl"
+Description= "Natté series from 28 to 151, pentatonic sequence out of 7 consecutive tones"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 712.049689
+note 2= 227.373359
+note 3= 938.183796
+note 4= 451.876022
+note 5= 486.617670
+note 6= 1200.000000
+note 7= 712.049689
+note 8= 227.373359
+note 9= 938.183796
+note 10= 451.876022
+note 11= 1169.357889
+note 12= 1200.000000
+note 13= 1912.049689
+note 14= 1427.373359
+note 15= 2138.183796
+note 16= 1651.876022
+note 17= 1686.617670
+note 18= 2400.000000
+note 19= 1912.049689
+note 20= 1427.373359
+note 21= 2138.183796
+note 22= 1651.876022
+note 23= 2369.357889
+note 24= 2400.000000
+note 25= 3112.049689
+note 26= 2627.373359
+note 27= 3338.183796
+note 28= 2851.876022
+note 29= 2886.617670
+note 30= 3600.000000
+note 31= 3112.049689
+note 32= 2627.373359
+note 33= 3338.183796
+note 34= 2851.876022
+note 35= 3569.357889
+note 36= 3600.000000
+note 37= 4312.049689
+note 38= 3827.373359
+note 39= 4538.183796
+note 40= 4051.876022
+note 41= 4086.617670
+note 42= 4800.000000
+note 43= 4312.049689
+note 44= 3827.373359
+note 45= 4538.183796
+note 46= 4051.876022
+note 47= 4769.357889
+note 48= 4800.000000
+note 49= 5512.049689
+note 50= 5027.373359
+note 51= 5738.183796
+note 52= 5251.876022
+note 53= 5286.617670
+note 54= 6000.000000
+note 55= 5512.049689
+note 56= 5027.373359
+note 57= 5738.183796
+note 58= 5251.876022
+note 59= 5969.357889
+note 60= 6000.000000
+note 61= 6712.049689
+note 62= 6227.373359
+note 63= 6938.183796
+note 64= 6451.876022
+note 65= 6486.617670
+note 66= 7200.000000
+note 67= 6712.049689
+note 68= 6227.373359
+note 69= 6938.183796
+note 70= 6451.876022
+note 71= 7169.357889
+note 72= 7200.000000
+note 73= 7912.049689
+note 74= 7427.373359
+note 75= 8138.183796
+note 76= 7651.876022
+note 77= 7686.617670
+note 78= 8400.000000
+note 79= 7912.049689
+note 80= 7427.373359
+note 81= 8138.183796
+note 82= 7651.876022
+note 83= 8369.357889
+note 84= 8400.000000
+note 85= 9112.049689
+note 86= 8627.373359
+note 87= 9338.183796
+note 88= 8851.876022
+note 89= 8886.617670
+note 90= 9600.000000
+note 91= 9112.049689
+note 92= 8627.373359
+note 93= 9338.183796
+note 94= 8851.876022
+note 95= 9569.357889
+note 96= 9600.000000
+note 97= 10312.049689
+note 98= 9827.373359
+note 99= 10538.183796
+note 100= 10051.876022
+note 101= 10086.617670
+note 102= 10800.000000
+note 103= 10312.049689
+note 104= 9827.373359
+note 105= 10538.183796
+note 106= 10051.876022
+note 107= 10769.357889
+note 108= 10800.000000
+note 109= 11512.049689
+note 110= 11027.373359
+note 111= 11738.183796
+note 112= 11251.876022
+note 113= 11286.617670
+note 114= 12000.000000
+note 115= 11512.049689
+note 116= 11027.373359
+note 117= 11738.183796
+note 118= 11251.876022
+note 119= 11969.357889
+note 120= 12000.000000
+note 121= 12712.049689
+note 122= 12227.373359
+note 123= 12938.183796
+note 124= 12451.876022
+note 125= 12486.617670
+note 126= 13200.000000
+note 127= 12712.049689
+
+[Functional Tuning]
+note 1="#=0 * 86/57"
+note 2="#=0 * 65/57"
+note 3="#=0 * 98/57"
+note 4="#=0 * 74/57"
+note 5="#=0 * 151/114"
+note 6="#=0 * 2/1"
+note 7="#=0 * 86/57"
+note 8="#=0 * 65/57"
+note 9="#=0 * 98/57"
+note 10="#=0 * 74/57"
+note 11="#=0 * 112/57"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

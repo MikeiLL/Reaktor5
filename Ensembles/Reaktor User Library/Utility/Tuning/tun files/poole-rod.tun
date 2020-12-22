@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rod Poole's 13-limit scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1751
+note 1=1837
+note 2=1902
+note 3=1965
+note 4=2045
+note 5=2106
+note 6=2169
+note 7=2249
+note 8=2319
+note 9=2400
+note 10=2453
+note 11=2539
+note 12=2604
+note 13=2667
+note 14=2747
+note 15=2818
+note 16=2898
+note 17=2951
+note 18=3037
+note 19=3102
+note 20=3165
+note 21=3245
+note 22=3306
+note 23=3369
+note 24=3449
+note 25=3519
+note 26=3600
+note 27=3653
+note 28=3739
+note 29=3804
+note 30=3867
+note 31=3947
+note 32=4018
+note 33=4098
+note 34=4151
+note 35=4237
+note 36=4302
+note 37=4365
+note 38=4445
+note 39=4506
+note 40=4569
+note 41=4649
+note 42=4719
+note 43=4800
+note 44=4853
+note 45=4939
+note 46=5004
+note 47=5067
+note 48=5147
+note 49=5218
+note 50=5298
+note 51=5351
+note 52=5437
+note 53=5502
+note 54=5565
+note 55=5645
+note 56=5706
+note 57=5769
+note 58=5849
+note 59=5919
+note 60=6000
+note 61=6053
+note 62=6139
+note 63=6204
+note 64=6267
+note 65=6347
+note 66=6418
+note 67=6498
+note 68=6551
+note 69=6637
+note 70=6702
+note 71=6765
+note 72=6845
+note 73=6906
+note 74=6969
+note 75=7049
+note 76=7119
+note 77=7200
+note 78=7253
+note 79=7339
+note 80=7404
+note 81=7467
+note 82=7547
+note 83=7618
+note 84=7698
+note 85=7751
+note 86=7837
+note 87=7902
+note 88=7965
+note 89=8045
+note 90=8106
+note 91=8169
+note 92=8249
+note 93=8319
+note 94=8400
+note 95=8453
+note 96=8539
+note 97=8604
+note 98=8667
+note 99=8747
+note 100=8818
+note 101=8898
+note 102=8951
+note 103=9037
+note 104=9102
+note 105=9165
+note 106=9245
+note 107=9306
+note 108=9369
+note 109=9449
+note 110=9519
+note 111=9600
+note 112=9653
+note 113=9739
+note 114=9804
+note 115=9867
+note 116=9947
+note 117=10018
+note 118=10098
+note 119=10151
+note 120=10237
+note 121=10302
+note 122=10365
+note 123=10445
+note 124=10506
+note 125=10569
+note 126=10649
+note 127=10719
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "poole-rod.tun"
+ID= "ID_poole-rod.tun"
+Filename= "poole-rod.scl"
+Description= "Rod Poole's 13-limit scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1751.317942
+note 1= 1836.617660
+note 2= 1901.955001
+note 3= 1964.915905
+note 4= 2045.452940
+note 5= 2105.865003
+note 6= 2168.825906
+note 7= 2249.362941
+note 8= 2319.462965
+note 9= 2400.000000
+note 10= 2453.272943
+note 11= 2538.572661
+note 12= 2603.910002
+note 13= 2666.870906
+note 14= 2747.407941
+note 15= 2817.507964
+note 16= 2898.044999
+note 17= 2951.317942
+note 18= 3036.617660
+note 19= 3101.955001
+note 20= 3164.915905
+note 21= 3245.452940
+note 22= 3305.865003
+note 23= 3368.825906
+note 24= 3449.362941
+note 25= 3519.462965
+note 26= 3600.000000
+note 27= 3653.272943
+note 28= 3738.572661
+note 29= 3803.910002
+note 30= 3866.870906
+note 31= 3947.407941
+note 32= 4017.507964
+note 33= 4098.044999
+note 34= 4151.317942
+note 35= 4236.617660
+note 36= 4301.955001
+note 37= 4364.915905
+note 38= 4445.452940
+note 39= 4505.865003
+note 40= 4568.825906
+note 41= 4649.362941
+note 42= 4719.462965
+note 43= 4800.000000
+note 44= 4853.272943
+note 45= 4938.572661
+note 46= 5003.910002
+note 47= 5066.870906
+note 48= 5147.407941
+note 49= 5217.507964
+note 50= 5298.044999
+note 51= 5351.317942
+note 52= 5436.617660
+note 53= 5501.955001
+note 54= 5564.915905
+note 55= 5645.452940
+note 56= 5705.865003
+note 57= 5768.825906
+note 58= 5849.362941
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6138.572661
+note 63= 6203.910002
+note 64= 6266.870906
+note 65= 6347.407941
+note 66= 6417.507964
+note 67= 6498.044999
+note 68= 6551.317942
+note 69= 6636.617660
+note 70= 6701.955001
+note 71= 6764.915905
+note 72= 6845.452940
+note 73= 6905.865003
+note 74= 6968.825906
+note 75= 7049.362941
+note 76= 7119.462965
+note 77= 7200.000000
+note 78= 7253.272943
+note 79= 7338.572661
+note 80= 7403.910002
+note 81= 7466.870906
+note 82= 7547.407941
+note 83= 7617.507964
+note 84= 7698.044999
+note 85= 7751.317942
+note 86= 7836.617660
+note 87= 7901.955001
+note 88= 7964.915905
+note 89= 8045.452940
+note 90= 8105.865003
+note 91= 8168.825906
+note 92= 8249.362941
+note 93= 8319.462965
+note 94= 8400.000000
+note 95= 8453.272943
+note 96= 8538.572661
+note 97= 8603.910002
+note 98= 8666.870906
+note 99= 8747.407941
+note 100= 8817.507964
+note 101= 8898.044999
+note 102= 8951.317942
+note 103= 9036.617660
+note 104= 9101.955001
+note 105= 9164.915905
+note 106= 9245.452940
+note 107= 9305.865003
+note 108= 9368.825906
+note 109= 9449.362941
+note 110= 9519.462965
+note 111= 9600.000000
+note 112= 9653.272943
+note 113= 9738.572661
+note 114= 9803.910002
+note 115= 9866.870906
+note 116= 9947.407941
+note 117= 10017.507964
+note 118= 10098.044999
+note 119= 10151.317942
+note 120= 10236.617660
+note 121= 10301.955001
+note 122= 10364.915905
+note 123= 10445.452940
+note 124= 10505.865003
+note 125= 10568.825906
+note 126= 10649.362941
+note 127= 10719.462965
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 13/12"
+note 3="#=0 * 9/8"
+note 4="#=0 * 7/6"
+note 5="#=0 * 11/9"
+note 6="#=0 * 14/11"
+note 7="#=0 * 4/3"
+note 8="#=0 * 11/8"
+note 9="#=0 * 13/9"
+note 10="#=0 * 3/2"
+note 11="#=0 * 14/9"
+note 12="#=0 * 44/27"
+note 13="#=0 * 27/16"
+note 14="#=0 * 7/4"
+note 15="#=0 * 11/6"
+note 16="#=0 * 21/11"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

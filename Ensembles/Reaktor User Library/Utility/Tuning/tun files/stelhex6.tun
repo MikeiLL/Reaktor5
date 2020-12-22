@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Stellated two out of 1 3 5 11 hexany, from The Giving, by Stephen J. Taylor
+;
+; VAZ Plus section
+[Tuning]
+note 0=867
+note 1=938
+note 2=1088
+note 3=1103
+note 4=1200
+note 5=1253
+note 6=1404
+note 7=1436
+note 8=1586
+note 9=1640
+note 10=1737
+note 11=1751
+note 12=1902
+note 13=1973
+note 14=2067
+note 15=2138
+note 16=2288
+note 17=2303
+note 18=2400
+note 19=2453
+note 20=2604
+note 21=2636
+note 22=2786
+note 23=2840
+note 24=2937
+note 25=2951
+note 26=3102
+note 27=3173
+note 28=3267
+note 29=3338
+note 30=3488
+note 31=3503
+note 32=3600
+note 33=3653
+note 34=3804
+note 35=3836
+note 36=3986
+note 37=4040
+note 38=4137
+note 39=4151
+note 40=4302
+note 41=4373
+note 42=4467
+note 43=4538
+note 44=4688
+note 45=4703
+note 46=4800
+note 47=4853
+note 48=5004
+note 49=5036
+note 50=5186
+note 51=5240
+note 52=5337
+note 53=5351
+note 54=5502
+note 55=5573
+note 56=5667
+note 57=5738
+note 58=5888
+note 59=5903
+note 60=6000
+note 61=6053
+note 62=6204
+note 63=6236
+note 64=6386
+note 65=6440
+note 66=6537
+note 67=6551
+note 68=6702
+note 69=6773
+note 70=6867
+note 71=6938
+note 72=7088
+note 73=7103
+note 74=7200
+note 75=7253
+note 76=7404
+note 77=7436
+note 78=7586
+note 79=7640
+note 80=7737
+note 81=7751
+note 82=7902
+note 83=7973
+note 84=8067
+note 85=8138
+note 86=8288
+note 87=8303
+note 88=8400
+note 89=8453
+note 90=8604
+note 91=8636
+note 92=8786
+note 93=8840
+note 94=8937
+note 95=8951
+note 96=9102
+note 97=9173
+note 98=9267
+note 99=9338
+note 100=9488
+note 101=9503
+note 102=9600
+note 103=9653
+note 104=9804
+note 105=9836
+note 106=9986
+note 107=10040
+note 108=10137
+note 109=10151
+note 110=10302
+note 111=10373
+note 112=10467
+note 113=10538
+note 114=10688
+note 115=10703
+note 116=10800
+note 117=10853
+note 118=11004
+note 119=11036
+note 120=11186
+note 121=11240
+note 122=11337
+note 123=11351
+note 124=11502
+note 125=11573
+note 126=11667
+note 127=11738
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stelhex6.tun"
+ID= "ID_stelhex6.tun"
+Filename= "stelhex6.scl"
+Description= "Stellated two out of 1 3 5 11 hexany, from The Giving, by Stephen J. Taylor"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 866.959229
+note 1= 937.631656
+note 2= 1088.268715
+note 3= 1102.635885
+note 4= 1200.000000
+note 5= 1253.272943
+note 6= 1403.910002
+note 7= 1435.676655
+note 8= 1586.313714
+note 9= 1639.586657
+note 10= 1736.950772
+note 11= 1751.317942
+note 12= 1901.955001
+note 13= 1972.627428
+note 14= 2066.959229
+note 15= 2137.631656
+note 16= 2288.268715
+note 17= 2302.635885
+note 18= 2400.000000
+note 19= 2453.272943
+note 20= 2603.910002
+note 21= 2635.676655
+note 22= 2786.313714
+note 23= 2839.586657
+note 24= 2936.950772
+note 25= 2951.317942
+note 26= 3101.955001
+note 27= 3172.627428
+note 28= 3266.959229
+note 29= 3337.631656
+note 30= 3488.268715
+note 31= 3502.635885
+note 32= 3600.000000
+note 33= 3653.272943
+note 34= 3803.910002
+note 35= 3835.676655
+note 36= 3986.313714
+note 37= 4039.586657
+note 38= 4136.950772
+note 39= 4151.317942
+note 40= 4301.955001
+note 41= 4372.627428
+note 42= 4466.959229
+note 43= 4537.631656
+note 44= 4688.268715
+note 45= 4702.635885
+note 46= 4800.000000
+note 47= 4853.272943
+note 48= 5003.910002
+note 49= 5035.676655
+note 50= 5186.313714
+note 51= 5239.586657
+note 52= 5336.950772
+note 53= 5351.317942
+note 54= 5501.955001
+note 55= 5572.627428
+note 56= 5666.959229
+note 57= 5737.631656
+note 58= 5888.268715
+note 59= 5902.635885
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6203.910002
+note 63= 6235.676655
+note 64= 6386.313714
+note 65= 6439.586657
+note 66= 6536.950772
+note 67= 6551.317942
+note 68= 6701.955001
+note 69= 6772.627428
+note 70= 6866.959229
+note 71= 6937.631656
+note 72= 7088.268715
+note 73= 7102.635885
+note 74= 7200.000000
+note 75= 7253.272943
+note 76= 7403.910002
+note 77= 7435.676655
+note 78= 7586.313714
+note 79= 7639.586657
+note 80= 7736.950772
+note 81= 7751.317942
+note 82= 7901.955001
+note 83= 7972.627428
+note 84= 8066.959229
+note 85= 8137.631656
+note 86= 8288.268715
+note 87= 8302.635885
+note 88= 8400.000000
+note 89= 8453.272943
+note 90= 8603.910002
+note 91= 8635.676655
+note 92= 8786.313714
+note 93= 8839.586657
+note 94= 8936.950772
+note 95= 8951.317942
+note 96= 9101.955001
+note 97= 9172.627428
+note 98= 9266.959229
+note 99= 9337.631656
+note 100= 9488.268715
+note 101= 9502.635885
+note 102= 9600.000000
+note 103= 9653.272943
+note 104= 9803.910002
+note 105= 9835.676655
+note 106= 9986.313714
+note 107= 10039.586657
+note 108= 10136.950772
+note 109= 10151.317942
+note 110= 10301.955001
+note 111= 10372.627428
+note 112= 10466.959229
+note 113= 10537.631656
+note 114= 10688.268715
+note 115= 10702.635885
+note 116= 10800.000000
+note 117= 10853.272943
+note 118= 11003.910002
+note 119= 11035.676655
+note 120= 11186.313714
+note 121= 11239.586657
+note 122= 11336.950772
+note 123= 11351.317942
+note 124= 11501.955001
+note 125= 11572.627428
+note 126= 11666.959229
+note 127= 11737.631656
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 9/8"
+note 3="#=0 * 55/48"
+note 4="#=0 * 5/4"
+note 5="#=0 * 165/128"
+note 6="#=0 * 15/11"
+note 7="#=0 * 11/8"
+note 8="#=0 * 3/2"
+note 9="#=0 * 25/16"
+note 10="#=0 * 33/20"
+note 11="#=0 * 55/32"
+note 12="#=0 * 15/8"
+note 13="#=0 * 121/64"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

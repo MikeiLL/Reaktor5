@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Pi-based meantone with Harrison's major third by Erv Wilson
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=89
+note 2=205
+note 3=293
+note 4=382
+note 5=498
+note 6=586
+note 7=702
+note 8=791
+note 9=880
+note 10=995
+note 11=1084
+note 12=1200
+note 13=1289
+note 14=1405
+note 15=1493
+note 16=1582
+note 17=1698
+note 18=1786
+note 19=1902
+note 20=1991
+note 21=2080
+note 22=2195
+note 23=2284
+note 24=2400
+note 25=2489
+note 26=2605
+note 27=2693
+note 28=2782
+note 29=2898
+note 30=2986
+note 31=3102
+note 32=3191
+note 33=3280
+note 34=3395
+note 35=3484
+note 36=3600
+note 37=3689
+note 38=3805
+note 39=3893
+note 40=3982
+note 41=4098
+note 42=4186
+note 43=4302
+note 44=4391
+note 45=4480
+note 46=4595
+note 47=4684
+note 48=4800
+note 49=4889
+note 50=5005
+note 51=5093
+note 52=5182
+note 53=5298
+note 54=5386
+note 55=5502
+note 56=5591
+note 57=5680
+note 58=5795
+note 59=5884
+note 60=6000
+note 61=6089
+note 62=6205
+note 63=6293
+note 64=6382
+note 65=6498
+note 66=6586
+note 67=6702
+note 68=6791
+note 69=6880
+note 70=6995
+note 71=7084
+note 72=7200
+note 73=7289
+note 74=7405
+note 75=7493
+note 76=7582
+note 77=7698
+note 78=7786
+note 79=7902
+note 80=7991
+note 81=8080
+note 82=8195
+note 83=8284
+note 84=8400
+note 85=8489
+note 86=8605
+note 87=8693
+note 88=8782
+note 89=8898
+note 90=8986
+note 91=9102
+note 92=9191
+note 93=9280
+note 94=9395
+note 95=9484
+note 96=9600
+note 97=9689
+note 98=9805
+note 99=9893
+note 100=9982
+note 101=10098
+note 102=10186
+note 103=10302
+note 104=10391
+note 105=10480
+note 106=10595
+note 107=10684
+note 108=10800
+note 109=10889
+note 110=11005
+note 111=11093
+note 112=11182
+note 113=11298
+note 114=11386
+note 115=11502
+note 116=11591
+note 117=11680
+note 118=11795
+note 119=11884
+note 120=12000
+note 121=12089
+note 122=12205
+note 123=12293
+note 124=12382
+note 125=12498
+note 126=12586
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "meanpi.tun"
+ID= "ID_meanpi.tun"
+Filename= "meanpi.scl"
+Description= "Pi-based meantone with Harrison's major third by Erv Wilson"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 88.733000
+note 2= 204.507000
+note 3= 293.240000
+note 4= 381.972000
+note 5= 497.747000
+note 6= 586.479000
+note 7= 702.254000
+note 8= 790.986000
+note 9= 879.718000
+note 10= 995.493000
+note 11= 1084.225000
+note 12= 1200.000000
+note 13= 1288.733000
+note 14= 1404.507000
+note 15= 1493.240000
+note 16= 1581.972000
+note 17= 1697.747000
+note 18= 1786.479000
+note 19= 1902.254000
+note 20= 1990.986000
+note 21= 2079.718000
+note 22= 2195.493000
+note 23= 2284.225000
+note 24= 2400.000000
+note 25= 2488.733000
+note 26= 2604.507000
+note 27= 2693.240000
+note 28= 2781.972000
+note 29= 2897.747000
+note 30= 2986.479000
+note 31= 3102.254000
+note 32= 3190.986000
+note 33= 3279.718000
+note 34= 3395.493000
+note 35= 3484.225000
+note 36= 3600.000000
+note 37= 3688.733000
+note 38= 3804.507000
+note 39= 3893.240000
+note 40= 3981.972000
+note 41= 4097.747000
+note 42= 4186.479000
+note 43= 4302.254000
+note 44= 4390.986000
+note 45= 4479.718000
+note 46= 4595.493000
+note 47= 4684.225000
+note 48= 4800.000000
+note 49= 4888.733000
+note 50= 5004.507000
+note 51= 5093.240000
+note 52= 5181.972000
+note 53= 5297.747000
+note 54= 5386.479000
+note 55= 5502.254000
+note 56= 5590.986000
+note 57= 5679.718000
+note 58= 5795.493000
+note 59= 5884.225000
+note 60= 6000.000000
+note 61= 6088.733000
+note 62= 6204.507000
+note 63= 6293.240000
+note 64= 6381.972000
+note 65= 6497.747000
+note 66= 6586.479000
+note 67= 6702.254000
+note 68= 6790.986000
+note 69= 6879.718000
+note 70= 6995.493000
+note 71= 7084.225000
+note 72= 7200.000000
+note 73= 7288.733000
+note 74= 7404.507000
+note 75= 7493.240000
+note 76= 7581.972000
+note 77= 7697.747000
+note 78= 7786.479000
+note 79= 7902.254000
+note 80= 7990.986000
+note 81= 8079.718000
+note 82= 8195.493000
+note 83= 8284.225000
+note 84= 8400.000000
+note 85= 8488.733000
+note 86= 8604.507000
+note 87= 8693.240000
+note 88= 8781.972000
+note 89= 8897.747000
+note 90= 8986.479000
+note 91= 9102.254000
+note 92= 9190.986000
+note 93= 9279.718000
+note 94= 9395.493000
+note 95= 9484.225000
+note 96= 9600.000000
+note 97= 9688.733000
+note 98= 9804.507000
+note 99= 9893.240000
+note 100= 9981.972000
+note 101= 10097.747000
+note 102= 10186.479000
+note 103= 10302.254000
+note 104= 10390.986000
+note 105= 10479.718000
+note 106= 10595.493000
+note 107= 10684.225000
+note 108= 10800.000000
+note 109= 10888.733000
+note 110= 11004.507000
+note 111= 11093.240000
+note 112= 11181.972000
+note 113= 11297.747000
+note 114= 11386.479000
+note 115= 11502.254000
+note 116= 11590.986000
+note 117= 11679.718000
+note 118= 11795.493000
+note 119= 11884.225000
+note 120= 12000.000000
+note 121= 12088.733000
+note 122= 12204.507000
+note 123= 12293.240000
+note 124= 12381.972000
+note 125= 12497.747000
+note 126= 12586.479000
+note 127= 12702.254000
+
+[Functional Tuning]
+note 1="#=0 % 88.733000"
+note 2="#=0 % 204.507000"
+note 3="#=0 % 293.240000"
+note 4="#=0 % 381.972000"
+note 5="#=0 % 497.747000"
+note 6="#=0 % 586.479000"
+note 7="#=0 % 702.254000"
+note 8="#=0 % 790.986000"
+note 9="#=0 % 879.718000"
+note 10="#=0 % 995.493000"
+note 11="#=0 % 1084.225000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

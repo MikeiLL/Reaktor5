@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Aaron Johnson, "1/4-comma tempered" equal beating C-G-D-A-E plus just thirds
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=75
+note 2=193
+note 3=309
+note 4=386
+note 5=502
+note 6=579
+note 7=695
+note 8=773
+note 9=888
+note 10=1006
+note 11=1081
+note 12=1200
+note 13=1275
+note 14=1393
+note 15=1509
+note 16=1586
+note 17=1702
+note 18=1779
+note 19=1895
+note 20=1973
+note 21=2088
+note 22=2206
+note 23=2281
+note 24=2400
+note 25=2475
+note 26=2593
+note 27=2709
+note 28=2786
+note 29=2902
+note 30=2979
+note 31=3095
+note 32=3173
+note 33=3288
+note 34=3406
+note 35=3481
+note 36=3600
+note 37=3675
+note 38=3793
+note 39=3909
+note 40=3986
+note 41=4102
+note 42=4179
+note 43=4295
+note 44=4373
+note 45=4488
+note 46=4606
+note 47=4681
+note 48=4800
+note 49=4875
+note 50=4993
+note 51=5109
+note 52=5186
+note 53=5302
+note 54=5379
+note 55=5495
+note 56=5573
+note 57=5688
+note 58=5806
+note 59=5881
+note 60=6000
+note 61=6075
+note 62=6193
+note 63=6309
+note 64=6386
+note 65=6502
+note 66=6579
+note 67=6695
+note 68=6773
+note 69=6888
+note 70=7006
+note 71=7081
+note 72=7200
+note 73=7275
+note 74=7393
+note 75=7509
+note 76=7586
+note 77=7702
+note 78=7779
+note 79=7895
+note 80=7973
+note 81=8088
+note 82=8206
+note 83=8281
+note 84=8400
+note 85=8475
+note 86=8593
+note 87=8709
+note 88=8786
+note 89=8902
+note 90=8979
+note 91=9095
+note 92=9173
+note 93=9288
+note 94=9406
+note 95=9481
+note 96=9600
+note 97=9675
+note 98=9793
+note 99=9909
+note 100=9986
+note 101=10102
+note 102=10179
+note 103=10295
+note 104=10373
+note 105=10488
+note 106=10606
+note 107=10681
+note 108=10800
+note 109=10875
+note 110=10993
+note 111=11109
+note 112=11186
+note 113=11302
+note 114=11379
+note 115=11495
+note 116=11573
+note 117=11688
+note 118=11806
+note 119=11881
+note 120=12000
+note 121=12075
+note 122=12193
+note 123=12309
+note 124=12386
+note 125=12502
+note 126=12579
+note 127=12695
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "johnson_eb.tun"
+ID= "ID_johnson_eb.tun"
+Filename= "johnson_eb.scl"
+Description= "Aaron Johnson, "1/4-comma tempered" equal beating C-G-D-A-E plus just thirds"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 74.741134
+note 2= 192.557607
+note 3= 308.838787
+note 4= 386.313714
+note 5= 502.113706
+note 6= 578.871320
+note 7= 695.152501
+note 8= 772.627428
+note 9= 888.427420
+note 10= 1006.243893
+note 11= 1081.466215
+note 12= 1200.000000
+note 13= 1274.741134
+note 14= 1392.557607
+note 15= 1508.838787
+note 16= 1586.313714
+note 17= 1702.113706
+note 18= 1778.871320
+note 19= 1895.152501
+note 20= 1972.627428
+note 21= 2088.427420
+note 22= 2206.243893
+note 23= 2281.466215
+note 24= 2400.000000
+note 25= 2474.741134
+note 26= 2592.557607
+note 27= 2708.838787
+note 28= 2786.313714
+note 29= 2902.113706
+note 30= 2978.871320
+note 31= 3095.152501
+note 32= 3172.627428
+note 33= 3288.427420
+note 34= 3406.243893
+note 35= 3481.466215
+note 36= 3600.000000
+note 37= 3674.741134
+note 38= 3792.557607
+note 39= 3908.838787
+note 40= 3986.313714
+note 41= 4102.113706
+note 42= 4178.871320
+note 43= 4295.152501
+note 44= 4372.627428
+note 45= 4488.427420
+note 46= 4606.243893
+note 47= 4681.466215
+note 48= 4800.000000
+note 49= 4874.741134
+note 50= 4992.557607
+note 51= 5108.838787
+note 52= 5186.313714
+note 53= 5302.113706
+note 54= 5378.871320
+note 55= 5495.152501
+note 56= 5572.627428
+note 57= 5688.427420
+note 58= 5806.243893
+note 59= 5881.466215
+note 60= 6000.000000
+note 61= 6074.741134
+note 62= 6192.557607
+note 63= 6308.838787
+note 64= 6386.313714
+note 65= 6502.113706
+note 66= 6578.871320
+note 67= 6695.152501
+note 68= 6772.627428
+note 69= 6888.427420
+note 70= 7006.243893
+note 71= 7081.466215
+note 72= 7200.000000
+note 73= 7274.741134
+note 74= 7392.557607
+note 75= 7508.838787
+note 76= 7586.313714
+note 77= 7702.113706
+note 78= 7778.871320
+note 79= 7895.152501
+note 80= 7972.627428
+note 81= 8088.427420
+note 82= 8206.243893
+note 83= 8281.466215
+note 84= 8400.000000
+note 85= 8474.741134
+note 86= 8592.557607
+note 87= 8708.838787
+note 88= 8786.313714
+note 89= 8902.113706
+note 90= 8978.871320
+note 91= 9095.152501
+note 92= 9172.627428
+note 93= 9288.427420
+note 94= 9406.243893
+note 95= 9481.466215
+note 96= 9600.000000
+note 97= 9674.741134
+note 98= 9792.557607
+note 99= 9908.838787
+note 100= 9986.313714
+note 101= 10102.113706
+note 102= 10178.871320
+note 103= 10295.152501
+note 104= 10372.627428
+note 105= 10488.427420
+note 106= 10606.243893
+note 107= 10681.466215
+note 108= 10800.000000
+note 109= 10874.741134
+note 110= 10992.557607
+note 111= 11108.838787
+note 112= 11186.313714
+note 113= 11302.113706
+note 114= 11378.871320
+note 115= 11495.152501
+note 116= 11572.627428
+note 117= 11688.427420
+note 118= 11806.243893
+note 119= 11881.466215
+note 120= 12000.000000
+note 121= 12074.741134
+note 122= 12192.557607
+note 123= 12308.838787
+note 124= 12386.313714
+note 125= 12502.113706
+note 126= 12578.871320
+note 127= 12695.152501
+
+[Functional Tuning]
+note 1="#=0 * 71/68"
+note 2="#=0 * 19/17"
+note 3="#=0 * 508/425"
+note 4="#=0 * 5/4"
+note 5="#=0 * 568/425"
+note 6="#=0 * 95/68"
+note 7="#=0 * 127/85"
+note 8="#=0 * 25/16"
+note 9="#=0 * 142/85"
+note 10="#=0 * 152/85"
+note 11="#=0 * 127/68"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

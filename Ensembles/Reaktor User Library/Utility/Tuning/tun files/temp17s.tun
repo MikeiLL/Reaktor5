@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Margo Schulter, cycle of 17 fifths tempered by 2 schismas, TL 10-9-98
+;
+; VAZ Plus section
+[Tuning]
+note 0=1764
+note 1=1835
+note 2=1906
+note 3=1976
+note 4=2047
+note 5=2118
+note 6=2188
+note 7=2259
+note 8=2329
+note 9=2400
+note 10=2470
+note 11=2541
+note 12=2612
+note 13=2682
+note 14=2753
+note 15=2823
+note 16=2894
+note 17=2964
+note 18=3035
+note 19=3106
+note 20=3176
+note 21=3247
+note 22=3318
+note 23=3388
+note 24=3459
+note 25=3529
+note 26=3600
+note 27=3670
+note 28=3741
+note 29=3812
+note 30=3882
+note 31=3953
+note 32=4023
+note 33=4094
+note 34=4164
+note 35=4235
+note 36=4306
+note 37=4376
+note 38=4447
+note 39=4518
+note 40=4588
+note 41=4659
+note 42=4729
+note 43=4800
+note 44=4870
+note 45=4941
+note 46=5012
+note 47=5082
+note 48=5153
+note 49=5223
+note 50=5294
+note 51=5364
+note 52=5435
+note 53=5506
+note 54=5576
+note 55=5647
+note 56=5718
+note 57=5788
+note 58=5859
+note 59=5929
+note 60=6000
+note 61=6070
+note 62=6141
+note 63=6212
+note 64=6282
+note 65=6353
+note 66=6423
+note 67=6494
+note 68=6564
+note 69=6635
+note 70=6706
+note 71=6776
+note 72=6847
+note 73=6918
+note 74=6988
+note 75=7059
+note 76=7129
+note 77=7200
+note 78=7270
+note 79=7341
+note 80=7412
+note 81=7482
+note 82=7553
+note 83=7623
+note 84=7694
+note 85=7764
+note 86=7835
+note 87=7906
+note 88=7976
+note 89=8047
+note 90=8118
+note 91=8188
+note 92=8259
+note 93=8329
+note 94=8400
+note 95=8470
+note 96=8541
+note 97=8612
+note 98=8682
+note 99=8753
+note 100=8823
+note 101=8894
+note 102=8964
+note 103=9035
+note 104=9106
+note 105=9176
+note 106=9247
+note 107=9318
+note 108=9388
+note 109=9459
+note 110=9529
+note 111=9600
+note 112=9670
+note 113=9741
+note 114=9812
+note 115=9882
+note 116=9953
+note 117=10023
+note 118=10094
+note 119=10164
+note 120=10235
+note 121=10306
+note 122=10376
+note 123=10447
+note 124=10518
+note 125=10588
+note 126=10659
+note 127=10729
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "temp17s.tun"
+ID= "ID_temp17s.tun"
+Filename= "temp17s.scl"
+Description= "Margo Schulter, cycle of 17 fifths tempered by 2 schismas, TL 10-9-98"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1764.486870
+note 1= 1835.174650
+note 2= 1905.862440
+note 3= 1976.211750
+note 4= 2046.899540
+note 5= 2117.587330
+note 6= 2188.275120
+note 7= 2258.624420
+note 8= 2329.312210
+note 9= 2400.000000
+note 10= 2470.349310
+note 11= 2541.037100
+note 12= 2611.724880
+note 13= 2682.412670
+note 14= 2752.761980
+note 15= 2823.449770
+note 16= 2894.137560
+note 17= 2964.486870
+note 18= 3035.174650
+note 19= 3105.862440
+note 20= 3176.211750
+note 21= 3246.899540
+note 22= 3317.587330
+note 23= 3388.275120
+note 24= 3458.624420
+note 25= 3529.312210
+note 26= 3600.000000
+note 27= 3670.349310
+note 28= 3741.037100
+note 29= 3811.724880
+note 30= 3882.412670
+note 31= 3952.761980
+note 32= 4023.449770
+note 33= 4094.137560
+note 34= 4164.486870
+note 35= 4235.174650
+note 36= 4305.862440
+note 37= 4376.211750
+note 38= 4446.899540
+note 39= 4517.587330
+note 40= 4588.275120
+note 41= 4658.624420
+note 42= 4729.312210
+note 43= 4800.000000
+note 44= 4870.349310
+note 45= 4941.037100
+note 46= 5011.724880
+note 47= 5082.412670
+note 48= 5152.761980
+note 49= 5223.449770
+note 50= 5294.137560
+note 51= 5364.486870
+note 52= 5435.174650
+note 53= 5505.862440
+note 54= 5576.211750
+note 55= 5646.899540
+note 56= 5717.587330
+note 57= 5788.275120
+note 58= 5858.624420
+note 59= 5929.312210
+note 60= 6000.000000
+note 61= 6070.349310
+note 62= 6141.037100
+note 63= 6211.724880
+note 64= 6282.412670
+note 65= 6352.761980
+note 66= 6423.449770
+note 67= 6494.137560
+note 68= 6564.486870
+note 69= 6635.174650
+note 70= 6705.862440
+note 71= 6776.211750
+note 72= 6846.899540
+note 73= 6917.587330
+note 74= 6988.275120
+note 75= 7058.624420
+note 76= 7129.312210
+note 77= 7200.000000
+note 78= 7270.349310
+note 79= 7341.037100
+note 80= 7411.724880
+note 81= 7482.412670
+note 82= 7552.761980
+note 83= 7623.449770
+note 84= 7694.137560
+note 85= 7764.486870
+note 86= 7835.174650
+note 87= 7905.862440
+note 88= 7976.211750
+note 89= 8046.899540
+note 90= 8117.587330
+note 91= 8188.275120
+note 92= 8258.624420
+note 93= 8329.312210
+note 94= 8400.000000
+note 95= 8470.349310
+note 96= 8541.037100
+note 97= 8611.724880
+note 98= 8682.412670
+note 99= 8752.761980
+note 100= 8823.449770
+note 101= 8894.137560
+note 102= 8964.486870
+note 103= 9035.174650
+note 104= 9105.862440
+note 105= 9176.211750
+note 106= 9246.899540
+note 107= 9317.587330
+note 108= 9388.275120
+note 109= 9458.624420
+note 110= 9529.312210
+note 111= 9600.000000
+note 112= 9670.349310
+note 113= 9741.037100
+note 114= 9811.724880
+note 115= 9882.412670
+note 116= 9952.761980
+note 117= 10023.449770
+note 118= 10094.137560
+note 119= 10164.486870
+note 120= 10235.174650
+note 121= 10305.862440
+note 122= 10376.211750
+note 123= 10446.899540
+note 124= 10517.587330
+note 125= 10588.275120
+note 126= 10658.624420
+note 127= 10729.312210
+
+[Functional Tuning]
+note 1="#=0 % 70.349310"
+note 2="#=0 % 141.037100"
+note 3="#=0 % 211.724880"
+note 4="#=0 % 282.412670"
+note 5="#=0 % 352.761980"
+note 6="#=0 % 423.449770"
+note 7="#=0 % 494.137560"
+note 8="#=0 % 564.486870"
+note 9="#=0 % 635.174650"
+note 10="#=0 % 705.862440"
+note 11="#=0 % 776.211750"
+note 12="#=0 % 846.899540"
+note 13="#=0 % 917.587330"
+note 14="#=0 % 988.275120"
+note 15="#=0 % 1058.624420"
+note 16="#=0 % 1129.312210"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

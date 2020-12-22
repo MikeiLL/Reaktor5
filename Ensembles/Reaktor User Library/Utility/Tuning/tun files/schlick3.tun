@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Possible well-tempered interpretation of 1511 tuning, Margo Schulter
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=88
+note 2=196
+note 3=304
+note 4=392
+note 5=502
+note 6=589
+note 7=698
+note 8=799
+note 9=894
+note 10=1003
+note 11=1090
+note 12=1200
+note 13=1288
+note 14=1396
+note 15=1504
+note 16=1592
+note 17=1702
+note 18=1789
+note 19=1898
+note 20=1999
+note 21=2094
+note 22=2203
+note 23=2290
+note 24=2400
+note 25=2488
+note 26=2596
+note 27=2704
+note 28=2792
+note 29=2902
+note 30=2989
+note 31=3098
+note 32=3199
+note 33=3294
+note 34=3403
+note 35=3490
+note 36=3600
+note 37=3688
+note 38=3796
+note 39=3904
+note 40=3992
+note 41=4102
+note 42=4189
+note 43=4298
+note 44=4399
+note 45=4494
+note 46=4603
+note 47=4690
+note 48=4800
+note 49=4888
+note 50=4996
+note 51=5104
+note 52=5192
+note 53=5302
+note 54=5389
+note 55=5498
+note 56=5599
+note 57=5694
+note 58=5803
+note 59=5890
+note 60=6000
+note 61=6088
+note 62=6196
+note 63=6304
+note 64=6392
+note 65=6502
+note 66=6589
+note 67=6698
+note 68=6799
+note 69=6894
+note 70=7003
+note 71=7090
+note 72=7200
+note 73=7288
+note 74=7396
+note 75=7504
+note 76=7592
+note 77=7702
+note 78=7789
+note 79=7898
+note 80=7999
+note 81=8094
+note 82=8203
+note 83=8290
+note 84=8400
+note 85=8488
+note 86=8596
+note 87=8704
+note 88=8792
+note 89=8902
+note 90=8989
+note 91=9098
+note 92=9199
+note 93=9294
+note 94=9403
+note 95=9490
+note 96=9600
+note 97=9688
+note 98=9796
+note 99=9904
+note 100=9992
+note 101=10102
+note 102=10189
+note 103=10298
+note 104=10399
+note 105=10494
+note 106=10603
+note 107=10690
+note 108=10800
+note 109=10888
+note 110=10996
+note 111=11104
+note 112=11192
+note 113=11302
+note 114=11389
+note 115=11498
+note 116=11599
+note 117=11694
+note 118=11803
+note 119=11890
+note 120=12000
+note 121=12088
+note 122=12196
+note 123=12304
+note 124=12392
+note 125=12502
+note 126=12589
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schlick3.tun"
+ID= "ID_schlick3.tun"
+Filename= "schlick3.scl"
+Description= "Possible well-tempered interpretation of 1511 tuning, Margo Schulter"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 88.270000
+note 2= 196.090000
+note 3= 303.910000
+note 4= 392.180000
+note 5= 501.955000
+note 6= 589.247500
+note 7= 698.045000
+note 8= 799.022500
+note 9= 894.135000
+note 10= 1002.932500
+note 11= 1090.225000
+note 12= 1200.000000
+note 13= 1288.270000
+note 14= 1396.090000
+note 15= 1503.910000
+note 16= 1592.180000
+note 17= 1701.955000
+note 18= 1789.247500
+note 19= 1898.045000
+note 20= 1999.022500
+note 21= 2094.135000
+note 22= 2202.932500
+note 23= 2290.225000
+note 24= 2400.000000
+note 25= 2488.270000
+note 26= 2596.090000
+note 27= 2703.910000
+note 28= 2792.180000
+note 29= 2901.955000
+note 30= 2989.247500
+note 31= 3098.045000
+note 32= 3199.022500
+note 33= 3294.135000
+note 34= 3402.932500
+note 35= 3490.225000
+note 36= 3600.000000
+note 37= 3688.270000
+note 38= 3796.090000
+note 39= 3903.910000
+note 40= 3992.180000
+note 41= 4101.955000
+note 42= 4189.247500
+note 43= 4298.045000
+note 44= 4399.022500
+note 45= 4494.135000
+note 46= 4602.932500
+note 47= 4690.225000
+note 48= 4800.000000
+note 49= 4888.270000
+note 50= 4996.090000
+note 51= 5103.910000
+note 52= 5192.180000
+note 53= 5301.955000
+note 54= 5389.247500
+note 55= 5498.045000
+note 56= 5599.022500
+note 57= 5694.135000
+note 58= 5802.932500
+note 59= 5890.225000
+note 60= 6000.000000
+note 61= 6088.270000
+note 62= 6196.090000
+note 63= 6303.910000
+note 64= 6392.180000
+note 65= 6501.955000
+note 66= 6589.247500
+note 67= 6698.045000
+note 68= 6799.022500
+note 69= 6894.135000
+note 70= 7002.932500
+note 71= 7090.225000
+note 72= 7200.000000
+note 73= 7288.270000
+note 74= 7396.090000
+note 75= 7503.910000
+note 76= 7592.180000
+note 77= 7701.955000
+note 78= 7789.247500
+note 79= 7898.045000
+note 80= 7999.022500
+note 81= 8094.135000
+note 82= 8202.932500
+note 83= 8290.225000
+note 84= 8400.000000
+note 85= 8488.270000
+note 86= 8596.090000
+note 87= 8703.910000
+note 88= 8792.180000
+note 89= 8901.955000
+note 90= 8989.247500
+note 91= 9098.045000
+note 92= 9199.022500
+note 93= 9294.135000
+note 94= 9402.932500
+note 95= 9490.225000
+note 96= 9600.000000
+note 97= 9688.270000
+note 98= 9796.090000
+note 99= 9903.910000
+note 100= 9992.180000
+note 101= 10101.955000
+note 102= 10189.247500
+note 103= 10298.045000
+note 104= 10399.022500
+note 105= 10494.135000
+note 106= 10602.932500
+note 107= 10690.225000
+note 108= 10800.000000
+note 109= 10888.270000
+note 110= 10996.090000
+note 111= 11103.910000
+note 112= 11192.180000
+note 113= 11301.955000
+note 114= 11389.247500
+note 115= 11498.045000
+note 116= 11599.022500
+note 117= 11694.135000
+note 118= 11802.932500
+note 119= 11890.225000
+note 120= 12000.000000
+note 121= 12088.270000
+note 122= 12196.090000
+note 123= 12303.910000
+note 124= 12392.180000
+note 125= 12501.955000
+note 126= 12589.247500
+note 127= 12698.045000
+
+[Functional Tuning]
+note 1="#=0 % 88.270000"
+note 2="#=0 % 196.090000"
+note 3="#=0 % 303.910000"
+note 4="#=0 % 392.180000"
+note 5="#=0 % 501.955000"
+note 6="#=0 % 589.247500"
+note 7="#=0 % 698.045000"
+note 8="#=0 % 799.022500"
+note 9="#=0 % 894.135000"
+note 10="#=0 % 1002.932500"
+note 11="#=0 % 1090.225000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

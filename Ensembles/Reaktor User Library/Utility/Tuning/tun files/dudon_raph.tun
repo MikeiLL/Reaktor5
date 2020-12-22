@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Raph recurrent sequence, series Phi17 & Phi93
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=57
+note 2=103
+note 3=152
+note 4=409
+note 5=469
+note 6=520
+note 7=569
+note 8=838
+note 9=884
+note 10=936
+note 11=985
+note 12=1200
+note 13=1257
+note 14=1303
+note 15=1352
+note 16=1609
+note 17=1669
+note 18=1720
+note 19=1769
+note 20=2038
+note 21=2084
+note 22=2136
+note 23=2185
+note 24=2400
+note 25=2457
+note 26=2503
+note 27=2552
+note 28=2809
+note 29=2869
+note 30=2920
+note 31=2969
+note 32=3238
+note 33=3284
+note 34=3336
+note 35=3385
+note 36=3600
+note 37=3657
+note 38=3703
+note 39=3752
+note 40=4009
+note 41=4069
+note 42=4120
+note 43=4169
+note 44=4438
+note 45=4484
+note 46=4536
+note 47=4585
+note 48=4800
+note 49=4857
+note 50=4903
+note 51=4952
+note 52=5209
+note 53=5269
+note 54=5320
+note 55=5369
+note 56=5638
+note 57=5684
+note 58=5736
+note 59=5785
+note 60=6000
+note 61=6057
+note 62=6103
+note 63=6152
+note 64=6409
+note 65=6469
+note 66=6520
+note 67=6569
+note 68=6838
+note 69=6884
+note 70=6936
+note 71=6985
+note 72=7200
+note 73=7257
+note 74=7303
+note 75=7352
+note 76=7609
+note 77=7669
+note 78=7720
+note 79=7769
+note 80=8038
+note 81=8084
+note 82=8136
+note 83=8185
+note 84=8400
+note 85=8457
+note 86=8503
+note 87=8552
+note 88=8809
+note 89=8869
+note 90=8920
+note 91=8969
+note 92=9238
+note 93=9284
+note 94=9336
+note 95=9385
+note 96=9600
+note 97=9657
+note 98=9703
+note 99=9752
+note 100=10009
+note 101=10069
+note 102=10120
+note 103=10169
+note 104=10438
+note 105=10484
+note 106=10536
+note 107=10585
+note 108=10800
+note 109=10857
+note 110=10903
+note 111=10952
+note 112=11209
+note 113=11269
+note 114=11320
+note 115=11369
+note 116=11638
+note 117=11684
+note 118=11736
+note 119=11785
+note 120=12000
+note 121=12057
+note 122=12103
+note 123=12152
+note 124=12409
+note 125=12469
+note 126=12520
+note 127=12569
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_raph.tun"
+ID= "ID_dudon_raph.tun"
+Filename= "dudon_raph.scl"
+Description= "Raph recurrent sequence, series Phi17 & Phi93"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 56.766858
+note 2= 102.690878
+note 3= 151.838887
+note 4= 409.244301
+note 5= 468.947944
+note 6= 519.551289
+note 7= 568.717426
+note 8= 837.565755
+note 9= 884.358713
+note 10= 935.531918
+note 11= 985.235831
+note 12= 1200.000000
+note 13= 1256.766858
+note 14= 1302.690878
+note 15= 1351.838887
+note 16= 1609.244301
+note 17= 1668.947944
+note 18= 1719.551289
+note 19= 1768.717426
+note 20= 2037.565755
+note 21= 2084.358713
+note 22= 2135.531918
+note 23= 2185.235831
+note 24= 2400.000000
+note 25= 2456.766858
+note 26= 2502.690878
+note 27= 2551.838887
+note 28= 2809.244301
+note 29= 2868.947944
+note 30= 2919.551289
+note 31= 2968.717426
+note 32= 3237.565755
+note 33= 3284.358713
+note 34= 3335.531918
+note 35= 3385.235831
+note 36= 3600.000000
+note 37= 3656.766858
+note 38= 3702.690878
+note 39= 3751.838887
+note 40= 4009.244301
+note 41= 4068.947944
+note 42= 4119.551289
+note 43= 4168.717426
+note 44= 4437.565755
+note 45= 4484.358713
+note 46= 4535.531918
+note 47= 4585.235831
+note 48= 4800.000000
+note 49= 4856.766858
+note 50= 4902.690878
+note 51= 4951.838887
+note 52= 5209.244301
+note 53= 5268.947944
+note 54= 5319.551289
+note 55= 5368.717426
+note 56= 5637.565755
+note 57= 5684.358713
+note 58= 5735.531918
+note 59= 5785.235831
+note 60= 6000.000000
+note 61= 6056.766858
+note 62= 6102.690878
+note 63= 6151.838887
+note 64= 6409.244301
+note 65= 6468.947944
+note 66= 6519.551289
+note 67= 6568.717426
+note 68= 6837.565755
+note 69= 6884.358713
+note 70= 6935.531918
+note 71= 6985.235831
+note 72= 7200.000000
+note 73= 7256.766858
+note 74= 7302.690878
+note 75= 7351.838887
+note 76= 7609.244301
+note 77= 7668.947944
+note 78= 7719.551289
+note 79= 7768.717426
+note 80= 8037.565755
+note 81= 8084.358713
+note 82= 8135.531918
+note 83= 8185.235831
+note 84= 8400.000000
+note 85= 8456.766858
+note 86= 8502.690878
+note 87= 8551.838887
+note 88= 8809.244301
+note 89= 8868.947944
+note 90= 8919.551289
+note 91= 8968.717426
+note 92= 9237.565755
+note 93= 9284.358713
+note 94= 9335.531918
+note 95= 9385.235831
+note 96= 9600.000000
+note 97= 9656.766858
+note 98= 9702.690878
+note 99= 9751.838887
+note 100= 10009.244301
+note 101= 10068.947944
+note 102= 10119.551289
+note 103= 10168.717426
+note 104= 10437.565755
+note 105= 10484.358713
+note 106= 10535.531918
+note 107= 10585.235831
+note 108= 10800.000000
+note 109= 10856.766858
+note 110= 10902.690878
+note 111= 10951.838887
+note 112= 11209.244301
+note 113= 11268.947944
+note 114= 11319.551289
+note 115= 11368.717426
+note 116= 11637.565755
+note 117= 11684.358713
+note 118= 11735.531918
+note 119= 11785.235831
+note 120= 12000.000000
+note 121= 12056.766858
+note 122= 12102.690878
+note 123= 12151.838887
+note 124= 12409.244301
+note 125= 12468.947944
+note 126= 12519.551289
+note 127= 12568.717426
+
+[Functional Tuning]
+note 1="#=0 * 31/30"
+note 2="#=0 * 191/180"
+note 3="#=0 * 131/120"
+note 4="#=0 * 19/15"
+note 5="#=0 * 59/45"
+note 6="#=0 * 27/20"
+note 7="#=0 * 25/18"
+note 8="#=0 * 73/45"
+note 9="#=0 * 5/3"
+note 10="#=0 * 103/60"
+note 11="#=0 * 53/30"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

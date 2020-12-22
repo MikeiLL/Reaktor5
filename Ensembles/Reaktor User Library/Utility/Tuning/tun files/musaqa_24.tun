@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; d'Erlanger vol.5, p. 34. After Mih.a'il Mu^saqah, 1899, a Lebanese scholar
+;
+; VAZ Plus section
+[Tuning]
+note 0=2997
+note 1=3048
+note 2=3099
+note 3=3150
+note 4=3201
+note 5=3252
+note 6=3302
+note 7=3353
+note 8=3403
+note 9=3453
+note 10=3503
+note 11=3552
+note 12=3600
+note 13=3648
+note 14=3697
+note 15=3746
+note 16=3795
+note 17=3844
+note 18=3894
+note 19=3944
+note 20=3994
+note 21=4045
+note 22=4095
+note 23=4146
+note 24=4197
+note 25=4248
+note 26=4299
+note 27=4350
+note 28=4401
+note 29=4452
+note 30=4502
+note 31=4553
+note 32=4603
+note 33=4653
+note 34=4703
+note 35=4752
+note 36=4800
+note 37=4848
+note 38=4897
+note 39=4946
+note 40=4995
+note 41=5044
+note 42=5094
+note 43=5144
+note 44=5194
+note 45=5245
+note 46=5295
+note 47=5346
+note 48=5397
+note 49=5448
+note 50=5499
+note 51=5550
+note 52=5601
+note 53=5652
+note 54=5702
+note 55=5753
+note 56=5803
+note 57=5853
+note 58=5903
+note 59=5952
+note 60=6000
+note 61=6048
+note 62=6097
+note 63=6146
+note 64=6195
+note 65=6244
+note 66=6294
+note 67=6344
+note 68=6394
+note 69=6445
+note 70=6495
+note 71=6546
+note 72=6597
+note 73=6648
+note 74=6699
+note 75=6750
+note 76=6801
+note 77=6852
+note 78=6902
+note 79=6953
+note 80=7003
+note 81=7053
+note 82=7103
+note 83=7152
+note 84=7200
+note 85=7248
+note 86=7297
+note 87=7346
+note 88=7395
+note 89=7444
+note 90=7494
+note 91=7544
+note 92=7594
+note 93=7645
+note 94=7695
+note 95=7746
+note 96=7797
+note 97=7848
+note 98=7899
+note 99=7950
+note 100=8001
+note 101=8052
+note 102=8102
+note 103=8153
+note 104=8203
+note 105=8253
+note 106=8303
+note 107=8352
+note 108=8400
+note 109=8448
+note 110=8497
+note 111=8546
+note 112=8595
+note 113=8644
+note 114=8694
+note 115=8744
+note 116=8794
+note 117=8845
+note 118=8895
+note 119=8946
+note 120=8997
+note 121=9048
+note 122=9099
+note 123=9150
+note 124=9201
+note 125=9252
+note 126=9302
+note 127=9353
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "musaqa_24.tun"
+ID= "ID_musaqa_24.tun"
+Filename= "musaqa_24.scl"
+Description= "d'Erlanger vol.5, p. 34. After Mih.a'il Mu^saqah, 1899, a Lebanese scholar"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2996.999591
+note 1= 3047.953577
+note 2= 3098.951992
+note 3= 3149.952682
+note 4= 3200.909593
+note 5= 3251.772540
+note 6= 3302.486984
+note 7= 3352.993809
+note 8= 3403.229118
+note 9= 3453.124042
+note 10= 3502.604577
+note 11= 3551.591443
+note 12= 3600.000000
+note 13= 3648.255210
+note 14= 3696.834281
+note 15= 3745.725753
+note 16= 3794.916558
+note 17= 3844.391878
+note 18= 3894.134997
+note 19= 3944.127139
+note 20= 3994.347297
+note 21= 4044.772056
+note 22= 4095.375401
+note 23= 4146.128519
+note 24= 4196.999591
+note 25= 4247.953577
+note 26= 4298.951992
+note 27= 4349.952682
+note 28= 4400.909593
+note 29= 4451.772540
+note 30= 4502.486984
+note 31= 4552.993809
+note 32= 4603.229118
+note 33= 4653.124042
+note 34= 4702.604577
+note 35= 4751.591443
+note 36= 4800.000000
+note 37= 4848.255210
+note 38= 4896.834281
+note 39= 4945.725753
+note 40= 4994.916558
+note 41= 5044.391878
+note 42= 5094.134997
+note 43= 5144.127139
+note 44= 5194.347297
+note 45= 5244.772056
+note 46= 5295.375401
+note 47= 5346.128519
+note 48= 5396.999591
+note 49= 5447.953577
+note 50= 5498.951992
+note 51= 5549.952682
+note 52= 5600.909593
+note 53= 5651.772540
+note 54= 5702.486984
+note 55= 5752.993809
+note 56= 5803.229118
+note 57= 5853.124042
+note 58= 5902.604577
+note 59= 5951.591443
+note 60= 6000.000000
+note 61= 6048.255210
+note 62= 6096.834281
+note 63= 6145.725753
+note 64= 6194.916558
+note 65= 6244.391878
+note 66= 6294.134997
+note 67= 6344.127139
+note 68= 6394.347297
+note 69= 6444.772056
+note 70= 6495.375401
+note 71= 6546.128519
+note 72= 6596.999591
+note 73= 6647.953577
+note 74= 6698.951992
+note 75= 6749.952682
+note 76= 6800.909593
+note 77= 6851.772540
+note 78= 6902.486984
+note 79= 6952.993809
+note 80= 7003.229118
+note 81= 7053.124042
+note 82= 7102.604577
+note 83= 7151.591443
+note 84= 7200.000000
+note 85= 7248.255210
+note 86= 7296.834281
+note 87= 7345.725753
+note 88= 7394.916558
+note 89= 7444.391878
+note 90= 7494.134997
+note 91= 7544.127139
+note 92= 7594.347297
+note 93= 7644.772056
+note 94= 7695.375401
+note 95= 7746.128519
+note 96= 7796.999591
+note 97= 7847.953577
+note 98= 7898.951992
+note 99= 7949.952682
+note 100= 8000.909593
+note 101= 8051.772540
+note 102= 8102.486984
+note 103= 8152.993809
+note 104= 8203.229118
+note 105= 8253.124042
+note 106= 8302.604577
+note 107= 8351.591443
+note 108= 8400.000000
+note 109= 8448.255210
+note 110= 8496.834281
+note 111= 8545.725753
+note 112= 8594.916558
+note 113= 8644.391878
+note 114= 8694.134997
+note 115= 8744.127139
+note 116= 8794.347297
+note 117= 8844.772056
+note 118= 8895.375401
+note 119= 8946.128519
+note 120= 8996.999591
+note 121= 9047.953577
+note 122= 9098.951992
+note 123= 9149.952682
+note 124= 9200.909593
+note 125= 9251.772540
+note 126= 9302.486984
+note 127= 9352.993809
+
+[Functional Tuning]
+note 1="#=0 * 3456/3361"
+note 2="#=0 * 864/817"
+note 3="#=0 * 384/353"
+note 4="#=0 * 216/193"
+note 5="#=0 * 3456/3001"
+note 6="#=0 * 32/27"
+note 7="#=0 * 3456/2833"
+note 8="#=0 * 54/43"
+note 9="#=0 * 128/99"
+note 10="#=0 * 864/649"
+note 11="#=0 * 3456/2521"
+note 12="#=0 * 24/17"
+note 13="#=0 * 3456/2377"
+note 14="#=0 * 864/577"
+note 15="#=0 * 128/83"
+note 16="#=0 * 27/17"
+note 17="#=0 * 3456/2113"
+note 18="#=0 * 32/19"
+note 19="#=0 * 3456/1993"
+note 20="#=0 * 216/121"
+note 21="#=0 * 384/209"
+note 22="#=0 * 864/457"
+note 23="#=0 * 3456/1777"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

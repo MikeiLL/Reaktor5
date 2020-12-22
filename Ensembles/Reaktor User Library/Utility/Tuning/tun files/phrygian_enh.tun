@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Phrygian Enharmonic Tonos
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=99
+note 2=204
+note 3=259
+note 4=287
+note 5=316
+note 6=498
+note 7=702
+note 8=738
+note 9=757
+note 10=776
+note 11=975
+note 12=1200
+note 13=1299
+note 14=1404
+note 15=1459
+note 16=1487
+note 17=1516
+note 18=1698
+note 19=1902
+note 20=1938
+note 21=1957
+note 22=1976
+note 23=2175
+note 24=2400
+note 25=2499
+note 26=2604
+note 27=2659
+note 28=2687
+note 29=2716
+note 30=2898
+note 31=3102
+note 32=3138
+note 33=3157
+note 34=3176
+note 35=3375
+note 36=3600
+note 37=3699
+note 38=3804
+note 39=3859
+note 40=3887
+note 41=3916
+note 42=4098
+note 43=4302
+note 44=4338
+note 45=4357
+note 46=4376
+note 47=4575
+note 48=4800
+note 49=4899
+note 50=5004
+note 51=5059
+note 52=5087
+note 53=5116
+note 54=5298
+note 55=5502
+note 56=5538
+note 57=5557
+note 58=5576
+note 59=5775
+note 60=6000
+note 61=6099
+note 62=6204
+note 63=6259
+note 64=6287
+note 65=6316
+note 66=6498
+note 67=6702
+note 68=6738
+note 69=6757
+note 70=6776
+note 71=6975
+note 72=7200
+note 73=7299
+note 74=7404
+note 75=7459
+note 76=7487
+note 77=7516
+note 78=7698
+note 79=7902
+note 80=7938
+note 81=7957
+note 82=7976
+note 83=8175
+note 84=8400
+note 85=8499
+note 86=8604
+note 87=8659
+note 88=8687
+note 89=8716
+note 90=8898
+note 91=9102
+note 92=9138
+note 93=9157
+note 94=9176
+note 95=9375
+note 96=9600
+note 97=9699
+note 98=9804
+note 99=9859
+note 100=9887
+note 101=9916
+note 102=10098
+note 103=10302
+note 104=10338
+note 105=10357
+note 106=10376
+note 107=10575
+note 108=10800
+note 109=10899
+note 110=11004
+note 111=11059
+note 112=11087
+note 113=11116
+note 114=11298
+note 115=11502
+note 116=11538
+note 117=11557
+note 118=11576
+note 119=11775
+note 120=12000
+note 121=12099
+note 122=12204
+note 123=12259
+note 124=12287
+note 125=12316
+note 126=12498
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "phrygian_enh.tun"
+ID= "ID_phrygian_enh.tun"
+Filename= "phrygian_enh.scl"
+Description= "Phrygian Enharmonic Tonos"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.954592
+note 2= 203.910002
+note 3= 258.874429
+note 4= 287.025197
+note 5= 315.641287
+note 6= 498.044999
+note 7= 701.955001
+note 8= 738.403380
+note 9= 756.919428
+note 10= 775.635654
+note 11= 974.847596
+note 12= 1200.000000
+note 13= 1298.954592
+note 14= 1403.910002
+note 15= 1458.874429
+note 16= 1487.025197
+note 17= 1515.641287
+note 18= 1698.044999
+note 19= 1901.955001
+note 20= 1938.403380
+note 21= 1956.919428
+note 22= 1975.635654
+note 23= 2174.847596
+note 24= 2400.000000
+note 25= 2498.954592
+note 26= 2603.910002
+note 27= 2658.874429
+note 28= 2687.025197
+note 29= 2715.641287
+note 30= 2898.044999
+note 31= 3101.955001
+note 32= 3138.403380
+note 33= 3156.919428
+note 34= 3175.635654
+note 35= 3374.847596
+note 36= 3600.000000
+note 37= 3698.954592
+note 38= 3803.910002
+note 39= 3858.874429
+note 40= 3887.025197
+note 41= 3915.641287
+note 42= 4098.044999
+note 43= 4301.955001
+note 44= 4338.403380
+note 45= 4356.919428
+note 46= 4375.635654
+note 47= 4574.847596
+note 48= 4800.000000
+note 49= 4898.954592
+note 50= 5003.910002
+note 51= 5058.874429
+note 52= 5087.025197
+note 53= 5115.641287
+note 54= 5298.044999
+note 55= 5501.955001
+note 56= 5538.403380
+note 57= 5556.919428
+note 58= 5575.635654
+note 59= 5774.847596
+note 60= 6000.000000
+note 61= 6098.954592
+note 62= 6203.910002
+note 63= 6258.874429
+note 64= 6287.025197
+note 65= 6315.641287
+note 66= 6498.044999
+note 67= 6701.955001
+note 68= 6738.403380
+note 69= 6756.919428
+note 70= 6775.635654
+note 71= 6974.847596
+note 72= 7200.000000
+note 73= 7298.954592
+note 74= 7403.910002
+note 75= 7458.874429
+note 76= 7487.025197
+note 77= 7515.641287
+note 78= 7698.044999
+note 79= 7901.955001
+note 80= 7938.403380
+note 81= 7956.919428
+note 82= 7975.635654
+note 83= 8174.847596
+note 84= 8400.000000
+note 85= 8498.954592
+note 86= 8603.910002
+note 87= 8658.874429
+note 88= 8687.025197
+note 89= 8715.641287
+note 90= 8898.044999
+note 91= 9101.955001
+note 92= 9138.403380
+note 93= 9156.919428
+note 94= 9175.635654
+note 95= 9374.847596
+note 96= 9600.000000
+note 97= 9698.954592
+note 98= 9803.910002
+note 99= 9858.874429
+note 100= 9887.025197
+note 101= 9915.641287
+note 102= 10098.044999
+note 103= 10301.955001
+note 104= 10338.403380
+note 105= 10356.919428
+note 106= 10375.635654
+note 107= 10574.847596
+note 108= 10800.000000
+note 109= 10898.954592
+note 110= 11003.910002
+note 111= 11058.874429
+note 112= 11087.025197
+note 113= 11115.641287
+note 114= 11298.044999
+note 115= 11501.955001
+note 116= 11538.403380
+note 117= 11556.919428
+note 118= 11575.635654
+note 119= 11774.847596
+note 120= 12000.000000
+note 121= 12098.954592
+note 122= 12203.910002
+note 123= 12258.874429
+note 124= 12287.025197
+note 125= 12315.641287
+note 126= 12498.044999
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 18/17"
+note 2="#=0 * 9/8"
+note 3="#=0 * 36/31"
+note 4="#=0 * 72/61"
+note 5="#=0 * 6/5"
+note 6="#=0 * 4/3"
+note 7="#=0 * 3/2"
+note 8="#=0 * 72/47"
+note 9="#=0 * 48/31"
+note 10="#=0 * 36/23"
+note 11="#=0 * 72/41"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

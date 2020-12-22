@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Catler 24-tone JI from "Over and Under the 13 Limit", 1/1 3(3)
+;
+; VAZ Plus section
+[Tuning]
+note 0=2951
+note 1=2990
+note 2=3049
+note 3=3102
+note 4=3214
+note 5=3241
+note 6=3284
+note 7=3306
+note 8=3369
+note 9=3396
+note 10=3461
+note 11=3488
+note 12=3600
+note 13=3653
+note 14=3712
+note 15=3804
+note 16=3831
+note 17=3867
+note 18=3916
+note 19=3943
+note 20=3959
+note 21=3986
+note 22=4071
+note 23=4098
+note 24=4151
+note 25=4190
+note 26=4249
+note 27=4302
+note 28=4414
+note 29=4441
+note 30=4484
+note 31=4506
+note 32=4569
+note 33=4596
+note 34=4661
+note 35=4688
+note 36=4800
+note 37=4853
+note 38=4912
+note 39=5004
+note 40=5031
+note 41=5067
+note 42=5116
+note 43=5143
+note 44=5159
+note 45=5186
+note 46=5271
+note 47=5298
+note 48=5351
+note 49=5390
+note 50=5449
+note 51=5502
+note 52=5614
+note 53=5641
+note 54=5684
+note 55=5706
+note 56=5769
+note 57=5796
+note 58=5861
+note 59=5888
+note 60=6000
+note 61=6053
+note 62=6112
+note 63=6204
+note 64=6231
+note 65=6267
+note 66=6316
+note 67=6343
+note 68=6359
+note 69=6386
+note 70=6471
+note 71=6498
+note 72=6551
+note 73=6590
+note 74=6649
+note 75=6702
+note 76=6814
+note 77=6841
+note 78=6884
+note 79=6906
+note 80=6969
+note 81=6996
+note 82=7061
+note 83=7088
+note 84=7200
+note 85=7253
+note 86=7312
+note 87=7404
+note 88=7431
+note 89=7467
+note 90=7516
+note 91=7543
+note 92=7559
+note 93=7586
+note 94=7671
+note 95=7698
+note 96=7751
+note 97=7790
+note 98=7849
+note 99=7902
+note 100=8014
+note 101=8041
+note 102=8084
+note 103=8106
+note 104=8169
+note 105=8196
+note 106=8261
+note 107=8288
+note 108=8400
+note 109=8453
+note 110=8512
+note 111=8604
+note 112=8631
+note 113=8667
+note 114=8716
+note 115=8743
+note 116=8759
+note 117=8786
+note 118=8871
+note 119=8898
+note 120=8951
+note 121=8990
+note 122=9049
+note 123=9102
+note 124=9214
+note 125=9241
+note 126=9284
+note 127=9306
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "catler.tun"
+ID= "ID_catler.tun"
+Filename= "catler.scl"
+Description= "Catler 24-tone JI from "Over and Under the 13 Limit", 1/1 3(3)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2951.317942
+note 1= 2990.223716
+note 2= 3048.682058
+note 3= 3101.955001
+note 4= 3213.686286
+note 5= 3240.527662
+note 6= 3284.358713
+note 7= 3305.865003
+note 8= 3368.825906
+note 9= 3396.089998
+note 10= 3461.427339
+note 11= 3488.268715
+note 12= 3600.000000
+note 13= 3653.272943
+note 14= 3711.731285
+note 15= 3803.910002
+note 16= 3831.174094
+note 17= 3866.870906
+note 18= 3915.641287
+note 19= 3942.905379
+note 20= 3959.472338
+note 21= 3986.313714
+note 22= 4070.780907
+note 23= 4098.044999
+note 24= 4151.317942
+note 25= 4190.223716
+note 26= 4248.682058
+note 27= 4301.955001
+note 28= 4413.686286
+note 29= 4440.527662
+note 30= 4484.358713
+note 31= 4505.865003
+note 32= 4568.825906
+note 33= 4596.089998
+note 34= 4661.427339
+note 35= 4688.268715
+note 36= 4800.000000
+note 37= 4853.272943
+note 38= 4911.731285
+note 39= 5003.910002
+note 40= 5031.174094
+note 41= 5066.870906
+note 42= 5115.641287
+note 43= 5142.905379
+note 44= 5159.472338
+note 45= 5186.313714
+note 46= 5270.780907
+note 47= 5298.044999
+note 48= 5351.317942
+note 49= 5390.223716
+note 50= 5448.682058
+note 51= 5501.955001
+note 52= 5613.686286
+note 53= 5640.527662
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5768.825906
+note 57= 5796.089998
+note 58= 5861.427339
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6111.731285
+note 63= 6203.910002
+note 64= 6231.174094
+note 65= 6266.870906
+note 66= 6315.641287
+note 67= 6342.905379
+note 68= 6359.472338
+note 69= 6386.313714
+note 70= 6470.780907
+note 71= 6498.044999
+note 72= 6551.317942
+note 73= 6590.223716
+note 74= 6648.682058
+note 75= 6701.955001
+note 76= 6813.686286
+note 77= 6840.527662
+note 78= 6884.358713
+note 79= 6905.865003
+note 80= 6968.825906
+note 81= 6996.089998
+note 82= 7061.427339
+note 83= 7088.268715
+note 84= 7200.000000
+note 85= 7253.272943
+note 86= 7311.731285
+note 87= 7403.910002
+note 88= 7431.174094
+note 89= 7466.870906
+note 90= 7515.641287
+note 91= 7542.905379
+note 92= 7559.472338
+note 93= 7586.313714
+note 94= 7670.780907
+note 95= 7698.044999
+note 96= 7751.317942
+note 97= 7790.223716
+note 98= 7848.682058
+note 99= 7901.955001
+note 100= 8013.686286
+note 101= 8040.527662
+note 102= 8084.358713
+note 103= 8105.865003
+note 104= 8168.825906
+note 105= 8196.089998
+note 106= 8261.427339
+note 107= 8288.268715
+note 108= 8400.000000
+note 109= 8453.272943
+note 110= 8511.731285
+note 111= 8603.910002
+note 112= 8631.174094
+note 113= 8666.870906
+note 114= 8715.641287
+note 115= 8742.905379
+note 116= 8759.472338
+note 117= 8786.313714
+note 118= 8870.780907
+note 119= 8898.044999
+note 120= 8951.317942
+note 121= 8990.223716
+note 122= 9048.682058
+note 123= 9101.955001
+note 124= 9213.686286
+note 125= 9240.527662
+note 126= 9284.358713
+note 127= 9305.865003
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 16/15"
+note 3="#=0 * 9/8"
+note 4="#=0 * 8/7"
+note 5="#=0 * 7/6"
+note 6="#=0 * 6/5"
+note 7="#=0 * 128/105"
+note 8="#=0 * 16/13"
+note 9="#=0 * 5/4"
+note 10="#=0 * 21/16"
+note 11="#=0 * 4/3"
+note 12="#=0 * 11/8"
+note 13="#=0 * 45/32"
+note 14="#=0 * 16/11"
+note 15="#=0 * 3/2"
+note 16="#=0 * 8/5"
+note 17="#=0 * 13/8"
+note 18="#=0 * 5/3"
+note 19="#=0 * 27/16"
+note 20="#=0 * 7/4"
+note 21="#=0 * 16/9"
+note 22="#=0 * 24/13"
+note 23="#=0 * 15/8"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

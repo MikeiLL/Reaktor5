@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Small diesic 19-note MOS, 31/120 version
+;
+; VAZ Plus section
+[Tuning]
+note 0=2170
+note 1=2320
+note 2=2360
+note 3=2400
+note 4=2440
+note 5=2480
+note 6=2630
+note 7=2670
+note 8=2710
+note 9=2750
+note 10=2790
+note 11=2940
+note 12=2980
+note 13=3020
+note 14=3060
+note 15=3210
+note 16=3250
+note 17=3290
+note 18=3330
+note 19=3370
+note 20=3520
+note 21=3560
+note 22=3600
+note 23=3640
+note 24=3680
+note 25=3830
+note 26=3870
+note 27=3910
+note 28=3950
+note 29=3990
+note 30=4140
+note 31=4180
+note 32=4220
+note 33=4260
+note 34=4410
+note 35=4450
+note 36=4490
+note 37=4530
+note 38=4570
+note 39=4720
+note 40=4760
+note 41=4800
+note 42=4840
+note 43=4880
+note 44=5030
+note 45=5070
+note 46=5110
+note 47=5150
+note 48=5190
+note 49=5340
+note 50=5380
+note 51=5420
+note 52=5460
+note 53=5610
+note 54=5650
+note 55=5690
+note 56=5730
+note 57=5770
+note 58=5920
+note 59=5960
+note 60=6000
+note 61=6040
+note 62=6080
+note 63=6230
+note 64=6270
+note 65=6310
+note 66=6350
+note 67=6390
+note 68=6540
+note 69=6580
+note 70=6620
+note 71=6660
+note 72=6810
+note 73=6850
+note 74=6890
+note 75=6930
+note 76=6970
+note 77=7120
+note 78=7160
+note 79=7200
+note 80=7240
+note 81=7280
+note 82=7430
+note 83=7470
+note 84=7510
+note 85=7550
+note 86=7590
+note 87=7740
+note 88=7780
+note 89=7820
+note 90=7860
+note 91=8010
+note 92=8050
+note 93=8090
+note 94=8130
+note 95=8170
+note 96=8320
+note 97=8360
+note 98=8400
+note 99=8440
+note 100=8480
+note 101=8630
+note 102=8670
+note 103=8710
+note 104=8750
+note 105=8790
+note 106=8940
+note 107=8980
+note 108=9020
+note 109=9060
+note 110=9210
+note 111=9250
+note 112=9290
+note 113=9330
+note 114=9370
+note 115=9520
+note 116=9560
+note 117=9600
+note 118=9640
+note 119=9680
+note 120=9830
+note 121=9870
+note 122=9910
+note 123=9950
+note 124=9990
+note 125=10140
+note 126=10180
+note 127=10220
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_smalldimos19.tun"
+ID= "ID_smithgw_smalldimos19.tun"
+Filename= "smithgw_smalldimos19.scl"
+Description= "Small diesic 19-note MOS, 31/120 version"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2170.000000
+note 1= 2320.000000
+note 2= 2360.000000
+note 3= 2400.000000
+note 4= 2440.000000
+note 5= 2480.000000
+note 6= 2630.000000
+note 7= 2670.000000
+note 8= 2710.000000
+note 9= 2750.000000
+note 10= 2790.000000
+note 11= 2940.000000
+note 12= 2980.000000
+note 13= 3020.000000
+note 14= 3060.000000
+note 15= 3210.000000
+note 16= 3250.000000
+note 17= 3290.000000
+note 18= 3330.000000
+note 19= 3370.000000
+note 20= 3520.000000
+note 21= 3560.000000
+note 22= 3600.000000
+note 23= 3640.000000
+note 24= 3680.000000
+note 25= 3830.000000
+note 26= 3870.000000
+note 27= 3910.000000
+note 28= 3950.000000
+note 29= 3990.000000
+note 30= 4140.000000
+note 31= 4180.000000
+note 32= 4220.000000
+note 33= 4260.000000
+note 34= 4410.000000
+note 35= 4450.000000
+note 36= 4490.000000
+note 37= 4530.000000
+note 38= 4570.000000
+note 39= 4720.000000
+note 40= 4760.000000
+note 41= 4800.000000
+note 42= 4840.000000
+note 43= 4880.000000
+note 44= 5030.000000
+note 45= 5070.000000
+note 46= 5110.000000
+note 47= 5150.000000
+note 48= 5190.000000
+note 49= 5340.000000
+note 50= 5380.000000
+note 51= 5420.000000
+note 52= 5460.000000
+note 53= 5610.000000
+note 54= 5650.000000
+note 55= 5690.000000
+note 56= 5730.000000
+note 57= 5770.000000
+note 58= 5920.000000
+note 59= 5960.000000
+note 60= 6000.000000
+note 61= 6040.000000
+note 62= 6080.000000
+note 63= 6230.000000
+note 64= 6270.000000
+note 65= 6310.000000
+note 66= 6350.000000
+note 67= 6390.000000
+note 68= 6540.000000
+note 69= 6580.000000
+note 70= 6620.000000
+note 71= 6660.000000
+note 72= 6810.000000
+note 73= 6850.000000
+note 74= 6890.000000
+note 75= 6930.000000
+note 76= 6970.000000
+note 77= 7120.000000
+note 78= 7160.000000
+note 79= 7200.000000
+note 80= 7240.000000
+note 81= 7280.000000
+note 82= 7430.000000
+note 83= 7470.000000
+note 84= 7510.000000
+note 85= 7550.000000
+note 86= 7590.000000
+note 87= 7740.000000
+note 88= 7780.000000
+note 89= 7820.000000
+note 90= 7860.000000
+note 91= 8010.000000
+note 92= 8050.000000
+note 93= 8090.000000
+note 94= 8130.000000
+note 95= 8170.000000
+note 96= 8320.000000
+note 97= 8360.000000
+note 98= 8400.000000
+note 99= 8440.000000
+note 100= 8480.000000
+note 101= 8630.000000
+note 102= 8670.000000
+note 103= 8710.000000
+note 104= 8750.000000
+note 105= 8790.000000
+note 106= 8940.000000
+note 107= 8980.000000
+note 108= 9020.000000
+note 109= 9060.000000
+note 110= 9210.000000
+note 111= 9250.000000
+note 112= 9290.000000
+note 113= 9330.000000
+note 114= 9370.000000
+note 115= 9520.000000
+note 116= 9560.000000
+note 117= 9600.000000
+note 118= 9640.000000
+note 119= 9680.000000
+note 120= 9830.000000
+note 121= 9870.000000
+note 122= 9910.000000
+note 123= 9950.000000
+note 124= 9990.000000
+note 125= 10140.000000
+note 126= 10180.000000
+note 127= 10220.000000
+
+[Functional Tuning]
+note 1="#=0 % 40.000000"
+note 2="#=0 % 80.000000"
+note 3="#=0 % 230.000000"
+note 4="#=0 % 270.000000"
+note 5="#=0 % 310.000000"
+note 6="#=0 % 350.000000"
+note 7="#=0 % 390.000000"
+note 8="#=0 % 540.000000"
+note 9="#=0 % 580.000000"
+note 10="#=0 % 620.000000"
+note 11="#=0 % 660.000000"
+note 12="#=0 % 810.000000"
+note 13="#=0 % 850.000000"
+note 14="#=0 % 890.000000"
+note 15="#=0 % 930.000000"
+note 16="#=0 % 970.000000"
+note 17="#=0 % 1120.000000"
+note 18="#=0 % 1160.000000"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

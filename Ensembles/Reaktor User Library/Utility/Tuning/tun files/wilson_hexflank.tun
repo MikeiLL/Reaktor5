@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Hexany Flanker, 7-limit, from Wilson
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=36
+note 2=231
+note 3=267
+note 4=386
+note 5=498
+note 6=617
+note 7=653
+note 8=849
+note 9=884
+note 10=969
+note 11=1116
+note 12=1200
+note 13=1236
+note 14=1431
+note 15=1467
+note 16=1586
+note 17=1698
+note 18=1817
+note 19=1853
+note 20=2049
+note 21=2084
+note 22=2169
+note 23=2316
+note 24=2400
+note 25=2436
+note 26=2631
+note 27=2667
+note 28=2786
+note 29=2898
+note 30=3017
+note 31=3053
+note 32=3249
+note 33=3284
+note 34=3369
+note 35=3516
+note 36=3600
+note 37=3636
+note 38=3831
+note 39=3867
+note 40=3986
+note 41=4098
+note 42=4217
+note 43=4253
+note 44=4449
+note 45=4484
+note 46=4569
+note 47=4716
+note 48=4800
+note 49=4836
+note 50=5031
+note 51=5067
+note 52=5186
+note 53=5298
+note 54=5417
+note 55=5453
+note 56=5649
+note 57=5684
+note 58=5769
+note 59=5916
+note 60=6000
+note 61=6036
+note 62=6231
+note 63=6267
+note 64=6386
+note 65=6498
+note 66=6617
+note 67=6653
+note 68=6849
+note 69=6884
+note 70=6969
+note 71=7116
+note 72=7200
+note 73=7236
+note 74=7431
+note 75=7467
+note 76=7586
+note 77=7698
+note 78=7817
+note 79=7853
+note 80=8049
+note 81=8084
+note 82=8169
+note 83=8316
+note 84=8400
+note 85=8436
+note 86=8631
+note 87=8667
+note 88=8786
+note 89=8898
+note 90=9017
+note 91=9053
+note 92=9249
+note 93=9284
+note 94=9369
+note 95=9516
+note 96=9600
+note 97=9636
+note 98=9831
+note 99=9867
+note 100=9986
+note 101=10098
+note 102=10217
+note 103=10253
+note 104=10449
+note 105=10484
+note 106=10569
+note 107=10716
+note 108=10800
+note 109=10836
+note 110=11031
+note 111=11067
+note 112=11186
+note 113=11298
+note 114=11417
+note 115=11453
+note 116=11649
+note 117=11684
+note 118=11769
+note 119=11916
+note 120=12000
+note 121=12036
+note 122=12231
+note 123=12267
+note 124=12386
+note 125=12498
+note 126=12617
+note 127=12653
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wilson_hexflank.tun"
+ID= "ID_wilson_hexflank.tun"
+Filename= "wilson_hexflank.scl"
+Description= "Hexany Flanker, 7-limit, from Wilson"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 35.696812
+note 2= 231.174094
+note 3= 266.870906
+note 4= 386.313714
+note 5= 498.044999
+note 6= 617.487807
+note 7= 653.184619
+note 8= 848.661901
+note 9= 884.358713
+note 10= 968.825906
+note 11= 1115.532807
+note 12= 1200.000000
+note 13= 1235.696812
+note 14= 1431.174094
+note 15= 1466.870906
+note 16= 1586.313714
+note 17= 1698.044999
+note 18= 1817.487807
+note 19= 1853.184619
+note 20= 2048.661901
+note 21= 2084.358713
+note 22= 2168.825906
+note 23= 2315.532807
+note 24= 2400.000000
+note 25= 2435.696812
+note 26= 2631.174094
+note 27= 2666.870906
+note 28= 2786.313714
+note 29= 2898.044999
+note 30= 3017.487807
+note 31= 3053.184619
+note 32= 3248.661901
+note 33= 3284.358713
+note 34= 3368.825906
+note 35= 3515.532807
+note 36= 3600.000000
+note 37= 3635.696812
+note 38= 3831.174094
+note 39= 3866.870906
+note 40= 3986.313714
+note 41= 4098.044999
+note 42= 4217.487807
+note 43= 4253.184619
+note 44= 4448.661901
+note 45= 4484.358713
+note 46= 4568.825906
+note 47= 4715.532807
+note 48= 4800.000000
+note 49= 4835.696812
+note 50= 5031.174094
+note 51= 5066.870906
+note 52= 5186.313714
+note 53= 5298.044999
+note 54= 5417.487807
+note 55= 5453.184619
+note 56= 5648.661901
+note 57= 5684.358713
+note 58= 5768.825906
+note 59= 5915.532807
+note 60= 6000.000000
+note 61= 6035.696812
+note 62= 6231.174094
+note 63= 6266.870906
+note 64= 6386.313714
+note 65= 6498.044999
+note 66= 6617.487807
+note 67= 6653.184619
+note 68= 6848.661901
+note 69= 6884.358713
+note 70= 6968.825906
+note 71= 7115.532807
+note 72= 7200.000000
+note 73= 7235.696812
+note 74= 7431.174094
+note 75= 7466.870906
+note 76= 7586.313714
+note 77= 7698.044999
+note 78= 7817.487807
+note 79= 7853.184619
+note 80= 8048.661901
+note 81= 8084.358713
+note 82= 8168.825906
+note 83= 8315.532807
+note 84= 8400.000000
+note 85= 8435.696812
+note 86= 8631.174094
+note 87= 8666.870906
+note 88= 8786.313714
+note 89= 8898.044999
+note 90= 9017.487807
+note 91= 9053.184619
+note 92= 9248.661901
+note 93= 9284.358713
+note 94= 9368.825906
+note 95= 9515.532807
+note 96= 9600.000000
+note 97= 9635.696812
+note 98= 9831.174094
+note 99= 9866.870906
+note 100= 9986.313714
+note 101= 10098.044999
+note 102= 10217.487807
+note 103= 10253.184619
+note 104= 10448.661901
+note 105= 10484.358713
+note 106= 10568.825906
+note 107= 10715.532807
+note 108= 10800.000000
+note 109= 10835.696812
+note 110= 11031.174094
+note 111= 11066.870906
+note 112= 11186.313714
+note 113= 11298.044999
+note 114= 11417.487807
+note 115= 11453.184619
+note 116= 11648.661901
+note 117= 11684.358713
+note 118= 11768.825906
+note 119= 11915.532807
+note 120= 12000.000000
+note 121= 12035.696812
+note 122= 12231.174094
+note 123= 12266.870906
+note 124= 12386.313714
+note 125= 12498.044999
+note 126= 12617.487807
+note 127= 12653.184619
+
+[Functional Tuning]
+note 1="#=0 * 49/48"
+note 2="#=0 * 8/7"
+note 3="#=0 * 7/6"
+note 4="#=0 * 5/4"
+note 5="#=0 * 4/3"
+note 6="#=0 * 10/7"
+note 7="#=0 * 35/24"
+note 8="#=0 * 80/49"
+note 9="#=0 * 5/3"
+note 10="#=0 * 7/4"
+note 11="#=0 * 40/21"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

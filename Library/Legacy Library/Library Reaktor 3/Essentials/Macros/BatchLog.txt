@@ -1,0 +1,288 @@
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Pitch, Gate, Event\Sources\
+
+Button (3-mode).mdl		Writing: OK
+Fader (0-1).mdl		Writing: OK
+Button (2-mode).mdl		Writing: OK
+Trigger.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Pitch, Gate, Event\Processing\Various\
+
+Quantizer Dlx.mdl		Writing: OK
+Schmitt-Trigger.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Amplifier\Stereo\
+
+Amp (stereo, bal mod).mdl		Writing: OK
+Amp (stereo, AM).mdl		Writing: OK
+Amp (stereo).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Amplifier\Mono\
+
+Amp (mono).mdl		Writing: OK
+Amp (mono, AM).mdl		Writing: OK
+Amp (mono, pan mod).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Modules Overview\
+
+MIDI.mdl		Writing: OK
+Shaper.mdl		Writing: OK
+Add Inv Mult Div.mdl		Writing: OK
+Delay.mdl		Writing: OK
+Event Processing.mdl		Writing: OK
+New in V 2.3.mdl		Writing: OK
+Auxiliary.mdl		Writing: OK
+Mixer.mdl		Writing: OK
+New in V 3.0.mdl		Writing: OK
+Sampler.mdl		Writing: OK
+Filter.mdl		Writing: OK
+Sequencer.mdl		Writing: OK
+Oscillator.mdl		Writing: OK
+Terminal.mdl		Writing: OK
+Audio Modifier.mdl		Writing: OK
+Panel.mdl		Writing: OK
+LFO, Envelope.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Display\Level Meter\
+
+Level Meter.mdl		Writing: OK
+Clipping Indicator (0dB).mdl		Writing: OK
+Signal Indicator (-40dB).mdl		Writing: OK
+Level Meter (-60dB - +3dB).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Display\Scope\
+
+Oscilloscope.mdl		Writing: OK
+Oscillograph.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Display\Digit\
+
+Digit (one).mdl		Writing: OK
+Digit (two).mdl		Writing: OK
+Digit (three).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Display\
+
+E-nalizer.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\FM Synthesis\
+
+Feedback.mdl		Writing: OK
+Osc Operator.mdl		Writing: OK
+Out-Switch.mdl		Writing: OK
+Routing-Matrix (6 ops)-B.mdl		Writing: OK
+Osc+Filter Operator.mdl		Writing: OK
+Noise+Filter Operator.mdl		Writing: OK
+Osc Operator (high pass).mdl		Writing: OK
+Routing-Matrix (6 ops).mdl		Writing: OK
+FM sources (6 ops).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Envelope\Scaling, Velocity\
+
+Velocity Amount.mdl		Writing: OK
+Ramp Scaling.mdl		Writing: OK
+Keyboard Scaling.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Envelope\D...- Envelope\
+
+DBDSR - Envelope.mdl		Writing: OK
+DBDR - Envelope.mdl		Writing: OK
+DR - Envelope.mdl		Writing: OK
+D - Envelope.mdl		Writing: OK
+DSR - Envelope.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Envelope\H...- Envelope\
+
+H - Envelope.mdl		Writing: OK
+HR - Envelope.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Envelope\A...-Envelopes\
+
+ADR - Envelope.mdl		Writing: OK
+ADBDSR - Envelope.mdl		Writing: OK
+ADSR - Envelope.mdl		Writing: OK
+ADBDR - Envelope.mdl		Writing: OK
+AR - Envelope.mdl		Writing: OK
+AD - Envelope.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Envelope\Ramp- Envelope\
+
+5 - Ramp Envelope.mdl		Writing: OK
+6 - Ramp Envelope.mdl		Writing: OK
+4 - Ramp Envelope.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Matrix\Mixing Matrix\
+
+Matrix 3x2.mdl		Writing: OK
+Matrix 2x2 (input mute).mdl		Writing: OK
+Matrix 4x2.mdl		Writing: OK
+Matrix 4x4.mdl		Writing: OK
+Matrix 4x8.mdl		Writing: OK
+Matrix 5x2.mdl		Writing: OK
+Matrix 6x2.mdl		Writing: OK
+Matrix 8x2.mdl		Writing: OK
+Matrix 8x4.mdl		Writing: OK
+Matrix 8x8.mdl		Writing: OK
+Matrix 2x2.mdl		Writing: OK
+Matrix 2x4.mdl		Writing: OK
+Matrix 2x8.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Matrix\Modulation Matrix\
+
+Mod Relay.mdl		Writing: OK
+Matrix 4x4 (2 bus).mdl		Writing: OK
+Matrix 4x4 (4 bus).mdl		Writing: OK
+Matrix 4x4 (1 bus).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Matrix\Selection Matrix\
+
+Matrix 4x2.mdl		Writing: OK
+Matrix 4x3.mdl		Writing: OK
+Matrix 4x4.mdl		Writing: OK
+Matrix 8x8.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Matrix\Adding Matrix\
+
+Matrix 3x1.mdl		Writing: OK
+Matrix 3x2.mdl		Writing: OK
+Matrix 3x3.mdl		Writing: OK
+Matrix 3x4.mdl		Writing: OK
+Matrix 4x1.mdl		Writing: OK
+Matrix 4x2.mdl		Writing: OK
+Matrix 4x3.mdl		Writing: OK
+Matrix 4x4.mdl		Writing: OK
+Matrix 2x1.mdl		Writing: OK
+Matrix 2x2.mdl		Writing: OK
+Matrix 2x3.mdl		Writing: OK
+Matrix 2x4.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Mono to Stereo\
+
+Mixer (8 In).mdl		Writing: OK
+Mixer (3 In).mdl		Writing: OK
+Mixer (2 In).mdl		Writing: OK
+Mixer (4 In).mdl		Writing: OK
+Mixer (6 In).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Mono to Mono\
+
+Mixer (8 In).mdl		Writing: OK
+Mixer (3 In).mdl		Writing: OK
+Mixer (5 In).mdl		Writing: OK
+Mixer (2 In).mdl		Writing: OK
+Mixer (4 In).mdl		Writing: OK
+Mixer (6 In).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Various Parts\
+
+Amplifier (balance A, full shift).mdl		Writing: OK
+Aux Return (4 channel).mdl		Writing: OK
+Aux Send (2 channel).mdl		Writing: OK
+Channel (EQ, aux).mdl		Writing: OK
+Aux Return (2 channel).mdl		Writing: OK
+Main (level, bal, meter).mdl		Writing: OK
+Fader (level, pan, mute).mdl		Writing: OK
+Equalizer (para mid).mdl		Writing: OK
+Amplifier (balance B, damp).mdl		Writing: OK
+Aux Send (4 channel).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Linear Event\
+
+Mixer (3 In).mdl		Writing: OK
+Mixer (2 In).mdl		Writing: OK
+Mixer (4 In).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Linear Audio\
+
+Mixer (8 In).mdl		Writing: OK
+Mixer (3 In).mdl		Writing: OK
+Mixer (5 In).mdl		Writing: OK
+Mixer (7 In).mdl		Writing: OK
+Mixer (2 In).mdl		Writing: OK
+Mixer (4 In).mdl		Writing: OK
+Mixer (6 In).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Stereo to Stereo\
+
+Mixer (5 stereo In).mdl		Writing: OK
+Mixer (4 stereo In).mdl		Writing: OK
+Mixer (8 stereo In).mdl		Writing: OK
+Mixer (3 stereo In).mdl		Writing: OK
+Mixer (2 stereo In).mdl		Writing: OK
+Mixer (6 stereo In).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Mixer\Adder\
+
+Adder (3 x stereo).mdl		Writing: OK
+Adder (4 x stereo).mdl		Writing: OK
+Adder (6 x stereo).mdl		Writing: OK
+Adder (8 x stereo).mdl		Writing: OK
+Adder (2 x stereo).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Filter\Special\
+
+Saturator Filter (2x2-P).mdl		Writing: OK
+Peak EQ Filter.mdl		Writing: OK
+Sweep Filter.mdl		Writing: OK
+Multimode Filter (1-4-P).mdl		Writing: OK
+Casacade Filter.mdl		Writing: OK
+Pink Filter.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Filter\Scaling\
+
+KeyTrack.mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Filter\Filter without FM\
+
+8-P Filter (4x2-P).mdl		Writing: OK
+6-P Filter (3x2-P).mdl		Writing: OK
+1-P Filter (HP, LP).mdl		Writing: OK
+2-P Filter (HP, BP, LP, N).mdl		Writing: OK
+8-P Filter (2xEQ + 2x2-P).mdl		Writing: OK
+4-P Filter (BP, BLP, LP).mdl		Writing: OK
+6-P Filter (EQ + 2x2-P).mdl		Writing: OK
+4-P Filter (HP, BHP, BP).mdl		Writing: OK
+8-P Filter (2x4-P).mdl		Writing: OK
+2-P Filter (HP, BP, LP).mdl		Writing: OK
+6-P Filter (4-P + 2-P).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\Filter\Filter with FM\
+
+8-P Filter (4x2-P).mdl		Writing: OK
+6-P Filter (3x2-P).mdl		Writing: OK
+1-P Filter (HP, LP).mdl		Writing: OK
+2-P Filter (HP, BP, LP, N).mdl		Writing: OK
+8-P Filter (2xEQ + 2x2-P).mdl		Writing: OK
+4-P Filter (BP, BLP, LP).mdl		Writing: OK
+6-P Filter (EQ + 2x2-P).mdl		Writing: OK
+4-P Filter (HP, BHP, BP).mdl		Writing: OK
+8-P Filter (2x4-P).mdl		Writing: OK
+2-P Filter (HP, BP, LP).mdl		Writing: OK
+6-P Filter (4-P + 2-P).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\_New\
+
+Audio IO (8x).mdl		Writing: OK
+Universal.mdl		Writing: OK
+Event (2x).mdl		Writing: OK
+Empty.mdl		Writing: OK
+Audio IO (mono).mdl		Writing: OK
+Audio IO (stereo).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\LFO\Various\
+
+LFO (clock, sine).mdl		Writing: OK
+LFO (poly, 3 waves).mdl		Writing: OK
+LFO (shp, sync, 3 waves).mdl		Writing: OK
+LFO (random, smooth).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\LFO\Event\
+
+LFO (event, clock sync).mdl		Writing: OK
+LFO (event, gate sync).mdl		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Macros\Essentials\LFO\Audio\
+
+LFO (audio).mdl		Writing: OK
+LFO (audio, sync, mix).mdl		Writing: OK
+LFO (audio, sync, switch).mdl		Writing: OK

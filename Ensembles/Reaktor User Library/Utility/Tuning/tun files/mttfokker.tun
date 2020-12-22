@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; MTT-24-like Fokker block in POTE parapyth tuning, two chains of fifths 7/6 apart
+;
+; VAZ Plus section
+[Tuning]
+note 0=3023
+note 1=3081
+note 2=3104
+note 3=3162
+note 4=3185
+note 5=3289
+note 6=3312
+note 7=3370
+note 8=3392
+note 9=3451
+note 10=3519
+note 11=3578
+note 12=3600
+note 13=3658
+note 14=3727
+note 15=3785
+note 16=3808
+note 17=3866
+note 18=3888
+note 19=3993
+note 20=4015
+note 21=4074
+note 22=4096
+note 23=4154
+note 24=4223
+note 25=4281
+note 26=4304
+note 27=4362
+note 28=4385
+note 29=4489
+note 30=4512
+note 31=4570
+note 32=4592
+note 33=4651
+note 34=4719
+note 35=4778
+note 36=4800
+note 37=4858
+note 38=4927
+note 39=4985
+note 40=5008
+note 41=5066
+note 42=5088
+note 43=5193
+note 44=5215
+note 45=5274
+note 46=5296
+note 47=5354
+note 48=5423
+note 49=5481
+note 50=5504
+note 51=5562
+note 52=5585
+note 53=5689
+note 54=5712
+note 55=5770
+note 56=5792
+note 57=5851
+note 58=5919
+note 59=5978
+note 60=6000
+note 61=6058
+note 62=6127
+note 63=6185
+note 64=6208
+note 65=6266
+note 66=6288
+note 67=6393
+note 68=6415
+note 69=6474
+note 70=6496
+note 71=6554
+note 72=6623
+note 73=6681
+note 74=6704
+note 75=6762
+note 76=6785
+note 77=6889
+note 78=6912
+note 79=6970
+note 80=6992
+note 81=7051
+note 82=7119
+note 83=7178
+note 84=7200
+note 85=7258
+note 86=7327
+note 87=7385
+note 88=7408
+note 89=7466
+note 90=7488
+note 91=7593
+note 92=7615
+note 93=7674
+note 94=7696
+note 95=7754
+note 96=7823
+note 97=7881
+note 98=7904
+note 99=7962
+note 100=7985
+note 101=8089
+note 102=8112
+note 103=8170
+note 104=8192
+note 105=8251
+note 106=8319
+note 107=8378
+note 108=8400
+note 109=8458
+note 110=8527
+note 111=8585
+note 112=8608
+note 113=8666
+note 114=8688
+note 115=8793
+note 116=8815
+note 117=8874
+note 118=8896
+note 119=8954
+note 120=9023
+note 121=9081
+note 122=9104
+note 123=9162
+note 124=9185
+note 125=9289
+note 126=9312
+note 127=9370
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mttfokker.tun"
+ID= "ID_mttfokker.tun"
+Filename= "mttfokker.scl"
+Description= "MTT-24-like Fokker block in POTE parapyth tuning, two chains of fifths 7/6 apart"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3023.137850
+note 1= 3081.476310
+note 2= 3103.856310
+note 3= 3162.194760
+note 4= 3184.574770
+note 5= 3289.188920
+note 6= 3311.568920
+note 7= 3369.907380
+note 8= 3392.287380
+note 9= 3450.625840
+note 10= 3519.281540
+note 11= 3577.620000
+note 12= 3600.000000
+note 13= 3658.338460
+note 14= 3726.994160
+note 15= 3785.332610
+note 16= 3807.712620
+note 17= 3866.051070
+note 18= 3888.431080
+note 19= 3993.045230
+note 20= 4015.425230
+note 21= 4073.763690
+note 22= 4096.143690
+note 23= 4154.482150
+note 24= 4223.137850
+note 25= 4281.476310
+note 26= 4303.856310
+note 27= 4362.194760
+note 28= 4384.574770
+note 29= 4489.188920
+note 30= 4511.568920
+note 31= 4569.907380
+note 32= 4592.287380
+note 33= 4650.625840
+note 34= 4719.281540
+note 35= 4777.620000
+note 36= 4800.000000
+note 37= 4858.338460
+note 38= 4926.994160
+note 39= 4985.332610
+note 40= 5007.712620
+note 41= 5066.051070
+note 42= 5088.431080
+note 43= 5193.045230
+note 44= 5215.425230
+note 45= 5273.763690
+note 46= 5296.143690
+note 47= 5354.482150
+note 48= 5423.137850
+note 49= 5481.476310
+note 50= 5503.856310
+note 51= 5562.194760
+note 52= 5584.574770
+note 53= 5689.188920
+note 54= 5711.568920
+note 55= 5769.907380
+note 56= 5792.287380
+note 57= 5850.625840
+note 58= 5919.281540
+note 59= 5977.620000
+note 60= 6000.000000
+note 61= 6058.338460
+note 62= 6126.994160
+note 63= 6185.332610
+note 64= 6207.712620
+note 65= 6266.051070
+note 66= 6288.431080
+note 67= 6393.045230
+note 68= 6415.425230
+note 69= 6473.763690
+note 70= 6496.143690
+note 71= 6554.482150
+note 72= 6623.137850
+note 73= 6681.476310
+note 74= 6703.856310
+note 75= 6762.194760
+note 76= 6784.574770
+note 77= 6889.188920
+note 78= 6911.568920
+note 79= 6969.907380
+note 80= 6992.287380
+note 81= 7050.625840
+note 82= 7119.281540
+note 83= 7177.620000
+note 84= 7200.000000
+note 85= 7258.338460
+note 86= 7326.994160
+note 87= 7385.332610
+note 88= 7407.712620
+note 89= 7466.051070
+note 90= 7488.431080
+note 91= 7593.045230
+note 92= 7615.425230
+note 93= 7673.763690
+note 94= 7696.143690
+note 95= 7754.482150
+note 96= 7823.137850
+note 97= 7881.476310
+note 98= 7903.856310
+note 99= 7962.194760
+note 100= 7984.574770
+note 101= 8089.188920
+note 102= 8111.568920
+note 103= 8169.907380
+note 104= 8192.287380
+note 105= 8250.625840
+note 106= 8319.281540
+note 107= 8377.620000
+note 108= 8400.000000
+note 109= 8458.338460
+note 110= 8526.994160
+note 111= 8585.332610
+note 112= 8607.712620
+note 113= 8666.051070
+note 114= 8688.431080
+note 115= 8793.045230
+note 116= 8815.425230
+note 117= 8873.763690
+note 118= 8896.143690
+note 119= 8954.482150
+note 120= 9023.137850
+note 121= 9081.476310
+note 122= 9103.856310
+note 123= 9162.194760
+note 124= 9184.574770
+note 125= 9289.188920
+note 126= 9311.568920
+note 127= 9369.907380
+
+[Functional Tuning]
+note 1="#=0 % 58.338460"
+note 2="#=0 % 126.994160"
+note 3="#=0 % 185.332610"
+note 4="#=0 % 207.712620"
+note 5="#=0 % 266.051070"
+note 6="#=0 % 288.431080"
+note 7="#=0 % 393.045230"
+note 8="#=0 % 415.425230"
+note 9="#=0 % 473.763690"
+note 10="#=0 % 496.143690"
+note 11="#=0 % 554.482150"
+note 12="#=0 % 623.137850"
+note 13="#=0 % 681.476310"
+note 14="#=0 % 703.856310"
+note 15="#=0 % 762.194760"
+note 16="#=0 % 784.574770"
+note 17="#=0 % 889.188920"
+note 18="#=0 % 911.568920"
+note 19="#=0 % 969.907380"
+note 20="#=0 % 992.287380"
+note 21="#=0 % 1050.625840"
+note 22="#=0 % 1119.281540"
+note 23="#=0 % 1177.620000"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

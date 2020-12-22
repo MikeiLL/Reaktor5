@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mark Vines ovovo temperament, 8:9:14:15 equal beating in 3 of 22 keys
+;
+; VAZ Plus section
+[Tuning]
+note 0=2743
+note 1=2788
+note 2=2832
+note 3=2892
+note 4=2959
+note 5=3020
+note 6=3064
+note 7=3108
+note 8=3168
+note 9=3235
+note 10=3280
+note 11=3324
+note 12=3384
+note 13=3451
+note 14=3495
+note 15=3556
+note 16=3600
+note 17=3667
+note 18=3728
+note 19=3772
+note 20=3816
+note 21=3876
+note 22=3943
+note 23=3988
+note 24=4032
+note 25=4092
+note 26=4159
+note 27=4220
+note 28=4264
+note 29=4308
+note 30=4368
+note 31=4435
+note 32=4480
+note 33=4524
+note 34=4584
+note 35=4651
+note 36=4695
+note 37=4756
+note 38=4800
+note 39=4867
+note 40=4928
+note 41=4972
+note 42=5016
+note 43=5076
+note 44=5143
+note 45=5188
+note 46=5232
+note 47=5292
+note 48=5359
+note 49=5420
+note 50=5464
+note 51=5508
+note 52=5568
+note 53=5635
+note 54=5680
+note 55=5724
+note 56=5784
+note 57=5851
+note 58=5895
+note 59=5956
+note 60=6000
+note 61=6067
+note 62=6128
+note 63=6172
+note 64=6216
+note 65=6276
+note 66=6343
+note 67=6388
+note 68=6432
+note 69=6492
+note 70=6559
+note 71=6620
+note 72=6664
+note 73=6708
+note 74=6768
+note 75=6835
+note 76=6880
+note 77=6924
+note 78=6984
+note 79=7051
+note 80=7095
+note 81=7156
+note 82=7200
+note 83=7267
+note 84=7328
+note 85=7372
+note 86=7416
+note 87=7476
+note 88=7543
+note 89=7588
+note 90=7632
+note 91=7692
+note 92=7759
+note 93=7820
+note 94=7864
+note 95=7908
+note 96=7968
+note 97=8035
+note 98=8080
+note 99=8124
+note 100=8184
+note 101=8251
+note 102=8295
+note 103=8356
+note 104=8400
+note 105=8467
+note 106=8528
+note 107=8572
+note 108=8616
+note 109=8676
+note 110=8743
+note 111=8788
+note 112=8832
+note 113=8892
+note 114=8959
+note 115=9020
+note 116=9064
+note 117=9108
+note 118=9168
+note 119=9235
+note 120=9280
+note 121=9324
+note 122=9384
+note 123=9451
+note 124=9495
+note 125=9556
+note 126=9600
+note 127=9667
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vines_ovovo22eb9w14w15_00_D.tun"
+ID= "ID_vines_ovovo22eb9w14w15_00_D.tun"
+Filename= "vines_ovovo22eb9w14w15_00_D.scl"
+Description= "Mark Vines ovovo temperament, 8:9:14:15 equal beating in 3 of 22 keys"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2743.344830
+note 1= 2787.517040
+note 2= 2831.689260
+note 3= 2892.077690
+note 4= 2959.189460
+note 5= 3019.577890
+note 6= 3063.750100
+note 7= 3107.922320
+note 8= 3168.310740
+note 9= 3235.422520
+note 10= 3279.594730
+note 11= 3323.766940
+note 12= 3384.155370
+note 13= 3451.267150
+note 14= 3495.439360
+note 15= 3555.827790
+note 16= 3600.000000
+note 17= 3667.111770
+note 18= 3727.500200
+note 19= 3771.672420
+note 20= 3815.844630
+note 21= 3876.233060
+note 22= 3943.344830
+note 23= 3987.517040
+note 24= 4031.689260
+note 25= 4092.077690
+note 26= 4159.189460
+note 27= 4219.577890
+note 28= 4263.750100
+note 29= 4307.922320
+note 30= 4368.310740
+note 31= 4435.422520
+note 32= 4479.594730
+note 33= 4523.766940
+note 34= 4584.155370
+note 35= 4651.267150
+note 36= 4695.439360
+note 37= 4755.827790
+note 38= 4800.000000
+note 39= 4867.111770
+note 40= 4927.500200
+note 41= 4971.672420
+note 42= 5015.844630
+note 43= 5076.233060
+note 44= 5143.344830
+note 45= 5187.517040
+note 46= 5231.689260
+note 47= 5292.077690
+note 48= 5359.189460
+note 49= 5419.577890
+note 50= 5463.750100
+note 51= 5507.922320
+note 52= 5568.310740
+note 53= 5635.422520
+note 54= 5679.594730
+note 55= 5723.766940
+note 56= 5784.155370
+note 57= 5851.267150
+note 58= 5895.439360
+note 59= 5955.827790
+note 60= 6000.000000
+note 61= 6067.111770
+note 62= 6127.500200
+note 63= 6171.672420
+note 64= 6215.844630
+note 65= 6276.233060
+note 66= 6343.344830
+note 67= 6387.517040
+note 68= 6431.689260
+note 69= 6492.077690
+note 70= 6559.189460
+note 71= 6619.577890
+note 72= 6663.750100
+note 73= 6707.922320
+note 74= 6768.310740
+note 75= 6835.422520
+note 76= 6879.594730
+note 77= 6923.766940
+note 78= 6984.155370
+note 79= 7051.267150
+note 80= 7095.439360
+note 81= 7155.827790
+note 82= 7200.000000
+note 83= 7267.111770
+note 84= 7327.500200
+note 85= 7371.672420
+note 86= 7415.844630
+note 87= 7476.233060
+note 88= 7543.344830
+note 89= 7587.517040
+note 90= 7631.689260
+note 91= 7692.077690
+note 92= 7759.189460
+note 93= 7819.577890
+note 94= 7863.750100
+note 95= 7907.922320
+note 96= 7968.310740
+note 97= 8035.422520
+note 98= 8079.594730
+note 99= 8123.766940
+note 100= 8184.155370
+note 101= 8251.267150
+note 102= 8295.439360
+note 103= 8355.827790
+note 104= 8400.000000
+note 105= 8467.111770
+note 106= 8527.500200
+note 107= 8571.672420
+note 108= 8615.844630
+note 109= 8676.233060
+note 110= 8743.344830
+note 111= 8787.517040
+note 112= 8831.689260
+note 113= 8892.077690
+note 114= 8959.189460
+note 115= 9019.577890
+note 116= 9063.750100
+note 117= 9107.922320
+note 118= 9168.310740
+note 119= 9235.422520
+note 120= 9279.594730
+note 121= 9323.766940
+note 122= 9384.155370
+note 123= 9451.267150
+note 124= 9495.439360
+note 125= 9555.827790
+note 126= 9600.000000
+note 127= 9667.111770
+
+[Functional Tuning]
+note 1="#=0 % 67.111770"
+note 2="#=0 % 127.500200"
+note 3="#=0 % 171.672420"
+note 4="#=0 % 215.844630"
+note 5="#=0 % 276.233060"
+note 6="#=0 % 343.344830"
+note 7="#=0 % 387.517040"
+note 8="#=0 % 431.689260"
+note 9="#=0 % 492.077690"
+note 10="#=0 % 559.189460"
+note 11="#=0 % 619.577890"
+note 12="#=0 % 663.750100"
+note 13="#=0 % 707.922320"
+note 14="#=0 % 768.310740"
+note 15="#=0 % 835.422520"
+note 16="#=0 % 879.594730"
+note 17="#=0 % 923.766940"
+note 18="#=0 % 984.155370"
+note 19="#=0 % 1051.267150"
+note 20="#=0 % 1095.439360"
+note 21="#=0 % 1155.827790"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

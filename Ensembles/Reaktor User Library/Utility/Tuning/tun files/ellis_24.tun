@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ellis, from p.421 of Helmholtz, 24 tones of JI for 1 manual harmonium
+;
+; VAZ Plus section
+[Tuning]
+note 0=2990
+note 1=3012
+note 2=3102
+note 3=3123
+note 4=3173
+note 5=3194
+note 6=3284
+note 7=3306
+note 8=3377
+note 9=3398
+note 10=3488
+note 11=3510
+note 12=3600
+note 13=3622
+note 14=3671
+note 15=3692
+note 16=3804
+note 17=3825
+note 18=3875
+note 19=3896
+note 20=3986
+note 21=4008
+note 22=4098
+note 23=4120
+note 24=4190
+note 25=4212
+note 26=4302
+note 27=4323
+note 28=4373
+note 29=4394
+note 30=4484
+note 31=4506
+note 32=4577
+note 33=4598
+note 34=4688
+note 35=4710
+note 36=4800
+note 37=4822
+note 38=4871
+note 39=4892
+note 40=5004
+note 41=5025
+note 42=5075
+note 43=5096
+note 44=5186
+note 45=5208
+note 46=5298
+note 47=5320
+note 48=5390
+note 49=5412
+note 50=5502
+note 51=5523
+note 52=5573
+note 53=5594
+note 54=5684
+note 55=5706
+note 56=5777
+note 57=5798
+note 58=5888
+note 59=5910
+note 60=6000
+note 61=6022
+note 62=6071
+note 63=6092
+note 64=6204
+note 65=6225
+note 66=6275
+note 67=6296
+note 68=6386
+note 69=6408
+note 70=6498
+note 71=6520
+note 72=6590
+note 73=6612
+note 74=6702
+note 75=6723
+note 76=6773
+note 77=6794
+note 78=6884
+note 79=6906
+note 80=6977
+note 81=6998
+note 82=7088
+note 83=7110
+note 84=7200
+note 85=7222
+note 86=7271
+note 87=7292
+note 88=7404
+note 89=7425
+note 90=7475
+note 91=7496
+note 92=7586
+note 93=7608
+note 94=7698
+note 95=7720
+note 96=7790
+note 97=7812
+note 98=7902
+note 99=7923
+note 100=7973
+note 101=7994
+note 102=8084
+note 103=8106
+note 104=8177
+note 105=8198
+note 106=8288
+note 107=8310
+note 108=8400
+note 109=8422
+note 110=8471
+note 111=8492
+note 112=8604
+note 113=8625
+note 114=8675
+note 115=8696
+note 116=8786
+note 117=8808
+note 118=8898
+note 119=8920
+note 120=8990
+note 121=9012
+note 122=9102
+note 123=9123
+note 124=9173
+note 125=9194
+note 126=9284
+note 127=9306
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ellis_24.tun"
+ID= "ID_ellis_24.tun"
+Filename= "ellis_24.scl"
+Description= "Ellis, from p.421 of Helmholtz, 24 tones of JI for 1 manual harmonium"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2990.223716
+note 1= 3011.730005
+note 2= 3101.955001
+note 3= 3123.461290
+note 4= 3172.627428
+note 5= 3194.133717
+note 6= 3284.358713
+note 7= 3305.865003
+note 8= 3376.537429
+note 9= 3398.043719
+note 10= 3488.268715
+note 11= 3509.775004
+note 12= 3600.000000
+note 13= 3621.506290
+note 14= 3670.672427
+note 15= 3692.178716
+note 16= 3803.910002
+note 17= 3825.416291
+note 18= 3874.582429
+note 19= 3896.088718
+note 20= 3986.313714
+note 21= 4007.820003
+note 22= 4098.044999
+note 23= 4119.551289
+note 24= 4190.223716
+note 25= 4211.730005
+note 26= 4301.955001
+note 27= 4323.461290
+note 28= 4372.627428
+note 29= 4394.133717
+note 30= 4484.358713
+note 31= 4505.865003
+note 32= 4576.537429
+note 33= 4598.043719
+note 34= 4688.268715
+note 35= 4709.775004
+note 36= 4800.000000
+note 37= 4821.506290
+note 38= 4870.672427
+note 39= 4892.178716
+note 40= 5003.910002
+note 41= 5025.416291
+note 42= 5074.582429
+note 43= 5096.088718
+note 44= 5186.313714
+note 45= 5207.820003
+note 46= 5298.044999
+note 47= 5319.551289
+note 48= 5390.223716
+note 49= 5411.730005
+note 50= 5501.955001
+note 51= 5523.461290
+note 52= 5572.627428
+note 53= 5594.133717
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5776.537429
+note 57= 5798.043719
+note 58= 5888.268715
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6021.506290
+note 62= 6070.672427
+note 63= 6092.178716
+note 64= 6203.910002
+note 65= 6225.416291
+note 66= 6274.582429
+note 67= 6296.088718
+note 68= 6386.313714
+note 69= 6407.820003
+note 70= 6498.044999
+note 71= 6519.551289
+note 72= 6590.223716
+note 73= 6611.730005
+note 74= 6701.955001
+note 75= 6723.461290
+note 76= 6772.627428
+note 77= 6794.133717
+note 78= 6884.358713
+note 79= 6905.865003
+note 80= 6976.537429
+note 81= 6998.043719
+note 82= 7088.268715
+note 83= 7109.775004
+note 84= 7200.000000
+note 85= 7221.506290
+note 86= 7270.672427
+note 87= 7292.178716
+note 88= 7403.910002
+note 89= 7425.416291
+note 90= 7474.582429
+note 91= 7496.088718
+note 92= 7586.313714
+note 93= 7607.820003
+note 94= 7698.044999
+note 95= 7719.551289
+note 96= 7790.223716
+note 97= 7811.730005
+note 98= 7901.955001
+note 99= 7923.461290
+note 100= 7972.627428
+note 101= 7994.133717
+note 102= 8084.358713
+note 103= 8105.865003
+note 104= 8176.537429
+note 105= 8198.043719
+note 106= 8288.268715
+note 107= 8309.775004
+note 108= 8400.000000
+note 109= 8421.506290
+note 110= 8470.672427
+note 111= 8492.178716
+note 112= 8603.910002
+note 113= 8625.416291
+note 114= 8674.582429
+note 115= 8696.088718
+note 116= 8786.313714
+note 117= 8807.820003
+note 118= 8898.044999
+note 119= 8919.551289
+note 120= 8990.223716
+note 121= 9011.730005
+note 122= 9101.955001
+note 123= 9123.461290
+note 124= 9172.627428
+note 125= 9194.133717
+note 126= 9284.358713
+note 127= 9305.865003
+
+[Functional Tuning]
+note 1="#=0 * 81/80"
+note 2="#=0 * 25/24"
+note 3="#=0 * 135/128"
+note 4="#=0 * 9/8"
+note 5="#=0 * 729/640"
+note 6="#=0 * 75/64"
+note 7="#=0 * 1215/1024"
+note 8="#=0 * 5/4"
+note 9="#=0 * 81/64"
+note 10="#=0 * 4/3"
+note 11="#=0 * 27/20"
+note 12="#=0 * 45/32"
+note 13="#=0 * 729/512"
+note 14="#=0 * 3/2"
+note 15="#=0 * 243/160"
+note 16="#=0 * 25/16"
+note 17="#=0 * 405/256"
+note 18="#=0 * 5/3"
+note 19="#=0 * 27/16"
+note 20="#=0 * 225/128"
+note 21="#=0 * 3645/2048"
+note 22="#=0 * 15/8"
+note 23="#=0 * 243/128"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

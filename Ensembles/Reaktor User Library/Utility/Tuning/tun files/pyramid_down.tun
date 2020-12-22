@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Upside-Down Wedding Cake (divorce cake)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=112
+note 2=204
+note 3=316
+note 4=427
+note 5=498
+note 6=702
+note 7=814
+note 8=906
+note 9=996
+note 10=1018
+note 11=1129
+note 12=1200
+note 13=1312
+note 14=1404
+note 15=1516
+note 16=1627
+note 17=1698
+note 18=1902
+note 19=2014
+note 20=2106
+note 21=2196
+note 22=2218
+note 23=2329
+note 24=2400
+note 25=2512
+note 26=2604
+note 27=2716
+note 28=2827
+note 29=2898
+note 30=3102
+note 31=3214
+note 32=3306
+note 33=3396
+note 34=3418
+note 35=3529
+note 36=3600
+note 37=3712
+note 38=3804
+note 39=3916
+note 40=4027
+note 41=4098
+note 42=4302
+note 43=4414
+note 44=4506
+note 45=4596
+note 46=4618
+note 47=4729
+note 48=4800
+note 49=4912
+note 50=5004
+note 51=5116
+note 52=5227
+note 53=5298
+note 54=5502
+note 55=5614
+note 56=5706
+note 57=5796
+note 58=5818
+note 59=5929
+note 60=6000
+note 61=6112
+note 62=6204
+note 63=6316
+note 64=6427
+note 65=6498
+note 66=6702
+note 67=6814
+note 68=6906
+note 69=6996
+note 70=7018
+note 71=7129
+note 72=7200
+note 73=7312
+note 74=7404
+note 75=7516
+note 76=7627
+note 77=7698
+note 78=7902
+note 79=8014
+note 80=8106
+note 81=8196
+note 82=8218
+note 83=8329
+note 84=8400
+note 85=8512
+note 86=8604
+note 87=8716
+note 88=8827
+note 89=8898
+note 90=9102
+note 91=9214
+note 92=9306
+note 93=9396
+note 94=9418
+note 95=9529
+note 96=9600
+note 97=9712
+note 98=9804
+note 99=9916
+note 100=10027
+note 101=10098
+note 102=10302
+note 103=10414
+note 104=10506
+note 105=10596
+note 106=10618
+note 107=10729
+note 108=10800
+note 109=10912
+note 110=11004
+note 111=11116
+note 112=11227
+note 113=11298
+note 114=11502
+note 115=11614
+note 116=11706
+note 117=11796
+note 118=11818
+note 119=11929
+note 120=12000
+note 121=12112
+note 122=12204
+note 123=12316
+note 124=12427
+note 125=12498
+note 126=12702
+note 127=12814
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pyramid_down.tun"
+ID= "ID_pyramid_down.tun"
+Filename= "pyramid_down.scl"
+Description= "Upside-Down Wedding Cake (divorce cake)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 111.731285
+note 2= 203.910002
+note 3= 315.641287
+note 4= 427.372572
+note 5= 498.044999
+note 6= 701.955001
+note 7= 813.686286
+note 8= 905.865003
+note 9= 996.089998
+note 10= 1017.596288
+note 11= 1129.327573
+note 12= 1200.000000
+note 13= 1311.731285
+note 14= 1403.910002
+note 15= 1515.641287
+note 16= 1627.372572
+note 17= 1698.044999
+note 18= 1901.955001
+note 19= 2013.686286
+note 20= 2105.865003
+note 21= 2196.089998
+note 22= 2217.596288
+note 23= 2329.327573
+note 24= 2400.000000
+note 25= 2511.731285
+note 26= 2603.910002
+note 27= 2715.641287
+note 28= 2827.372572
+note 29= 2898.044999
+note 30= 3101.955001
+note 31= 3213.686286
+note 32= 3305.865003
+note 33= 3396.089998
+note 34= 3417.596288
+note 35= 3529.327573
+note 36= 3600.000000
+note 37= 3711.731285
+note 38= 3803.910002
+note 39= 3915.641287
+note 40= 4027.372572
+note 41= 4098.044999
+note 42= 4301.955001
+note 43= 4413.686286
+note 44= 4505.865003
+note 45= 4596.089998
+note 46= 4617.596288
+note 47= 4729.327573
+note 48= 4800.000000
+note 49= 4911.731285
+note 50= 5003.910002
+note 51= 5115.641287
+note 52= 5227.372572
+note 53= 5298.044999
+note 54= 5501.955001
+note 55= 5613.686286
+note 56= 5705.865003
+note 57= 5796.089998
+note 58= 5817.596288
+note 59= 5929.327573
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6203.910002
+note 63= 6315.641287
+note 64= 6427.372572
+note 65= 6498.044999
+note 66= 6701.955001
+note 67= 6813.686286
+note 68= 6905.865003
+note 69= 6996.089998
+note 70= 7017.596288
+note 71= 7129.327573
+note 72= 7200.000000
+note 73= 7311.731285
+note 74= 7403.910002
+note 75= 7515.641287
+note 76= 7627.372572
+note 77= 7698.044999
+note 78= 7901.955001
+note 79= 8013.686286
+note 80= 8105.865003
+note 81= 8196.089998
+note 82= 8217.596288
+note 83= 8329.327573
+note 84= 8400.000000
+note 85= 8511.731285
+note 86= 8603.910002
+note 87= 8715.641287
+note 88= 8827.372572
+note 89= 8898.044999
+note 90= 9101.955001
+note 91= 9213.686286
+note 92= 9305.865003
+note 93= 9396.089998
+note 94= 9417.596288
+note 95= 9529.327573
+note 96= 9600.000000
+note 97= 9711.731285
+note 98= 9803.910002
+note 99= 9915.641287
+note 100= 10027.372572
+note 101= 10098.044999
+note 102= 10301.955001
+note 103= 10413.686286
+note 104= 10505.865003
+note 105= 10596.089998
+note 106= 10617.596288
+note 107= 10729.327573
+note 108= 10800.000000
+note 109= 10911.731285
+note 110= 11003.910002
+note 111= 11115.641287
+note 112= 11227.372572
+note 113= 11298.044999
+note 114= 11501.955001
+note 115= 11613.686286
+note 116= 11705.865003
+note 117= 11796.089998
+note 118= 11817.596288
+note 119= 11929.327573
+note 120= 12000.000000
+note 121= 12111.731285
+note 122= 12203.910002
+note 123= 12315.641287
+note 124= 12427.372572
+note 125= 12498.044999
+note 126= 12701.955001
+note 127= 12813.686286
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 9/8"
+note 3="#=0 * 6/5"
+note 4="#=0 * 32/25"
+note 5="#=0 * 4/3"
+note 6="#=0 * 3/2"
+note 7="#=0 * 8/5"
+note 8="#=0 * 27/16"
+note 9="#=0 * 16/9"
+note 10="#=0 * 9/5"
+note 11="#=0 * 48/25"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

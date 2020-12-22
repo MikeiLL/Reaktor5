@@ -1,0 +1,308 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 26-note choice system of Mersenne, Traité de l'orgue, 1635, p. 46-48
+;
+; VAZ Plus section
+[Tuning]
+note 0=3214
+note 1=3284
+note 2=3355
+note 3=3377
+note 4=3396
+note 5=3418
+note 6=3488
+note 7=3559
+note 8=3600
+note 9=3671
+note 10=3712
+note 11=3782
+note 12=3804
+note 13=3875
+note 14=3916
+note 15=3986
+note 16=4027
+note 17=4098
+note 18=4120
+note 19=4169
+note 20=4190
+note 21=4210
+note 22=4231
+note 23=4280
+note 24=4302
+note 25=4373
+note 26=4414
+note 27=4484
+note 28=4555
+note 29=4577
+note 30=4596
+note 31=4618
+note 32=4688
+note 33=4759
+note 34=4800
+note 35=4871
+note 36=4912
+note 37=4982
+note 38=5004
+note 39=5075
+note 40=5116
+note 41=5186
+note 42=5227
+note 43=5298
+note 44=5320
+note 45=5369
+note 46=5390
+note 47=5410
+note 48=5431
+note 49=5480
+note 50=5502
+note 51=5573
+note 52=5614
+note 53=5684
+note 54=5755
+note 55=5777
+note 56=5796
+note 57=5818
+note 58=5888
+note 59=5959
+note 60=6000
+note 61=6071
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6275
+note 66=6316
+note 67=6386
+note 68=6427
+note 69=6498
+note 70=6520
+note 71=6569
+note 72=6590
+note 73=6610
+note 74=6631
+note 75=6680
+note 76=6702
+note 77=6773
+note 78=6814
+note 79=6884
+note 80=6955
+note 81=6977
+note 82=6996
+note 83=7018
+note 84=7088
+note 85=7159
+note 86=7200
+note 87=7271
+note 88=7312
+note 89=7382
+note 90=7404
+note 91=7475
+note 92=7516
+note 93=7586
+note 94=7627
+note 95=7698
+note 96=7720
+note 97=7769
+note 98=7790
+note 99=7810
+note 100=7831
+note 101=7880
+note 102=7902
+note 103=7973
+note 104=8014
+note 105=8084
+note 106=8155
+note 107=8177
+note 108=8196
+note 109=8218
+note 110=8288
+note 111=8359
+note 112=8400
+note 113=8471
+note 114=8512
+note 115=8582
+note 116=8604
+note 117=8675
+note 118=8716
+note 119=8786
+note 120=8827
+note 121=8898
+note 122=8920
+note 123=8969
+note 124=8990
+note 125=9010
+note 126=9031
+note 127=9080
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mersenne_26.tun"
+ID= "ID_mersenne_26.tun"
+Filename= "mersenne_26.scl"
+Description= "26-note choice system of Mersenne, Traité de l'orgue, 1635, p. 46-48"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3213.686286
+note 1= 3284.358713
+note 2= 3355.031140
+note 3= 3376.537429
+note 4= 3396.089998
+note 5= 3417.596288
+note 6= 3488.268715
+note 7= 3558.941142
+note 8= 3600.000000
+note 9= 3670.672427
+note 10= 3711.731285
+note 11= 3782.403712
+note 12= 3803.910002
+note 13= 3874.582429
+note 14= 3915.641287
+note 15= 3986.313714
+note 16= 4027.372572
+note 17= 4098.044999
+note 18= 4119.551289
+note 19= 4168.717426
+note 20= 4190.223716
+note 21= 4209.776284
+note 22= 4231.282574
+note 23= 4280.448711
+note 24= 4301.955001
+note 25= 4372.627428
+note 26= 4413.686286
+note 27= 4484.358713
+note 28= 4555.031140
+note 29= 4576.537429
+note 30= 4596.089998
+note 31= 4617.596288
+note 32= 4688.268715
+note 33= 4758.941142
+note 34= 4800.000000
+note 35= 4870.672427
+note 36= 4911.731285
+note 37= 4982.403712
+note 38= 5003.910002
+note 39= 5074.582429
+note 40= 5115.641287
+note 41= 5186.313714
+note 42= 5227.372572
+note 43= 5298.044999
+note 44= 5319.551289
+note 45= 5368.717426
+note 46= 5390.223716
+note 47= 5409.776284
+note 48= 5431.282574
+note 49= 5480.448711
+note 50= 5501.955001
+note 51= 5572.627428
+note 52= 5613.686286
+note 53= 5684.358713
+note 54= 5755.031140
+note 55= 5776.537429
+note 56= 5796.089998
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6274.582429
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6427.372572
+note 69= 6498.044999
+note 70= 6519.551289
+note 71= 6568.717426
+note 72= 6590.223716
+note 73= 6609.776284
+note 74= 6631.282574
+note 75= 6680.448711
+note 76= 6701.955001
+note 77= 6772.627428
+note 78= 6813.686286
+note 79= 6884.358713
+note 80= 6955.031140
+note 81= 6976.537429
+note 82= 6996.089998
+note 83= 7017.596288
+note 84= 7088.268715
+note 85= 7158.941142
+note 86= 7200.000000
+note 87= 7270.672427
+note 88= 7311.731285
+note 89= 7382.403712
+note 90= 7403.910002
+note 91= 7474.582429
+note 92= 7515.641287
+note 93= 7586.313714
+note 94= 7627.372572
+note 95= 7698.044999
+note 96= 7719.551289
+note 97= 7768.717426
+note 98= 7790.223716
+note 99= 7809.776284
+note 100= 7831.282574
+note 101= 7880.448711
+note 102= 7901.955001
+note 103= 7972.627428
+note 104= 8013.686286
+note 105= 8084.358713
+note 106= 8155.031140
+note 107= 8176.537429
+note 108= 8196.089998
+note 109= 8217.596288
+note 110= 8288.268715
+note 111= 8358.941142
+note 112= 8400.000000
+note 113= 8470.672427
+note 114= 8511.731285
+note 115= 8582.403712
+note 116= 8603.910002
+note 117= 8674.582429
+note 118= 8715.641287
+note 119= 8786.313714
+note 120= 8827.372572
+note 121= 8898.044999
+note 122= 8919.551289
+note 123= 8968.717426
+note 124= 8990.223716
+note 125= 9009.776284
+note 126= 9031.282574
+note 127= 9080.448711
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 75/64"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 32/25"
+note 9="#=0 * 4/3"
+note 10="#=0 * 27/20"
+note 11="#=0 * 25/18"
+note 12="#=0 * 45/32"
+note 13="#=0 * 64/45"
+note 14="#=0 * 36/25"
+note 15="#=0 * 40/27"
+note 16="#=0 * 3/2"
+note 17="#=0 * 25/16"
+note 18="#=0 * 8/5"
+note 19="#=0 * 5/3"
+note 20="#=0 * 125/72"
+note 21="#=0 * 225/128"
+note 22="#=0 * 16/9"
+note 23="#=0 * 9/5"
+note 24="#=0 * 15/8"
+note 25="#=0 * 125/64"
+note 26="#>-26 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

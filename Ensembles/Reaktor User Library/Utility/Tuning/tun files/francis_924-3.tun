@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; J. Charles Francis, Bach temperament for BWV 924 version 3 (2005)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=99
+note 2=204
+note 3=303
+note 4=401
+note 5=507
+note 6=597
+note 7=702
+note 8=801
+note 9=906
+note 10=1005
+note 11=1095
+note 12=1200
+note 13=1299
+note 14=1404
+note 15=1503
+note 16=1601
+note 17=1707
+note 18=1797
+note 19=1902
+note 20=2001
+note 21=2106
+note 22=2205
+note 23=2295
+note 24=2400
+note 25=2499
+note 26=2604
+note 27=2703
+note 28=2801
+note 29=2907
+note 30=2997
+note 31=3102
+note 32=3201
+note 33=3306
+note 34=3405
+note 35=3495
+note 36=3600
+note 37=3699
+note 38=3804
+note 39=3903
+note 40=4001
+note 41=4107
+note 42=4197
+note 43=4302
+note 44=4401
+note 45=4506
+note 46=4605
+note 47=4695
+note 48=4800
+note 49=4899
+note 50=5004
+note 51=5103
+note 52=5201
+note 53=5307
+note 54=5397
+note 55=5502
+note 56=5601
+note 57=5706
+note 58=5805
+note 59=5895
+note 60=6000
+note 61=6099
+note 62=6204
+note 63=6303
+note 64=6401
+note 65=6507
+note 66=6597
+note 67=6702
+note 68=6801
+note 69=6906
+note 70=7005
+note 71=7095
+note 72=7200
+note 73=7299
+note 74=7404
+note 75=7503
+note 76=7601
+note 77=7707
+note 78=7797
+note 79=7902
+note 80=8001
+note 81=8106
+note 82=8205
+note 83=8295
+note 84=8400
+note 85=8499
+note 86=8604
+note 87=8703
+note 88=8801
+note 89=8907
+note 90=8997
+note 91=9102
+note 92=9201
+note 93=9306
+note 94=9405
+note 95=9495
+note 96=9600
+note 97=9699
+note 98=9804
+note 99=9903
+note 100=10001
+note 101=10107
+note 102=10197
+note 103=10302
+note 104=10401
+note 105=10506
+note 106=10605
+note 107=10695
+note 108=10800
+note 109=10899
+note 110=11004
+note 111=11103
+note 112=11201
+note 113=11307
+note 114=11397
+note 115=11502
+note 116=11601
+note 117=11706
+note 118=11805
+note 119=11895
+note 120=12000
+note 121=12099
+note 122=12204
+note 123=12303
+note 124=12401
+note 125=12507
+note 126=12597
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "francis_924-3.tun"
+ID= "ID_francis_924-3.tun"
+Filename= "francis_924-3.scl"
+Description= "J. Charles Francis, Bach temperament for BWV 924 version 3 (2005)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 99.348330
+note 2= 203.910002
+note 3= 303.258330
+note 4= 400.651670
+note 5= 507.168340
+note 6= 597.393330
+note 7= 701.955001
+note 8= 801.303330
+note 9= 905.865003
+note 10= 1005.213340
+note 11= 1095.438330
+note 12= 1200.000000
+note 13= 1299.348330
+note 14= 1403.910002
+note 15= 1503.258330
+note 16= 1600.651670
+note 17= 1707.168340
+note 18= 1797.393330
+note 19= 1901.955001
+note 20= 2001.303330
+note 21= 2105.865003
+note 22= 2205.213340
+note 23= 2295.438330
+note 24= 2400.000000
+note 25= 2499.348330
+note 26= 2603.910002
+note 27= 2703.258330
+note 28= 2800.651670
+note 29= 2907.168340
+note 30= 2997.393330
+note 31= 3101.955001
+note 32= 3201.303330
+note 33= 3305.865003
+note 34= 3405.213340
+note 35= 3495.438330
+note 36= 3600.000000
+note 37= 3699.348330
+note 38= 3803.910002
+note 39= 3903.258330
+note 40= 4000.651670
+note 41= 4107.168340
+note 42= 4197.393330
+note 43= 4301.955001
+note 44= 4401.303330
+note 45= 4505.865003
+note 46= 4605.213340
+note 47= 4695.438330
+note 48= 4800.000000
+note 49= 4899.348330
+note 50= 5003.910002
+note 51= 5103.258330
+note 52= 5200.651670
+note 53= 5307.168340
+note 54= 5397.393330
+note 55= 5501.955001
+note 56= 5601.303330
+note 57= 5705.865003
+note 58= 5805.213340
+note 59= 5895.438330
+note 60= 6000.000000
+note 61= 6099.348330
+note 62= 6203.910002
+note 63= 6303.258330
+note 64= 6400.651670
+note 65= 6507.168340
+note 66= 6597.393330
+note 67= 6701.955001
+note 68= 6801.303330
+note 69= 6905.865003
+note 70= 7005.213340
+note 71= 7095.438330
+note 72= 7200.000000
+note 73= 7299.348330
+note 74= 7403.910002
+note 75= 7503.258330
+note 76= 7600.651670
+note 77= 7707.168340
+note 78= 7797.393330
+note 79= 7901.955001
+note 80= 8001.303330
+note 81= 8105.865003
+note 82= 8205.213340
+note 83= 8295.438330
+note 84= 8400.000000
+note 85= 8499.348330
+note 86= 8603.910002
+note 87= 8703.258330
+note 88= 8800.651670
+note 89= 8907.168340
+note 90= 8997.393330
+note 91= 9101.955001
+note 92= 9201.303330
+note 93= 9305.865003
+note 94= 9405.213340
+note 95= 9495.438330
+note 96= 9600.000000
+note 97= 9699.348330
+note 98= 9803.910002
+note 99= 9903.258330
+note 100= 10000.651670
+note 101= 10107.168340
+note 102= 10197.393330
+note 103= 10301.955001
+note 104= 10401.303330
+note 105= 10505.865003
+note 106= 10605.213340
+note 107= 10695.438330
+note 108= 10800.000000
+note 109= 10899.348330
+note 110= 11003.910002
+note 111= 11103.258330
+note 112= 11200.651670
+note 113= 11307.168340
+note 114= 11397.393330
+note 115= 11501.955001
+note 116= 11601.303330
+note 117= 11705.865003
+note 118= 11805.213340
+note 119= 11895.438330
+note 120= 12000.000000
+note 121= 12099.348330
+note 122= 12203.910002
+note 123= 12303.258330
+note 124= 12400.651670
+note 125= 12507.168340
+note 126= 12597.393330
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 % 99.348330"
+note 2="#=0 * 9/8"
+note 3="#=0 % 303.258330"
+note 4="#=0 % 400.651670"
+note 5="#=0 % 507.168340"
+note 6="#=0 % 597.393330"
+note 7="#=0 * 3/2"
+note 8="#=0 % 801.303330"
+note 9="#=0 * 27/16"
+note 10="#=0 % 1005.213340"
+note 11="#=0 % 1095.438330"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

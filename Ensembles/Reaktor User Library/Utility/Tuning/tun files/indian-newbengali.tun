@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Modern Bengali scale,S.M. Tagore: The mus. scales of the Hindus,Calcutta 1884
+;
+; VAZ Plus section
+[Tuning]
+note 0=2716
+note 1=2774
+note 2=2835
+note 3=2898
+note 4=2943
+note 5=2990
+note 6=3037
+note 7=3085
+note 8=3136
+note 9=3187
+note 10=3241
+note 11=3296
+note 12=3352
+note 13=3411
+note 14=3470
+note 15=3535
+note 16=3600
+note 17=3649
+note 18=3699
+note 19=3751
+note 20=3804
+note 21=3859
+note 22=3916
+note 23=3974
+note 24=4035
+note 25=4098
+note 26=4143
+note 27=4190
+note 28=4237
+note 29=4285
+note 30=4336
+note 31=4387
+note 32=4441
+note 33=4496
+note 34=4552
+note 35=4611
+note 36=4670
+note 37=4735
+note 38=4800
+note 39=4849
+note 40=4899
+note 41=4951
+note 42=5004
+note 43=5059
+note 44=5116
+note 45=5174
+note 46=5235
+note 47=5298
+note 48=5343
+note 49=5390
+note 50=5437
+note 51=5485
+note 52=5536
+note 53=5587
+note 54=5641
+note 55=5696
+note 56=5752
+note 57=5811
+note 58=5870
+note 59=5935
+note 60=6000
+note 61=6049
+note 62=6099
+note 63=6151
+note 64=6204
+note 65=6259
+note 66=6316
+note 67=6374
+note 68=6435
+note 69=6498
+note 70=6543
+note 71=6590
+note 72=6637
+note 73=6685
+note 74=6736
+note 75=6787
+note 76=6841
+note 77=6896
+note 78=6952
+note 79=7011
+note 80=7070
+note 81=7135
+note 82=7200
+note 83=7249
+note 84=7299
+note 85=7351
+note 86=7404
+note 87=7459
+note 88=7516
+note 89=7574
+note 90=7635
+note 91=7698
+note 92=7743
+note 93=7790
+note 94=7837
+note 95=7885
+note 96=7936
+note 97=7987
+note 98=8041
+note 99=8096
+note 100=8152
+note 101=8211
+note 102=8270
+note 103=8335
+note 104=8400
+note 105=8449
+note 106=8499
+note 107=8551
+note 108=8604
+note 109=8659
+note 110=8716
+note 111=8774
+note 112=8835
+note 113=8898
+note 114=8943
+note 115=8990
+note 116=9037
+note 117=9085
+note 118=9136
+note 119=9187
+note 120=9241
+note 121=9296
+note 122=9352
+note 123=9411
+note 124=9470
+note 125=9535
+note 126=9600
+note 127=9649
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian-newbengali.tun"
+ID= "ID_indian-newbengali.tun"
+Filename= "indian-newbengali.scl"
+Description= "Modern Bengali scale,S.M. Tagore: The mus. scales of the Hindus,Calcutta 1884"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2715.641287
+note 1= 2774.000000
+note 2= 2835.000000
+note 3= 2898.044999
+note 4= 2943.000000
+note 5= 2990.223716
+note 6= 3037.000000
+note 7= 3085.000000
+note 8= 3136.000000
+note 9= 3187.000000
+note 10= 3241.000000
+note 11= 3296.000000
+note 12= 3352.000000
+note 13= 3411.000000
+note 14= 3470.000000
+note 15= 3535.000000
+note 16= 3600.000000
+note 17= 3649.000000
+note 18= 3699.000000
+note 19= 3751.000000
+note 20= 3803.910002
+note 21= 3859.000000
+note 22= 3915.641287
+note 23= 3974.000000
+note 24= 4035.000000
+note 25= 4098.044999
+note 26= 4143.000000
+note 27= 4190.223716
+note 28= 4237.000000
+note 29= 4285.000000
+note 30= 4336.000000
+note 31= 4387.000000
+note 32= 4441.000000
+note 33= 4496.000000
+note 34= 4552.000000
+note 35= 4611.000000
+note 36= 4670.000000
+note 37= 4735.000000
+note 38= 4800.000000
+note 39= 4849.000000
+note 40= 4899.000000
+note 41= 4951.000000
+note 42= 5003.910002
+note 43= 5059.000000
+note 44= 5115.641287
+note 45= 5174.000000
+note 46= 5235.000000
+note 47= 5298.044999
+note 48= 5343.000000
+note 49= 5390.223716
+note 50= 5437.000000
+note 51= 5485.000000
+note 52= 5536.000000
+note 53= 5587.000000
+note 54= 5641.000000
+note 55= 5696.000000
+note 56= 5752.000000
+note 57= 5811.000000
+note 58= 5870.000000
+note 59= 5935.000000
+note 60= 6000.000000
+note 61= 6049.000000
+note 62= 6099.000000
+note 63= 6151.000000
+note 64= 6203.910002
+note 65= 6259.000000
+note 66= 6315.641287
+note 67= 6374.000000
+note 68= 6435.000000
+note 69= 6498.044999
+note 70= 6543.000000
+note 71= 6590.223716
+note 72= 6637.000000
+note 73= 6685.000000
+note 74= 6736.000000
+note 75= 6787.000000
+note 76= 6841.000000
+note 77= 6896.000000
+note 78= 6952.000000
+note 79= 7011.000000
+note 80= 7070.000000
+note 81= 7135.000000
+note 82= 7200.000000
+note 83= 7249.000000
+note 84= 7299.000000
+note 85= 7351.000000
+note 86= 7403.910002
+note 87= 7459.000000
+note 88= 7515.641287
+note 89= 7574.000000
+note 90= 7635.000000
+note 91= 7698.044999
+note 92= 7743.000000
+note 93= 7790.223716
+note 94= 7837.000000
+note 95= 7885.000000
+note 96= 7936.000000
+note 97= 7987.000000
+note 98= 8041.000000
+note 99= 8096.000000
+note 100= 8152.000000
+note 101= 8211.000000
+note 102= 8270.000000
+note 103= 8335.000000
+note 104= 8400.000000
+note 105= 8449.000000
+note 106= 8499.000000
+note 107= 8551.000000
+note 108= 8603.910002
+note 109= 8659.000000
+note 110= 8715.641287
+note 111= 8774.000000
+note 112= 8835.000000
+note 113= 8898.044999
+note 114= 8943.000000
+note 115= 8990.223716
+note 116= 9037.000000
+note 117= 9085.000000
+note 118= 9136.000000
+note 119= 9187.000000
+note 120= 9241.000000
+note 121= 9296.000000
+note 122= 9352.000000
+note 123= 9411.000000
+note 124= 9470.000000
+note 125= 9535.000000
+note 126= 9600.000000
+note 127= 9649.000000
+
+[Functional Tuning]
+note 1="#=0 % 49.000000"
+note 2="#=0 % 99.000000"
+note 3="#=0 % 151.000000"
+note 4="#=0 * 9/8"
+note 5="#=0 % 259.000000"
+note 6="#=0 * 6/5"
+note 7="#=0 % 374.000000"
+note 8="#=0 % 435.000000"
+note 9="#=0 * 4/3"
+note 10="#=0 % 543.000000"
+note 11="#=0 * 45/32"
+note 12="#=0 % 637.000000"
+note 13="#=0 % 685.000000"
+note 14="#=0 % 736.000000"
+note 15="#=0 % 787.000000"
+note 16="#=0 % 841.000000"
+note 17="#=0 % 896.000000"
+note 18="#=0 % 952.000000"
+note 19="#=0 % 1011.000000"
+note 20="#=0 % 1070.000000"
+note 21="#=0 % 1135.000000"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

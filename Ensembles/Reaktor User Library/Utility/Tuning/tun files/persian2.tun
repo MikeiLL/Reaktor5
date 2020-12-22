@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Traditional Persian scale, from Mark Rankin
+;
+; VAZ Plus section
+[Tuning]
+note 0=1788
+note 1=1866
+note 2=1902
+note 3=1992
+note 4=2053
+note 5=2106
+note 6=2196
+note 7=2286
+note 8=2364
+note 9=2400
+note 10=2490
+note 11=2568
+note 12=2604
+note 13=2694
+note 14=2755
+note 15=2808
+note 16=2898
+note 17=2988
+note 18=3066
+note 19=3102
+note 20=3192
+note 21=3253
+note 22=3306
+note 23=3396
+note 24=3486
+note 25=3564
+note 26=3600
+note 27=3690
+note 28=3768
+note 29=3804
+note 30=3894
+note 31=3955
+note 32=4008
+note 33=4098
+note 34=4188
+note 35=4266
+note 36=4302
+note 37=4392
+note 38=4453
+note 39=4506
+note 40=4596
+note 41=4686
+note 42=4764
+note 43=4800
+note 44=4890
+note 45=4968
+note 46=5004
+note 47=5094
+note 48=5155
+note 49=5208
+note 50=5298
+note 51=5388
+note 52=5466
+note 53=5502
+note 54=5592
+note 55=5653
+note 56=5706
+note 57=5796
+note 58=5886
+note 59=5964
+note 60=6000
+note 61=6090
+note 62=6168
+note 63=6204
+note 64=6294
+note 65=6355
+note 66=6408
+note 67=6498
+note 68=6588
+note 69=6666
+note 70=6702
+note 71=6792
+note 72=6853
+note 73=6906
+note 74=6996
+note 75=7086
+note 76=7164
+note 77=7200
+note 78=7290
+note 79=7368
+note 80=7404
+note 81=7494
+note 82=7555
+note 83=7608
+note 84=7698
+note 85=7788
+note 86=7866
+note 87=7902
+note 88=7992
+note 89=8053
+note 90=8106
+note 91=8196
+note 92=8286
+note 93=8364
+note 94=8400
+note 95=8490
+note 96=8568
+note 97=8604
+note 98=8694
+note 99=8755
+note 100=8808
+note 101=8898
+note 102=8988
+note 103=9066
+note 104=9102
+note 105=9192
+note 106=9253
+note 107=9306
+note 108=9396
+note 109=9486
+note 110=9564
+note 111=9600
+note 112=9690
+note 113=9768
+note 114=9804
+note 115=9894
+note 116=9955
+note 117=10008
+note 118=10098
+note 119=10188
+note 120=10266
+note 121=10302
+note 122=10392
+note 123=10453
+note 124=10506
+note 125=10596
+note 126=10686
+note 127=10764
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "persian2.tun"
+ID= "ID_persian2.tun"
+Filename= "persian2.scl"
+Description= "Traditional Persian scale, from Mark Rankin"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1788.269995
+note 1= 1866.258189
+note 2= 1901.955001
+note 3= 1992.179997
+note 4= 2052.592059
+note 5= 2105.865003
+note 6= 2196.089998
+note 7= 2286.314994
+note 8= 2364.303188
+note 9= 2400.000000
+note 10= 2490.224996
+note 11= 2568.213190
+note 12= 2603.910002
+note 13= 2694.134997
+note 14= 2754.547060
+note 15= 2807.820003
+note 16= 2898.044999
+note 17= 2988.269995
+note 18= 3066.258189
+note 19= 3101.955001
+note 20= 3192.179997
+note 21= 3252.592059
+note 22= 3305.865003
+note 23= 3396.089998
+note 24= 3486.314994
+note 25= 3564.303188
+note 26= 3600.000000
+note 27= 3690.224996
+note 28= 3768.213190
+note 29= 3803.910002
+note 30= 3894.134997
+note 31= 3954.547060
+note 32= 4007.820003
+note 33= 4098.044999
+note 34= 4188.269995
+note 35= 4266.258189
+note 36= 4301.955001
+note 37= 4392.179997
+note 38= 4452.592059
+note 39= 4505.865003
+note 40= 4596.089998
+note 41= 4686.314994
+note 42= 4764.303188
+note 43= 4800.000000
+note 44= 4890.224996
+note 45= 4968.213190
+note 46= 5003.910002
+note 47= 5094.134997
+note 48= 5154.547060
+note 49= 5207.820003
+note 50= 5298.044999
+note 51= 5388.269995
+note 52= 5466.258189
+note 53= 5501.955001
+note 54= 5592.179997
+note 55= 5652.592059
+note 56= 5705.865003
+note 57= 5796.089998
+note 58= 5886.314994
+note 59= 5964.303188
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6168.213190
+note 63= 6203.910002
+note 64= 6294.134997
+note 65= 6354.547060
+note 66= 6407.820003
+note 67= 6498.044999
+note 68= 6588.269995
+note 69= 6666.258189
+note 70= 6701.955001
+note 71= 6792.179997
+note 72= 6852.592059
+note 73= 6905.865003
+note 74= 6996.089998
+note 75= 7086.314994
+note 76= 7164.303188
+note 77= 7200.000000
+note 78= 7290.224996
+note 79= 7368.213190
+note 80= 7403.910002
+note 81= 7494.134997
+note 82= 7554.547060
+note 83= 7607.820003
+note 84= 7698.044999
+note 85= 7788.269995
+note 86= 7866.258189
+note 87= 7901.955001
+note 88= 7992.179997
+note 89= 8052.592059
+note 90= 8105.865003
+note 91= 8196.089998
+note 92= 8286.314994
+note 93= 8364.303188
+note 94= 8400.000000
+note 95= 8490.224996
+note 96= 8568.213190
+note 97= 8603.910002
+note 98= 8694.134997
+note 99= 8754.547060
+note 100= 8807.820003
+note 101= 8898.044999
+note 102= 8988.269995
+note 103= 9066.258189
+note 104= 9101.955001
+note 105= 9192.179997
+note 106= 9252.592059
+note 107= 9305.865003
+note 108= 9396.089998
+note 109= 9486.314994
+note 110= 9564.303188
+note 111= 9600.000000
+note 112= 9690.224996
+note 113= 9768.213190
+note 114= 9803.910002
+note 115= 9894.134997
+note 116= 9954.547060
+note 117= 10007.820003
+note 118= 10098.044999
+note 119= 10188.269995
+note 120= 10266.258189
+note 121= 10301.955001
+note 122= 10392.179997
+note 123= 10452.592059
+note 124= 10505.865003
+note 125= 10596.089998
+note 126= 10686.314994
+note 127= 10764.303188
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 54/49"
+note 3="#=0 * 9/8"
+note 4="#=0 * 32/27"
+note 5="#=0 * 27/22"
+note 6="#=0 * 81/64"
+note 7="#=0 * 4/3"
+note 8="#=0 * 1024/729"
+note 9="#=0 * 72/49"
+note 10="#=0 * 3/2"
+note 11="#=0 * 128/81"
+note 12="#=0 * 18/11"
+note 13="#=0 * 27/16"
+note 14="#=0 * 16/9"
+note 15="#=0 * 4096/2187"
+note 16="#=0 * 96/49"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

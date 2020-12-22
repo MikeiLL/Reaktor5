@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Detempered Blackjack in 1/4 kleismic marvel tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=2553
+note 1=2631
+note 2=2669
+note 3=2747
+note 4=2784
+note 5=2869
+note 6=2900
+note 7=2984
+note 8=3016
+note 9=3100
+note 10=3131
+note 11=3216
+note 12=3253
+note 13=3331
+note 14=3369
+note 15=3447
+note 16=3484
+note 17=3562
+note 18=3600
+note 19=3638
+note 20=3716
+note 21=3753
+note 22=3831
+note 23=3869
+note 24=3947
+note 25=3984
+note 26=4069
+note 27=4100
+note 28=4184
+note 29=4216
+note 30=4300
+note 31=4331
+note 32=4416
+note 33=4453
+note 34=4531
+note 35=4569
+note 36=4647
+note 37=4684
+note 38=4762
+note 39=4800
+note 40=4838
+note 41=4916
+note 42=4953
+note 43=5031
+note 44=5069
+note 45=5147
+note 46=5184
+note 47=5269
+note 48=5300
+note 49=5384
+note 50=5416
+note 51=5500
+note 52=5531
+note 53=5616
+note 54=5653
+note 55=5731
+note 56=5769
+note 57=5847
+note 58=5884
+note 59=5962
+note 60=6000
+note 61=6038
+note 62=6116
+note 63=6153
+note 64=6231
+note 65=6269
+note 66=6347
+note 67=6384
+note 68=6469
+note 69=6500
+note 70=6584
+note 71=6616
+note 72=6700
+note 73=6731
+note 74=6816
+note 75=6853
+note 76=6931
+note 77=6969
+note 78=7047
+note 79=7084
+note 80=7162
+note 81=7200
+note 82=7238
+note 83=7316
+note 84=7353
+note 85=7431
+note 86=7469
+note 87=7547
+note 88=7584
+note 89=7669
+note 90=7700
+note 91=7784
+note 92=7816
+note 93=7900
+note 94=7931
+note 95=8016
+note 96=8053
+note 97=8131
+note 98=8169
+note 99=8247
+note 100=8284
+note 101=8362
+note 102=8400
+note 103=8438
+note 104=8516
+note 105=8553
+note 106=8631
+note 107=8669
+note 108=8747
+note 109=8784
+note 110=8869
+note 111=8900
+note 112=8984
+note 113=9016
+note 114=9100
+note 115=9131
+note 116=9216
+note 117=9253
+note 118=9331
+note 119=9369
+note 120=9447
+note 121=9484
+note 122=9562
+note 123=9600
+note 124=9638
+note 125=9716
+note 126=9753
+note 127=9831
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "blackj_gws.tun"
+ID= "ID_blackj_gws.tun"
+Filename= "blackj_gws.scl"
+Description= "Detempered Blackjack in 1/4 kleismic marvel tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2553.211740
+note 1= 2631.174094
+note 2= 2668.798790
+note 3= 2746.761140
+note 4= 2784.385830
+note 5= 2868.853030
+note 6= 2899.972880
+note 7= 2984.440070
+note 8= 3015.559930
+note 9= 3100.027120
+note 10= 3131.146970
+note 11= 3215.614170
+note 12= 3253.238860
+note 13= 3331.201210
+note 14= 3368.825906
+note 15= 3446.788260
+note 16= 3484.412950
+note 17= 3562.375310
+note 18= 3600.000000
+note 19= 3637.624690
+note 20= 3715.587050
+note 21= 3753.211740
+note 22= 3831.174094
+note 23= 3868.798790
+note 24= 3946.761140
+note 25= 3984.385830
+note 26= 4068.853030
+note 27= 4099.972880
+note 28= 4184.440070
+note 29= 4215.559930
+note 30= 4300.027120
+note 31= 4331.146970
+note 32= 4415.614170
+note 33= 4453.238860
+note 34= 4531.201210
+note 35= 4568.825906
+note 36= 4646.788260
+note 37= 4684.412950
+note 38= 4762.375310
+note 39= 4800.000000
+note 40= 4837.624690
+note 41= 4915.587050
+note 42= 4953.211740
+note 43= 5031.174094
+note 44= 5068.798790
+note 45= 5146.761140
+note 46= 5184.385830
+note 47= 5268.853030
+note 48= 5299.972880
+note 49= 5384.440070
+note 50= 5415.559930
+note 51= 5500.027120
+note 52= 5531.146970
+note 53= 5615.614170
+note 54= 5653.238860
+note 55= 5731.201210
+note 56= 5768.825906
+note 57= 5846.788260
+note 58= 5884.412950
+note 59= 5962.375310
+note 60= 6000.000000
+note 61= 6037.624690
+note 62= 6115.587050
+note 63= 6153.211740
+note 64= 6231.174094
+note 65= 6268.798790
+note 66= 6346.761140
+note 67= 6384.385830
+note 68= 6468.853030
+note 69= 6499.972880
+note 70= 6584.440070
+note 71= 6615.559930
+note 72= 6700.027120
+note 73= 6731.146970
+note 74= 6815.614170
+note 75= 6853.238860
+note 76= 6931.201210
+note 77= 6968.825906
+note 78= 7046.788260
+note 79= 7084.412950
+note 80= 7162.375310
+note 81= 7200.000000
+note 82= 7237.624690
+note 83= 7315.587050
+note 84= 7353.211740
+note 85= 7431.174094
+note 86= 7468.798790
+note 87= 7546.761140
+note 88= 7584.385830
+note 89= 7668.853030
+note 90= 7699.972880
+note 91= 7784.440070
+note 92= 7815.559930
+note 93= 7900.027120
+note 94= 7931.146970
+note 95= 8015.614170
+note 96= 8053.238860
+note 97= 8131.201210
+note 98= 8168.825906
+note 99= 8246.788260
+note 100= 8284.412950
+note 101= 8362.375310
+note 102= 8400.000000
+note 103= 8437.624690
+note 104= 8515.587050
+note 105= 8553.211740
+note 106= 8631.174094
+note 107= 8668.798790
+note 108= 8746.761140
+note 109= 8784.385830
+note 110= 8868.853030
+note 111= 8899.972880
+note 112= 8984.440070
+note 113= 9015.559930
+note 114= 9100.027120
+note 115= 9131.146970
+note 116= 9215.614170
+note 117= 9253.238860
+note 118= 9331.201210
+note 119= 9368.825906
+note 120= 9446.788260
+note 121= 9484.412950
+note 122= 9562.375310
+note 123= 9600.000000
+note 124= 9637.624690
+note 125= 9715.587050
+note 126= 9753.211740
+note 127= 9831.174094
+
+[Functional Tuning]
+note 1="#=0 % 37.624690"
+note 2="#=0 % 115.587050"
+note 3="#=0 % 153.211740"
+note 4="#=0 * 8/7"
+note 5="#=0 % 268.798790"
+note 6="#=0 % 346.761140"
+note 7="#=0 % 384.385830"
+note 8="#=0 % 468.853030"
+note 9="#=0 % 499.972880"
+note 10="#=0 % 584.440070"
+note 11="#=0 % 615.559930"
+note 12="#=0 % 700.027120"
+note 13="#=0 % 731.146970"
+note 14="#=0 % 815.614170"
+note 15="#=0 % 853.238860"
+note 16="#=0 % 931.201210"
+note 17="#=0 * 7/4"
+note 18="#=0 % 1046.788260"
+note 19="#=0 % 1084.412950"
+note 20="#=0 % 1162.375310"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Valentine-porcupine circulating strictly proper 15-note lesfip scale, 11 limit diamond target, 13.8 to 15.5 cent tolerance. Can be tuned in 77-tET
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1280
+note 2=1358
+note 3=1434
+note 4=1514
+note 5=1590
+note 6=1668
+note 7=1748
+note 8=1823
+note 9=1901
+note 10=1980
+note 11=2074
+note 12=2167
+note 13=2246
+note 14=2324
+note 15=2400
+note 16=2480
+note 17=2558
+note 18=2634
+note 19=2714
+note 20=2790
+note 21=2868
+note 22=2948
+note 23=3023
+note 24=3101
+note 25=3180
+note 26=3274
+note 27=3367
+note 28=3446
+note 29=3524
+note 30=3600
+note 31=3680
+note 32=3758
+note 33=3834
+note 34=3914
+note 35=3990
+note 36=4068
+note 37=4148
+note 38=4223
+note 39=4301
+note 40=4380
+note 41=4474
+note 42=4567
+note 43=4646
+note 44=4724
+note 45=4800
+note 46=4880
+note 47=4958
+note 48=5034
+note 49=5114
+note 50=5190
+note 51=5268
+note 52=5348
+note 53=5423
+note 54=5501
+note 55=5580
+note 56=5674
+note 57=5767
+note 58=5846
+note 59=5924
+note 60=6000
+note 61=6080
+note 62=6158
+note 63=6234
+note 64=6314
+note 65=6390
+note 66=6468
+note 67=6548
+note 68=6623
+note 69=6701
+note 70=6780
+note 71=6874
+note 72=6967
+note 73=7046
+note 74=7124
+note 75=7200
+note 76=7280
+note 77=7358
+note 78=7434
+note 79=7514
+note 80=7590
+note 81=7668
+note 82=7748
+note 83=7823
+note 84=7901
+note 85=7980
+note 86=8074
+note 87=8167
+note 88=8246
+note 89=8324
+note 90=8400
+note 91=8480
+note 92=8558
+note 93=8634
+note 94=8714
+note 95=8790
+note 96=8868
+note 97=8948
+note 98=9023
+note 99=9101
+note 100=9180
+note 101=9274
+note 102=9367
+note 103=9446
+note 104=9524
+note 105=9600
+note 106=9680
+note 107=9758
+note 108=9834
+note 109=9914
+note 110=9990
+note 111=10068
+note 112=10148
+note 113=10223
+note 114=10301
+note 115=10380
+note 116=10474
+note 117=10567
+note 118=10646
+note 119=10724
+note 120=10800
+note 121=10880
+note 122=10958
+note 123=11034
+note 124=11114
+note 125=11190
+note 126=11268
+note 127=11348
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "valenporc15.tun"
+ID= "ID_valenporc15.tun"
+Filename= "valenporc15.scl"
+Description= "Valentine-porcupine circulating strictly proper 15-note lesfip scale, 11 limit diamond target, 13.8 to 15.5 cent tolerance. Can be tuned in 77-tET"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1279.996980
+note 2= 1358.137710
+note 3= 1433.538970
+note 4= 1514.101670
+note 5= 1589.502930
+note 6= 1667.643650
+note 7= 1747.640640
+note 8= 1823.181790
+note 9= 1901.417130
+note 10= 1980.499080
+note 11= 2073.820320
+note 12= 2167.141560
+note 13= 2246.223500
+note 14= 2324.458850
+note 15= 2400.000000
+note 16= 2479.996980
+note 17= 2558.137710
+note 18= 2633.538970
+note 19= 2714.101670
+note 20= 2789.502930
+note 21= 2867.643650
+note 22= 2947.640640
+note 23= 3023.181790
+note 24= 3101.417130
+note 25= 3180.499080
+note 26= 3273.820320
+note 27= 3367.141560
+note 28= 3446.223500
+note 29= 3524.458850
+note 30= 3600.000000
+note 31= 3679.996980
+note 32= 3758.137710
+note 33= 3833.538970
+note 34= 3914.101670
+note 35= 3989.502930
+note 36= 4067.643650
+note 37= 4147.640640
+note 38= 4223.181790
+note 39= 4301.417130
+note 40= 4380.499080
+note 41= 4473.820320
+note 42= 4567.141560
+note 43= 4646.223500
+note 44= 4724.458850
+note 45= 4800.000000
+note 46= 4879.996980
+note 47= 4958.137710
+note 48= 5033.538970
+note 49= 5114.101670
+note 50= 5189.502930
+note 51= 5267.643650
+note 52= 5347.640640
+note 53= 5423.181790
+note 54= 5501.417130
+note 55= 5580.499080
+note 56= 5673.820320
+note 57= 5767.141560
+note 58= 5846.223500
+note 59= 5924.458850
+note 60= 6000.000000
+note 61= 6079.996980
+note 62= 6158.137710
+note 63= 6233.538970
+note 64= 6314.101670
+note 65= 6389.502930
+note 66= 6467.643650
+note 67= 6547.640640
+note 68= 6623.181790
+note 69= 6701.417130
+note 70= 6780.499080
+note 71= 6873.820320
+note 72= 6967.141560
+note 73= 7046.223500
+note 74= 7124.458850
+note 75= 7200.000000
+note 76= 7279.996980
+note 77= 7358.137710
+note 78= 7433.538970
+note 79= 7514.101670
+note 80= 7589.502930
+note 81= 7667.643650
+note 82= 7747.640640
+note 83= 7823.181790
+note 84= 7901.417130
+note 85= 7980.499080
+note 86= 8073.820320
+note 87= 8167.141560
+note 88= 8246.223500
+note 89= 8324.458850
+note 90= 8400.000000
+note 91= 8479.996980
+note 92= 8558.137710
+note 93= 8633.538970
+note 94= 8714.101670
+note 95= 8789.502930
+note 96= 8867.643650
+note 97= 8947.640640
+note 98= 9023.181790
+note 99= 9101.417130
+note 100= 9180.499080
+note 101= 9273.820320
+note 102= 9367.141560
+note 103= 9446.223500
+note 104= 9524.458850
+note 105= 9600.000000
+note 106= 9679.996980
+note 107= 9758.137710
+note 108= 9833.538970
+note 109= 9914.101670
+note 110= 9989.502930
+note 111= 10067.643650
+note 112= 10147.640640
+note 113= 10223.181790
+note 114= 10301.417130
+note 115= 10380.499080
+note 116= 10473.820320
+note 117= 10567.141560
+note 118= 10646.223500
+note 119= 10724.458850
+note 120= 10800.000000
+note 121= 10879.996980
+note 122= 10958.137710
+note 123= 11033.538970
+note 124= 11114.101670
+note 125= 11189.502930
+note 126= 11267.643650
+note 127= 11347.640640
+
+[Functional Tuning]
+note 1="#=0 % 79.996980"
+note 2="#=0 % 158.137710"
+note 3="#=0 % 233.538970"
+note 4="#=0 % 314.101670"
+note 5="#=0 % 389.502930"
+note 6="#=0 % 467.643650"
+note 7="#=0 % 547.640640"
+note 8="#=0 % 623.181790"
+note 9="#=0 % 701.417130"
+note 10="#=0 % 780.499080"
+note 11="#=0 % 873.820320"
+note 12="#=0 % 967.141560"
+note 13="#=0 % 1046.223500"
+note 14="#=0 % 1124.458850"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

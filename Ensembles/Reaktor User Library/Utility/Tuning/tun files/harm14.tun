@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Harmonics 14 to 28, Tessaradecatonic Harmonium, José Pereira de Sampaio (1903)
+;
+; VAZ Plus section
+[Tuning]
+note 0=933
+note 1=1004
+note 2=1072
+note 3=1137
+note 4=1200
+note 5=1319
+note 6=1431
+note 7=1536
+note 8=1635
+note 9=1729
+note 10=1817
+note 11=1902
+note 12=1982
+note 13=2059
+note 14=2133
+note 15=2204
+note 16=2272
+note 17=2337
+note 18=2400
+note 19=2519
+note 20=2631
+note 21=2736
+note 22=2835
+note 23=2929
+note 24=3017
+note 25=3102
+note 26=3182
+note 27=3259
+note 28=3333
+note 29=3404
+note 30=3472
+note 31=3537
+note 32=3600
+note 33=3719
+note 34=3831
+note 35=3936
+note 36=4035
+note 37=4129
+note 38=4217
+note 39=4302
+note 40=4382
+note 41=4459
+note 42=4533
+note 43=4604
+note 44=4672
+note 45=4737
+note 46=4800
+note 47=4919
+note 48=5031
+note 49=5136
+note 50=5235
+note 51=5329
+note 52=5417
+note 53=5502
+note 54=5582
+note 55=5659
+note 56=5733
+note 57=5804
+note 58=5872
+note 59=5937
+note 60=6000
+note 61=6119
+note 62=6231
+note 63=6336
+note 64=6435
+note 65=6529
+note 66=6617
+note 67=6702
+note 68=6782
+note 69=6859
+note 70=6933
+note 71=7004
+note 72=7072
+note 73=7137
+note 74=7200
+note 75=7319
+note 76=7431
+note 77=7536
+note 78=7635
+note 79=7729
+note 80=7817
+note 81=7902
+note 82=7982
+note 83=8059
+note 84=8133
+note 85=8204
+note 86=8272
+note 87=8337
+note 88=8400
+note 89=8519
+note 90=8631
+note 91=8736
+note 92=8835
+note 93=8929
+note 94=9017
+note 95=9102
+note 96=9182
+note 97=9259
+note 98=9333
+note 99=9404
+note 100=9472
+note 101=9537
+note 102=9600
+note 103=9719
+note 104=9831
+note 105=9936
+note 106=10035
+note 107=10129
+note 108=10217
+note 109=10302
+note 110=10382
+note 111=10459
+note 112=10533
+note 113=10604
+note 114=10672
+note 115=10737
+note 116=10800
+note 117=10919
+note 118=11031
+note 119=11136
+note 120=11235
+note 121=11329
+note 122=11417
+note 123=11502
+note 124=11582
+note 125=11659
+note 126=11733
+note 127=11804
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "harm14.tun"
+ID= "ID_harm14.tun"
+Filename= "harm14.scl"
+Description= "Harmonics 14 to 28, Tessaradecatonic Harmonium, José Pereira de Sampaio (1903)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 933.129094
+note 1= 1003.801521
+note 2= 1071.701755
+note 3= 1137.039096
+note 4= 1200.000000
+note 5= 1319.442808
+note 6= 1431.174094
+note 7= 1536.129503
+note 8= 1635.084095
+note 9= 1728.687110
+note 10= 1817.487807
+note 11= 1901.955001
+note 12= 1982.492036
+note 13= 2059.448441
+note 14= 2133.129094
+note 15= 2203.801521
+note 16= 2271.701755
+note 17= 2337.039096
+note 18= 2400.000000
+note 19= 2519.442808
+note 20= 2631.174094
+note 21= 2736.129503
+note 22= 2835.084095
+note 23= 2928.687110
+note 24= 3017.487807
+note 25= 3101.955001
+note 26= 3182.492036
+note 27= 3259.448441
+note 28= 3333.129094
+note 29= 3403.801521
+note 30= 3471.701755
+note 31= 3537.039096
+note 32= 3600.000000
+note 33= 3719.442808
+note 34= 3831.174094
+note 35= 3936.129503
+note 36= 4035.084095
+note 37= 4128.687110
+note 38= 4217.487807
+note 39= 4301.955001
+note 40= 4382.492036
+note 41= 4459.448441
+note 42= 4533.129094
+note 43= 4603.801521
+note 44= 4671.701755
+note 45= 4737.039096
+note 46= 4800.000000
+note 47= 4919.442808
+note 48= 5031.174094
+note 49= 5136.129503
+note 50= 5235.084095
+note 51= 5328.687110
+note 52= 5417.487807
+note 53= 5501.955001
+note 54= 5582.492036
+note 55= 5659.448441
+note 56= 5733.129094
+note 57= 5803.801521
+note 58= 5871.701755
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6119.442808
+note 62= 6231.174094
+note 63= 6336.129503
+note 64= 6435.084095
+note 65= 6528.687110
+note 66= 6617.487807
+note 67= 6701.955001
+note 68= 6782.492036
+note 69= 6859.448441
+note 70= 6933.129094
+note 71= 7003.801521
+note 72= 7071.701755
+note 73= 7137.039096
+note 74= 7200.000000
+note 75= 7319.442808
+note 76= 7431.174094
+note 77= 7536.129503
+note 78= 7635.084095
+note 79= 7728.687110
+note 80= 7817.487807
+note 81= 7901.955001
+note 82= 7982.492036
+note 83= 8059.448441
+note 84= 8133.129094
+note 85= 8203.801521
+note 86= 8271.701755
+note 87= 8337.039096
+note 88= 8400.000000
+note 89= 8519.442808
+note 90= 8631.174094
+note 91= 8736.129503
+note 92= 8835.084095
+note 93= 8928.687110
+note 94= 9017.487807
+note 95= 9101.955001
+note 96= 9182.492036
+note 97= 9259.448441
+note 98= 9333.129094
+note 99= 9403.801521
+note 100= 9471.701755
+note 101= 9537.039096
+note 102= 9600.000000
+note 103= 9719.442808
+note 104= 9831.174094
+note 105= 9936.129503
+note 106= 10035.084095
+note 107= 10128.687110
+note 108= 10217.487807
+note 109= 10301.955001
+note 110= 10382.492036
+note 111= 10459.448441
+note 112= 10533.129094
+note 113= 10603.801521
+note 114= 10671.701755
+note 115= 10737.039096
+note 116= 10800.000000
+note 117= 10919.442808
+note 118= 11031.174094
+note 119= 11136.129503
+note 120= 11235.084095
+note 121= 11328.687110
+note 122= 11417.487807
+note 123= 11501.955001
+note 124= 11582.492036
+note 125= 11659.448441
+note 126= 11733.129094
+note 127= 11803.801521
+
+[Functional Tuning]
+note 1="#=0 * 15/14"
+note 2="#=0 * 8/7"
+note 3="#=0 * 17/14"
+note 4="#=0 * 9/7"
+note 5="#=0 * 19/14"
+note 6="#=0 * 10/7"
+note 7="#=0 * 3/2"
+note 8="#=0 * 11/7"
+note 9="#=0 * 23/14"
+note 10="#=0 * 12/7"
+note 11="#=0 * 25/14"
+note 12="#=0 * 13/7"
+note 13="#=0 * 27/14"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

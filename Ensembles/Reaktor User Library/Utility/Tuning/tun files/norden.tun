@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Reconstructed Schnitger temperament, organ in Norden. Ortgies, 2002
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=86
+note 2=195
+note 3=294
+note 4=389
+note 5=503
+note 6=584
+note 7=697
+note 8=787
+note 9=892
+note 10=1001
+note 11=1086
+note 12=1200
+note 13=1286
+note 14=1395
+note 15=1494
+note 16=1589
+note 17=1703
+note 18=1784
+note 19=1897
+note 20=1987
+note 21=2092
+note 22=2201
+note 23=2286
+note 24=2400
+note 25=2486
+note 26=2595
+note 27=2694
+note 28=2789
+note 29=2903
+note 30=2984
+note 31=3097
+note 32=3187
+note 33=3292
+note 34=3401
+note 35=3486
+note 36=3600
+note 37=3686
+note 38=3795
+note 39=3894
+note 40=3989
+note 41=4103
+note 42=4184
+note 43=4297
+note 44=4387
+note 45=4492
+note 46=4601
+note 47=4686
+note 48=4800
+note 49=4886
+note 50=4995
+note 51=5094
+note 52=5189
+note 53=5303
+note 54=5384
+note 55=5497
+note 56=5587
+note 57=5692
+note 58=5801
+note 59=5886
+note 60=6000
+note 61=6086
+note 62=6195
+note 63=6294
+note 64=6389
+note 65=6503
+note 66=6584
+note 67=6697
+note 68=6787
+note 69=6892
+note 70=7001
+note 71=7086
+note 72=7200
+note 73=7286
+note 74=7395
+note 75=7494
+note 76=7589
+note 77=7703
+note 78=7784
+note 79=7897
+note 80=7987
+note 81=8092
+note 82=8201
+note 83=8286
+note 84=8400
+note 85=8486
+note 86=8595
+note 87=8694
+note 88=8789
+note 89=8903
+note 90=8984
+note 91=9097
+note 92=9187
+note 93=9292
+note 94=9401
+note 95=9486
+note 96=9600
+note 97=9686
+note 98=9795
+note 99=9894
+note 100=9989
+note 101=10103
+note 102=10184
+note 103=10297
+note 104=10387
+note 105=10492
+note 106=10601
+note 107=10686
+note 108=10800
+note 109=10886
+note 110=10995
+note 111=11094
+note 112=11189
+note 113=11303
+note 114=11384
+note 115=11497
+note 116=11587
+note 117=11692
+note 118=11801
+note 119=11886
+note 120=12000
+note 121=12086
+note 122=12195
+note 123=12294
+note 124=12389
+note 125=12503
+note 126=12584
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "norden.tun"
+ID= "ID_norden.tun"
+Filename= "norden.scl"
+Description= "Reconstructed Schnitger temperament, organ in Norden. Ortgies, 2002"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 85.532990
+note 2= 194.526000
+note 3= 294.134997
+note 4= 389.052000
+note 5= 502.737000
+note 6= 583.577990
+note 7= 697.263000
+note 8= 787.487990
+note 9= 891.789000
+note 10= 1000.782000
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1285.532990
+note 14= 1394.526000
+note 15= 1494.134997
+note 16= 1589.052000
+note 17= 1702.737000
+note 18= 1783.577990
+note 19= 1897.263000
+note 20= 1987.487990
+note 21= 2091.789000
+note 22= 2200.782000
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2485.532990
+note 26= 2594.526000
+note 27= 2694.134997
+note 28= 2789.052000
+note 29= 2902.737000
+note 30= 2983.577990
+note 31= 3097.263000
+note 32= 3187.487990
+note 33= 3291.789000
+note 34= 3400.782000
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3685.532990
+note 38= 3794.526000
+note 39= 3894.134997
+note 40= 3989.052000
+note 41= 4102.737000
+note 42= 4183.577990
+note 43= 4297.263000
+note 44= 4387.487990
+note 45= 4491.789000
+note 46= 4600.782000
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4885.532990
+note 50= 4994.526000
+note 51= 5094.134997
+note 52= 5189.052000
+note 53= 5302.737000
+note 54= 5383.577990
+note 55= 5497.263000
+note 56= 5587.487990
+note 57= 5691.789000
+note 58= 5800.782000
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6085.532990
+note 62= 6194.526000
+note 63= 6294.134997
+note 64= 6389.052000
+note 65= 6502.737000
+note 66= 6583.577990
+note 67= 6697.263000
+note 68= 6787.487990
+note 69= 6891.789000
+note 70= 7000.782000
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7285.532990
+note 74= 7394.526000
+note 75= 7494.134997
+note 76= 7589.052000
+note 77= 7702.737000
+note 78= 7783.577990
+note 79= 7897.263000
+note 80= 7987.487990
+note 81= 8091.789000
+note 82= 8200.782000
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8485.532990
+note 86= 8594.526000
+note 87= 8694.134997
+note 88= 8789.052000
+note 89= 8902.737000
+note 90= 8983.577990
+note 91= 9097.263000
+note 92= 9187.487990
+note 93= 9291.789000
+note 94= 9400.782000
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9685.532990
+note 98= 9794.526000
+note 99= 9894.134997
+note 100= 9989.052000
+note 101= 10102.737000
+note 102= 10183.577990
+note 103= 10297.263000
+note 104= 10387.487990
+note 105= 10491.789000
+note 106= 10600.782000
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10885.532990
+note 110= 10994.526000
+note 111= 11094.134997
+note 112= 11189.052000
+note 113= 11302.737000
+note 114= 11383.577990
+note 115= 11497.263000
+note 116= 11587.487990
+note 117= 11691.789000
+note 118= 11800.782000
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12085.532990
+note 122= 12194.526000
+note 123= 12294.134997
+note 124= 12389.052000
+note 125= 12502.737000
+note 126= 12583.577990
+note 127= 12697.263000
+
+[Functional Tuning]
+note 1="#=0 % 85.532990"
+note 2="#=0 % 194.526000"
+note 3="#=0 * 32/27"
+note 4="#=0 % 389.052000"
+note 5="#=0 % 502.737000"
+note 6="#=0 % 583.577990"
+note 7="#=0 % 697.263000"
+note 8="#=0 % 787.487990"
+note 9="#=0 % 891.789000"
+note 10="#=0 % 1000.782000"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Carl Lumma, intervals of attraction by trial and error, 1999.
+;
+; VAZ Plus section
+[Tuning]
+note 0=2747
+note 1=2786
+note 2=2835
+note 3=2898
+note 4=2951
+note 5=2983
+note 6=3102
+note 7=3182
+note 8=3214
+note 9=3241
+note 10=3284
+note 11=3333
+note 12=3369
+note 13=3418
+note 14=3449
+note 15=3488
+note 16=3600
+note 17=3765
+note 18=3804
+note 19=3831
+note 20=3867
+note 21=3916
+note 22=3947
+note 23=3986
+note 24=4035
+note 25=4098
+note 26=4151
+note 27=4183
+note 28=4302
+note 29=4382
+note 30=4414
+note 31=4441
+note 32=4484
+note 33=4533
+note 34=4569
+note 35=4618
+note 36=4649
+note 37=4688
+note 38=4800
+note 39=4965
+note 40=5004
+note 41=5031
+note 42=5067
+note 43=5116
+note 44=5147
+note 45=5186
+note 46=5235
+note 47=5298
+note 48=5351
+note 49=5383
+note 50=5502
+note 51=5582
+note 52=5614
+note 53=5641
+note 54=5684
+note 55=5733
+note 56=5769
+note 57=5818
+note 58=5849
+note 59=5888
+note 60=6000
+note 61=6165
+note 62=6204
+note 63=6231
+note 64=6267
+note 65=6316
+note 66=6347
+note 67=6386
+note 68=6435
+note 69=6498
+note 70=6551
+note 71=6583
+note 72=6702
+note 73=6782
+note 74=6814
+note 75=6841
+note 76=6884
+note 77=6933
+note 78=6969
+note 79=7018
+note 80=7049
+note 81=7088
+note 82=7200
+note 83=7365
+note 84=7404
+note 85=7431
+note 86=7467
+note 87=7516
+note 88=7547
+note 89=7586
+note 90=7635
+note 91=7698
+note 92=7751
+note 93=7783
+note 94=7902
+note 95=7982
+note 96=8014
+note 97=8041
+note 98=8084
+note 99=8133
+note 100=8169
+note 101=8218
+note 102=8249
+note 103=8288
+note 104=8400
+note 105=8565
+note 106=8604
+note 107=8631
+note 108=8667
+note 109=8716
+note 110=8747
+note 111=8786
+note 112=8835
+note 113=8898
+note 114=8951
+note 115=8983
+note 116=9102
+note 117=9182
+note 118=9214
+note 119=9241
+note 120=9284
+note 121=9333
+note 122=9369
+note 123=9418
+note 124=9449
+note 125=9488
+note 126=9600
+note 127=9765
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "lumma_22.tun"
+ID= "ID_lumma_22.tun"
+Filename= "lumma_22.scl"
+Description= "Carl Lumma, intervals of attraction by trial and error, 1999."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2747.407941
+note 1= 2786.313714
+note 2= 2835.084095
+note 3= 2898.044999
+note 4= 2951.317942
+note 5= 2982.512193
+note 6= 3101.955001
+note 7= 3182.492036
+note 8= 3213.686286
+note 9= 3240.527662
+note 10= 3284.358713
+note 11= 3333.129094
+note 12= 3368.825906
+note 13= 3417.596288
+note 14= 3449.362941
+note 15= 3488.268715
+note 16= 3600.000000
+note 17= 3765.004228
+note 18= 3803.910002
+note 19= 3831.174094
+note 20= 3866.870906
+note 21= 3915.641287
+note 22= 3947.407941
+note 23= 3986.313714
+note 24= 4035.084095
+note 25= 4098.044999
+note 26= 4151.317942
+note 27= 4182.512193
+note 28= 4301.955001
+note 29= 4382.492036
+note 30= 4413.686286
+note 31= 4440.527662
+note 32= 4484.358713
+note 33= 4533.129094
+note 34= 4568.825906
+note 35= 4617.596288
+note 36= 4649.362941
+note 37= 4688.268715
+note 38= 4800.000000
+note 39= 4965.004228
+note 40= 5003.910002
+note 41= 5031.174094
+note 42= 5066.870906
+note 43= 5115.641287
+note 44= 5147.407941
+note 45= 5186.313714
+note 46= 5235.084095
+note 47= 5298.044999
+note 48= 5351.317942
+note 49= 5382.512193
+note 50= 5501.955001
+note 51= 5582.492036
+note 52= 5613.686286
+note 53= 5640.527662
+note 54= 5684.358713
+note 55= 5733.129094
+note 56= 5768.825906
+note 57= 5817.596288
+note 58= 5849.362941
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6165.004228
+note 62= 6203.910002
+note 63= 6231.174094
+note 64= 6266.870906
+note 65= 6315.641287
+note 66= 6347.407941
+note 67= 6386.313714
+note 68= 6435.084095
+note 69= 6498.044999
+note 70= 6551.317942
+note 71= 6582.512193
+note 72= 6701.955001
+note 73= 6782.492036
+note 74= 6813.686286
+note 75= 6840.527662
+note 76= 6884.358713
+note 77= 6933.129094
+note 78= 6968.825906
+note 79= 7017.596288
+note 80= 7049.362941
+note 81= 7088.268715
+note 82= 7200.000000
+note 83= 7365.004228
+note 84= 7403.910002
+note 85= 7431.174094
+note 86= 7466.870906
+note 87= 7515.641287
+note 88= 7547.407941
+note 89= 7586.313714
+note 90= 7635.084095
+note 91= 7698.044999
+note 92= 7751.317942
+note 93= 7782.512193
+note 94= 7901.955001
+note 95= 7982.492036
+note 96= 8013.686286
+note 97= 8040.527662
+note 98= 8084.358713
+note 99= 8133.129094
+note 100= 8168.825906
+note 101= 8217.596288
+note 102= 8249.362941
+note 103= 8288.268715
+note 104= 8400.000000
+note 105= 8565.004228
+note 106= 8603.910002
+note 107= 8631.174094
+note 108= 8666.870906
+note 109= 8715.641287
+note 110= 8747.407941
+note 111= 8786.313714
+note 112= 8835.084095
+note 113= 8898.044999
+note 114= 8951.317942
+note 115= 8982.512193
+note 116= 9101.955001
+note 117= 9182.492036
+note 118= 9213.686286
+note 119= 9240.527662
+note 120= 9284.358713
+note 121= 9333.129094
+note 122= 9368.825906
+note 123= 9417.596288
+note 124= 9449.362941
+note 125= 9488.268715
+note 126= 9600.000000
+note 127= 9765.004228
+
+[Functional Tuning]
+note 1="#=0 * 11/10"
+note 2="#=0 * 9/8"
+note 3="#=0 * 8/7"
+note 4="#=0 * 7/6"
+note 5="#=0 * 6/5"
+note 6="#=0 * 11/9"
+note 7="#=0 * 5/4"
+note 8="#=0 * 9/7"
+note 9="#=0 * 4/3"
+note 10="#=0 * 11/8"
+note 11="#=0 * 7/5"
+note 12="#=0 * 3/2"
+note 13="#=0 * 11/7"
+note 14="#=0 * 8/5"
+note 15="#=0 * 13/8"
+note 16="#=0 * 5/3"
+note 17="#=0 * 12/7"
+note 18="#=0 * 7/4"
+note 19="#=0 * 9/5"
+note 20="#=0 * 11/6"
+note 21="#=0 * 15/8"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

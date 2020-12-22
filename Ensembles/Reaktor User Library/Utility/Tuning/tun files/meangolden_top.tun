@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Meantone scale with Blackwood's R = phi, TOP tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=-9
+note 1=65
+note 2=184
+note 3=303
+note 4=376
+note 5=495
+note 6=569
+note 7=688
+note 8=807
+note 9=881
+note 10=1000
+note 11=1074
+note 12=1193
+note 13=1266
+note 14=1385
+note 15=1505
+note 16=1578
+note 17=1697
+note 18=1771
+note 19=1890
+note 20=2009
+note 21=2083
+note 22=2202
+note 23=2275
+note 24=2395
+note 25=2468
+note 26=2587
+note 27=2706
+note 28=2780
+note 29=2899
+note 30=2973
+note 31=3092
+note 32=3211
+note 33=3285
+note 34=3404
+note 35=3477
+note 36=3596
+note 37=3670
+note 38=3789
+note 39=3908
+note 40=3982
+note 41=4101
+note 42=4175
+note 43=4294
+note 44=4413
+note 45=4486
+note 46=4605
+note 47=4679
+note 48=4798
+note 49=4872
+note 50=4991
+note 51=5110
+note 52=5184
+note 53=5303
+note 54=5376
+note 55=5495
+note 56=5615
+note 57=5688
+note 58=5807
+note 59=5881
+note 60=6000
+note 61=6074
+note 62=6193
+note 63=6312
+note 64=6385
+note 65=6505
+note 66=6578
+note 67=6697
+note 68=6816
+note 69=6890
+note 70=7009
+note 71=7083
+note 72=7202
+note 73=7275
+note 74=7395
+note 75=7514
+note 76=7587
+note 77=7706
+note 78=7780
+note 79=7899
+note 80=8018
+note 81=8092
+note 82=8211
+note 83=8285
+note 84=8404
+note 85=8477
+note 86=8596
+note 87=8715
+note 88=8789
+note 89=8908
+note 90=8982
+note 91=9101
+note 92=9220
+note 93=9294
+note 94=9413
+note 95=9486
+note 96=9605
+note 97=9679
+note 98=9798
+note 99=9917
+note 100=9991
+note 101=10110
+note 102=10184
+note 103=10303
+note 104=10422
+note 105=10495
+note 106=10615
+note 107=10688
+note 108=10807
+note 109=10881
+note 110=11000
+note 111=11119
+note 112=11193
+note 113=11312
+note 114=11385
+note 115=11505
+note 116=11624
+note 117=11697
+note 118=11816
+note 119=11890
+note 120=12009
+note 121=12083
+note 122=12202
+note 123=12321
+note 124=12395
+note 125=12514
+note 126=12587
+note 127=12706
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "meangolden_top.tun"
+ID= "ID_meangolden_top.tun"
+Filename= "meangolden_top.scl"
+Description= "Meantone scale with Blackwood's R = phi, TOP tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-9.068350
+note 1= 64.544060
+note 2= 183.651430
+note 3= 302.758810
+note 4= 376.371220
+note 5= 495.478590
+note 6= 569.091000
+note 7= 688.198380
+note 8= 807.305750
+note 9= 880.918160
+note 10= 1000.025540
+note 11= 1073.637950
+note 12= 1192.745320
+note 13= 1266.357730
+note 14= 1385.465100
+note 15= 1504.572480
+note 16= 1578.184890
+note 17= 1697.292260
+note 18= 1770.904670
+note 19= 1890.012050
+note 20= 2009.119420
+note 21= 2082.731830
+note 22= 2201.839210
+note 23= 2275.451620
+note 24= 2394.558990
+note 25= 2468.171400
+note 26= 2587.278770
+note 27= 2706.386150
+note 28= 2779.998560
+note 29= 2899.105930
+note 30= 2972.718340
+note 31= 3091.825720
+note 32= 3210.933090
+note 33= 3284.545500
+note 34= 3403.652880
+note 35= 3477.265290
+note 36= 3596.372660
+note 37= 3669.985070
+note 38= 3789.092440
+note 39= 3908.199820
+note 40= 3981.812230
+note 41= 4100.919600
+note 42= 4174.532010
+note 43= 4293.639390
+note 44= 4412.746760
+note 45= 4486.359170
+note 46= 4605.466550
+note 47= 4679.078960
+note 48= 4798.186330
+note 49= 4871.798740
+note 50= 4990.906110
+note 51= 5110.013490
+note 52= 5183.625900
+note 53= 5302.733270
+note 54= 5376.345680
+note 55= 5495.453060
+note 56= 5614.560430
+note 57= 5688.172840
+note 58= 5807.280220
+note 59= 5880.892630
+note 60= 6000.000000
+note 61= 6073.612410
+note 62= 6192.719780
+note 63= 6311.827160
+note 64= 6385.439570
+note 65= 6504.546940
+note 66= 6578.159350
+note 67= 6697.266730
+note 68= 6816.374100
+note 69= 6889.986510
+note 70= 7009.093890
+note 71= 7082.706300
+note 72= 7201.813670
+note 73= 7275.426080
+note 74= 7394.533450
+note 75= 7513.640830
+note 76= 7587.253240
+note 77= 7706.360610
+note 78= 7779.973020
+note 79= 7899.080400
+note 80= 8018.187770
+note 81= 8091.800180
+note 82= 8210.907560
+note 83= 8284.519970
+note 84= 8403.627340
+note 85= 8477.239750
+note 86= 8596.347120
+note 87= 8715.454500
+note 88= 8789.066910
+note 89= 8908.174280
+note 90= 8981.786690
+note 91= 9100.894070
+note 92= 9220.001440
+note 93= 9293.613850
+note 94= 9412.721230
+note 95= 9486.333640
+note 96= 9605.441010
+note 97= 9679.053420
+note 98= 9798.160790
+note 99= 9917.268170
+note 100= 9990.880580
+note 101= 10109.987950
+note 102= 10183.600360
+note 103= 10302.707740
+note 104= 10421.815110
+note 105= 10495.427520
+note 106= 10614.534900
+note 107= 10688.147310
+note 108= 10807.254680
+note 109= 10880.867090
+note 110= 10999.974460
+note 111= 11119.081840
+note 112= 11192.694250
+note 113= 11311.801620
+note 114= 11385.414030
+note 115= 11504.521410
+note 116= 11623.628780
+note 117= 11697.241190
+note 118= 11816.348570
+note 119= 11889.960980
+note 120= 12009.068350
+note 121= 12082.680760
+note 122= 12201.788130
+note 123= 12320.895510
+note 124= 12394.507920
+note 125= 12513.615290
+note 126= 12587.227700
+note 127= 12706.335080
+
+[Functional Tuning]
+note 1="#=0 % 73.612410"
+note 2="#=0 % 192.719780"
+note 3="#=0 % 311.827160"
+note 4="#=0 % 385.439570"
+note 5="#=0 % 504.546940"
+note 6="#=0 % 578.159350"
+note 7="#=0 % 697.266730"
+note 8="#=0 % 816.374100"
+note 9="#=0 % 889.986510"
+note 10="#=0 % 1009.093890"
+note 11="#=0 % 1082.706300"
+note 12="#>-12 % 1201.813670 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

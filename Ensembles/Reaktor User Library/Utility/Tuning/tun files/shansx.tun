@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Untempered Tanaka/Hanson harmonic system including the kleisma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=63
+note 2=245
+note 3=316
+note 4=378
+note 5=561
+note 6=631
+note 7=814
+note 8=876
+note 9=947
+note 10=1129
+note 11=1192
+note 12=1200
+note 13=1263
+note 14=1445
+note 15=1516
+note 16=1578
+note 17=1761
+note 18=1831
+note 19=2014
+note 20=2076
+note 21=2147
+note 22=2329
+note 23=2392
+note 24=2400
+note 25=2463
+note 26=2645
+note 27=2716
+note 28=2778
+note 29=2961
+note 30=3031
+note 31=3214
+note 32=3276
+note 33=3347
+note 34=3529
+note 35=3592
+note 36=3600
+note 37=3663
+note 38=3845
+note 39=3916
+note 40=3978
+note 41=4161
+note 42=4231
+note 43=4414
+note 44=4476
+note 45=4547
+note 46=4729
+note 47=4792
+note 48=4800
+note 49=4863
+note 50=5045
+note 51=5116
+note 52=5178
+note 53=5361
+note 54=5431
+note 55=5614
+note 56=5676
+note 57=5747
+note 58=5929
+note 59=5992
+note 60=6000
+note 61=6063
+note 62=6245
+note 63=6316
+note 64=6378
+note 65=6561
+note 66=6631
+note 67=6814
+note 68=6876
+note 69=6947
+note 70=7129
+note 71=7192
+note 72=7200
+note 73=7263
+note 74=7445
+note 75=7516
+note 76=7578
+note 77=7761
+note 78=7831
+note 79=8014
+note 80=8076
+note 81=8147
+note 82=8329
+note 83=8392
+note 84=8400
+note 85=8463
+note 86=8645
+note 87=8716
+note 88=8778
+note 89=8961
+note 90=9031
+note 91=9214
+note 92=9276
+note 93=9347
+note 94=9529
+note 95=9592
+note 96=9600
+note 97=9663
+note 98=9845
+note 99=9916
+note 100=9978
+note 101=10161
+note 102=10231
+note 103=10414
+note 104=10476
+note 105=10547
+note 106=10729
+note 107=10792
+note 108=10800
+note 109=10863
+note 110=11045
+note 111=11116
+note 112=11178
+note 113=11361
+note 114=11431
+note 115=11614
+note 116=11676
+note 117=11747
+note 118=11929
+note 119=11992
+note 120=12000
+note 121=12063
+note 122=12245
+note 123=12316
+note 124=12378
+note 125=12561
+note 126=12631
+note 127=12814
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "shansx.tun"
+ID= "ID_shansx.tun"
+Filename= "shansx.scl"
+Description= "Untempered Tanaka/Hanson harmonic system including the kleisma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 62.565148
+note 2= 244.968860
+note 3= 315.641287
+note 4= 378.206435
+note 5= 560.610147
+note 6= 631.282574
+note 7= 813.686286
+note 8= 876.251434
+note 9= 946.923861
+note 10= 1129.327573
+note 11= 1191.892721
+note 12= 1200.000000
+note 13= 1262.565148
+note 14= 1444.968860
+note 15= 1515.641287
+note 16= 1578.206435
+note 17= 1760.610147
+note 18= 1831.282574
+note 19= 2013.686286
+note 20= 2076.251434
+note 21= 2146.923861
+note 22= 2329.327573
+note 23= 2391.892721
+note 24= 2400.000000
+note 25= 2462.565148
+note 26= 2644.968860
+note 27= 2715.641287
+note 28= 2778.206435
+note 29= 2960.610147
+note 30= 3031.282574
+note 31= 3213.686286
+note 32= 3276.251434
+note 33= 3346.923861
+note 34= 3529.327573
+note 35= 3591.892721
+note 36= 3600.000000
+note 37= 3662.565148
+note 38= 3844.968860
+note 39= 3915.641287
+note 40= 3978.206435
+note 41= 4160.610147
+note 42= 4231.282574
+note 43= 4413.686286
+note 44= 4476.251434
+note 45= 4546.923861
+note 46= 4729.327573
+note 47= 4791.892721
+note 48= 4800.000000
+note 49= 4862.565148
+note 50= 5044.968860
+note 51= 5115.641287
+note 52= 5178.206435
+note 53= 5360.610147
+note 54= 5431.282574
+note 55= 5613.686286
+note 56= 5676.251434
+note 57= 5746.923861
+note 58= 5929.327573
+note 59= 5991.892721
+note 60= 6000.000000
+note 61= 6062.565148
+note 62= 6244.968860
+note 63= 6315.641287
+note 64= 6378.206435
+note 65= 6560.610147
+note 66= 6631.282574
+note 67= 6813.686286
+note 68= 6876.251434
+note 69= 6946.923861
+note 70= 7129.327573
+note 71= 7191.892721
+note 72= 7200.000000
+note 73= 7262.565148
+note 74= 7444.968860
+note 75= 7515.641287
+note 76= 7578.206435
+note 77= 7760.610147
+note 78= 7831.282574
+note 79= 8013.686286
+note 80= 8076.251434
+note 81= 8146.923861
+note 82= 8329.327573
+note 83= 8391.892721
+note 84= 8400.000000
+note 85= 8462.565148
+note 86= 8644.968860
+note 87= 8715.641287
+note 88= 8778.206435
+note 89= 8960.610147
+note 90= 9031.282574
+note 91= 9213.686286
+note 92= 9276.251434
+note 93= 9346.923861
+note 94= 9529.327573
+note 95= 9591.892721
+note 96= 9600.000000
+note 97= 9662.565148
+note 98= 9844.968860
+note 99= 9915.641287
+note 100= 9978.206435
+note 101= 10160.610147
+note 102= 10231.282574
+note 103= 10413.686286
+note 104= 10476.251434
+note 105= 10546.923861
+note 106= 10729.327573
+note 107= 10791.892721
+note 108= 10800.000000
+note 109= 10862.565148
+note 110= 11044.968860
+note 111= 11115.641287
+note 112= 11178.206435
+note 113= 11360.610147
+note 114= 11431.282574
+note 115= 11613.686286
+note 116= 11676.251434
+note 117= 11746.923861
+note 118= 11929.327573
+note 119= 11991.892721
+note 120= 12000.000000
+note 121= 12062.565148
+note 122= 12244.968860
+note 123= 12315.641287
+note 124= 12378.206435
+note 125= 12560.610147
+note 126= 12631.282574
+note 127= 12813.686286
+
+[Functional Tuning]
+note 1="#=0 * 648/625"
+note 2="#=0 * 144/125"
+note 3="#=0 * 6/5"
+note 4="#=0 * 3888/3125"
+note 5="#=0 * 864/625"
+note 6="#=0 * 36/25"
+note 7="#=0 * 8/5"
+note 8="#=0 * 5184/3125"
+note 9="#=0 * 216/125"
+note 10="#=0 * 48/25"
+note 11="#=0 * 31104/15625"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

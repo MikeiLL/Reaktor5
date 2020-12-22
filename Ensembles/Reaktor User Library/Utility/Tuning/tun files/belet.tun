@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Belet, Brian 1992  Proceedings of the ICMC pp.158-161.
+;
+; VAZ Plus section
+[Tuning]
+note 0=386
+note 1=498
+note 2=551
+note 3=702
+note 4=814
+note 5=841
+note 6=969
+note 7=1088
+note 8=1200
+note 9=1312
+note 10=1382
+note 11=1404
+note 12=1516
+note 13=1586
+note 14=1698
+note 15=1751
+note 16=1902
+note 17=2014
+note 18=2041
+note 19=2169
+note 20=2288
+note 21=2400
+note 22=2512
+note 23=2582
+note 24=2604
+note 25=2716
+note 26=2786
+note 27=2898
+note 28=2951
+note 29=3102
+note 30=3214
+note 31=3241
+note 32=3369
+note 33=3488
+note 34=3600
+note 35=3712
+note 36=3782
+note 37=3804
+note 38=3916
+note 39=3986
+note 40=4098
+note 41=4151
+note 42=4302
+note 43=4414
+note 44=4441
+note 45=4569
+note 46=4688
+note 47=4800
+note 48=4912
+note 49=4982
+note 50=5004
+note 51=5116
+note 52=5186
+note 53=5298
+note 54=5351
+note 55=5502
+note 56=5614
+note 57=5641
+note 58=5769
+note 59=5888
+note 60=6000
+note 61=6112
+note 62=6182
+note 63=6204
+note 64=6316
+note 65=6386
+note 66=6498
+note 67=6551
+note 68=6702
+note 69=6814
+note 70=6841
+note 71=6969
+note 72=7088
+note 73=7200
+note 74=7312
+note 75=7382
+note 76=7404
+note 77=7516
+note 78=7586
+note 79=7698
+note 80=7751
+note 81=7902
+note 82=8014
+note 83=8041
+note 84=8169
+note 85=8288
+note 86=8400
+note 87=8512
+note 88=8582
+note 89=8604
+note 90=8716
+note 91=8786
+note 92=8898
+note 93=8951
+note 94=9102
+note 95=9214
+note 96=9241
+note 97=9369
+note 98=9488
+note 99=9600
+note 100=9712
+note 101=9782
+note 102=9804
+note 103=9916
+note 104=9986
+note 105=10098
+note 106=10151
+note 107=10302
+note 108=10414
+note 109=10441
+note 110=10569
+note 111=10688
+note 112=10800
+note 113=10912
+note 114=10982
+note 115=11004
+note 116=11116
+note 117=11186
+note 118=11298
+note 119=11351
+note 120=11502
+note 121=11614
+note 122=11641
+note 123=11769
+note 124=11888
+note 125=12000
+note 126=12112
+note 127=12182
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "belet.tun"
+ID= "ID_belet.tun"
+Filename= "belet.scl"
+Description= "Belet, Brian 1992  Proceedings of the ICMC pp.158-161."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 386.313714
+note 1= 498.044999
+note 2= 551.317942
+note 3= 701.955001
+note 4= 813.686286
+note 5= 840.527662
+note 6= 968.825906
+note 7= 1088.268715
+note 8= 1200.000000
+note 9= 1311.731285
+note 10= 1382.403712
+note 11= 1403.910002
+note 12= 1515.641287
+note 13= 1586.313714
+note 14= 1698.044999
+note 15= 1751.317942
+note 16= 1901.955001
+note 17= 2013.686286
+note 18= 2040.527662
+note 19= 2168.825906
+note 20= 2288.268715
+note 21= 2400.000000
+note 22= 2511.731285
+note 23= 2582.403712
+note 24= 2603.910002
+note 25= 2715.641287
+note 26= 2786.313714
+note 27= 2898.044999
+note 28= 2951.317942
+note 29= 3101.955001
+note 30= 3213.686286
+note 31= 3240.527662
+note 32= 3368.825906
+note 33= 3488.268715
+note 34= 3600.000000
+note 35= 3711.731285
+note 36= 3782.403712
+note 37= 3803.910002
+note 38= 3915.641287
+note 39= 3986.313714
+note 40= 4098.044999
+note 41= 4151.317942
+note 42= 4301.955001
+note 43= 4413.686286
+note 44= 4440.527662
+note 45= 4568.825906
+note 46= 4688.268715
+note 47= 4800.000000
+note 48= 4911.731285
+note 49= 4982.403712
+note 50= 5003.910002
+note 51= 5115.641287
+note 52= 5186.313714
+note 53= 5298.044999
+note 54= 5351.317942
+note 55= 5501.955001
+note 56= 5613.686286
+note 57= 5640.527662
+note 58= 5768.825906
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6182.403712
+note 63= 6203.910002
+note 64= 6315.641287
+note 65= 6386.313714
+note 66= 6498.044999
+note 67= 6551.317942
+note 68= 6701.955001
+note 69= 6813.686286
+note 70= 6840.527662
+note 71= 6968.825906
+note 72= 7088.268715
+note 73= 7200.000000
+note 74= 7311.731285
+note 75= 7382.403712
+note 76= 7403.910002
+note 77= 7515.641287
+note 78= 7586.313714
+note 79= 7698.044999
+note 80= 7751.317942
+note 81= 7901.955001
+note 82= 8013.686286
+note 83= 8040.527662
+note 84= 8168.825906
+note 85= 8288.268715
+note 86= 8400.000000
+note 87= 8511.731285
+note 88= 8582.403712
+note 89= 8603.910002
+note 90= 8715.641287
+note 91= 8786.313714
+note 92= 8898.044999
+note 93= 8951.317942
+note 94= 9101.955001
+note 95= 9213.686286
+note 96= 9240.527662
+note 97= 9368.825906
+note 98= 9488.268715
+note 99= 9600.000000
+note 100= 9711.731285
+note 101= 9782.403712
+note 102= 9803.910002
+note 103= 9915.641287
+note 104= 9986.313714
+note 105= 10098.044999
+note 106= 10151.317942
+note 107= 10301.955001
+note 108= 10413.686286
+note 109= 10440.527662
+note 110= 10568.825906
+note 111= 10688.268715
+note 112= 10800.000000
+note 113= 10911.731285
+note 114= 10982.403712
+note 115= 11003.910002
+note 116= 11115.641287
+note 117= 11186.313714
+note 118= 11298.044999
+note 119= 11351.317942
+note 120= 11501.955001
+note 121= 11613.686286
+note 122= 11640.527662
+note 123= 11768.825906
+note 124= 11888.268715
+note 125= 12000.000000
+note 126= 12111.731285
+note 127= 12182.403712
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 10/9"
+note 3="#=0 * 9/8"
+note 4="#=0 * 6/5"
+note 5="#=0 * 5/4"
+note 6="#=0 * 4/3"
+note 7="#=0 * 11/8"
+note 8="#=0 * 3/2"
+note 9="#=0 * 8/5"
+note 10="#=0 * 13/8"
+note 11="#=0 * 7/4"
+note 12="#=0 * 15/8"
+note 13="#>-13 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

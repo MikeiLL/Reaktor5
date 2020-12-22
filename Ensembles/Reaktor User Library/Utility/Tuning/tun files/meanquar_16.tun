@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 1/4-comma meantone scale with split C#/Db, D#/Eb, G#/Ab and A#/Bb
+;
+; VAZ Plus section
+[Tuning]
+note 0=1469
+note 1=1510
+note 2=1586
+note 3=1703
+note 4=1779
+note 5=1897
+note 6=1973
+note 7=2014
+note 8=2090
+note 9=2166
+note 10=2207
+note 11=2283
+note 12=2400
+note 13=2476
+note 14=2517
+note 15=2593
+note 16=2669
+note 17=2710
+note 18=2786
+note 19=2903
+note 20=2979
+note 21=3097
+note 22=3173
+note 23=3214
+note 24=3290
+note 25=3366
+note 26=3407
+note 27=3483
+note 28=3600
+note 29=3676
+note 30=3717
+note 31=3793
+note 32=3869
+note 33=3910
+note 34=3986
+note 35=4103
+note 36=4179
+note 37=4297
+note 38=4373
+note 39=4414
+note 40=4490
+note 41=4566
+note 42=4607
+note 43=4683
+note 44=4800
+note 45=4876
+note 46=4917
+note 47=4993
+note 48=5069
+note 49=5110
+note 50=5186
+note 51=5303
+note 52=5379
+note 53=5497
+note 54=5573
+note 55=5614
+note 56=5690
+note 57=5766
+note 58=5807
+note 59=5883
+note 60=6000
+note 61=6076
+note 62=6117
+note 63=6193
+note 64=6269
+note 65=6310
+note 66=6386
+note 67=6503
+note 68=6579
+note 69=6697
+note 70=6773
+note 71=6814
+note 72=6890
+note 73=6966
+note 74=7007
+note 75=7083
+note 76=7200
+note 77=7276
+note 78=7317
+note 79=7393
+note 80=7469
+note 81=7510
+note 82=7586
+note 83=7703
+note 84=7779
+note 85=7897
+note 86=7973
+note 87=8014
+note 88=8090
+note 89=8166
+note 90=8207
+note 91=8283
+note 92=8400
+note 93=8476
+note 94=8517
+note 95=8593
+note 96=8669
+note 97=8710
+note 98=8786
+note 99=8903
+note 100=8979
+note 101=9097
+note 102=9173
+note 103=9214
+note 104=9290
+note 105=9366
+note 106=9407
+note 107=9483
+note 108=9600
+note 109=9676
+note 110=9717
+note 111=9793
+note 112=9869
+note 113=9910
+note 114=9986
+note 115=10103
+note 116=10179
+note 117=10297
+note 118=10373
+note 119=10414
+note 120=10490
+note 121=10566
+note 122=10607
+note 123=10683
+note 124=10800
+note 125=10876
+note 126=10917
+note 127=10993
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "meanquar_16.tun"
+ID= "ID_meanquar_16.tun"
+Filename= "meanquar_16.scl"
+Description= "1/4-comma meantone scale with split C#/Db, D#/Eb, G#/Ab and A#/Bb"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1469.206000
+note 1= 1510.265000
+note 2= 1586.313714
+note 3= 1703.422000
+note 4= 1779.471000
+note 5= 1896.578000
+note 6= 1972.627428
+note 7= 2013.686286
+note 8= 2089.735000
+note 9= 2165.784000
+note 10= 2206.843000
+note 11= 2282.892000
+note 12= 2400.000000
+note 13= 2476.049000
+note 14= 2517.109000
+note 15= 2593.157000
+note 16= 2669.206000
+note 17= 2710.265000
+note 18= 2786.313714
+note 19= 2903.422000
+note 20= 2979.471000
+note 21= 3096.578000
+note 22= 3172.627428
+note 23= 3213.686286
+note 24= 3289.735000
+note 25= 3365.784000
+note 26= 3406.843000
+note 27= 3482.892000
+note 28= 3600.000000
+note 29= 3676.049000
+note 30= 3717.109000
+note 31= 3793.157000
+note 32= 3869.206000
+note 33= 3910.265000
+note 34= 3986.313714
+note 35= 4103.422000
+note 36= 4179.471000
+note 37= 4296.578000
+note 38= 4372.627428
+note 39= 4413.686286
+note 40= 4489.735000
+note 41= 4565.784000
+note 42= 4606.843000
+note 43= 4682.892000
+note 44= 4800.000000
+note 45= 4876.049000
+note 46= 4917.109000
+note 47= 4993.157000
+note 48= 5069.206000
+note 49= 5110.265000
+note 50= 5186.313714
+note 51= 5303.422000
+note 52= 5379.471000
+note 53= 5496.578000
+note 54= 5572.627428
+note 55= 5613.686286
+note 56= 5689.735000
+note 57= 5765.784000
+note 58= 5806.843000
+note 59= 5882.892000
+note 60= 6000.000000
+note 61= 6076.049000
+note 62= 6117.109000
+note 63= 6193.157000
+note 64= 6269.206000
+note 65= 6310.265000
+note 66= 6386.313714
+note 67= 6503.422000
+note 68= 6579.471000
+note 69= 6696.578000
+note 70= 6772.627428
+note 71= 6813.686286
+note 72= 6889.735000
+note 73= 6965.784000
+note 74= 7006.843000
+note 75= 7082.892000
+note 76= 7200.000000
+note 77= 7276.049000
+note 78= 7317.109000
+note 79= 7393.157000
+note 80= 7469.206000
+note 81= 7510.265000
+note 82= 7586.313714
+note 83= 7703.422000
+note 84= 7779.471000
+note 85= 7896.578000
+note 86= 7972.627428
+note 87= 8013.686286
+note 88= 8089.735000
+note 89= 8165.784000
+note 90= 8206.843000
+note 91= 8282.892000
+note 92= 8400.000000
+note 93= 8476.049000
+note 94= 8517.109000
+note 95= 8593.157000
+note 96= 8669.206000
+note 97= 8710.265000
+note 98= 8786.313714
+note 99= 8903.422000
+note 100= 8979.471000
+note 101= 9096.578000
+note 102= 9172.627428
+note 103= 9213.686286
+note 104= 9289.735000
+note 105= 9365.784000
+note 106= 9406.843000
+note 107= 9482.892000
+note 108= 9600.000000
+note 109= 9676.049000
+note 110= 9717.109000
+note 111= 9793.157000
+note 112= 9869.206000
+note 113= 9910.265000
+note 114= 9986.313714
+note 115= 10103.422000
+note 116= 10179.471000
+note 117= 10296.578000
+note 118= 10372.627428
+note 119= 10413.686286
+note 120= 10489.735000
+note 121= 10565.784000
+note 122= 10606.843000
+note 123= 10682.892000
+note 124= 10800.000000
+note 125= 10876.049000
+note 126= 10917.109000
+note 127= 10993.157000
+
+[Functional Tuning]
+note 1="#=0 % 76.049000"
+note 2="#=0 % 117.109000"
+note 3="#=0 % 193.157000"
+note 4="#=0 % 269.206000"
+note 5="#=0 % 310.265000"
+note 6="#=0 * 5/4"
+note 7="#=0 % 503.422000"
+note 8="#=0 % 579.471000"
+note 9="#=0 % 696.578000"
+note 10="#=0 * 25/16"
+note 11="#=0 * 8/5"
+note 12="#=0 % 889.735000"
+note 13="#=0 % 965.784000"
+note 14="#=0 % 1006.843000"
+note 15="#=0 % 1082.892000"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

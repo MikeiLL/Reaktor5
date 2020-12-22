@@ -1,0 +1,314 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Cris Forster's Chrysalis tuning, XH 7+8
+;
+; VAZ Plus section
+[Tuning]
+note 0=3831
+note 1=3889
+note 2=3947
+note 3=3986
+note 4=4035
+note 5=4054
+note 6=4071
+note 7=4120
+note 8=4151
+note 9=4183
+note 10=4217
+note 11=4237
+note 12=4249
+note 13=4280
+note 14=4302
+note 15=4329
+note 16=4346
+note 17=4365
+note 18=4414
+note 19=4453
+note 20=4506
+note 21=4511
+note 22=4533
+note 23=4569
+note 24=4596
+note 25=4661
+note 26=4688
+note 27=4747
+note 28=4800
+note 29=4912
+note 30=4939
+note 31=4965
+note 32=5031
+note 33=5089
+note 34=5147
+note 35=5186
+note 36=5235
+note 37=5254
+note 38=5271
+note 39=5320
+note 40=5351
+note 41=5383
+note 42=5417
+note 43=5437
+note 44=5449
+note 45=5480
+note 46=5502
+note 47=5529
+note 48=5546
+note 49=5565
+note 50=5614
+note 51=5653
+note 52=5706
+note 53=5711
+note 54=5733
+note 55=5769
+note 56=5796
+note 57=5861
+note 58=5888
+note 59=5947
+note 60=6000
+note 61=6112
+note 62=6139
+note 63=6165
+note 64=6231
+note 65=6289
+note 66=6347
+note 67=6386
+note 68=6435
+note 69=6454
+note 70=6471
+note 71=6520
+note 72=6551
+note 73=6583
+note 74=6617
+note 75=6637
+note 76=6649
+note 77=6680
+note 78=6702
+note 79=6729
+note 80=6746
+note 81=6765
+note 82=6814
+note 83=6853
+note 84=6906
+note 85=6911
+note 86=6933
+note 87=6969
+note 88=6996
+note 89=7061
+note 90=7088
+note 91=7147
+note 92=7200
+note 93=7312
+note 94=7339
+note 95=7365
+note 96=7431
+note 97=7489
+note 98=7547
+note 99=7586
+note 100=7635
+note 101=7654
+note 102=7671
+note 103=7720
+note 104=7751
+note 105=7783
+note 106=7817
+note 107=7837
+note 108=7849
+note 109=7880
+note 110=7902
+note 111=7929
+note 112=7946
+note 113=7965
+note 114=8014
+note 115=8053
+note 116=8106
+note 117=8111
+note 118=8133
+note 119=8169
+note 120=8196
+note 121=8261
+note 122=8288
+note 123=8347
+note 124=8400
+note 125=8512
+note 126=8539
+note 127=8565
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "forster.tun"
+ID= "ID_forster.tun"
+Filename= "forster.scl"
+Description= "Cris Forster's Chrysalis tuning, XH 7+8"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3831.174094
+note 1= 3889.209719
+note 2= 3947.407941
+note 3= 3986.313714
+note 4= 4035.084095
+note 5= 4054.213948
+note 6= 4070.780907
+note 7= 4119.551289
+note 8= 4151.317942
+note 9= 4182.512193
+note 10= 4217.487807
+note 11= 4236.617660
+note 12= 4248.682058
+note 13= 4280.448711
+note 14= 4301.955001
+note 15= 4329.219093
+note 16= 4345.786052
+note 17= 4364.915905
+note 18= 4413.686286
+note 19= 4452.592059
+note 20= 4505.865003
+note 21= 4510.790281
+note 22= 4533.129094
+note 23= 4568.825906
+note 24= 4596.089998
+note 25= 4661.427339
+note 26= 4688.268715
+note 27= 4746.727057
+note 28= 4800.000000
+note 29= 4911.731285
+note 30= 4938.572661
+note 31= 4965.004228
+note 32= 5031.174094
+note 33= 5089.209719
+note 34= 5147.407941
+note 35= 5186.313714
+note 36= 5235.084095
+note 37= 5254.213948
+note 38= 5270.780907
+note 39= 5319.551289
+note 40= 5351.317942
+note 41= 5382.512193
+note 42= 5417.487807
+note 43= 5436.617660
+note 44= 5448.682058
+note 45= 5480.448711
+note 46= 5501.955001
+note 47= 5529.219093
+note 48= 5545.786052
+note 49= 5564.915905
+note 50= 5613.686286
+note 51= 5652.592059
+note 52= 5705.865003
+note 53= 5710.790281
+note 54= 5733.129094
+note 55= 5768.825906
+note 56= 5796.089998
+note 57= 5861.427339
+note 58= 5888.268715
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6138.572661
+note 63= 6165.004228
+note 64= 6231.174094
+note 65= 6289.209719
+note 66= 6347.407941
+note 67= 6386.313714
+note 68= 6435.084095
+note 69= 6454.213948
+note 70= 6470.780907
+note 71= 6519.551289
+note 72= 6551.317942
+note 73= 6582.512193
+note 74= 6617.487807
+note 75= 6636.617660
+note 76= 6648.682058
+note 77= 6680.448711
+note 78= 6701.955001
+note 79= 6729.219093
+note 80= 6745.786052
+note 81= 6764.915905
+note 82= 6813.686286
+note 83= 6852.592059
+note 84= 6905.865003
+note 85= 6910.790281
+note 86= 6933.129094
+note 87= 6968.825906
+note 88= 6996.089998
+note 89= 7061.427339
+note 90= 7088.268715
+note 91= 7146.727057
+note 92= 7200.000000
+note 93= 7311.731285
+note 94= 7338.572661
+note 95= 7365.004228
+note 96= 7431.174094
+note 97= 7489.209719
+note 98= 7547.407941
+note 99= 7586.313714
+note 100= 7635.084095
+note 101= 7654.213948
+note 102= 7670.780907
+note 103= 7719.551289
+note 104= 7751.317942
+note 105= 7782.512193
+note 106= 7817.487807
+note 107= 7836.617660
+note 108= 7848.682058
+note 109= 7880.448711
+note 110= 7901.955001
+note 111= 7929.219093
+note 112= 7945.786052
+note 113= 7964.915905
+note 114= 8013.686286
+note 115= 8052.592059
+note 116= 8105.865003
+note 117= 8110.790281
+note 118= 8133.129094
+note 119= 8168.825906
+note 120= 8196.089998
+note 121= 8261.427339
+note 122= 8288.268715
+note 123= 8346.727057
+note 124= 8400.000000
+note 125= 8511.731285
+note 126= 8538.572661
+note 127= 8565.004228
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 13/12"
+note 3="#=0 * 11/10"
+note 4="#=0 * 8/7"
+note 5="#=0 * 13/11"
+note 6="#=0 * 11/9"
+note 7="#=0 * 5/4"
+note 8="#=0 * 9/7"
+note 9="#=0 * 13/10"
+note 10="#=0 * 21/16"
+note 11="#=0 * 27/20"
+note 12="#=0 * 11/8"
+note 13="#=0 * 7/5"
+note 14="#=0 * 10/7"
+note 15="#=0 * 13/9"
+note 16="#=0 * 16/11"
+note 17="#=0 * 40/27"
+note 18="#=0 * 3/2"
+note 19="#=0 * 32/21"
+note 20="#=0 * 20/13"
+note 21="#=0 * 14/9"
+note 22="#=0 * 8/5"
+note 23="#=0 * 18/11"
+note 24="#=0 * 27/16"
+note 25="#=0 * 22/13"
+note 26="#=0 * 12/7"
+note 27="#=0 * 7/4"
+note 28="#=0 * 16/9"
+note 29="#=0 * 24/13"
+note 30="#=0 * 15/8"
+note 31="#=0 * 64/33"
+note 32="#>-32 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

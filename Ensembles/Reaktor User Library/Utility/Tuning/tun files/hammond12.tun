@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Hammond organ scale, 1/1=277.0731707 Hz, A=440, see hammond.scl for the ratios
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=101
+note 2=201
+note 3=300
+note 4=400
+note 5=501
+note 6=601
+note 7=700
+note 8=801
+note 9=900
+note 10=1000
+note 11=1100
+note 12=1200
+note 13=1301
+note 14=1401
+note 15=1500
+note 16=1600
+note 17=1701
+note 18=1801
+note 19=1900
+note 20=2001
+note 21=2100
+note 22=2200
+note 23=2300
+note 24=2400
+note 25=2501
+note 26=2601
+note 27=2700
+note 28=2800
+note 29=2901
+note 30=3001
+note 31=3100
+note 32=3201
+note 33=3300
+note 34=3400
+note 35=3500
+note 36=3600
+note 37=3701
+note 38=3801
+note 39=3900
+note 40=4000
+note 41=4101
+note 42=4201
+note 43=4300
+note 44=4401
+note 45=4500
+note 46=4600
+note 47=4700
+note 48=4800
+note 49=4901
+note 50=5001
+note 51=5100
+note 52=5200
+note 53=5301
+note 54=5401
+note 55=5500
+note 56=5601
+note 57=5700
+note 58=5800
+note 59=5900
+note 60=6000
+note 61=6101
+note 62=6201
+note 63=6300
+note 64=6400
+note 65=6501
+note 66=6601
+note 67=6700
+note 68=6801
+note 69=6900
+note 70=7000
+note 71=7100
+note 72=7200
+note 73=7301
+note 74=7401
+note 75=7500
+note 76=7600
+note 77=7701
+note 78=7801
+note 79=7900
+note 80=8001
+note 81=8100
+note 82=8200
+note 83=8300
+note 84=8400
+note 85=8501
+note 86=8601
+note 87=8700
+note 88=8800
+note 89=8901
+note 90=9001
+note 91=9100
+note 92=9201
+note 93=9300
+note 94=9400
+note 95=9500
+note 96=9600
+note 97=9701
+note 98=9801
+note 99=9900
+note 100=10000
+note 101=10101
+note 102=10201
+note 103=10300
+note 104=10401
+note 105=10500
+note 106=10600
+note 107=10700
+note 108=10800
+note 109=10901
+note 110=11001
+note 111=11100
+note 112=11200
+note 113=11301
+note 114=11401
+note 115=11500
+note 116=11601
+note 117=11700
+note 118=11800
+note 119=11900
+note 120=12000
+note 121=12101
+note 122=12201
+note 123=12300
+note 124=12400
+note 125=12501
+note 126=12601
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hammond12.tun"
+ID= "ID_hammond12.tun"
+Filename= "hammond12.scl"
+Description= "Hammond organ scale, 1/1=277.0731707 Hz, A=440, see hammond.scl for the ratios"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 100.883420
+note 2= 200.595481
+note 3= 300.288182
+note 4= 400.002921
+note 5= 500.709901
+note 6= 600.703961
+note 7= 699.976824
+note 8= 800.683805
+note 9= 900.398543
+note 10= 1000.091244
+note 11= 1100.107324
+note 12= 1200.000000
+note 13= 1300.883420
+note 14= 1400.595481
+note 15= 1500.288182
+note 16= 1600.002921
+note 17= 1700.709901
+note 18= 1800.703961
+note 19= 1899.976824
+note 20= 2000.683805
+note 21= 2100.398543
+note 22= 2200.091244
+note 23= 2300.107324
+note 24= 2400.000000
+note 25= 2500.883420
+note 26= 2600.595481
+note 27= 2700.288182
+note 28= 2800.002921
+note 29= 2900.709901
+note 30= 3000.703961
+note 31= 3099.976824
+note 32= 3200.683805
+note 33= 3300.398543
+note 34= 3400.091244
+note 35= 3500.107324
+note 36= 3600.000000
+note 37= 3700.883420
+note 38= 3800.595481
+note 39= 3900.288182
+note 40= 4000.002921
+note 41= 4100.709901
+note 42= 4200.703961
+note 43= 4299.976824
+note 44= 4400.683805
+note 45= 4500.398543
+note 46= 4600.091244
+note 47= 4700.107324
+note 48= 4800.000000
+note 49= 4900.883420
+note 50= 5000.595481
+note 51= 5100.288182
+note 52= 5200.002921
+note 53= 5300.709901
+note 54= 5400.703961
+note 55= 5499.976824
+note 56= 5600.683805
+note 57= 5700.398543
+note 58= 5800.091244
+note 59= 5900.107324
+note 60= 6000.000000
+note 61= 6100.883420
+note 62= 6200.595481
+note 63= 6300.288182
+note 64= 6400.002921
+note 65= 6500.709901
+note 66= 6600.703961
+note 67= 6699.976824
+note 68= 6800.683805
+note 69= 6900.398543
+note 70= 7000.091244
+note 71= 7100.107324
+note 72= 7200.000000
+note 73= 7300.883420
+note 74= 7400.595481
+note 75= 7500.288182
+note 76= 7600.002921
+note 77= 7700.709901
+note 78= 7800.703961
+note 79= 7899.976824
+note 80= 8000.683805
+note 81= 8100.398543
+note 82= 8200.091244
+note 83= 8300.107324
+note 84= 8400.000000
+note 85= 8500.883420
+note 86= 8600.595481
+note 87= 8700.288182
+note 88= 8800.002921
+note 89= 8900.709901
+note 90= 9000.703961
+note 91= 9099.976824
+note 92= 9200.683805
+note 93= 9300.398543
+note 94= 9400.091244
+note 95= 9500.107324
+note 96= 9600.000000
+note 97= 9700.883420
+note 98= 9800.595481
+note 99= 9900.288182
+note 100= 10000.002921
+note 101= 10100.709901
+note 102= 10200.703961
+note 103= 10299.976824
+note 104= 10400.683805
+note 105= 10500.398543
+note 106= 10600.091244
+note 107= 10700.107324
+note 108= 10800.000000
+note 109= 10900.883420
+note 110= 11000.595481
+note 111= 11100.288182
+note 112= 11200.002921
+note 113= 11300.709901
+note 114= 11400.703961
+note 115= 11499.976824
+note 116= 11600.683805
+note 117= 11700.398543
+note 118= 11800.091244
+note 119= 11900.107324
+note 120= 12000.000000
+note 121= 12100.883420
+note 122= 12200.595481
+note 123= 12300.288182
+note 124= 12400.002921
+note 125= 12500.709901
+note 126= 12600.703961
+note 127= 12699.976824
+
+[Functional Tuning]
+note 1="#=0 * 5494/5183"
+note 2="#=0 * 1435/1278"
+note 3="#=0 * 5658/4757"
+note 4="#=0 * 984/781"
+note 5="#=0 * 1517/1136"
+note 6="#=0 * 2009/1420"
+note 7="#=0 * 3936/2627"
+note 8="#=0 * 451/284"
+note 9="#=0 * 2747/1633"
+note 10="#=0 * 4428/2485"
+note 11="#=0 * 3485/1846"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

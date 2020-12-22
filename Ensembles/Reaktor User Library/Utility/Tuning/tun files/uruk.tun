@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jon Lyle Smith's "Uruk" scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1783
+note 1=1817
+note 2=1902
+note 3=1986
+note 4=2021
+note 5=2106
+note 6=2190
+note 7=2225
+note 8=2310
+note 9=2400
+note 10=2484
+note 11=2519
+note 12=2604
+note 13=2688
+note 14=2723
+note 15=2808
+note 16=2898
+note 17=2983
+note 18=3017
+note 19=3102
+note 20=3186
+note 21=3221
+note 22=3306
+note 23=3390
+note 24=3425
+note 25=3510
+note 26=3600
+note 27=3684
+note 28=3719
+note 29=3804
+note 30=3888
+note 31=3923
+note 32=4008
+note 33=4098
+note 34=4183
+note 35=4217
+note 36=4302
+note 37=4386
+note 38=4421
+note 39=4506
+note 40=4590
+note 41=4625
+note 42=4710
+note 43=4800
+note 44=4884
+note 45=4919
+note 46=5004
+note 47=5088
+note 48=5123
+note 49=5208
+note 50=5298
+note 51=5383
+note 52=5417
+note 53=5502
+note 54=5586
+note 55=5621
+note 56=5706
+note 57=5790
+note 58=5825
+note 59=5910
+note 60=6000
+note 61=6084
+note 62=6119
+note 63=6204
+note 64=6288
+note 65=6323
+note 66=6408
+note 67=6498
+note 68=6583
+note 69=6617
+note 70=6702
+note 71=6786
+note 72=6821
+note 73=6906
+note 74=6990
+note 75=7025
+note 76=7110
+note 77=7200
+note 78=7284
+note 79=7319
+note 80=7404
+note 81=7488
+note 82=7523
+note 83=7608
+note 84=7698
+note 85=7783
+note 86=7817
+note 87=7902
+note 88=7986
+note 89=8021
+note 90=8106
+note 91=8190
+note 92=8225
+note 93=8310
+note 94=8400
+note 95=8484
+note 96=8519
+note 97=8604
+note 98=8688
+note 99=8723
+note 100=8808
+note 101=8898
+note 102=8983
+note 103=9017
+note 104=9102
+note 105=9186
+note 106=9221
+note 107=9306
+note 108=9390
+note 109=9425
+note 110=9510
+note 111=9600
+note 112=9684
+note 113=9719
+note 114=9804
+note 115=9888
+note 116=9923
+note 117=10008
+note 118=10098
+note 119=10183
+note 120=10217
+note 121=10302
+note 122=10386
+note 123=10421
+note 124=10506
+note 125=10590
+note 126=10625
+note 127=10710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "uruk.tun"
+ID= "ID_uruk.tun"
+Filename= "uruk.scl"
+Description= "Jon Lyle Smith's "Uruk" scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1782.512193
+note 1= 1817.487807
+note 2= 1901.955001
+note 3= 1986.422194
+note 4= 2021.397809
+note 5= 2105.865003
+note 6= 2190.332196
+note 7= 2225.307811
+note 8= 2309.775004
+note 9= 2400.000000
+note 10= 2484.467193
+note 11= 2519.442808
+note 12= 2603.910002
+note 13= 2688.377195
+note 14= 2723.352810
+note 15= 2807.820003
+note 16= 2898.044999
+note 17= 2982.512193
+note 18= 3017.487807
+note 19= 3101.955001
+note 20= 3186.422194
+note 21= 3221.397809
+note 22= 3305.865003
+note 23= 3390.332196
+note 24= 3425.307811
+note 25= 3509.775004
+note 26= 3600.000000
+note 27= 3684.467193
+note 28= 3719.442808
+note 29= 3803.910002
+note 30= 3888.377195
+note 31= 3923.352810
+note 32= 4007.820003
+note 33= 4098.044999
+note 34= 4182.512193
+note 35= 4217.487807
+note 36= 4301.955001
+note 37= 4386.422194
+note 38= 4421.397809
+note 39= 4505.865003
+note 40= 4590.332196
+note 41= 4625.307811
+note 42= 4709.775004
+note 43= 4800.000000
+note 44= 4884.467193
+note 45= 4919.442808
+note 46= 5003.910002
+note 47= 5088.377195
+note 48= 5123.352810
+note 49= 5207.820003
+note 50= 5298.044999
+note 51= 5382.512193
+note 52= 5417.487807
+note 53= 5501.955001
+note 54= 5586.422194
+note 55= 5621.397809
+note 56= 5705.865003
+note 57= 5790.332196
+note 58= 5825.307811
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6119.442808
+note 63= 6203.910002
+note 64= 6288.377195
+note 65= 6323.352810
+note 66= 6407.820003
+note 67= 6498.044999
+note 68= 6582.512193
+note 69= 6617.487807
+note 70= 6701.955001
+note 71= 6786.422194
+note 72= 6821.397809
+note 73= 6905.865003
+note 74= 6990.332196
+note 75= 7025.307811
+note 76= 7109.775004
+note 77= 7200.000000
+note 78= 7284.467193
+note 79= 7319.442808
+note 80= 7403.910002
+note 81= 7488.377195
+note 82= 7523.352810
+note 83= 7607.820003
+note 84= 7698.044999
+note 85= 7782.512193
+note 86= 7817.487807
+note 87= 7901.955001
+note 88= 7986.422194
+note 89= 8021.397809
+note 90= 8105.865003
+note 91= 8190.332196
+note 92= 8225.307811
+note 93= 8309.775004
+note 94= 8400.000000
+note 95= 8484.467193
+note 96= 8519.442808
+note 97= 8603.910002
+note 98= 8688.377195
+note 99= 8723.352810
+note 100= 8807.820003
+note 101= 8898.044999
+note 102= 8982.512193
+note 103= 9017.487807
+note 104= 9101.955001
+note 105= 9186.422194
+note 106= 9221.397809
+note 107= 9305.865003
+note 108= 9390.332196
+note 109= 9425.307811
+note 110= 9509.775004
+note 111= 9600.000000
+note 112= 9684.467193
+note 113= 9719.442808
+note 114= 9803.910002
+note 115= 9888.377195
+note 116= 9923.352810
+note 117= 10007.820003
+note 118= 10098.044999
+note 119= 10182.512193
+note 120= 10217.487807
+note 121= 10301.955001
+note 122= 10386.422194
+note 123= 10421.397809
+note 124= 10505.865003
+note 125= 10590.332196
+note 126= 10625.307811
+note 127= 10709.775004
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 15/14"
+note 3="#=0 * 9/8"
+note 4="#=0 * 189/160"
+note 5="#=0 * 135/112"
+note 6="#=0 * 81/64"
+note 7="#=0 * 4/3"
+note 8="#=0 * 7/5"
+note 9="#=0 * 10/7"
+note 10="#=0 * 3/2"
+note 11="#=0 * 63/40"
+note 12="#=0 * 45/28"
+note 13="#=0 * 27/16"
+note 14="#=0 * 567/320"
+note 15="#=0 * 405/224"
+note 16="#=0 * 243/128"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,313 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kyle Gann, scale from Custer's Ghost to Sitting Bull, 1/1=G
+;
+; VAZ Plus section
+[Tuning]
+note 0=3684
+note 1=3712
+note 2=3765
+note 3=3782
+note 4=3804
+note 5=3831
+note 6=3867
+note 7=3916
+note 8=3947
+note 9=3986
+note 10=4035
+note 11=4071
+note 12=4098
+note 13=4120
+note 14=4151
+note 15=4183
+note 16=4249
+note 17=4302
+note 18=4365
+note 19=4414
+note 20=4453
+note 21=4484
+note 22=4533
+note 23=4569
+note 24=4596
+note 25=4618
+note 26=4649
+note 27=4688
+note 28=4747
+note 29=4800
+note 30=4853
+note 31=4884
+note 32=4912
+note 33=4965
+note 34=4982
+note 35=5004
+note 36=5031
+note 37=5067
+note 38=5116
+note 39=5147
+note 40=5186
+note 41=5235
+note 42=5271
+note 43=5298
+note 44=5320
+note 45=5351
+note 46=5383
+note 47=5449
+note 48=5502
+note 49=5565
+note 50=5614
+note 51=5653
+note 52=5684
+note 53=5733
+note 54=5769
+note 55=5796
+note 56=5818
+note 57=5849
+note 58=5888
+note 59=5947
+note 60=6000
+note 61=6053
+note 62=6084
+note 63=6112
+note 64=6165
+note 65=6182
+note 66=6204
+note 67=6231
+note 68=6267
+note 69=6316
+note 70=6347
+note 71=6386
+note 72=6435
+note 73=6471
+note 74=6498
+note 75=6520
+note 76=6551
+note 77=6583
+note 78=6649
+note 79=6702
+note 80=6765
+note 81=6814
+note 82=6853
+note 83=6884
+note 84=6933
+note 85=6969
+note 86=6996
+note 87=7018
+note 88=7049
+note 89=7088
+note 90=7147
+note 91=7200
+note 92=7253
+note 93=7284
+note 94=7312
+note 95=7365
+note 96=7382
+note 97=7404
+note 98=7431
+note 99=7467
+note 100=7516
+note 101=7547
+note 102=7586
+note 103=7635
+note 104=7671
+note 105=7698
+note 106=7720
+note 107=7751
+note 108=7783
+note 109=7849
+note 110=7902
+note 111=7965
+note 112=8014
+note 113=8053
+note 114=8084
+note 115=8133
+note 116=8169
+note 117=8196
+note 118=8218
+note 119=8249
+note 120=8288
+note 121=8347
+note 122=8400
+note 123=8453
+note 124=8484
+note 125=8512
+note 126=8565
+note 127=8582
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "gann_custer.tun"
+ID= "ID_gann_custer.tun"
+Filename= "gann_custer.scl"
+Description= "Kyle Gann, scale from Custer's Ghost to Sitting Bull, 1/1=G"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3684.467193
+note 1= 3711.731285
+note 2= 3765.004228
+note 3= 3782.403712
+note 4= 3803.910002
+note 5= 3831.174094
+note 6= 3866.870906
+note 7= 3915.641287
+note 8= 3947.407941
+note 9= 3986.313714
+note 10= 4035.084095
+note 11= 4070.780907
+note 12= 4098.044999
+note 13= 4119.551289
+note 14= 4151.317942
+note 15= 4182.512193
+note 16= 4248.682058
+note 17= 4301.955001
+note 18= 4364.915905
+note 19= 4413.686286
+note 20= 4452.592059
+note 21= 4484.358713
+note 22= 4533.129094
+note 23= 4568.825906
+note 24= 4596.089998
+note 25= 4617.596288
+note 26= 4649.362941
+note 27= 4688.268715
+note 28= 4746.727057
+note 29= 4800.000000
+note 30= 4853.272943
+note 31= 4884.467193
+note 32= 4911.731285
+note 33= 4965.004228
+note 34= 4982.403712
+note 35= 5003.910002
+note 36= 5031.174094
+note 37= 5066.870906
+note 38= 5115.641287
+note 39= 5147.407941
+note 40= 5186.313714
+note 41= 5235.084095
+note 42= 5270.780907
+note 43= 5298.044999
+note 44= 5319.551289
+note 45= 5351.317942
+note 46= 5382.512193
+note 47= 5448.682058
+note 48= 5501.955001
+note 49= 5564.915905
+note 50= 5613.686286
+note 51= 5652.592059
+note 52= 5684.358713
+note 53= 5733.129094
+note 54= 5768.825906
+note 55= 5796.089998
+note 56= 5817.596288
+note 57= 5849.362941
+note 58= 5888.268715
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6084.467193
+note 63= 6111.731285
+note 64= 6165.004228
+note 65= 6182.403712
+note 66= 6203.910002
+note 67= 6231.174094
+note 68= 6266.870906
+note 69= 6315.641287
+note 70= 6347.407941
+note 71= 6386.313714
+note 72= 6435.084095
+note 73= 6470.780907
+note 74= 6498.044999
+note 75= 6519.551289
+note 76= 6551.317942
+note 77= 6582.512193
+note 78= 6648.682058
+note 79= 6701.955001
+note 80= 6764.915905
+note 81= 6813.686286
+note 82= 6852.592059
+note 83= 6884.358713
+note 84= 6933.129094
+note 85= 6968.825906
+note 86= 6996.089998
+note 87= 7017.596288
+note 88= 7049.362941
+note 89= 7088.268715
+note 90= 7146.727057
+note 91= 7200.000000
+note 92= 7253.272943
+note 93= 7284.467193
+note 94= 7311.731285
+note 95= 7365.004228
+note 96= 7382.403712
+note 97= 7403.910002
+note 98= 7431.174094
+note 99= 7466.870906
+note 100= 7515.641287
+note 101= 7547.407941
+note 102= 7586.313714
+note 103= 7635.084095
+note 104= 7670.780907
+note 105= 7698.044999
+note 106= 7719.551289
+note 107= 7751.317942
+note 108= 7782.512193
+note 109= 7848.682058
+note 110= 7901.955001
+note 111= 7964.915905
+note 112= 8013.686286
+note 113= 8052.592059
+note 114= 8084.358713
+note 115= 8133.129094
+note 116= 8168.825906
+note 117= 8196.089998
+note 118= 8217.596288
+note 119= 8249.362941
+note 120= 8288.268715
+note 121= 8346.727057
+note 122= 8400.000000
+note 123= 8453.272943
+note 124= 8484.467193
+note 125= 8511.731285
+note 126= 8565.004228
+note 127= 8582.403712
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 21/20"
+note 3="#=0 * 16/15"
+note 4="#=0 * 11/10"
+note 5="#=0 * 10/9"
+note 6="#=0 * 9/8"
+note 7="#=0 * 8/7"
+note 8="#=0 * 7/6"
+note 9="#=0 * 6/5"
+note 10="#=0 * 11/9"
+note 11="#=0 * 5/4"
+note 12="#=0 * 9/7"
+note 13="#=0 * 21/16"
+note 14="#=0 * 4/3"
+note 15="#=0 * 27/20"
+note 16="#=0 * 11/8"
+note 17="#=0 * 7/5"
+note 18="#=0 * 16/11"
+note 19="#=0 * 3/2"
+note 20="#=0 * 14/9"
+note 21="#=0 * 8/5"
+note 22="#=0 * 18/11"
+note 23="#=0 * 5/3"
+note 24="#=0 * 12/7"
+note 25="#=0 * 7/4"
+note 26="#=0 * 16/9"
+note 27="#=0 * 9/5"
+note 28="#=0 * 11/6"
+note 29="#=0 * 15/8"
+note 30="#=0 * 64/33"
+note 31="#>-31 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

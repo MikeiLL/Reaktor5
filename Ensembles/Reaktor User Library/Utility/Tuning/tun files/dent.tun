@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Tom Dent, well temperament with A=421 Hz. Integer Hz beat rates from A
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=97
+note 2=199
+note 3=300
+note 4=393
+note 5=500
+note 6=595
+note 7=700
+note 8=798
+note 9=895
+note 10=999
+note 11=1093
+note 12=1200
+note 13=1297
+note 14=1399
+note 15=1500
+note 16=1593
+note 17=1700
+note 18=1795
+note 19=1900
+note 20=1998
+note 21=2095
+note 22=2199
+note 23=2293
+note 24=2400
+note 25=2497
+note 26=2599
+note 27=2700
+note 28=2793
+note 29=2900
+note 30=2995
+note 31=3100
+note 32=3198
+note 33=3295
+note 34=3399
+note 35=3493
+note 36=3600
+note 37=3697
+note 38=3799
+note 39=3900
+note 40=3993
+note 41=4100
+note 42=4195
+note 43=4300
+note 44=4398
+note 45=4495
+note 46=4599
+note 47=4693
+note 48=4800
+note 49=4897
+note 50=4999
+note 51=5100
+note 52=5193
+note 53=5300
+note 54=5395
+note 55=5500
+note 56=5598
+note 57=5695
+note 58=5799
+note 59=5893
+note 60=6000
+note 61=6097
+note 62=6199
+note 63=6300
+note 64=6393
+note 65=6500
+note 66=6595
+note 67=6700
+note 68=6798
+note 69=6895
+note 70=6999
+note 71=7093
+note 72=7200
+note 73=7297
+note 74=7399
+note 75=7500
+note 76=7593
+note 77=7700
+note 78=7795
+note 79=7900
+note 80=7998
+note 81=8095
+note 82=8199
+note 83=8293
+note 84=8400
+note 85=8497
+note 86=8599
+note 87=8700
+note 88=8793
+note 89=8900
+note 90=8995
+note 91=9100
+note 92=9198
+note 93=9295
+note 94=9399
+note 95=9493
+note 96=9600
+note 97=9697
+note 98=9799
+note 99=9900
+note 100=9993
+note 101=10100
+note 102=10195
+note 103=10300
+note 104=10398
+note 105=10495
+note 106=10599
+note 107=10693
+note 108=10800
+note 109=10897
+note 110=10999
+note 111=11100
+note 112=11193
+note 113=11300
+note 114=11395
+note 115=11500
+note 116=11598
+note 117=11695
+note 118=11799
+note 119=11893
+note 120=12000
+note 121=12097
+note 122=12199
+note 123=12300
+note 124=12393
+note 125=12500
+note 126=12595
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dent.tun"
+ID= "ID_dent.tun"
+Filename= "dent.scl"
+Description= "Tom Dent, well temperament with A=421 Hz. Integer Hz beat rates from A"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 97.229396
+note 2= 198.537070
+note 3= 300.052281
+note 4= 393.197357
+note 5= 499.768478
+note 6= 595.274395
+note 7= 699.654357
+note 8= 798.097280
+note 9= 895.359443
+note 10= 999.104961
+note 11= 1093.319394
+note 12= 1200.000000
+note 13= 1297.229396
+note 14= 1398.537070
+note 15= 1500.052281
+note 16= 1593.197357
+note 17= 1699.768478
+note 18= 1795.274395
+note 19= 1899.654357
+note 20= 1998.097280
+note 21= 2095.359443
+note 22= 2199.104961
+note 23= 2293.319394
+note 24= 2400.000000
+note 25= 2497.229396
+note 26= 2598.537070
+note 27= 2700.052281
+note 28= 2793.197357
+note 29= 2899.768478
+note 30= 2995.274395
+note 31= 3099.654357
+note 32= 3198.097280
+note 33= 3295.359443
+note 34= 3399.104961
+note 35= 3493.319394
+note 36= 3600.000000
+note 37= 3697.229396
+note 38= 3798.537070
+note 39= 3900.052281
+note 40= 3993.197357
+note 41= 4099.768478
+note 42= 4195.274395
+note 43= 4299.654357
+note 44= 4398.097280
+note 45= 4495.359443
+note 46= 4599.104961
+note 47= 4693.319394
+note 48= 4800.000000
+note 49= 4897.229396
+note 50= 4998.537070
+note 51= 5100.052281
+note 52= 5193.197357
+note 53= 5299.768478
+note 54= 5395.274395
+note 55= 5499.654357
+note 56= 5598.097280
+note 57= 5695.359443
+note 58= 5799.104961
+note 59= 5893.319394
+note 60= 6000.000000
+note 61= 6097.229396
+note 62= 6198.537070
+note 63= 6300.052281
+note 64= 6393.197357
+note 65= 6499.768478
+note 66= 6595.274395
+note 67= 6699.654357
+note 68= 6798.097280
+note 69= 6895.359443
+note 70= 6999.104961
+note 71= 7093.319394
+note 72= 7200.000000
+note 73= 7297.229396
+note 74= 7398.537070
+note 75= 7500.052281
+note 76= 7593.197357
+note 77= 7699.768478
+note 78= 7795.274395
+note 79= 7899.654357
+note 80= 7998.097280
+note 81= 8095.359443
+note 82= 8199.104961
+note 83= 8293.319394
+note 84= 8400.000000
+note 85= 8497.229396
+note 86= 8598.537070
+note 87= 8700.052281
+note 88= 8793.197357
+note 89= 8899.768478
+note 90= 8995.274395
+note 91= 9099.654357
+note 92= 9198.097280
+note 93= 9295.359443
+note 94= 9399.104961
+note 95= 9493.319394
+note 96= 9600.000000
+note 97= 9697.229396
+note 98= 9798.537070
+note 99= 9900.052281
+note 100= 9993.197357
+note 101= 10099.768478
+note 102= 10195.274395
+note 103= 10299.654357
+note 104= 10398.097280
+note 105= 10495.359443
+note 106= 10599.104961
+note 107= 10693.319394
+note 108= 10800.000000
+note 109= 10897.229396
+note 110= 10998.537070
+note 111= 11100.052281
+note 112= 11193.197357
+note 113= 11299.768478
+note 114= 11395.274395
+note 115= 11499.654357
+note 116= 11598.097280
+note 117= 11695.359443
+note 118= 11799.104961
+note 119= 11893.319394
+note 120= 12000.000000
+note 121= 12097.229396
+note 122= 12198.537070
+note 123= 12300.052281
+note 124= 12393.197357
+note 125= 12499.768478
+note 126= 12595.274395
+note 127= 12699.654357
+
+[Functional Tuning]
+note 1="#=0 * 531/502"
+note 2="#=0 * 563/502"
+note 3="#=0 * 597/502"
+note 4="#=0 * 315/251"
+note 5="#=0 * 335/251"
+note 6="#=0 * 354/251"
+note 7="#=0 * 376/251"
+note 8="#=0 * 398/251"
+note 9="#=0 * 421/251"
+note 10="#=0 * 447/251"
+note 11="#=0 * 472/251"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

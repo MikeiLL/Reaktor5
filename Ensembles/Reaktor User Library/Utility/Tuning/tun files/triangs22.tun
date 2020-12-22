@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; The first 22 terms of the triangular number series, octave reduced
+;
+; VAZ Plus section
+[Tuning]
+note 0=2222
+note 1=2288
+note 2=2380
+note 3=2400
+note 4=2453
+note 5=2505
+note 6=2604
+note 7=2709
+note 8=2742
+note 9=2786
+note 10=2871
+note 11=2901
+note 12=2990
+note 13=3009
+note 14=3084
+note 15=3102
+note 16=3257
+note 17=3338
+note 18=3369
+note 19=3422
+note 20=3488
+note 21=3580
+note 22=3600
+note 23=3653
+note 24=3705
+note 25=3804
+note 26=3909
+note 27=3942
+note 28=3986
+note 29=4071
+note 30=4101
+note 31=4190
+note 32=4209
+note 33=4284
+note 34=4302
+note 35=4457
+note 36=4538
+note 37=4569
+note 38=4622
+note 39=4688
+note 40=4780
+note 41=4800
+note 42=4853
+note 43=4905
+note 44=5004
+note 45=5109
+note 46=5142
+note 47=5186
+note 48=5271
+note 49=5301
+note 50=5390
+note 51=5409
+note 52=5484
+note 53=5502
+note 54=5657
+note 55=5738
+note 56=5769
+note 57=5822
+note 58=5888
+note 59=5980
+note 60=6000
+note 61=6053
+note 62=6105
+note 63=6204
+note 64=6309
+note 65=6342
+note 66=6386
+note 67=6471
+note 68=6501
+note 69=6590
+note 70=6609
+note 71=6684
+note 72=6702
+note 73=6857
+note 74=6938
+note 75=6969
+note 76=7022
+note 77=7088
+note 78=7180
+note 79=7200
+note 80=7253
+note 81=7305
+note 82=7404
+note 83=7509
+note 84=7542
+note 85=7586
+note 86=7671
+note 87=7701
+note 88=7790
+note 89=7809
+note 90=7884
+note 91=7902
+note 92=8057
+note 93=8138
+note 94=8169
+note 95=8222
+note 96=8288
+note 97=8380
+note 98=8400
+note 99=8453
+note 100=8505
+note 101=8604
+note 102=8709
+note 103=8742
+note 104=8786
+note 105=8871
+note 106=8901
+note 107=8990
+note 108=9009
+note 109=9084
+note 110=9102
+note 111=9257
+note 112=9338
+note 113=9369
+note 114=9422
+note 115=9488
+note 116=9580
+note 117=9600
+note 118=9653
+note 119=9705
+note 120=9804
+note 121=9909
+note 122=9942
+note 123=9986
+note 124=10071
+note 125=10101
+note 126=10190
+note 127=10209
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "triangs22.tun"
+ID= "ID_triangs22.tun"
+Filename= "triangs22.scl"
+Description= "The first 22 terms of the triangular number series, octave reduced"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2222.098850
+note 1= 2288.268715
+note 2= 2379.592290
+note 3= 2400.000000
+note 4= 2453.272943
+note 5= 2504.955410
+note 6= 2603.910002
+note 7= 2708.865411
+note 8= 2742.482663
+note 9= 2786.313714
+note 10= 2870.780907
+note 11= 2901.423018
+note 12= 2990.223716
+note 13= 3009.353568
+note 14= 3083.826730
+note 15= 3101.955001
+note 16= 3257.094621
+note 17= 3337.631656
+note 18= 3368.825906
+note 19= 3422.098850
+note 20= 3488.268715
+note 21= 3579.592290
+note 22= 3600.000000
+note 23= 3653.272943
+note 24= 3704.955410
+note 25= 3803.910002
+note 26= 3908.865411
+note 27= 3942.482663
+note 28= 3986.313714
+note 29= 4070.780907
+note 30= 4101.423018
+note 31= 4190.223716
+note 32= 4209.353568
+note 33= 4283.826730
+note 34= 4301.955001
+note 35= 4457.094621
+note 36= 4537.631656
+note 37= 4568.825906
+note 38= 4622.098850
+note 39= 4688.268715
+note 40= 4779.592290
+note 41= 4800.000000
+note 42= 4853.272943
+note 43= 4904.955410
+note 44= 5003.910002
+note 45= 5108.865411
+note 46= 5142.482663
+note 47= 5186.313714
+note 48= 5270.780907
+note 49= 5301.423018
+note 50= 5390.223716
+note 51= 5409.353568
+note 52= 5483.826730
+note 53= 5501.955001
+note 54= 5657.094621
+note 55= 5737.631656
+note 56= 5768.825906
+note 57= 5822.098850
+note 58= 5888.268715
+note 59= 5979.592290
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6104.955410
+note 63= 6203.910002
+note 64= 6308.865411
+note 65= 6342.482663
+note 66= 6386.313714
+note 67= 6470.780907
+note 68= 6501.423018
+note 69= 6590.223716
+note 70= 6609.353568
+note 71= 6683.826730
+note 72= 6701.955001
+note 73= 6857.094621
+note 74= 6937.631656
+note 75= 6968.825906
+note 76= 7022.098850
+note 77= 7088.268715
+note 78= 7179.592290
+note 79= 7200.000000
+note 80= 7253.272943
+note 81= 7304.955410
+note 82= 7403.910002
+note 83= 7508.865411
+note 84= 7542.482663
+note 85= 7586.313714
+note 86= 7670.780907
+note 87= 7701.423018
+note 88= 7790.223716
+note 89= 7809.353568
+note 90= 7883.826730
+note 91= 7901.955001
+note 92= 8057.094621
+note 93= 8137.631656
+note 94= 8168.825906
+note 95= 8222.098850
+note 96= 8288.268715
+note 97= 8379.592290
+note 98= 8400.000000
+note 99= 8453.272943
+note 100= 8504.955410
+note 101= 8603.910002
+note 102= 8708.865411
+note 103= 8742.482663
+note 104= 8786.313714
+note 105= 8870.780907
+note 106= 8901.423018
+note 107= 8990.223716
+note 108= 9009.353568
+note 109= 9083.826730
+note 110= 9101.955001
+note 111= 9257.094621
+note 112= 9337.631656
+note 113= 9368.825906
+note 114= 9422.098850
+note 115= 9488.268715
+note 116= 9579.592290
+note 117= 9600.000000
+note 118= 9653.272943
+note 119= 9704.955410
+note 120= 9803.910002
+note 121= 9908.865411
+note 122= 9942.482663
+note 123= 9986.313714
+note 124= 10070.780907
+note 125= 10101.423018
+note 126= 10190.223716
+note 127= 10209.353568
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 17/16"
+note 3="#=0 * 9/8"
+note 4="#=0 * 153/128"
+note 5="#=0 * 39/32"
+note 6="#=0 * 5/4"
+note 7="#=0 * 21/16"
+note 8="#=0 * 171/128"
+note 9="#=0 * 45/32"
+note 10="#=0 * 91/64"
+note 11="#=0 * 95/64"
+note 12="#=0 * 3/2"
+note 13="#=0 * 105/64"
+note 14="#=0 * 55/32"
+note 15="#=0 * 7/4"
+note 16="#=0 * 231/128"
+note 17="#=0 * 15/8"
+note 18="#=0 * 253/128"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

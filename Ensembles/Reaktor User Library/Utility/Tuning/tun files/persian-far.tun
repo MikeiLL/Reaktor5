@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Hormoz Farhat, average of observed Persian tar and sehtar tunings (1966)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1765
+note 1=1830
+note 2=1900
+note 3=1990
+note 4=2035
+note 5=2105
+note 6=2195
+note 7=2240
+note 8=2310
+note 9=2400
+note 10=2490
+note 11=2535
+note 12=2605
+note 13=2695
+note 14=2740
+note 15=2810
+note 16=2900
+note 17=2965
+note 18=3030
+note 19=3100
+note 20=3190
+note 21=3235
+note 22=3305
+note 23=3395
+note 24=3440
+note 25=3510
+note 26=3600
+note 27=3690
+note 28=3735
+note 29=3805
+note 30=3895
+note 31=3940
+note 32=4010
+note 33=4100
+note 34=4165
+note 35=4230
+note 36=4300
+note 37=4390
+note 38=4435
+note 39=4505
+note 40=4595
+note 41=4640
+note 42=4710
+note 43=4800
+note 44=4890
+note 45=4935
+note 46=5005
+note 47=5095
+note 48=5140
+note 49=5210
+note 50=5300
+note 51=5365
+note 52=5430
+note 53=5500
+note 54=5590
+note 55=5635
+note 56=5705
+note 57=5795
+note 58=5840
+note 59=5910
+note 60=6000
+note 61=6090
+note 62=6135
+note 63=6205
+note 64=6295
+note 65=6340
+note 66=6410
+note 67=6500
+note 68=6565
+note 69=6630
+note 70=6700
+note 71=6790
+note 72=6835
+note 73=6905
+note 74=6995
+note 75=7040
+note 76=7110
+note 77=7200
+note 78=7290
+note 79=7335
+note 80=7405
+note 81=7495
+note 82=7540
+note 83=7610
+note 84=7700
+note 85=7765
+note 86=7830
+note 87=7900
+note 88=7990
+note 89=8035
+note 90=8105
+note 91=8195
+note 92=8240
+note 93=8310
+note 94=8400
+note 95=8490
+note 96=8535
+note 97=8605
+note 98=8695
+note 99=8740
+note 100=8810
+note 101=8900
+note 102=8965
+note 103=9030
+note 104=9100
+note 105=9190
+note 106=9235
+note 107=9305
+note 108=9395
+note 109=9440
+note 110=9510
+note 111=9600
+note 112=9690
+note 113=9735
+note 114=9805
+note 115=9895
+note 116=9940
+note 117=10010
+note 118=10100
+note 119=10165
+note 120=10230
+note 121=10300
+note 122=10390
+note 123=10435
+note 124=10505
+note 125=10595
+note 126=10640
+note 127=10710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "persian-far.tun"
+ID= "ID_persian-far.tun"
+Filename= "persian-far.scl"
+Description= "Hormoz Farhat, average of observed Persian tar and sehtar tunings (1966)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1765.000000
+note 1= 1830.000000
+note 2= 1900.000000
+note 3= 1990.000000
+note 4= 2035.000000
+note 5= 2105.000000
+note 6= 2195.000000
+note 7= 2240.000000
+note 8= 2310.000000
+note 9= 2400.000000
+note 10= 2490.000000
+note 11= 2535.000000
+note 12= 2605.000000
+note 13= 2695.000000
+note 14= 2740.000000
+note 15= 2810.000000
+note 16= 2900.000000
+note 17= 2965.000000
+note 18= 3030.000000
+note 19= 3100.000000
+note 20= 3190.000000
+note 21= 3235.000000
+note 22= 3305.000000
+note 23= 3395.000000
+note 24= 3440.000000
+note 25= 3510.000000
+note 26= 3600.000000
+note 27= 3690.000000
+note 28= 3735.000000
+note 29= 3805.000000
+note 30= 3895.000000
+note 31= 3940.000000
+note 32= 4010.000000
+note 33= 4100.000000
+note 34= 4165.000000
+note 35= 4230.000000
+note 36= 4300.000000
+note 37= 4390.000000
+note 38= 4435.000000
+note 39= 4505.000000
+note 40= 4595.000000
+note 41= 4640.000000
+note 42= 4710.000000
+note 43= 4800.000000
+note 44= 4890.000000
+note 45= 4935.000000
+note 46= 5005.000000
+note 47= 5095.000000
+note 48= 5140.000000
+note 49= 5210.000000
+note 50= 5300.000000
+note 51= 5365.000000
+note 52= 5430.000000
+note 53= 5500.000000
+note 54= 5590.000000
+note 55= 5635.000000
+note 56= 5705.000000
+note 57= 5795.000000
+note 58= 5840.000000
+note 59= 5910.000000
+note 60= 6000.000000
+note 61= 6090.000000
+note 62= 6135.000000
+note 63= 6205.000000
+note 64= 6295.000000
+note 65= 6340.000000
+note 66= 6410.000000
+note 67= 6500.000000
+note 68= 6565.000000
+note 69= 6630.000000
+note 70= 6700.000000
+note 71= 6790.000000
+note 72= 6835.000000
+note 73= 6905.000000
+note 74= 6995.000000
+note 75= 7040.000000
+note 76= 7110.000000
+note 77= 7200.000000
+note 78= 7290.000000
+note 79= 7335.000000
+note 80= 7405.000000
+note 81= 7495.000000
+note 82= 7540.000000
+note 83= 7610.000000
+note 84= 7700.000000
+note 85= 7765.000000
+note 86= 7830.000000
+note 87= 7900.000000
+note 88= 7990.000000
+note 89= 8035.000000
+note 90= 8105.000000
+note 91= 8195.000000
+note 92= 8240.000000
+note 93= 8310.000000
+note 94= 8400.000000
+note 95= 8490.000000
+note 96= 8535.000000
+note 97= 8605.000000
+note 98= 8695.000000
+note 99= 8740.000000
+note 100= 8810.000000
+note 101= 8900.000000
+note 102= 8965.000000
+note 103= 9030.000000
+note 104= 9100.000000
+note 105= 9190.000000
+note 106= 9235.000000
+note 107= 9305.000000
+note 108= 9395.000000
+note 109= 9440.000000
+note 110= 9510.000000
+note 111= 9600.000000
+note 112= 9690.000000
+note 113= 9735.000000
+note 114= 9805.000000
+note 115= 9895.000000
+note 116= 9940.000000
+note 117= 10010.000000
+note 118= 10100.000000
+note 119= 10165.000000
+note 120= 10230.000000
+note 121= 10300.000000
+note 122= 10390.000000
+note 123= 10435.000000
+note 124= 10505.000000
+note 125= 10595.000000
+note 126= 10640.000000
+note 127= 10710.000000
+
+[Functional Tuning]
+note 1="#=0 % 90.000000"
+note 2="#=0 % 135.000000"
+note 3="#=0 % 205.000000"
+note 4="#=0 % 295.000000"
+note 5="#=0 % 340.000000"
+note 6="#=0 % 410.000000"
+note 7="#=0 % 500.000000"
+note 8="#=0 % 565.000000"
+note 9="#=0 % 630.000000"
+note 10="#=0 % 700.000000"
+note 11="#=0 % 790.000000"
+note 12="#=0 % 835.000000"
+note 13="#=0 % 905.000000"
+note 14="#=0 % 995.000000"
+note 15="#=0 % 1040.000000"
+note 16="#=0 % 1110.000000"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

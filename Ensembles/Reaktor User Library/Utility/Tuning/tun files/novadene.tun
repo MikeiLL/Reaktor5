@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Novadene, starling-tempered skew duodene in 185-tET tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=123
+note 2=188
+note 3=311
+note 4=389
+note 5=499
+note 6=623
+note 7=701
+note 8=811
+note 9=889
+note 10=1012
+note 11=1122
+note 12=1200
+note 13=1323
+note 14=1388
+note 15=1511
+note 16=1589
+note 17=1699
+note 18=1823
+note 19=1901
+note 20=2011
+note 21=2089
+note 22=2212
+note 23=2322
+note 24=2400
+note 25=2523
+note 26=2588
+note 27=2711
+note 28=2789
+note 29=2899
+note 30=3023
+note 31=3101
+note 32=3211
+note 33=3289
+note 34=3412
+note 35=3522
+note 36=3600
+note 37=3723
+note 38=3788
+note 39=3911
+note 40=3989
+note 41=4099
+note 42=4223
+note 43=4301
+note 44=4411
+note 45=4489
+note 46=4612
+note 47=4722
+note 48=4800
+note 49=4923
+note 50=4988
+note 51=5111
+note 52=5189
+note 53=5299
+note 54=5423
+note 55=5501
+note 56=5611
+note 57=5689
+note 58=5812
+note 59=5922
+note 60=6000
+note 61=6123
+note 62=6188
+note 63=6311
+note 64=6389
+note 65=6499
+note 66=6623
+note 67=6701
+note 68=6811
+note 69=6889
+note 70=7012
+note 71=7122
+note 72=7200
+note 73=7323
+note 74=7388
+note 75=7511
+note 76=7589
+note 77=7699
+note 78=7823
+note 79=7901
+note 80=8011
+note 81=8089
+note 82=8212
+note 83=8322
+note 84=8400
+note 85=8523
+note 86=8588
+note 87=8711
+note 88=8789
+note 89=8899
+note 90=9023
+note 91=9101
+note 92=9211
+note 93=9289
+note 94=9412
+note 95=9522
+note 96=9600
+note 97=9723
+note 98=9788
+note 99=9911
+note 100=9989
+note 101=10099
+note 102=10223
+note 103=10301
+note 104=10411
+note 105=10489
+note 106=10612
+note 107=10722
+note 108=10800
+note 109=10923
+note 110=10988
+note 111=11111
+note 112=11189
+note 113=11299
+note 114=11423
+note 115=11501
+note 116=11611
+note 117=11689
+note 118=11812
+note 119=11922
+note 120=12000
+note 121=12123
+note 122=12188
+note 123=12311
+note 124=12389
+note 125=12499
+note 126=12623
+note 127=12701
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "novadene.tun"
+ID= "ID_novadene.tun"
+Filename= "novadene.scl"
+Description= "Novadene, starling-tempered skew duodene in 185-tET tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 123.243240
+note 2= 188.108110
+note 3= 311.351350
+note 4= 389.189190
+note 5= 499.459460
+note 6= 622.702700
+note 7= 700.540540
+note 8= 810.810810
+note 9= 888.648650
+note 10= 1011.891890
+note 11= 1122.162160
+note 12= 1200.000000
+note 13= 1323.243240
+note 14= 1388.108110
+note 15= 1511.351350
+note 16= 1589.189190
+note 17= 1699.459460
+note 18= 1822.702700
+note 19= 1900.540540
+note 20= 2010.810810
+note 21= 2088.648650
+note 22= 2211.891890
+note 23= 2322.162160
+note 24= 2400.000000
+note 25= 2523.243240
+note 26= 2588.108110
+note 27= 2711.351350
+note 28= 2789.189190
+note 29= 2899.459460
+note 30= 3022.702700
+note 31= 3100.540540
+note 32= 3210.810810
+note 33= 3288.648650
+note 34= 3411.891890
+note 35= 3522.162160
+note 36= 3600.000000
+note 37= 3723.243240
+note 38= 3788.108110
+note 39= 3911.351350
+note 40= 3989.189190
+note 41= 4099.459460
+note 42= 4222.702700
+note 43= 4300.540540
+note 44= 4410.810810
+note 45= 4488.648650
+note 46= 4611.891890
+note 47= 4722.162160
+note 48= 4800.000000
+note 49= 4923.243240
+note 50= 4988.108110
+note 51= 5111.351350
+note 52= 5189.189190
+note 53= 5299.459460
+note 54= 5422.702700
+note 55= 5500.540540
+note 56= 5610.810810
+note 57= 5688.648650
+note 58= 5811.891890
+note 59= 5922.162160
+note 60= 6000.000000
+note 61= 6123.243240
+note 62= 6188.108110
+note 63= 6311.351350
+note 64= 6389.189190
+note 65= 6499.459460
+note 66= 6622.702700
+note 67= 6700.540540
+note 68= 6810.810810
+note 69= 6888.648650
+note 70= 7011.891890
+note 71= 7122.162160
+note 72= 7200.000000
+note 73= 7323.243240
+note 74= 7388.108110
+note 75= 7511.351350
+note 76= 7589.189190
+note 77= 7699.459460
+note 78= 7822.702700
+note 79= 7900.540540
+note 80= 8010.810810
+note 81= 8088.648650
+note 82= 8211.891890
+note 83= 8322.162160
+note 84= 8400.000000
+note 85= 8523.243240
+note 86= 8588.108110
+note 87= 8711.351350
+note 88= 8789.189190
+note 89= 8899.459460
+note 90= 9022.702700
+note 91= 9100.540540
+note 92= 9210.810810
+note 93= 9288.648650
+note 94= 9411.891890
+note 95= 9522.162160
+note 96= 9600.000000
+note 97= 9723.243240
+note 98= 9788.108110
+note 99= 9911.351350
+note 100= 9989.189190
+note 101= 10099.459460
+note 102= 10222.702700
+note 103= 10300.540540
+note 104= 10410.810810
+note 105= 10488.648650
+note 106= 10611.891890
+note 107= 10722.162160
+note 108= 10800.000000
+note 109= 10923.243240
+note 110= 10988.108110
+note 111= 11111.351350
+note 112= 11189.189190
+note 113= 11299.459460
+note 114= 11422.702700
+note 115= 11500.540540
+note 116= 11610.810810
+note 117= 11688.648650
+note 118= 11811.891890
+note 119= 11922.162160
+note 120= 12000.000000
+note 121= 12123.243240
+note 122= 12188.108110
+note 123= 12311.351350
+note 124= 12389.189190
+note 125= 12499.459460
+note 126= 12622.702700
+note 127= 12700.540540
+
+[Functional Tuning]
+note 1="#=0 % 123.243240"
+note 2="#=0 % 188.108110"
+note 3="#=0 % 311.351350"
+note 4="#=0 % 389.189190"
+note 5="#=0 % 499.459460"
+note 6="#=0 % 622.702700"
+note 7="#=0 % 700.540540"
+note 8="#=0 % 810.810810"
+note 9="#=0 % 888.648650"
+note 10="#=0 % 1011.891890"
+note 11="#=0 % 1122.162160"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

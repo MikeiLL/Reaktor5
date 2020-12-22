@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ellis's Duodene union 11/9 times the duodene in 240-tET
+;
+; VAZ Plus section
+[Tuning]
+note 0=2985
+note 1=3065
+note 2=3100
+note 3=3135
+note 4=3215
+note 5=3250
+note 6=3285
+note 7=3335
+note 8=3415
+note 9=3450
+note 10=3485
+note 11=3565
+note 12=3600
+note 13=3635
+note 14=3715
+note 15=3765
+note 16=3800
+note 17=3835
+note 18=3915
+note 19=3950
+note 20=3985
+note 21=4065
+note 22=4100
+note 23=4150
+note 24=4185
+note 25=4265
+note 26=4300
+note 27=4335
+note 28=4415
+note 29=4450
+note 30=4485
+note 31=4535
+note 32=4615
+note 33=4650
+note 34=4685
+note 35=4765
+note 36=4800
+note 37=4835
+note 38=4915
+note 39=4965
+note 40=5000
+note 41=5035
+note 42=5115
+note 43=5150
+note 44=5185
+note 45=5265
+note 46=5300
+note 47=5350
+note 48=5385
+note 49=5465
+note 50=5500
+note 51=5535
+note 52=5615
+note 53=5650
+note 54=5685
+note 55=5735
+note 56=5815
+note 57=5850
+note 58=5885
+note 59=5965
+note 60=6000
+note 61=6035
+note 62=6115
+note 63=6165
+note 64=6200
+note 65=6235
+note 66=6315
+note 67=6350
+note 68=6385
+note 69=6465
+note 70=6500
+note 71=6550
+note 72=6585
+note 73=6665
+note 74=6700
+note 75=6735
+note 76=6815
+note 77=6850
+note 78=6885
+note 79=6935
+note 80=7015
+note 81=7050
+note 82=7085
+note 83=7165
+note 84=7200
+note 85=7235
+note 86=7315
+note 87=7365
+note 88=7400
+note 89=7435
+note 90=7515
+note 91=7550
+note 92=7585
+note 93=7665
+note 94=7700
+note 95=7750
+note 96=7785
+note 97=7865
+note 98=7900
+note 99=7935
+note 100=8015
+note 101=8050
+note 102=8085
+note 103=8135
+note 104=8215
+note 105=8250
+note 106=8285
+note 107=8365
+note 108=8400
+note 109=8435
+note 110=8515
+note 111=8565
+note 112=8600
+note 113=8635
+note 114=8715
+note 115=8750
+note 116=8785
+note 117=8865
+note 118=8900
+note 119=8950
+note 120=8985
+note 121=9065
+note 122=9100
+note 123=9135
+note 124=9215
+note 125=9250
+note 126=9285
+note 127=9335
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "duodene_double.tun"
+ID= "ID_duodene_double.tun"
+Filename= "duodene_double.scl"
+Description= "Ellis's Duodene union 11/9 times the duodene in 240-tET"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2985.000000
+note 1= 3065.000000
+note 2= 3100.000000
+note 3= 3135.000000
+note 4= 3215.000000
+note 5= 3250.000000
+note 6= 3285.000000
+note 7= 3335.000000
+note 8= 3415.000000
+note 9= 3450.000000
+note 10= 3485.000000
+note 11= 3565.000000
+note 12= 3600.000000
+note 13= 3635.000000
+note 14= 3715.000000
+note 15= 3765.000000
+note 16= 3800.000000
+note 17= 3835.000000
+note 18= 3915.000000
+note 19= 3950.000000
+note 20= 3985.000000
+note 21= 4065.000000
+note 22= 4100.000000
+note 23= 4150.000000
+note 24= 4185.000000
+note 25= 4265.000000
+note 26= 4300.000000
+note 27= 4335.000000
+note 28= 4415.000000
+note 29= 4450.000000
+note 30= 4485.000000
+note 31= 4535.000000
+note 32= 4615.000000
+note 33= 4650.000000
+note 34= 4685.000000
+note 35= 4765.000000
+note 36= 4800.000000
+note 37= 4835.000000
+note 38= 4915.000000
+note 39= 4965.000000
+note 40= 5000.000000
+note 41= 5035.000000
+note 42= 5115.000000
+note 43= 5150.000000
+note 44= 5185.000000
+note 45= 5265.000000
+note 46= 5300.000000
+note 47= 5350.000000
+note 48= 5385.000000
+note 49= 5465.000000
+note 50= 5500.000000
+note 51= 5535.000000
+note 52= 5615.000000
+note 53= 5650.000000
+note 54= 5685.000000
+note 55= 5735.000000
+note 56= 5815.000000
+note 57= 5850.000000
+note 58= 5885.000000
+note 59= 5965.000000
+note 60= 6000.000000
+note 61= 6035.000000
+note 62= 6115.000000
+note 63= 6165.000000
+note 64= 6200.000000
+note 65= 6235.000000
+note 66= 6315.000000
+note 67= 6350.000000
+note 68= 6385.000000
+note 69= 6465.000000
+note 70= 6500.000000
+note 71= 6550.000000
+note 72= 6585.000000
+note 73= 6665.000000
+note 74= 6700.000000
+note 75= 6735.000000
+note 76= 6815.000000
+note 77= 6850.000000
+note 78= 6885.000000
+note 79= 6935.000000
+note 80= 7015.000000
+note 81= 7050.000000
+note 82= 7085.000000
+note 83= 7165.000000
+note 84= 7200.000000
+note 85= 7235.000000
+note 86= 7315.000000
+note 87= 7365.000000
+note 88= 7400.000000
+note 89= 7435.000000
+note 90= 7515.000000
+note 91= 7550.000000
+note 92= 7585.000000
+note 93= 7665.000000
+note 94= 7700.000000
+note 95= 7750.000000
+note 96= 7785.000000
+note 97= 7865.000000
+note 98= 7900.000000
+note 99= 7935.000000
+note 100= 8015.000000
+note 101= 8050.000000
+note 102= 8085.000000
+note 103= 8135.000000
+note 104= 8215.000000
+note 105= 8250.000000
+note 106= 8285.000000
+note 107= 8365.000000
+note 108= 8400.000000
+note 109= 8435.000000
+note 110= 8515.000000
+note 111= 8565.000000
+note 112= 8600.000000
+note 113= 8635.000000
+note 114= 8715.000000
+note 115= 8750.000000
+note 116= 8785.000000
+note 117= 8865.000000
+note 118= 8900.000000
+note 119= 8950.000000
+note 120= 8985.000000
+note 121= 9065.000000
+note 122= 9100.000000
+note 123= 9135.000000
+note 124= 9215.000000
+note 125= 9250.000000
+note 126= 9285.000000
+note 127= 9335.000000
+
+[Functional Tuning]
+note 1="#=0 % 35.000000"
+note 2="#=0 % 115.000000"
+note 3="#=0 % 165.000000"
+note 4="#=0 % 200.000000"
+note 5="#=0 % 235.000000"
+note 6="#=0 % 315.000000"
+note 7="#=0 % 350.000000"
+note 8="#=0 % 385.000000"
+note 9="#=0 % 465.000000"
+note 10="#=0 % 500.000000"
+note 11="#=0 % 550.000000"
+note 12="#=0 % 585.000000"
+note 13="#=0 % 665.000000"
+note 14="#=0 % 700.000000"
+note 15="#=0 % 735.000000"
+note 16="#=0 % 815.000000"
+note 17="#=0 % 850.000000"
+note 18="#=0 % 885.000000"
+note 19="#=0 % 935.000000"
+note 20="#=0 % 1015.000000"
+note 21="#=0 % 1050.000000"
+note 22="#=0 % 1085.000000"
+note 23="#=0 % 1165.000000"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

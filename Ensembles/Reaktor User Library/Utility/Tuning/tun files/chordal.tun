@@ -1,0 +1,322 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Chordal Notes subharmonic and harmonic
+;
+; VAZ Plus section
+[Tuning]
+note 0=4077
+note 1=5432
+note 2=6134
+note 3=6049
+note 4=5663
+note 5=5551
+note 6=5480
+note 7=4898
+note 8=4312
+note 9=4601
+note 10=4883
+note 11=6083
+note 12=4400
+note 13=4169
+note 14=4961
+note 15=4747
+note 16=4232
+note 17=4547
+note 18=4582
+note 19=4280
+note 20=4982
+note 21=5684
+note 22=5369
+note 23=5951
+note 24=6386
+note 25=6734
+note 26=7023
+note 27=7271
+note 28=7271
+note 29=6071
+note 30=6287
+note 31=6480
+note 32=5280
+note 33=6182
+note 34=5480
+note 35=5796
+note 36=5214
+note 37=5978
+note 38=5631
+note 39=5342
+note 40=5094
+note 41=6449
+note 42=7151
+note 43=7067
+note 44=6680
+note 45=6569
+note 46=6498
+note 47=5916
+note 48=5330
+note 49=5619
+note 50=5901
+note 51=7101
+note 52=5417
+note 53=5186
+note 54=5978
+note 55=5765
+note 56=5249
+note 57=5565
+note 58=5600
+note 59=5298
+note 60=6000
+note 61=6702
+note 62=6386
+note 63=6969
+note 64=7404
+note 65=7751
+note 66=8041
+note 67=8288
+note 68=8288
+note 69=7088
+note 70=7305
+note 71=7498
+note 72=6298
+note 73=7200
+note 74=6498
+note 75=6814
+note 76=6231
+note 77=6996
+note 78=6649
+note 79=6359
+note 80=6112
+note 81=7467
+note 82=8169
+note 83=8084
+note 84=7698
+note 85=7586
+note 86=7516
+note 87=6933
+note 88=6347
+note 89=6637
+note 90=6919
+note 91=8119
+note 92=6435
+note 93=6204
+note 94=6996
+note 95=6782
+note 96=6267
+note 97=6583
+note 98=6617
+note 99=6316
+note 100=7018
+note 101=7720
+note 102=7404
+note 103=7986
+note 104=8422
+note 105=8769
+note 106=9058
+note 107=9306
+note 108=9306
+note 109=8106
+note 110=8323
+note 111=8515
+note 112=7315
+note 113=8218
+note 114=7516
+note 115=7831
+note 116=7249
+note 117=8014
+note 118=7666
+note 119=7377
+note 120=7129
+note 121=8484
+note 122=9186
+note 123=9102
+note 124=8716
+note 125=8604
+note 126=8533
+note 127=7951
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "chordal.tun"
+ID= "ID_chordal.tun"
+Filename= "chordal.scl"
+Description= "Chordal Notes subharmonic and harmonic"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4076.538710
+note 1= 5431.678330
+note 2= 6133.633331
+note 3= 6049.166137
+note 4= 5662.852423
+note 5= 5551.121138
+note 6= 5480.448711
+note 7= 4897.936519
+note 8= 4312.215365
+note 9= 4601.425084
+note 10= 4883.449120
+note 11= 6083.449120
+note 12= 4399.891520
+note 13= 4168.717426
+note 14= 4960.897423
+note 15= 4747.299460
+note 16= 4231.678330
+note 17= 4547.319617
+note 18= 4582.295232
+note 19= 4280.448711
+note 20= 4982.403712
+note 21= 5684.358713
+note 22= 5368.717426
+note 23= 5951.229619
+note 24= 6386.313714
+note 25= 6733.721654
+note 26= 7022.931374
+note 27= 7270.672427
+note 28= 7270.672427
+note 29= 6070.672427
+note 30= 6287.359122
+note 31= 6479.916728
+note 32= 5279.916728
+note 33= 6182.403712
+note 34= 5480.448711
+note 35= 5796.089998
+note 36= 5213.577806
+note 37= 5978.493710
+note 38= 5631.085770
+note 39= 5341.876050
+note 40= 5094.134997
+note 41= 6449.274618
+note 42= 7151.229619
+note 43= 7066.762425
+note 44= 6680.448711
+note 45= 6568.717426
+note 46= 6498.044999
+note 47= 5915.532807
+note 48= 5329.811653
+note 49= 5619.021372
+note 50= 5901.045408
+note 51= 7101.045408
+note 52= 5417.487807
+note 53= 5186.313714
+note 54= 5978.493710
+note 55= 5764.895748
+note 56= 5249.274618
+note 57= 5564.915905
+note 58= 5599.891520
+note 59= 5298.044999
+note 60= 6000.000000
+note 61= 6701.955001
+note 62= 6386.313714
+note 63= 6968.825906
+note 64= 7403.910002
+note 65= 7751.317942
+note 66= 8040.527662
+note 67= 8288.268715
+note 68= 8288.268715
+note 69= 7088.268715
+note 70= 7304.955410
+note 71= 7497.513016
+note 72= 6297.513016
+note 73= 7200.000000
+note 74= 6498.044999
+note 75= 6813.686286
+note 76= 6231.174094
+note 77= 6996.089998
+note 78= 6648.682058
+note 79= 6359.472338
+note 80= 6111.731285
+note 81= 7466.870906
+note 82= 8168.825906
+note 83= 8084.358713
+note 84= 7698.044999
+note 85= 7586.313714
+note 86= 7515.641287
+note 87= 6933.129094
+note 88= 6347.407941
+note 89= 6636.617660
+note 90= 6918.641696
+note 91= 8118.641696
+note 92= 6435.084095
+note 93= 6203.910002
+note 94= 6996.089998
+note 95= 6782.492036
+note 96= 6266.870906
+note 97= 6582.512193
+note 98= 6617.487807
+note 99= 6315.641287
+note 100= 7017.596288
+note 101= 7719.551289
+note 102= 7403.910002
+note 103= 7986.422194
+note 104= 8421.506290
+note 105= 8768.914230
+note 106= 9058.123950
+note 107= 9305.865003
+note 108= 9305.865003
+note 109= 8105.865003
+note 110= 8322.551697
+note 111= 8515.109304
+note 112= 7315.109304
+note 113= 8217.596288
+note 114= 7515.641287
+note 115= 7831.282574
+note 116= 7248.770381
+note 117= 8013.686286
+note 118= 7666.278346
+note 119= 7377.068626
+note 120= 7129.327573
+note 121= 8484.467193
+note 122= 9186.422194
+note 123= 9101.955001
+note 124= 8715.641287
+note 125= 8603.910002
+note 126= 8533.237575
+note 127= 7950.725382
+
+[Functional Tuning]
+note 1="#=0 * 3/2"
+note 2="#=0 * 5/4"
+note 3="#=0 * 7/4"
+note 4="#=0 * 9/4"
+note 5="#=0 * 11/4"
+note 6="#=0 * 13/4"
+note 7="#=0 * 15/4"
+note 8="#=0 * 15/4"
+note 9="#=0 * 15/8"
+note 10="#=0 * 17/8"
+note 11="#=0 * 19/8"
+note 12="#=0 * 19/16"
+note 13="#=0 * 2/1"
+note 14="#=0 * 4/3"
+note 15="#=0 * 8/5"
+note 16="#=0 * 8/7"
+note 17="#=0 * 16/9"
+note 18="#=0 * 16/11"
+note 19="#=0 * 16/13"
+note 20="#=0 * 16/15"
+note 21="#=0 * 7/3"
+note 22="#=0 * 7/2"
+note 23="#=0 * 10/3"
+note 24="#=0 * 8/3"
+note 25="#=0 * 5/2"
+note 26="#=0 * 12/5"
+note 27="#=0 * 12/7"
+note 28="#=0 * 11/9"
+note 29="#=0 * 13/9"
+note 30="#=0 * 17/10"
+note 31="#=0 * 17/5"
+note 32="#=0 * 9/7"
+note 33="#=0 * 9/8"
+note 34="#=0 * 16/9"
+note 35="#=0 * 11/7"
+note 36="#=0 * 7/6"
+note 37="#=0 * 7/5"
+note 38="#=0 * 10/7"
+note 39="#=0 * 6/5"
+note 40="#>-40 * 9/5 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

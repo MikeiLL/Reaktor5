@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rational version of Tsaharuk linear temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=2988
+note 1=3053
+note 2=3102
+note 3=3165
+note 4=3192
+note 5=3255
+note 6=3306
+note 7=3369
+note 8=3396
+note 9=3459
+note 10=3488
+note 11=3551
+note 12=3600
+note 13=3663
+note 14=3690
+note 15=3755
+note 16=3804
+note 17=3867
+note 18=3894
+note 19=3957
+note 20=3986
+note 21=4049
+note 22=4098
+note 23=4161
+note 24=4188
+note 25=4253
+note 26=4302
+note 27=4365
+note 28=4392
+note 29=4455
+note 30=4506
+note 31=4569
+note 32=4596
+note 33=4659
+note 34=4688
+note 35=4751
+note 36=4800
+note 37=4863
+note 38=4890
+note 39=4955
+note 40=5004
+note 41=5067
+note 42=5094
+note 43=5157
+note 44=5186
+note 45=5249
+note 46=5298
+note 47=5361
+note 48=5388
+note 49=5453
+note 50=5502
+note 51=5565
+note 52=5592
+note 53=5655
+note 54=5706
+note 55=5769
+note 56=5796
+note 57=5859
+note 58=5888
+note 59=5951
+note 60=6000
+note 61=6063
+note 62=6090
+note 63=6155
+note 64=6204
+note 65=6267
+note 66=6294
+note 67=6357
+note 68=6386
+note 69=6449
+note 70=6498
+note 71=6561
+note 72=6588
+note 73=6653
+note 74=6702
+note 75=6765
+note 76=6792
+note 77=6855
+note 78=6906
+note 79=6969
+note 80=6996
+note 81=7059
+note 82=7088
+note 83=7151
+note 84=7200
+note 85=7263
+note 86=7290
+note 87=7355
+note 88=7404
+note 89=7467
+note 90=7494
+note 91=7557
+note 92=7586
+note 93=7649
+note 94=7698
+note 95=7761
+note 96=7788
+note 97=7853
+note 98=7902
+note 99=7965
+note 100=7992
+note 101=8055
+note 102=8106
+note 103=8169
+note 104=8196
+note 105=8259
+note 106=8288
+note 107=8351
+note 108=8400
+note 109=8463
+note 110=8490
+note 111=8555
+note 112=8604
+note 113=8667
+note 114=8694
+note 115=8757
+note 116=8786
+note 117=8849
+note 118=8898
+note 119=8961
+note 120=8988
+note 121=9053
+note 122=9102
+note 123=9165
+note 124=9192
+note 125=9255
+note 126=9306
+note 127=9369
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_tsaharuk24.tun"
+ID= "ID_dudon_tsaharuk24.tun"
+Filename= "dudon_tsaharuk24.scl"
+Description= "Rational version of Tsaharuk linear temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2988.390752
+note 1= 3053.184619
+note 2= 3101.955001
+note 3= 3164.915905
+note 4= 3192.179997
+note 5= 3255.261658
+note 6= 3305.865003
+note 7= 3368.825906
+note 8= 3396.089998
+note 9= 3459.171659
+note 10= 3488.268715
+note 11= 3551.229619
+note 12= 3600.000000
+note 13= 3662.960904
+note 14= 3690.345753
+note 15= 3755.139620
+note 16= 3803.910002
+note 17= 3866.870906
+note 18= 3894.134997
+note 19= 3957.216658
+note 20= 3986.313714
+note 21= 4049.274618
+note 22= 4098.044999
+note 23= 4161.005903
+note 24= 4188.390752
+note 25= 4253.184619
+note 26= 4301.955001
+note 27= 4364.915905
+note 28= 4392.179997
+note 29= 4455.261658
+note 30= 4505.865003
+note 31= 4568.825906
+note 32= 4596.089998
+note 33= 4659.171659
+note 34= 4688.268715
+note 35= 4751.229619
+note 36= 4800.000000
+note 37= 4862.960904
+note 38= 4890.345753
+note 39= 4955.139620
+note 40= 5003.910002
+note 41= 5066.870906
+note 42= 5094.134997
+note 43= 5157.216658
+note 44= 5186.313714
+note 45= 5249.274618
+note 46= 5298.044999
+note 47= 5361.005903
+note 48= 5388.390752
+note 49= 5453.184619
+note 50= 5501.955001
+note 51= 5564.915905
+note 52= 5592.179997
+note 53= 5655.261658
+note 54= 5705.865003
+note 55= 5768.825906
+note 56= 5796.089998
+note 57= 5859.171659
+note 58= 5888.268715
+note 59= 5951.229619
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6090.345753
+note 63= 6155.139620
+note 64= 6203.910002
+note 65= 6266.870906
+note 66= 6294.134997
+note 67= 6357.216658
+note 68= 6386.313714
+note 69= 6449.274618
+note 70= 6498.044999
+note 71= 6561.005903
+note 72= 6588.390752
+note 73= 6653.184619
+note 74= 6701.955001
+note 75= 6764.915905
+note 76= 6792.179997
+note 77= 6855.261658
+note 78= 6905.865003
+note 79= 6968.825906
+note 80= 6996.089998
+note 81= 7059.171659
+note 82= 7088.268715
+note 83= 7151.229619
+note 84= 7200.000000
+note 85= 7262.960904
+note 86= 7290.345753
+note 87= 7355.139620
+note 88= 7403.910002
+note 89= 7466.870906
+note 90= 7494.134997
+note 91= 7557.216658
+note 92= 7586.313714
+note 93= 7649.274618
+note 94= 7698.044999
+note 95= 7761.005903
+note 96= 7788.390752
+note 97= 7853.184619
+note 98= 7901.955001
+note 99= 7964.915905
+note 100= 7992.179997
+note 101= 8055.261658
+note 102= 8105.865003
+note 103= 8168.825906
+note 104= 8196.089998
+note 105= 8259.171659
+note 106= 8288.268715
+note 107= 8351.229619
+note 108= 8400.000000
+note 109= 8462.960904
+note 110= 8490.345753
+note 111= 8555.139620
+note 112= 8603.910002
+note 113= 8666.870906
+note 114= 8694.134997
+note 115= 8757.216658
+note 116= 8786.313714
+note 117= 8849.274618
+note 118= 8898.044999
+note 119= 8961.005903
+note 120= 8988.390752
+note 121= 9053.184619
+note 122= 9101.955001
+note 123= 9164.915905
+note 124= 9192.179997
+note 125= 9255.261658
+note 126= 9305.865003
+note 127= 9368.825906
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 59/56"
+note 3="#=0 * 35/32"
+note 4="#=0 * 9/8"
+note 5="#=0 * 7/6"
+note 6="#=0 * 32/27"
+note 7="#=0 * 59/48"
+note 8="#=0 * 5/4"
+note 9="#=0 * 35/27"
+note 10="#=0 * 4/3"
+note 11="#=0 * 112/81"
+note 12="#=0 * 59/42"
+note 13="#=0 * 35/24"
+note 14="#=0 * 3/2"
+note 15="#=0 * 14/9"
+note 16="#=0 * 128/81"
+note 17="#=0 * 59/36"
+note 18="#=0 * 27/16"
+note 19="#=0 * 7/4"
+note 20="#=0 * 16/9"
+note 21="#=0 * 59/32"
+note 22="#=0 * 15/8"
+note 23="#=0 * 35/18"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

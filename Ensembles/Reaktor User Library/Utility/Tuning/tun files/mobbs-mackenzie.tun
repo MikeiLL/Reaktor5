@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kenneth Mobbs and Alexander Mackenzie of Ord, Bach temperament (2005)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=201
+note 3=298
+note 4=399
+note 5=499
+note 6=592
+note 7=701
+note 8=796
+note 9=902
+note 10=999
+note 11=1095
+note 12=1200
+note 13=1294
+note 14=1401
+note 15=1498
+note 16=1599
+note 17=1699
+note 18=1792
+note 19=1901
+note 20=1996
+note 21=2102
+note 22=2199
+note 23=2295
+note 24=2400
+note 25=2494
+note 26=2601
+note 27=2698
+note 28=2799
+note 29=2899
+note 30=2992
+note 31=3101
+note 32=3196
+note 33=3302
+note 34=3399
+note 35=3495
+note 36=3600
+note 37=3694
+note 38=3801
+note 39=3898
+note 40=3999
+note 41=4099
+note 42=4192
+note 43=4301
+note 44=4396
+note 45=4502
+note 46=4599
+note 47=4695
+note 48=4800
+note 49=4894
+note 50=5001
+note 51=5098
+note 52=5199
+note 53=5299
+note 54=5392
+note 55=5501
+note 56=5596
+note 57=5702
+note 58=5799
+note 59=5895
+note 60=6000
+note 61=6094
+note 62=6201
+note 63=6298
+note 64=6399
+note 65=6499
+note 66=6592
+note 67=6701
+note 68=6796
+note 69=6902
+note 70=6999
+note 71=7095
+note 72=7200
+note 73=7294
+note 74=7401
+note 75=7498
+note 76=7599
+note 77=7699
+note 78=7792
+note 79=7901
+note 80=7996
+note 81=8102
+note 82=8199
+note 83=8295
+note 84=8400
+note 85=8494
+note 86=8601
+note 87=8698
+note 88=8799
+note 89=8899
+note 90=8992
+note 91=9101
+note 92=9196
+note 93=9302
+note 94=9399
+note 95=9495
+note 96=9600
+note 97=9694
+note 98=9801
+note 99=9898
+note 100=9999
+note 101=10099
+note 102=10192
+note 103=10301
+note 104=10396
+note 105=10502
+note 106=10599
+note 107=10695
+note 108=10800
+note 109=10894
+note 110=11001
+note 111=11098
+note 112=11199
+note 113=11299
+note 114=11392
+note 115=11501
+note 116=11596
+note 117=11702
+note 118=11799
+note 119=11895
+note 120=12000
+note 121=12094
+note 122=12201
+note 123=12298
+note 124=12399
+note 125=12499
+note 126=12592
+note 127=12701
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mobbs-mackenzie.tun"
+ID= "ID_mobbs-mackenzie.tun"
+Filename= "mobbs-mackenzie.scl"
+Description= "Kenneth Mobbs and Alexander Mackenzie of Ord, Bach temperament (2005)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 93.938320
+note 2= 201.498690
+note 3= 297.848320
+note 4= 398.826460
+note 5= 499.281840
+note 6= 591.983320
+note 7= 700.749350
+note 8= 795.893320
+note 9= 902.248040
+note 10= 998.565080
+note 11= 1095.404890
+note 12= 1200.000000
+note 13= 1293.938320
+note 14= 1401.498690
+note 15= 1497.848320
+note 16= 1598.826460
+note 17= 1699.281840
+note 18= 1791.983320
+note 19= 1900.749350
+note 20= 1995.893320
+note 21= 2102.248040
+note 22= 2198.565080
+note 23= 2295.404890
+note 24= 2400.000000
+note 25= 2493.938320
+note 26= 2601.498690
+note 27= 2697.848320
+note 28= 2798.826460
+note 29= 2899.281840
+note 30= 2991.983320
+note 31= 3100.749350
+note 32= 3195.893320
+note 33= 3302.248040
+note 34= 3398.565080
+note 35= 3495.404890
+note 36= 3600.000000
+note 37= 3693.938320
+note 38= 3801.498690
+note 39= 3897.848320
+note 40= 3998.826460
+note 41= 4099.281840
+note 42= 4191.983320
+note 43= 4300.749350
+note 44= 4395.893320
+note 45= 4502.248040
+note 46= 4598.565080
+note 47= 4695.404890
+note 48= 4800.000000
+note 49= 4893.938320
+note 50= 5001.498690
+note 51= 5097.848320
+note 52= 5198.826460
+note 53= 5299.281840
+note 54= 5391.983320
+note 55= 5500.749350
+note 56= 5595.893320
+note 57= 5702.248040
+note 58= 5798.565080
+note 59= 5895.404890
+note 60= 6000.000000
+note 61= 6093.938320
+note 62= 6201.498690
+note 63= 6297.848320
+note 64= 6398.826460
+note 65= 6499.281840
+note 66= 6591.983320
+note 67= 6700.749350
+note 68= 6795.893320
+note 69= 6902.248040
+note 70= 6998.565080
+note 71= 7095.404890
+note 72= 7200.000000
+note 73= 7293.938320
+note 74= 7401.498690
+note 75= 7497.848320
+note 76= 7598.826460
+note 77= 7699.281840
+note 78= 7791.983320
+note 79= 7900.749350
+note 80= 7995.893320
+note 81= 8102.248040
+note 82= 8198.565080
+note 83= 8295.404890
+note 84= 8400.000000
+note 85= 8493.938320
+note 86= 8601.498690
+note 87= 8697.848320
+note 88= 8798.826460
+note 89= 8899.281840
+note 90= 8991.983320
+note 91= 9100.749350
+note 92= 9195.893320
+note 93= 9302.248040
+note 94= 9398.565080
+note 95= 9495.404890
+note 96= 9600.000000
+note 97= 9693.938320
+note 98= 9801.498690
+note 99= 9897.848320
+note 100= 9998.826460
+note 101= 10099.281840
+note 102= 10191.983320
+note 103= 10300.749350
+note 104= 10395.893320
+note 105= 10502.248040
+note 106= 10598.565080
+note 107= 10695.404890
+note 108= 10800.000000
+note 109= 10893.938320
+note 110= 11001.498690
+note 111= 11097.848320
+note 112= 11198.826460
+note 113= 11299.281840
+note 114= 11391.983320
+note 115= 11500.749350
+note 116= 11595.893320
+note 117= 11702.248040
+note 118= 11798.565080
+note 119= 11895.404890
+note 120= 12000.000000
+note 121= 12093.938320
+note 122= 12201.498690
+note 123= 12297.848320
+note 124= 12398.826460
+note 125= 12499.281840
+note 126= 12591.983320
+note 127= 12700.749350
+
+[Functional Tuning]
+note 1="#=0 % 93.938320"
+note 2="#=0 % 201.498690"
+note 3="#=0 % 297.848320"
+note 4="#=0 % 398.826460"
+note 5="#=0 % 499.281840"
+note 6="#=0 % 591.983320"
+note 7="#=0 % 700.749350"
+note 8="#=0 % 795.893320"
+note 9="#=0 % 902.248040"
+note 10="#=0 % 998.565080"
+note 11="#=0 % 1095.404890"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

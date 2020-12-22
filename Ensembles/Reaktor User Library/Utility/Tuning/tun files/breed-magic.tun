@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Graham Breed's Magic temperament, g=380.384, 9-limit, close to 41-tET
+;
+; VAZ Plus section
+[Tuning]
+note 0=584
+note 1=643
+note 2=702
+note 3=761
+note 4=965
+note 5=1023
+note 6=1082
+note 7=1141
+note 8=1200
+note 9=1404
+note 10=1463
+note 11=1522
+note 12=1580
+note 13=1784
+note 14=1843
+note 15=1902
+note 16=1961
+note 17=2165
+note 18=2223
+note 19=2282
+note 20=2341
+note 21=2400
+note 22=2604
+note 23=2663
+note 24=2722
+note 25=2780
+note 26=2984
+note 27=3043
+note 28=3102
+note 29=3161
+note 30=3365
+note 31=3423
+note 32=3482
+note 33=3541
+note 34=3600
+note 35=3804
+note 36=3863
+note 37=3922
+note 38=3980
+note 39=4184
+note 40=4243
+note 41=4302
+note 42=4361
+note 43=4565
+note 44=4623
+note 45=4682
+note 46=4741
+note 47=4800
+note 48=5004
+note 49=5063
+note 50=5122
+note 51=5180
+note 52=5384
+note 53=5443
+note 54=5502
+note 55=5561
+note 56=5765
+note 57=5823
+note 58=5882
+note 59=5941
+note 60=6000
+note 61=6204
+note 62=6263
+note 63=6322
+note 64=6380
+note 65=6584
+note 66=6643
+note 67=6702
+note 68=6761
+note 69=6965
+note 70=7023
+note 71=7082
+note 72=7141
+note 73=7200
+note 74=7404
+note 75=7463
+note 76=7522
+note 77=7580
+note 78=7784
+note 79=7843
+note 80=7902
+note 81=7961
+note 82=8165
+note 83=8223
+note 84=8282
+note 85=8341
+note 86=8400
+note 87=8604
+note 88=8663
+note 89=8722
+note 90=8780
+note 91=8984
+note 92=9043
+note 93=9102
+note 94=9161
+note 95=9365
+note 96=9423
+note 97=9482
+note 98=9541
+note 99=9600
+note 100=9804
+note 101=9863
+note 102=9922
+note 103=9980
+note 104=10184
+note 105=10243
+note 106=10302
+note 107=10361
+note 108=10565
+note 109=10623
+note 110=10682
+note 111=10741
+note 112=10800
+note 113=11004
+note 114=11063
+note 115=11122
+note 116=11180
+note 117=11384
+note 118=11443
+note 119=11502
+note 120=11561
+note 121=11765
+note 122=11823
+note 123=11882
+note 124=11941
+note 125=12000
+note 126=12204
+note 127=12263
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "breed-magic.tun"
+ID= "ID_breed-magic.tun"
+Filename= "breed-magic.scl"
+Description= "Graham Breed's Magic temperament, g=380.384, 9-limit, close to 41-tET"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 584.220940
+note 1= 643.069780
+note 2= 701.918610
+note 3= 760.767440
+note 4= 964.604660
+note 5= 1023.453500
+note 6= 1082.302330
+note 7= 1141.151170
+note 8= 1200.000000
+note 9= 1403.837220
+note 10= 1462.686050
+note 11= 1521.534890
+note 12= 1580.383720
+note 13= 1784.220940
+note 14= 1843.069780
+note 15= 1901.918610
+note 16= 1960.767440
+note 17= 2164.604660
+note 18= 2223.453500
+note 19= 2282.302330
+note 20= 2341.151170
+note 21= 2400.000000
+note 22= 2603.837220
+note 23= 2662.686050
+note 24= 2721.534890
+note 25= 2780.383720
+note 26= 2984.220940
+note 27= 3043.069780
+note 28= 3101.918610
+note 29= 3160.767440
+note 30= 3364.604660
+note 31= 3423.453500
+note 32= 3482.302330
+note 33= 3541.151170
+note 34= 3600.000000
+note 35= 3803.837220
+note 36= 3862.686050
+note 37= 3921.534890
+note 38= 3980.383720
+note 39= 4184.220940
+note 40= 4243.069780
+note 41= 4301.918610
+note 42= 4360.767440
+note 43= 4564.604660
+note 44= 4623.453500
+note 45= 4682.302330
+note 46= 4741.151170
+note 47= 4800.000000
+note 48= 5003.837220
+note 49= 5062.686050
+note 50= 5121.534890
+note 51= 5180.383720
+note 52= 5384.220940
+note 53= 5443.069780
+note 54= 5501.918610
+note 55= 5560.767440
+note 56= 5764.604660
+note 57= 5823.453500
+note 58= 5882.302330
+note 59= 5941.151170
+note 60= 6000.000000
+note 61= 6203.837220
+note 62= 6262.686050
+note 63= 6321.534890
+note 64= 6380.383720
+note 65= 6584.220940
+note 66= 6643.069780
+note 67= 6701.918610
+note 68= 6760.767440
+note 69= 6964.604660
+note 70= 7023.453500
+note 71= 7082.302330
+note 72= 7141.151170
+note 73= 7200.000000
+note 74= 7403.837220
+note 75= 7462.686050
+note 76= 7521.534890
+note 77= 7580.383720
+note 78= 7784.220940
+note 79= 7843.069780
+note 80= 7901.918610
+note 81= 7960.767440
+note 82= 8164.604660
+note 83= 8223.453500
+note 84= 8282.302330
+note 85= 8341.151170
+note 86= 8400.000000
+note 87= 8603.837220
+note 88= 8662.686050
+note 89= 8721.534890
+note 90= 8780.383720
+note 91= 8984.220940
+note 92= 9043.069780
+note 93= 9101.918610
+note 94= 9160.767440
+note 95= 9364.604660
+note 96= 9423.453500
+note 97= 9482.302330
+note 98= 9541.151170
+note 99= 9600.000000
+note 100= 9803.837220
+note 101= 9862.686050
+note 102= 9921.534890
+note 103= 9980.383720
+note 104= 10184.220940
+note 105= 10243.069780
+note 106= 10301.918610
+note 107= 10360.767440
+note 108= 10564.604660
+note 109= 10623.453500
+note 110= 10682.302330
+note 111= 10741.151170
+note 112= 10800.000000
+note 113= 11003.837220
+note 114= 11062.686050
+note 115= 11121.534890
+note 116= 11180.383720
+note 117= 11384.220940
+note 118= 11443.069780
+note 119= 11501.918610
+note 120= 11560.767440
+note 121= 11764.604660
+note 122= 11823.453500
+note 123= 11882.302330
+note 124= 11941.151170
+note 125= 12000.000000
+note 126= 12203.837220
+note 127= 12262.686050
+
+[Functional Tuning]
+note 1="#=0 % 203.837220"
+note 2="#=0 % 262.686050"
+note 3="#=0 % 321.534890"
+note 4="#=0 % 380.383720"
+note 5="#=0 % 584.220940"
+note 6="#=0 % 643.069780"
+note 7="#=0 % 701.918610"
+note 8="#=0 % 760.767440"
+note 9="#=0 % 964.604660"
+note 10="#=0 % 1023.453500"
+note 11="#=0 % 1082.302330"
+note 12="#=0 % 1141.151170"
+note 13="#>-13 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

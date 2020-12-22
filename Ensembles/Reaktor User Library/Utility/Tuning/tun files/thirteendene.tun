@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Detempered 2.3.5.7.13 transversal of marveldene, hecate (225/224, 325/324, 385/384) version
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=139
+note 2=204
+note 3=316
+note 4=435
+note 5=520
+note 6=637
+note 7=702
+note 8=814
+note 9=906
+note 10=1018
+note 11=1137
+note 12=1200
+note 13=1339
+note 14=1404
+note 15=1516
+note 16=1635
+note 17=1720
+note 18=1837
+note 19=1902
+note 20=2014
+note 21=2106
+note 22=2218
+note 23=2337
+note 24=2400
+note 25=2539
+note 26=2604
+note 27=2716
+note 28=2835
+note 29=2920
+note 30=3037
+note 31=3102
+note 32=3214
+note 33=3306
+note 34=3418
+note 35=3537
+note 36=3600
+note 37=3739
+note 38=3804
+note 39=3916
+note 40=4035
+note 41=4120
+note 42=4237
+note 43=4302
+note 44=4414
+note 45=4506
+note 46=4618
+note 47=4737
+note 48=4800
+note 49=4939
+note 50=5004
+note 51=5116
+note 52=5235
+note 53=5320
+note 54=5437
+note 55=5502
+note 56=5614
+note 57=5706
+note 58=5818
+note 59=5937
+note 60=6000
+note 61=6139
+note 62=6204
+note 63=6316
+note 64=6435
+note 65=6520
+note 66=6637
+note 67=6702
+note 68=6814
+note 69=6906
+note 70=7018
+note 71=7137
+note 72=7200
+note 73=7339
+note 74=7404
+note 75=7516
+note 76=7635
+note 77=7720
+note 78=7837
+note 79=7902
+note 80=8014
+note 81=8106
+note 82=8218
+note 83=8337
+note 84=8400
+note 85=8539
+note 86=8604
+note 87=8716
+note 88=8835
+note 89=8920
+note 90=9037
+note 91=9102
+note 92=9214
+note 93=9306
+note 94=9418
+note 95=9537
+note 96=9600
+note 97=9739
+note 98=9804
+note 99=9916
+note 100=10035
+note 101=10120
+note 102=10237
+note 103=10302
+note 104=10414
+note 105=10506
+note 106=10618
+note 107=10737
+note 108=10800
+note 109=10939
+note 110=11004
+note 111=11116
+note 112=11235
+note 113=11320
+note 114=11437
+note 115=11502
+note 116=11614
+note 117=11706
+note 118=11818
+note 119=11937
+note 120=12000
+note 121=12139
+note 122=12204
+note 123=12316
+note 124=12435
+note 125=12520
+note 126=12637
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "thirteendene.tun"
+ID= "ID_thirteendene.tun"
+Filename= "thirteendene.scl"
+Description= "Detempered 2.3.5.7.13 transversal of marveldene, hecate (225/224, 325/324, 385/384) version"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 138.572661
+note 2= 203.910002
+note 3= 315.641287
+note 4= 435.084095
+note 5= 519.551289
+note 6= 636.617660
+note 7= 701.955001
+note 8= 813.686286
+note 9= 905.865003
+note 10= 1017.596288
+note 11= 1137.039096
+note 12= 1200.000000
+note 13= 1338.572661
+note 14= 1403.910002
+note 15= 1515.641287
+note 16= 1635.084095
+note 17= 1719.551289
+note 18= 1836.617660
+note 19= 1901.955001
+note 20= 2013.686286
+note 21= 2105.865003
+note 22= 2217.596288
+note 23= 2337.039096
+note 24= 2400.000000
+note 25= 2538.572661
+note 26= 2603.910002
+note 27= 2715.641287
+note 28= 2835.084095
+note 29= 2919.551289
+note 30= 3036.617660
+note 31= 3101.955001
+note 32= 3213.686286
+note 33= 3305.865003
+note 34= 3417.596288
+note 35= 3537.039096
+note 36= 3600.000000
+note 37= 3738.572661
+note 38= 3803.910002
+note 39= 3915.641287
+note 40= 4035.084095
+note 41= 4119.551289
+note 42= 4236.617660
+note 43= 4301.955001
+note 44= 4413.686286
+note 45= 4505.865003
+note 46= 4617.596288
+note 47= 4737.039096
+note 48= 4800.000000
+note 49= 4938.572661
+note 50= 5003.910002
+note 51= 5115.641287
+note 52= 5235.084095
+note 53= 5319.551289
+note 54= 5436.617660
+note 55= 5501.955001
+note 56= 5613.686286
+note 57= 5705.865003
+note 58= 5817.596288
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6138.572661
+note 62= 6203.910002
+note 63= 6315.641287
+note 64= 6435.084095
+note 65= 6519.551289
+note 66= 6636.617660
+note 67= 6701.955001
+note 68= 6813.686286
+note 69= 6905.865003
+note 70= 7017.596288
+note 71= 7137.039096
+note 72= 7200.000000
+note 73= 7338.572661
+note 74= 7403.910002
+note 75= 7515.641287
+note 76= 7635.084095
+note 77= 7719.551289
+note 78= 7836.617660
+note 79= 7901.955001
+note 80= 8013.686286
+note 81= 8105.865003
+note 82= 8217.596288
+note 83= 8337.039096
+note 84= 8400.000000
+note 85= 8538.572661
+note 86= 8603.910002
+note 87= 8715.641287
+note 88= 8835.084095
+note 89= 8919.551289
+note 90= 9036.617660
+note 91= 9101.955001
+note 92= 9213.686286
+note 93= 9305.865003
+note 94= 9417.596288
+note 95= 9537.039096
+note 96= 9600.000000
+note 97= 9738.572661
+note 98= 9803.910002
+note 99= 9915.641287
+note 100= 10035.084095
+note 101= 10119.551289
+note 102= 10236.617660
+note 103= 10301.955001
+note 104= 10413.686286
+note 105= 10505.865003
+note 106= 10617.596288
+note 107= 10737.039096
+note 108= 10800.000000
+note 109= 10938.572661
+note 110= 11003.910002
+note 111= 11115.641287
+note 112= 11235.084095
+note 113= 11319.551289
+note 114= 11436.617660
+note 115= 11501.955001
+note 116= 11613.686286
+note 117= 11705.865003
+note 118= 11817.596288
+note 119= 11937.039096
+note 120= 12000.000000
+note 121= 12138.572661
+note 122= 12203.910002
+note 123= 12315.641287
+note 124= 12435.084095
+note 125= 12519.551289
+note 126= 12636.617660
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 13/12"
+note 2="#=0 * 9/8"
+note 3="#=0 * 6/5"
+note 4="#=0 * 9/7"
+note 5="#=0 * 27/20"
+note 6="#=0 * 13/9"
+note 7="#=0 * 3/2"
+note 8="#=0 * 8/5"
+note 9="#=0 * 27/16"
+note 10="#=0 * 9/5"
+note 11="#=0 * 27/14"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

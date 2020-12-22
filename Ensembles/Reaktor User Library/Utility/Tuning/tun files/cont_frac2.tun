@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Continued fraction scale 2, see McLaren in Xenharmonikon 15, pp.33-38
+;
+; VAZ Plus section
+[Tuning]
+note 0=1251
+note 1=1297
+note 2=1387
+note 3=1416
+note 4=1508
+note 5=1524
+note 6=1651
+note 7=1673
+note 8=1769
+note 9=1897
+note 10=1956
+note 11=2097
+note 12=2122
+note 13=2276
+note 14=2316
+note 15=2438
+note 16=2484
+note 17=2574
+note 18=2603
+note 19=2695
+note 20=2711
+note 21=2838
+note 22=2860
+note 23=2957
+note 24=3085
+note 25=3143
+note 26=3284
+note 27=3310
+note 28=3463
+note 29=3503
+note 30=3625
+note 31=3671
+note 32=3761
+note 33=3790
+note 34=3883
+note 35=3898
+note 36=4025
+note 37=4047
+note 38=4144
+note 39=4272
+note 40=4330
+note 41=4471
+note 42=4497
+note 43=4650
+note 44=4690
+note 45=4813
+note 46=4859
+note 47=4949
+note 48=4978
+note 49=5070
+note 50=5086
+note 51=5213
+note 52=5235
+note 53=5331
+note 54=5459
+note 55=5518
+note 56=5659
+note 57=5684
+note 58=5838
+note 59=5878
+note 60=6000
+note 61=6046
+note 62=6136
+note 63=6165
+note 64=6257
+note 65=6273
+note 66=6400
+note 67=6422
+note 68=6518
+note 69=6647
+note 70=6705
+note 71=6846
+note 72=6872
+note 73=7025
+note 74=7065
+note 75=7187
+note 76=7233
+note 77=7323
+note 78=7352
+note 79=7445
+note 80=7460
+note 81=7587
+note 82=7609
+note 83=7706
+note 84=7834
+note 85=7892
+note 86=8033
+note 87=8059
+note 88=8212
+note 89=8252
+note 90=8375
+note 91=8421
+note 92=8511
+note 93=8540
+note 94=8632
+note 95=8648
+note 96=8775
+note 97=8797
+note 98=8893
+note 99=9021
+note 100=9079
+note 101=9221
+note 102=9246
+note 103=9399
+note 104=9439
+note 105=9562
+note 106=9608
+note 107=9698
+note 108=9727
+note 109=9819
+note 110=9835
+note 111=9962
+note 112=9984
+note 113=10080
+note 114=10209
+note 115=10267
+note 116=10408
+note 117=10434
+note 118=10587
+note 119=10627
+note 120=10749
+note 121=10795
+note 122=10885
+note 123=10914
+note 124=11007
+note 125=11022
+note 126=11149
+note 127=11171
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "cont_frac2.tun"
+ID= "ID_cont_frac2.tun"
+Filename= "cont_frac2.scl"
+Description= "Continued fraction scale 2, see McLaren in Xenharmonikon 15, pp.33-38"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1250.752000
+note 1= 1296.755000
+note 2= 1386.720000
+note 3= 1415.757000
+note 4= 1508.128000
+note 5= 1523.733000
+note 6= 1650.780000
+note 7= 1672.819000
+note 8= 1769.205000
+note 9= 1897.385000
+note 10= 1955.628000
+note 11= 2096.632000
+note 12= 2122.321000
+note 13= 2275.627000
+note 14= 2315.565000
+note 15= 2438.064000
+note 16= 2484.067000
+note 17= 2574.032000
+note 18= 2603.069000
+note 19= 2695.440000
+note 20= 2711.045000
+note 21= 2838.092000
+note 22= 2860.131000
+note 23= 2956.517000
+note 24= 3084.697000
+note 25= 3142.940000
+note 26= 3283.944000
+note 27= 3309.633000
+note 28= 3462.939000
+note 29= 3502.877000
+note 30= 3625.376000
+note 31= 3671.379000
+note 32= 3761.344000
+note 33= 3790.381000
+note 34= 3882.752000
+note 35= 3898.357000
+note 36= 4025.404000
+note 37= 4047.443000
+note 38= 4143.829000
+note 39= 4272.009000
+note 40= 4330.252000
+note 41= 4471.256000
+note 42= 4496.945000
+note 43= 4650.251000
+note 44= 4690.189000
+note 45= 4812.688000
+note 46= 4858.691000
+note 47= 4948.656000
+note 48= 4977.693000
+note 49= 5070.064000
+note 50= 5085.669000
+note 51= 5212.716000
+note 52= 5234.755000
+note 53= 5331.141000
+note 54= 5459.321000
+note 55= 5517.564000
+note 56= 5658.568000
+note 57= 5684.257000
+note 58= 5837.563000
+note 59= 5877.501000
+note 60= 6000.000000
+note 61= 6046.003000
+note 62= 6135.968000
+note 63= 6165.005000
+note 64= 6257.376000
+note 65= 6272.981000
+note 66= 6400.028000
+note 67= 6422.067000
+note 68= 6518.453000
+note 69= 6646.633000
+note 70= 6704.876000
+note 71= 6845.880000
+note 72= 6871.569000
+note 73= 7024.875000
+note 74= 7064.813000
+note 75= 7187.312000
+note 76= 7233.315000
+note 77= 7323.280000
+note 78= 7352.317000
+note 79= 7444.688000
+note 80= 7460.293000
+note 81= 7587.340000
+note 82= 7609.379000
+note 83= 7705.765000
+note 84= 7833.945000
+note 85= 7892.188000
+note 86= 8033.192000
+note 87= 8058.881000
+note 88= 8212.187000
+note 89= 8252.125000
+note 90= 8374.624000
+note 91= 8420.627000
+note 92= 8510.592000
+note 93= 8539.629000
+note 94= 8632.000000
+note 95= 8647.605000
+note 96= 8774.652000
+note 97= 8796.691000
+note 98= 8893.077000
+note 99= 9021.257000
+note 100= 9079.500000
+note 101= 9220.504000
+note 102= 9246.193000
+note 103= 9399.499000
+note 104= 9439.437000
+note 105= 9561.936000
+note 106= 9607.939000
+note 107= 9697.904000
+note 108= 9726.941000
+note 109= 9819.312000
+note 110= 9834.917000
+note 111= 9961.964000
+note 112= 9984.003000
+note 113= 10080.389000
+note 114= 10208.569000
+note 115= 10266.812000
+note 116= 10407.816000
+note 117= 10433.505000
+note 118= 10586.811000
+note 119= 10626.749000
+note 120= 10749.248000
+note 121= 10795.251000
+note 122= 10885.216000
+note 123= 10914.253000
+note 124= 11006.624000
+note 125= 11022.229000
+note 126= 11149.276000
+note 127= 11171.315000
+
+[Functional Tuning]
+note 1="#=0 % 46.003000"
+note 2="#=0 % 135.968000"
+note 3="#=0 % 165.005000"
+note 4="#=0 % 257.376000"
+note 5="#=0 % 272.981000"
+note 6="#=0 % 400.028000"
+note 7="#=0 % 422.067000"
+note 8="#=0 % 518.453000"
+note 9="#=0 % 646.633000"
+note 10="#=0 % 704.876000"
+note 11="#=0 % 845.880000"
+note 12="#=0 % 871.569000"
+note 13="#=0 % 1024.875000"
+note 14="#=0 % 1064.813000"
+note 15="#>-15 % 1187.312000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

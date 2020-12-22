@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mavila[16] in synch (brat=-1) tuning, fifth satisfies f^4 + f^3 - 8 = 0
+;
+; VAZ Plus section
+[Tuning]
+note 0=1505
+note 1=1571
+note 2=1658
+note 3=1724
+note 4=1811
+note 5=1876
+note 6=1942
+note 7=2029
+note 8=2095
+note 9=2182
+note 10=2247
+note 11=2334
+note 12=2400
+note 13=2466
+note 14=2553
+note 15=2618
+note 16=2705
+note 17=2771
+note 18=2858
+note 19=2924
+note 20=3011
+note 21=3076
+note 22=3142
+note 23=3229
+note 24=3295
+note 25=3382
+note 26=3447
+note 27=3534
+note 28=3600
+note 29=3666
+note 30=3753
+note 31=3818
+note 32=3905
+note 33=3971
+note 34=4058
+note 35=4124
+note 36=4211
+note 37=4276
+note 38=4342
+note 39=4429
+note 40=4495
+note 41=4582
+note 42=4647
+note 43=4734
+note 44=4800
+note 45=4866
+note 46=4953
+note 47=5018
+note 48=5105
+note 49=5171
+note 50=5258
+note 51=5324
+note 52=5411
+note 53=5476
+note 54=5542
+note 55=5629
+note 56=5695
+note 57=5782
+note 58=5847
+note 59=5934
+note 60=6000
+note 61=6066
+note 62=6153
+note 63=6218
+note 64=6305
+note 65=6371
+note 66=6458
+note 67=6524
+note 68=6611
+note 69=6676
+note 70=6742
+note 71=6829
+note 72=6895
+note 73=6982
+note 74=7047
+note 75=7134
+note 76=7200
+note 77=7266
+note 78=7353
+note 79=7418
+note 80=7505
+note 81=7571
+note 82=7658
+note 83=7724
+note 84=7811
+note 85=7876
+note 86=7942
+note 87=8029
+note 88=8095
+note 89=8182
+note 90=8247
+note 91=8334
+note 92=8400
+note 93=8466
+note 94=8553
+note 95=8618
+note 96=8705
+note 97=8771
+note 98=8858
+note 99=8924
+note 100=9011
+note 101=9076
+note 102=9142
+note 103=9229
+note 104=9295
+note 105=9382
+note 106=9447
+note 107=9534
+note 108=9600
+note 109=9666
+note 110=9753
+note 111=9818
+note 112=9905
+note 113=9971
+note 114=10058
+note 115=10124
+note 116=10211
+note 117=10276
+note 118=10342
+note 119=10429
+note 120=10495
+note 121=10582
+note 122=10647
+note 123=10734
+note 124=10800
+note 125=10866
+note 126=10953
+note 127=11018
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mavsynch16.tun"
+ID= "ID_mavsynch16.tun"
+Filename= "mavsynch16.scl"
+Description= "Mavila[16] in synch (brat=-1) tuning, fifth satisfies f^4 + f^3 - 8 = 0"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1505.348614
+note 1= 1570.988539
+note 2= 1658.022921
+note 3= 1723.662846
+note 4= 1810.697228
+note 5= 1876.337154
+note 6= 1941.977079
+note 7= 2029.011461
+note 8= 2094.651386
+note 9= 2181.685768
+note 10= 2247.325693
+note 11= 2334.360075
+note 12= 2400.000000
+note 13= 2465.639925
+note 14= 2552.674307
+note 15= 2618.314232
+note 16= 2705.348614
+note 17= 2770.988539
+note 18= 2858.022921
+note 19= 2923.662846
+note 20= 3010.697228
+note 21= 3076.337154
+note 22= 3141.977079
+note 23= 3229.011461
+note 24= 3294.651386
+note 25= 3381.685768
+note 26= 3447.325693
+note 27= 3534.360075
+note 28= 3600.000000
+note 29= 3665.639925
+note 30= 3752.674307
+note 31= 3818.314232
+note 32= 3905.348614
+note 33= 3970.988539
+note 34= 4058.022921
+note 35= 4123.662846
+note 36= 4210.697228
+note 37= 4276.337154
+note 38= 4341.977079
+note 39= 4429.011461
+note 40= 4494.651386
+note 41= 4581.685768
+note 42= 4647.325693
+note 43= 4734.360075
+note 44= 4800.000000
+note 45= 4865.639925
+note 46= 4952.674307
+note 47= 5018.314232
+note 48= 5105.348614
+note 49= 5170.988539
+note 50= 5258.022921
+note 51= 5323.662846
+note 52= 5410.697228
+note 53= 5476.337154
+note 54= 5541.977079
+note 55= 5629.011461
+note 56= 5694.651386
+note 57= 5781.685768
+note 58= 5847.325693
+note 59= 5934.360075
+note 60= 6000.000000
+note 61= 6065.639925
+note 62= 6152.674307
+note 63= 6218.314232
+note 64= 6305.348614
+note 65= 6370.988539
+note 66= 6458.022921
+note 67= 6523.662846
+note 68= 6610.697228
+note 69= 6676.337154
+note 70= 6741.977079
+note 71= 6829.011461
+note 72= 6894.651386
+note 73= 6981.685768
+note 74= 7047.325693
+note 75= 7134.360075
+note 76= 7200.000000
+note 77= 7265.639925
+note 78= 7352.674307
+note 79= 7418.314232
+note 80= 7505.348614
+note 81= 7570.988539
+note 82= 7658.022921
+note 83= 7723.662846
+note 84= 7810.697228
+note 85= 7876.337154
+note 86= 7941.977079
+note 87= 8029.011461
+note 88= 8094.651386
+note 89= 8181.685768
+note 90= 8247.325693
+note 91= 8334.360075
+note 92= 8400.000000
+note 93= 8465.639925
+note 94= 8552.674307
+note 95= 8618.314232
+note 96= 8705.348614
+note 97= 8770.988539
+note 98= 8858.022921
+note 99= 8923.662846
+note 100= 9010.697228
+note 101= 9076.337154
+note 102= 9141.977079
+note 103= 9229.011461
+note 104= 9294.651386
+note 105= 9381.685768
+note 106= 9447.325693
+note 107= 9534.360075
+note 108= 9600.000000
+note 109= 9665.639925
+note 110= 9752.674307
+note 111= 9818.314232
+note 112= 9905.348614
+note 113= 9970.988539
+note 114= 10058.022921
+note 115= 10123.662846
+note 116= 10210.697228
+note 117= 10276.337154
+note 118= 10341.977079
+note 119= 10429.011461
+note 120= 10494.651386
+note 121= 10581.685768
+note 122= 10647.325693
+note 123= 10734.360075
+note 124= 10800.000000
+note 125= 10865.639925
+note 126= 10952.674307
+note 127= 11018.314232
+
+[Functional Tuning]
+note 1="#=0 % 65.639925"
+note 2="#=0 % 152.674307"
+note 3="#=0 % 218.314232"
+note 4="#=0 % 305.348614"
+note 5="#=0 % 370.988539"
+note 6="#=0 % 458.022921"
+note 7="#=0 % 523.662846"
+note 8="#=0 % 610.697228"
+note 9="#=0 % 676.337154"
+note 10="#=0 % 741.977079"
+note 11="#=0 % 829.011461"
+note 12="#=0 % 894.651386"
+note 13="#=0 % 981.685768"
+note 14="#=0 % 1047.325693"
+note 15="#=0 % 1134.360075"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

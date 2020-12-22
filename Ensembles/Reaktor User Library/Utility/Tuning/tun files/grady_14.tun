@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kraig Grady, letter to Lou Harrison, published in 1/1 7 (1) 1991 p 5.
+;
+; VAZ Plus section
+[Tuning]
+note 0=906
+note 1=969
+note 2=1088
+note 3=1173
+note 4=1200
+note 5=1284
+note 6=1404
+note 7=1467
+note 8=1586
+note 9=1671
+note 10=1698
+note 11=1783
+note 12=1902
+note 13=1986
+note 14=2106
+note 15=2169
+note 16=2288
+note 17=2373
+note 18=2400
+note 19=2484
+note 20=2604
+note 21=2667
+note 22=2786
+note 23=2871
+note 24=2898
+note 25=2983
+note 26=3102
+note 27=3186
+note 28=3306
+note 29=3369
+note 30=3488
+note 31=3573
+note 32=3600
+note 33=3684
+note 34=3804
+note 35=3867
+note 36=3986
+note 37=4071
+note 38=4098
+note 39=4183
+note 40=4302
+note 41=4386
+note 42=4506
+note 43=4569
+note 44=4688
+note 45=4773
+note 46=4800
+note 47=4884
+note 48=5004
+note 49=5067
+note 50=5186
+note 51=5271
+note 52=5298
+note 53=5383
+note 54=5502
+note 55=5586
+note 56=5706
+note 57=5769
+note 58=5888
+note 59=5973
+note 60=6000
+note 61=6084
+note 62=6204
+note 63=6267
+note 64=6386
+note 65=6471
+note 66=6498
+note 67=6583
+note 68=6702
+note 69=6786
+note 70=6906
+note 71=6969
+note 72=7088
+note 73=7173
+note 74=7200
+note 75=7284
+note 76=7404
+note 77=7467
+note 78=7586
+note 79=7671
+note 80=7698
+note 81=7783
+note 82=7902
+note 83=7986
+note 84=8106
+note 85=8169
+note 86=8288
+note 87=8373
+note 88=8400
+note 89=8484
+note 90=8604
+note 91=8667
+note 92=8786
+note 93=8871
+note 94=8898
+note 95=8983
+note 96=9102
+note 97=9186
+note 98=9306
+note 99=9369
+note 100=9488
+note 101=9573
+note 102=9600
+note 103=9684
+note 104=9804
+note 105=9867
+note 106=9986
+note 107=10071
+note 108=10098
+note 109=10183
+note 110=10302
+note 111=10386
+note 112=10506
+note 113=10569
+note 114=10688
+note 115=10773
+note 116=10800
+note 117=10884
+note 118=11004
+note 119=11067
+note 120=11186
+note 121=11271
+note 122=11298
+note 123=11383
+note 124=11502
+note 125=11586
+note 126=11706
+note 127=11769
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "grady_14.tun"
+ID= "ID_grady_14.tun"
+Filename= "grady_14.scl"
+Description= "Kraig Grady, letter to Lou Harrison, published in 1/1 7 (1) 1991 p 5."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 905.865003
+note 1= 968.825906
+note 2= 1088.268715
+note 3= 1172.735908
+note 4= 1200.000000
+note 5= 1284.467193
+note 6= 1403.910002
+note 7= 1466.870906
+note 8= 1586.313714
+note 9= 1670.780907
+note 10= 1698.044999
+note 11= 1782.512193
+note 12= 1901.955001
+note 13= 1986.422194
+note 14= 2105.865003
+note 15= 2168.825906
+note 16= 2288.268715
+note 17= 2372.735908
+note 18= 2400.000000
+note 19= 2484.467193
+note 20= 2603.910002
+note 21= 2666.870906
+note 22= 2786.313714
+note 23= 2870.780907
+note 24= 2898.044999
+note 25= 2982.512193
+note 26= 3101.955001
+note 27= 3186.422194
+note 28= 3305.865003
+note 29= 3368.825906
+note 30= 3488.268715
+note 31= 3572.735908
+note 32= 3600.000000
+note 33= 3684.467193
+note 34= 3803.910002
+note 35= 3866.870906
+note 36= 3986.313714
+note 37= 4070.780907
+note 38= 4098.044999
+note 39= 4182.512193
+note 40= 4301.955001
+note 41= 4386.422194
+note 42= 4505.865003
+note 43= 4568.825906
+note 44= 4688.268715
+note 45= 4772.735908
+note 46= 4800.000000
+note 47= 4884.467193
+note 48= 5003.910002
+note 49= 5066.870906
+note 50= 5186.313714
+note 51= 5270.780907
+note 52= 5298.044999
+note 53= 5382.512193
+note 54= 5501.955001
+note 55= 5586.422194
+note 56= 5705.865003
+note 57= 5768.825906
+note 58= 5888.268715
+note 59= 5972.735908
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6203.910002
+note 63= 6266.870906
+note 64= 6386.313714
+note 65= 6470.780907
+note 66= 6498.044999
+note 67= 6582.512193
+note 68= 6701.955001
+note 69= 6786.422194
+note 70= 6905.865003
+note 71= 6968.825906
+note 72= 7088.268715
+note 73= 7172.735908
+note 74= 7200.000000
+note 75= 7284.467193
+note 76= 7403.910002
+note 77= 7466.870906
+note 78= 7586.313714
+note 79= 7670.780907
+note 80= 7698.044999
+note 81= 7782.512193
+note 82= 7901.955001
+note 83= 7986.422194
+note 84= 8105.865003
+note 85= 8168.825906
+note 86= 8288.268715
+note 87= 8372.735908
+note 88= 8400.000000
+note 89= 8484.467193
+note 90= 8603.910002
+note 91= 8666.870906
+note 92= 8786.313714
+note 93= 8870.780907
+note 94= 8898.044999
+note 95= 8982.512193
+note 96= 9101.955001
+note 97= 9186.422194
+note 98= 9305.865003
+note 99= 9368.825906
+note 100= 9488.268715
+note 101= 9572.735908
+note 102= 9600.000000
+note 103= 9684.467193
+note 104= 9803.910002
+note 105= 9866.870906
+note 106= 9986.313714
+note 107= 10070.780907
+note 108= 10098.044999
+note 109= 10182.512193
+note 110= 10301.955001
+note 111= 10386.422194
+note 112= 10505.865003
+note 113= 10568.825906
+note 114= 10688.268715
+note 115= 10772.735908
+note 116= 10800.000000
+note 117= 10884.467193
+note 118= 11003.910002
+note 119= 11066.870906
+note 120= 11186.313714
+note 121= 11270.780907
+note 122= 11298.044999
+note 123= 11382.512193
+note 124= 11501.955001
+note 125= 11586.422194
+note 126= 11705.865003
+note 127= 11768.825906
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 9/8"
+note 3="#=0 * 7/6"
+note 4="#=0 * 5/4"
+note 5="#=0 * 21/16"
+note 6="#=0 * 4/3"
+note 7="#=0 * 7/5"
+note 8="#=0 * 3/2"
+note 9="#=0 * 63/40"
+note 10="#=0 * 27/16"
+note 11="#=0 * 7/4"
+note 12="#=0 * 15/8"
+note 13="#=0 * 63/32"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

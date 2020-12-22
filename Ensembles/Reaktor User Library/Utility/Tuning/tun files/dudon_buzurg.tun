@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Decaphonic system inspired by medieval Persian mode Buzurg (Safi al-Din), Dudon 1997
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=128
+note 2=139
+note 3=231
+note 4=370
+note 5=467
+note 6=574
+note 7=702
+note 8=830
+note 9=841
+note 10=933
+note 11=1072
+note 12=1200
+note 13=1328
+note 14=1339
+note 15=1431
+note 16=1570
+note 17=1667
+note 18=1774
+note 19=1902
+note 20=2030
+note 21=2041
+note 22=2133
+note 23=2272
+note 24=2400
+note 25=2528
+note 26=2539
+note 27=2631
+note 28=2770
+note 29=2867
+note 30=2974
+note 31=3102
+note 32=3230
+note 33=3241
+note 34=3333
+note 35=3472
+note 36=3600
+note 37=3728
+note 38=3739
+note 39=3831
+note 40=3970
+note 41=4067
+note 42=4174
+note 43=4302
+note 44=4430
+note 45=4441
+note 46=4533
+note 47=4672
+note 48=4800
+note 49=4928
+note 50=4939
+note 51=5031
+note 52=5170
+note 53=5267
+note 54=5374
+note 55=5502
+note 56=5630
+note 57=5641
+note 58=5733
+note 59=5872
+note 60=6000
+note 61=6128
+note 62=6139
+note 63=6231
+note 64=6370
+note 65=6467
+note 66=6574
+note 67=6702
+note 68=6830
+note 69=6841
+note 70=6933
+note 71=7072
+note 72=7200
+note 73=7328
+note 74=7339
+note 75=7431
+note 76=7570
+note 77=7667
+note 78=7774
+note 79=7902
+note 80=8030
+note 81=8041
+note 82=8133
+note 83=8272
+note 84=8400
+note 85=8528
+note 86=8539
+note 87=8631
+note 88=8770
+note 89=8867
+note 90=8974
+note 91=9102
+note 92=9230
+note 93=9241
+note 94=9333
+note 95=9472
+note 96=9600
+note 97=9728
+note 98=9739
+note 99=9831
+note 100=9970
+note 101=10067
+note 102=10174
+note 103=10302
+note 104=10430
+note 105=10441
+note 106=10533
+note 107=10672
+note 108=10800
+note 109=10928
+note 110=10939
+note 111=11031
+note 112=11170
+note 113=11267
+note 114=11374
+note 115=11502
+note 116=11630
+note 117=11641
+note 118=11733
+note 119=11872
+note 120=12000
+note 121=12128
+note 122=12139
+note 123=12231
+note 124=12370
+note 125=12467
+note 126=12574
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_buzurg.tun"
+ID= "ID_dudon_buzurg.tun"
+Filename= "dudon_buzurg.scl"
+Description= "Decaphonic system inspired by medieval Persian mode Buzurg (Safi al-Din), Dudon 1997"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 128.298245
+note 2= 138.572661
+note 3= 231.174094
+note 4= 369.746754
+note 5= 466.850749
+note 6= 573.656756
+note 7= 701.955001
+note 8= 830.253246
+note 9= 840.527662
+note 10= 933.129094
+note 11= 1071.701755
+note 12= 1200.000000
+note 13= 1328.298245
+note 14= 1338.572661
+note 15= 1431.174094
+note 16= 1569.746754
+note 17= 1666.850749
+note 18= 1773.656756
+note 19= 1901.955001
+note 20= 2030.253246
+note 21= 2040.527662
+note 22= 2133.129094
+note 23= 2271.701755
+note 24= 2400.000000
+note 25= 2528.298245
+note 26= 2538.572661
+note 27= 2631.174094
+note 28= 2769.746754
+note 29= 2866.850749
+note 30= 2973.656756
+note 31= 3101.955001
+note 32= 3230.253246
+note 33= 3240.527662
+note 34= 3333.129094
+note 35= 3471.701755
+note 36= 3600.000000
+note 37= 3728.298245
+note 38= 3738.572661
+note 39= 3831.174094
+note 40= 3969.746754
+note 41= 4066.850749
+note 42= 4173.656756
+note 43= 4301.955001
+note 44= 4430.253246
+note 45= 4440.527662
+note 46= 4533.129094
+note 47= 4671.701755
+note 48= 4800.000000
+note 49= 4928.298245
+note 50= 4938.572661
+note 51= 5031.174094
+note 52= 5169.746754
+note 53= 5266.850749
+note 54= 5373.656756
+note 55= 5501.955001
+note 56= 5630.253246
+note 57= 5640.527662
+note 58= 5733.129094
+note 59= 5871.701755
+note 60= 6000.000000
+note 61= 6128.298245
+note 62= 6138.572661
+note 63= 6231.174094
+note 64= 6369.746754
+note 65= 6466.850749
+note 66= 6573.656756
+note 67= 6701.955001
+note 68= 6830.253246
+note 69= 6840.527662
+note 70= 6933.129094
+note 71= 7071.701755
+note 72= 7200.000000
+note 73= 7328.298245
+note 74= 7338.572661
+note 75= 7431.174094
+note 76= 7569.746754
+note 77= 7666.850749
+note 78= 7773.656756
+note 79= 7901.955001
+note 80= 8030.253246
+note 81= 8040.527662
+note 82= 8133.129094
+note 83= 8271.701755
+note 84= 8400.000000
+note 85= 8528.298245
+note 86= 8538.572661
+note 87= 8631.174094
+note 88= 8769.746754
+note 89= 8866.850749
+note 90= 8973.656756
+note 91= 9101.955001
+note 92= 9230.253246
+note 93= 9240.527662
+note 94= 9333.129094
+note 95= 9471.701755
+note 96= 9600.000000
+note 97= 9728.298245
+note 98= 9738.572661
+note 99= 9831.174094
+note 100= 9969.746754
+note 101= 10066.850749
+note 102= 10173.656756
+note 103= 10301.955001
+note 104= 10430.253246
+note 105= 10440.527662
+note 106= 10533.129094
+note 107= 10671.701755
+note 108= 10800.000000
+note 109= 10928.298245
+note 110= 10938.572661
+note 111= 11031.174094
+note 112= 11169.746754
+note 113= 11266.850749
+note 114= 11373.656756
+note 115= 11501.955001
+note 116= 11630.253246
+note 117= 11640.527662
+note 118= 11733.129094
+note 119= 11871.701755
+note 120= 12000.000000
+note 121= 12128.298245
+note 122= 12138.572661
+note 123= 12231.174094
+note 124= 12369.746754
+note 125= 12466.850749
+note 126= 12573.656756
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 14/13"
+note 2="#=0 * 13/12"
+note 3="#=0 * 8/7"
+note 4="#=0 * 26/21"
+note 5="#=0 * 55/42"
+note 6="#=0 * 39/28"
+note 7="#=0 * 3/2"
+note 8="#=0 * 21/13"
+note 9="#=0 * 13/8"
+note 10="#=0 * 12/7"
+note 11="#=0 * 13/7"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

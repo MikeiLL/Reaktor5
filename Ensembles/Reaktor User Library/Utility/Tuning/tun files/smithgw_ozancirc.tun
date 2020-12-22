@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Circulating temperament in Ozan Yarman's 159-equal tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=98
+note 2=196
+note 3=317
+note 4=385
+note 5=506
+note 6=589
+note 7=694
+note 8=808
+note 9=891
+note 10=1011
+note 11=1079
+note 12=1200
+note 13=1298
+note 14=1396
+note 15=1517
+note 16=1585
+note 17=1706
+note 18=1789
+note 19=1894
+note 20=2008
+note 21=2091
+note 22=2211
+note 23=2279
+note 24=2400
+note 25=2498
+note 26=2596
+note 27=2717
+note 28=2785
+note 29=2906
+note 30=2989
+note 31=3094
+note 32=3208
+note 33=3291
+note 34=3411
+note 35=3479
+note 36=3600
+note 37=3698
+note 38=3796
+note 39=3917
+note 40=3985
+note 41=4106
+note 42=4189
+note 43=4294
+note 44=4408
+note 45=4491
+note 46=4611
+note 47=4679
+note 48=4800
+note 49=4898
+note 50=4996
+note 51=5117
+note 52=5185
+note 53=5306
+note 54=5389
+note 55=5494
+note 56=5608
+note 57=5691
+note 58=5811
+note 59=5879
+note 60=6000
+note 61=6098
+note 62=6196
+note 63=6317
+note 64=6385
+note 65=6506
+note 66=6589
+note 67=6694
+note 68=6808
+note 69=6891
+note 70=7011
+note 71=7079
+note 72=7200
+note 73=7298
+note 74=7396
+note 75=7517
+note 76=7585
+note 77=7706
+note 78=7789
+note 79=7894
+note 80=8008
+note 81=8091
+note 82=8211
+note 83=8279
+note 84=8400
+note 85=8498
+note 86=8596
+note 87=8717
+note 88=8785
+note 89=8906
+note 90=8989
+note 91=9094
+note 92=9208
+note 93=9291
+note 94=9411
+note 95=9479
+note 96=9600
+note 97=9698
+note 98=9796
+note 99=9917
+note 100=9985
+note 101=10106
+note 102=10189
+note 103=10294
+note 104=10408
+note 105=10491
+note 106=10611
+note 107=10679
+note 108=10800
+note 109=10898
+note 110=10996
+note 111=11117
+note 112=11185
+note 113=11306
+note 114=11389
+note 115=11494
+note 116=11608
+note 117=11691
+note 118=11811
+note 119=11879
+note 120=12000
+note 121=12098
+note 122=12196
+note 123=12317
+note 124=12385
+note 125=12506
+note 126=12589
+note 127=12694
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_ozancirc.tun"
+ID= "ID_smithgw_ozancirc.tun"
+Filename= "smithgw_ozancirc.scl"
+Description= "Circulating temperament in Ozan Yarman's 159-equal tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.113208
+note 2= 196.226415
+note 3= 316.981132
+note 4= 384.905660
+note 5= 505.660377
+note 6= 588.679245
+note 7= 694.339623
+note 8= 807.547170
+note 9= 890.566038
+note 10= 1011.320755
+note 11= 1079.245283
+note 12= 1200.000000
+note 13= 1298.113208
+note 14= 1396.226415
+note 15= 1516.981132
+note 16= 1584.905660
+note 17= 1705.660377
+note 18= 1788.679245
+note 19= 1894.339623
+note 20= 2007.547170
+note 21= 2090.566038
+note 22= 2211.320755
+note 23= 2279.245283
+note 24= 2400.000000
+note 25= 2498.113208
+note 26= 2596.226415
+note 27= 2716.981132
+note 28= 2784.905660
+note 29= 2905.660377
+note 30= 2988.679245
+note 31= 3094.339623
+note 32= 3207.547170
+note 33= 3290.566038
+note 34= 3411.320755
+note 35= 3479.245283
+note 36= 3600.000000
+note 37= 3698.113208
+note 38= 3796.226415
+note 39= 3916.981132
+note 40= 3984.905660
+note 41= 4105.660377
+note 42= 4188.679245
+note 43= 4294.339623
+note 44= 4407.547170
+note 45= 4490.566038
+note 46= 4611.320755
+note 47= 4679.245283
+note 48= 4800.000000
+note 49= 4898.113208
+note 50= 4996.226415
+note 51= 5116.981132
+note 52= 5184.905660
+note 53= 5305.660377
+note 54= 5388.679245
+note 55= 5494.339623
+note 56= 5607.547170
+note 57= 5690.566038
+note 58= 5811.320755
+note 59= 5879.245283
+note 60= 6000.000000
+note 61= 6098.113208
+note 62= 6196.226415
+note 63= 6316.981132
+note 64= 6384.905660
+note 65= 6505.660377
+note 66= 6588.679245
+note 67= 6694.339623
+note 68= 6807.547170
+note 69= 6890.566038
+note 70= 7011.320755
+note 71= 7079.245283
+note 72= 7200.000000
+note 73= 7298.113208
+note 74= 7396.226415
+note 75= 7516.981132
+note 76= 7584.905660
+note 77= 7705.660377
+note 78= 7788.679245
+note 79= 7894.339623
+note 80= 8007.547170
+note 81= 8090.566038
+note 82= 8211.320755
+note 83= 8279.245283
+note 84= 8400.000000
+note 85= 8498.113208
+note 86= 8596.226415
+note 87= 8716.981132
+note 88= 8784.905660
+note 89= 8905.660377
+note 90= 8988.679245
+note 91= 9094.339623
+note 92= 9207.547170
+note 93= 9290.566038
+note 94= 9411.320755
+note 95= 9479.245283
+note 96= 9600.000000
+note 97= 9698.113208
+note 98= 9796.226415
+note 99= 9916.981132
+note 100= 9984.905660
+note 101= 10105.660377
+note 102= 10188.679245
+note 103= 10294.339623
+note 104= 10407.547170
+note 105= 10490.566038
+note 106= 10611.320755
+note 107= 10679.245283
+note 108= 10800.000000
+note 109= 10898.113208
+note 110= 10996.226415
+note 111= 11116.981132
+note 112= 11184.905660
+note 113= 11305.660377
+note 114= 11388.679245
+note 115= 11494.339623
+note 116= 11607.547170
+note 117= 11690.566038
+note 118= 11811.320755
+note 119= 11879.245283
+note 120= 12000.000000
+note 121= 12098.113208
+note 122= 12196.226415
+note 123= 12316.981132
+note 124= 12384.905660
+note 125= 12505.660377
+note 126= 12588.679245
+note 127= 12694.339623
+
+[Functional Tuning]
+note 1="#=0 % 98.113208"
+note 2="#=0 % 196.226415"
+note 3="#=0 % 316.981132"
+note 4="#=0 % 384.905660"
+note 5="#=0 % 505.660377"
+note 6="#=0 % 588.679245"
+note 7="#=0 % 694.339623"
+note 8="#=0 % 807.547170"
+note 9="#=0 % 890.566038"
+note 10="#=0 % 1011.320755"
+note 11="#=0 % 1079.245283"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

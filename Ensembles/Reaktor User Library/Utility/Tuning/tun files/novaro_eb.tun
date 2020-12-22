@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Novaro (?) equal beating 4/3 with stretched octave, almost pure 3/2
+;
+; VAZ Plus section
+[Tuning]
+note 0=-17
+note 1=84
+note 2=183
+note 3=284
+note 4=384
+note 5=486
+note 6=586
+note 7=686
+note 8=786
+note 9=886
+note 10=987
+note 11=1087
+note 12=1187
+note 13=1287
+note 14=1387
+note 15=1488
+note 16=1588
+note 17=1689
+note 18=1789
+note 19=1889
+note 20=1990
+note 21=2089
+note 22=2191
+note 23=2291
+note 24=2390
+note 25=2491
+note 26=2590
+note 27=2691
+note 28=2791
+note 29=2893
+note 30=2993
+note 31=3092
+note 32=3193
+note 33=3293
+note 34=3394
+note 35=3494
+note 36=3593
+note 37=3694
+note 38=3794
+note 39=3895
+note 40=3995
+note 41=4096
+note 42=4196
+note 43=4296
+note 44=4396
+note 45=4496
+note 46=4597
+note 47=4697
+note 48=4797
+note 49=4897
+note 50=4997
+note 51=5098
+note 52=5198
+note 53=5299
+note 54=5400
+note 55=5499
+note 56=5600
+note 57=5699
+note 58=5801
+note 59=5901
+note 60=6000
+note 61=6101
+note 62=6200
+note 63=6301
+note 64=6401
+note 65=6503
+note 66=6603
+note 67=6702
+note 68=6803
+note 69=6903
+note 70=7004
+note 71=7104
+note 72=7203
+note 73=7304
+note 74=7404
+note 75=7505
+note 76=7605
+note 77=7706
+note 78=7806
+note 79=7906
+note 80=8006
+note 81=8106
+note 82=8207
+note 83=8307
+note 84=8407
+note 85=8507
+note 86=8607
+note 87=8708
+note 88=8808
+note 89=8909
+note 90=9010
+note 91=9109
+note 92=9210
+note 93=9310
+note 94=9411
+note 95=9511
+note 96=9610
+note 97=9711
+note 98=9810
+note 99=9911
+note 100=10011
+note 101=10113
+note 102=10213
+note 103=10312
+note 104=10413
+note 105=10513
+note 106=10614
+note 107=10714
+note 108=10813
+note 109=10914
+note 110=11014
+note 111=11115
+note 112=11215
+note 113=11316
+note 114=11416
+note 115=11516
+note 116=11616
+note 117=11716
+note 118=11817
+note 119=11918
+note 120=12017
+note 121=12117
+note 122=12217
+note 123=12318
+note 124=12418
+note 125=12519
+note 126=12620
+note 127=12719
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "novaro_eb.tun"
+ID= "ID_novaro_eb.tun"
+Filename= "novaro_eb.scl"
+Description= "Novaro (?) equal beating 4/3 with stretched octave, almost pure 3/2"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-16.757150
+note 1= 83.834280
+note 2= 183.466660
+note 3= 284.456120
+note 4= 384.460480
+note 5= 485.805700
+note 6= 586.142430
+note 7= 685.536660
+note 8= 786.298290
+note 9= 886.089750
+note 10= 987.231370
+note 11= 1087.377910
+note 12= 1186.594280
+note 13= 1287.185710
+note 14= 1386.818090
+note 15= 1487.807550
+note 16= 1587.811910
+note 17= 1689.157130
+note 18= 1789.493860
+note 19= 1888.888090
+note 20= 1989.649720
+note 21= 2089.441180
+note 22= 2190.582800
+note 23= 2290.729340
+note 24= 2389.945710
+note 25= 2490.537140
+note 26= 2590.169520
+note 27= 2691.158980
+note 28= 2791.163340
+note 29= 2892.508560
+note 30= 2992.845290
+note 31= 3092.239520
+note 32= 3193.001150
+note 33= 3292.792610
+note 34= 3393.934230
+note 35= 3494.080770
+note 36= 3593.297140
+note 37= 3693.888570
+note 38= 3793.520950
+note 39= 3894.510410
+note 40= 3994.514770
+note 41= 4095.859990
+note 42= 4196.196720
+note 43= 4295.590950
+note 44= 4396.352580
+note 45= 4496.144040
+note 46= 4597.285660
+note 47= 4697.432200
+note 48= 4796.648570
+note 49= 4897.240000
+note 50= 4996.872380
+note 51= 5097.861840
+note 52= 5197.866200
+note 53= 5299.211420
+note 54= 5399.548150
+note 55= 5498.942380
+note 56= 5599.704010
+note 57= 5699.495470
+note 58= 5800.637090
+note 59= 5900.783630
+note 60= 6000.000000
+note 61= 6100.591430
+note 62= 6200.223810
+note 63= 6301.213270
+note 64= 6401.217630
+note 65= 6502.562850
+note 66= 6602.899580
+note 67= 6702.293810
+note 68= 6803.055440
+note 69= 6902.846900
+note 70= 7003.988520
+note 71= 7104.135060
+note 72= 7203.351430
+note 73= 7303.942860
+note 74= 7403.575240
+note 75= 7504.564700
+note 76= 7604.569060
+note 77= 7705.914280
+note 78= 7806.251010
+note 79= 7905.645240
+note 80= 8006.406870
+note 81= 8106.198330
+note 82= 8207.339950
+note 83= 8307.486490
+note 84= 8406.702860
+note 85= 8507.294290
+note 86= 8606.926670
+note 87= 8707.916130
+note 88= 8807.920490
+note 89= 8909.265710
+note 90= 9009.602440
+note 91= 9108.996670
+note 92= 9209.758300
+note 93= 9309.549760
+note 94= 9410.691380
+note 95= 9510.837920
+note 96= 9610.054290
+note 97= 9710.645720
+note 98= 9810.278100
+note 99= 9911.267560
+note 100= 10011.271920
+note 101= 10112.617140
+note 102= 10212.953870
+note 103= 10312.348100
+note 104= 10413.109730
+note 105= 10512.901190
+note 106= 10614.042810
+note 107= 10714.189350
+note 108= 10813.405720
+note 109= 10913.997150
+note 110= 11013.629530
+note 111= 11114.618990
+note 112= 11214.623350
+note 113= 11315.968570
+note 114= 11416.305300
+note 115= 11515.699530
+note 116= 11616.461160
+note 117= 11716.252620
+note 118= 11817.394240
+note 119= 11917.540780
+note 120= 12016.757150
+note 121= 12117.348580
+note 122= 12216.980960
+note 123= 12317.970420
+note 124= 12417.974780
+note 125= 12519.320000
+note 126= 12619.656730
+note 127= 12719.050960
+
+[Functional Tuning]
+note 1="#=0 % 100.591430"
+note 2="#=0 % 200.223810"
+note 3="#=0 % 301.213270"
+note 4="#=0 % 401.217630"
+note 5="#=0 % 502.562850"
+note 6="#=0 % 602.899580"
+note 7="#=0 % 702.293810"
+note 8="#=0 % 803.055440"
+note 9="#=0 % 902.846900"
+note 10="#=0 % 1003.988520"
+note 11="#=0 % 1104.135060"
+note 12="#>-12 % 1203.351430 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

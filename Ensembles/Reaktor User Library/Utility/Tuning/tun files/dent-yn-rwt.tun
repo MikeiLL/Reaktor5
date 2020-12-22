@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Tom Dent's Young-Neidhardt well-temperament (rationalized by G. Secor)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=92
+note 2=196
+note 3=296
+note 4=392
+note 5=500
+note 6=592
+note 7=698
+note 8=794
+note 9=894
+note 10=998
+note 11=1092
+note 12=1200
+note 13=1292
+note 14=1396
+note 15=1496
+note 16=1592
+note 17=1700
+note 18=1792
+note 19=1898
+note 20=1994
+note 21=2094
+note 22=2198
+note 23=2292
+note 24=2400
+note 25=2492
+note 26=2596
+note 27=2696
+note 28=2792
+note 29=2900
+note 30=2992
+note 31=3098
+note 32=3194
+note 33=3294
+note 34=3398
+note 35=3492
+note 36=3600
+note 37=3692
+note 38=3796
+note 39=3896
+note 40=3992
+note 41=4100
+note 42=4192
+note 43=4298
+note 44=4394
+note 45=4494
+note 46=4598
+note 47=4692
+note 48=4800
+note 49=4892
+note 50=4996
+note 51=5096
+note 52=5192
+note 53=5300
+note 54=5392
+note 55=5498
+note 56=5594
+note 57=5694
+note 58=5798
+note 59=5892
+note 60=6000
+note 61=6092
+note 62=6196
+note 63=6296
+note 64=6392
+note 65=6500
+note 66=6592
+note 67=6698
+note 68=6794
+note 69=6894
+note 70=6998
+note 71=7092
+note 72=7200
+note 73=7292
+note 74=7396
+note 75=7496
+note 76=7592
+note 77=7700
+note 78=7792
+note 79=7898
+note 80=7994
+note 81=8094
+note 82=8198
+note 83=8292
+note 84=8400
+note 85=8492
+note 86=8596
+note 87=8696
+note 88=8792
+note 89=8900
+note 90=8992
+note 91=9098
+note 92=9194
+note 93=9294
+note 94=9398
+note 95=9492
+note 96=9600
+note 97=9692
+note 98=9796
+note 99=9896
+note 100=9992
+note 101=10100
+note 102=10192
+note 103=10298
+note 104=10394
+note 105=10494
+note 106=10598
+note 107=10692
+note 108=10800
+note 109=10892
+note 110=10996
+note 111=11096
+note 112=11192
+note 113=11300
+note 114=11392
+note 115=11498
+note 116=11594
+note 117=11694
+note 118=11798
+note 119=11892
+note 120=12000
+note 121=12092
+note 122=12196
+note 123=12296
+note 124=12392
+note 125=12500
+note 126=12592
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dent-yn-rwt.tun"
+ID= "ID_dent-yn-rwt.tun"
+Filename= "dent-yn-rwt.scl"
+Description= "Tom Dent's Young-Neidhardt well-temperament (rationalized by G. Secor)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 92.057959
+note 2= 196.067478
+note 3= 295.967961
+note 4= 392.172380
+note 5= 499.877963
+note 6= 592.178808
+note 7= 698.038180
+note 8= 794.012960
+note 9= 894.112170
+note 10= 997.922962
+note 11= 1092.176694
+note 12= 1200.000000
+note 13= 1292.057959
+note 14= 1396.067478
+note 15= 1495.967961
+note 16= 1592.172380
+note 17= 1699.877963
+note 18= 1792.178808
+note 19= 1898.038180
+note 20= 1994.012960
+note 21= 2094.112170
+note 22= 2197.922962
+note 23= 2292.176694
+note 24= 2400.000000
+note 25= 2492.057959
+note 26= 2596.067478
+note 27= 2695.967961
+note 28= 2792.172380
+note 29= 2899.877963
+note 30= 2992.178808
+note 31= 3098.038180
+note 32= 3194.012960
+note 33= 3294.112170
+note 34= 3397.922962
+note 35= 3492.176694
+note 36= 3600.000000
+note 37= 3692.057959
+note 38= 3796.067478
+note 39= 3895.967961
+note 40= 3992.172380
+note 41= 4099.877963
+note 42= 4192.178808
+note 43= 4298.038180
+note 44= 4394.012960
+note 45= 4494.112170
+note 46= 4597.922962
+note 47= 4692.176694
+note 48= 4800.000000
+note 49= 4892.057959
+note 50= 4996.067478
+note 51= 5095.967961
+note 52= 5192.172380
+note 53= 5299.877963
+note 54= 5392.178808
+note 55= 5498.038180
+note 56= 5594.012960
+note 57= 5694.112170
+note 58= 5797.922962
+note 59= 5892.176694
+note 60= 6000.000000
+note 61= 6092.057959
+note 62= 6196.067478
+note 63= 6295.967961
+note 64= 6392.172380
+note 65= 6499.877963
+note 66= 6592.178808
+note 67= 6698.038180
+note 68= 6794.012960
+note 69= 6894.112170
+note 70= 6997.922962
+note 71= 7092.176694
+note 72= 7200.000000
+note 73= 7292.057959
+note 74= 7396.067478
+note 75= 7495.967961
+note 76= 7592.172380
+note 77= 7699.877963
+note 78= 7792.178808
+note 79= 7898.038180
+note 80= 7994.012960
+note 81= 8094.112170
+note 82= 8197.922962
+note 83= 8292.176694
+note 84= 8400.000000
+note 85= 8492.057959
+note 86= 8596.067478
+note 87= 8695.967961
+note 88= 8792.172380
+note 89= 8899.877963
+note 90= 8992.178808
+note 91= 9098.038180
+note 92= 9194.012960
+note 93= 9294.112170
+note 94= 9397.922962
+note 95= 9492.176694
+note 96= 9600.000000
+note 97= 9692.057959
+note 98= 9796.067478
+note 99= 9895.967961
+note 100= 9992.172380
+note 101= 10099.877963
+note 102= 10192.178808
+note 103= 10298.038180
+note 104= 10394.012960
+note 105= 10494.112170
+note 106= 10597.922962
+note 107= 10692.176694
+note 108= 10800.000000
+note 109= 10892.057959
+note 110= 10996.067478
+note 111= 11095.967961
+note 112= 11192.172380
+note 113= 11299.877963
+note 114= 11392.178808
+note 115= 11498.038180
+note 116= 11594.012960
+note 117= 11694.112170
+note 118= 11797.922962
+note 119= 11892.176694
+note 120= 12000.000000
+note 121= 12092.057959
+note 122= 12196.067478
+note 123= 12295.967961
+note 124= 12392.172380
+note 125= 12499.877963
+note 126= 12592.178808
+note 127= 12698.038180
+
+[Functional Tuning]
+note 1="#=0 * 560/531"
+note 2="#=0 * 2643/2360"
+note 3="#=0 * 70/59"
+note 4="#=0 * 74/59"
+note 5="#=0 * 315/236"
+note 6="#=0 * 1329/944"
+note 7="#=0 * 883/590"
+note 8="#=0 * 280/177"
+note 9="#=0 * 890/531"
+note 10="#=0 * 105/59"
+note 11="#=0 * 887/472"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

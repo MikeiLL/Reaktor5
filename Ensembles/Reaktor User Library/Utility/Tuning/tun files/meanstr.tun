@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Meantone with 1/9-comma stretched octave, Petr Parizek (2006)
+;
+; VAZ Plus section
+[Tuning]
+note 0=-12
+note 1=59
+note 2=180
+note 3=301
+note 4=372
+note 5=493
+note 6=564
+note 7=685
+note 8=756
+note 9=877
+note 10=998
+note 11=1069
+note 12=1190
+note 13=1261
+note 14=1382
+note 15=1504
+note 16=1574
+note 17=1696
+note 18=1766
+note 19=1888
+note 20=1958
+note 21=2080
+note 22=2201
+note 23=2272
+note 24=2393
+note 25=2464
+note 26=2585
+note 27=2706
+note 28=2777
+note 29=2898
+note 30=2969
+note 31=3090
+note 32=3161
+note 33=3282
+note 34=3403
+note 35=3474
+note 36=3595
+note 37=3666
+note 38=3787
+note 39=3908
+note 40=3979
+note 41=4100
+note 42=4171
+note 43=4292
+note 44=4363
+note 45=4484
+note 46=4606
+note 47=4676
+note 48=4798
+note 49=4868
+note 50=4990
+note 51=5111
+note 52=5182
+note 53=5303
+note 54=5373
+note 55=5495
+note 56=5565
+note 57=5687
+note 58=5808
+note 59=5879
+note 60=6000
+note 61=6071
+note 62=6192
+note 63=6313
+note 64=6384
+note 65=6505
+note 66=6576
+note 67=6697
+note 68=6768
+note 69=6889
+note 70=7010
+note 71=7081
+note 72=7202
+note 73=7273
+note 74=7394
+note 75=7516
+note 76=7586
+note 77=7708
+note 78=7778
+note 79=7900
+note 80=7970
+note 81=8092
+note 82=8213
+note 83=8283
+note 84=8405
+note 85=8475
+note 86=8597
+note 87=8718
+note 88=8789
+note 89=8910
+note 90=8981
+note 91=9102
+note 92=9173
+note 93=9294
+note 94=9415
+note 95=9486
+note 96=9607
+note 97=9678
+note 98=9799
+note 99=9920
+note 100=9991
+note 101=10112
+note 102=10183
+note 103=10304
+note 104=10375
+note 105=10496
+note 106=10618
+note 107=10688
+note 108=10810
+note 109=10880
+note 110=11002
+note 111=11123
+note 112=11193
+note 113=11315
+note 114=11385
+note 115=11507
+note 116=11577
+note 117=11699
+note 118=11820
+note 119=11891
+note 120=12012
+note 121=12083
+note 122=12204
+note 123=12325
+note 124=12396
+note 125=12517
+note 126=12588
+note 127=12709
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "meanstr.tun"
+ID= "ID_meanstr.tun"
+Filename= "meanstr.scl"
+Description= "Meantone with 1/9-comma stretched octave, Petr Parizek (2006)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-11.947950
+note 1= 58.724477
+note 2= 180.014110
+note 3= 301.303750
+note 4= 371.976180
+note 5= 493.265810
+note 6= 563.938240
+note 7= 685.227880
+note 8= 755.900300
+note 9= 877.189940
+note 10= 998.479570
+note 11= 1069.152000
+note 12= 1190.441640
+note 13= 1261.114067
+note 14= 1382.403700
+note 15= 1503.693340
+note 16= 1574.365770
+note 17= 1695.655400
+note 18= 1766.327830
+note 19= 1887.617470
+note 20= 1958.289890
+note 21= 2079.579530
+note 22= 2200.869160
+note 23= 2271.541590
+note 24= 2392.831230
+note 25= 2463.503657
+note 26= 2584.793290
+note 27= 2706.082930
+note 28= 2776.755360
+note 29= 2898.044990
+note 30= 2968.717420
+note 31= 3090.007060
+note 32= 3160.679480
+note 33= 3281.969120
+note 34= 3403.258750
+note 35= 3473.931180
+note 36= 3595.220820
+note 37= 3665.893247
+note 38= 3787.182880
+note 39= 3908.472520
+note 40= 3979.144950
+note 41= 4100.434580
+note 42= 4171.107010
+note 43= 4292.396650
+note 44= 4363.069070
+note 45= 4484.358710
+note 46= 4605.648340
+note 47= 4676.320770
+note 48= 4797.610410
+note 49= 4868.282837
+note 50= 4989.572470
+note 51= 5110.862110
+note 52= 5181.534540
+note 53= 5302.824170
+note 54= 5373.496600
+note 55= 5494.786240
+note 56= 5565.458660
+note 57= 5686.748300
+note 58= 5808.037930
+note 59= 5878.710360
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6191.962060
+note 63= 6313.251700
+note 64= 6383.924130
+note 65= 6505.213760
+note 66= 6575.886190
+note 67= 6697.175830
+note 68= 6767.848250
+note 69= 6889.137890
+note 70= 7010.427520
+note 71= 7081.099950
+note 72= 7202.389590
+note 73= 7273.062017
+note 74= 7394.351650
+note 75= 7515.641290
+note 76= 7586.313720
+note 77= 7707.603350
+note 78= 7778.275780
+note 79= 7899.565420
+note 80= 7970.237840
+note 81= 8091.527480
+note 82= 8212.817110
+note 83= 8283.489540
+note 84= 8404.779180
+note 85= 8475.451607
+note 86= 8596.741240
+note 87= 8718.030880
+note 88= 8788.703310
+note 89= 8909.992940
+note 90= 8980.665370
+note 91= 9101.955010
+note 92= 9172.627430
+note 93= 9293.917070
+note 94= 9415.206700
+note 95= 9485.879130
+note 96= 9607.168770
+note 97= 9677.841197
+note 98= 9799.130830
+note 99= 9920.420470
+note 100= 9991.092900
+note 101= 10112.382530
+note 102= 10183.054960
+note 103= 10304.344600
+note 104= 10375.017020
+note 105= 10496.306660
+note 106= 10617.596290
+note 107= 10688.268720
+note 108= 10809.558360
+note 109= 10880.230787
+note 110= 11001.520420
+note 111= 11122.810060
+note 112= 11193.482490
+note 113= 11314.772120
+note 114= 11385.444550
+note 115= 11506.734190
+note 116= 11577.406610
+note 117= 11698.696250
+note 118= 11819.985880
+note 119= 11890.658310
+note 120= 12011.947950
+note 121= 12082.620377
+note 122= 12203.910010
+note 123= 12325.199650
+note 124= 12395.872080
+note 125= 12517.161710
+note 126= 12587.834140
+note 127= 12709.123780
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 % 191.962060"
+note 3="#=0 % 313.251700"
+note 4="#=0 % 383.924130"
+note 5="#=0 % 505.213760"
+note 6="#=0 % 575.886190"
+note 7="#=0 % 697.175830"
+note 8="#=0 % 767.848250"
+note 9="#=0 % 889.137890"
+note 10="#=0 % 1010.427520"
+note 11="#=0 % 1081.099950"
+note 12="#>-12 % 1202.389590 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

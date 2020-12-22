@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Gottfried Silbermann's temperament nr. 2, 1/6 Pyth. comma meantone
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=86
+note 2=196
+note 3=306
+note 4=392
+note 5=502
+note 6=588
+note 7=698
+note 8=784
+note 9=894
+note 10=1004
+note 11=1090
+note 12=1200
+note 13=1286
+note 14=1396
+note 15=1506
+note 16=1592
+note 17=1702
+note 18=1788
+note 19=1898
+note 20=1984
+note 21=2094
+note 22=2204
+note 23=2290
+note 24=2400
+note 25=2486
+note 26=2596
+note 27=2706
+note 28=2792
+note 29=2902
+note 30=2988
+note 31=3098
+note 32=3184
+note 33=3294
+note 34=3404
+note 35=3490
+note 36=3600
+note 37=3686
+note 38=3796
+note 39=3906
+note 40=3992
+note 41=4102
+note 42=4188
+note 43=4298
+note 44=4384
+note 45=4494
+note 46=4604
+note 47=4690
+note 48=4800
+note 49=4886
+note 50=4996
+note 51=5106
+note 52=5192
+note 53=5302
+note 54=5388
+note 55=5498
+note 56=5584
+note 57=5694
+note 58=5804
+note 59=5890
+note 60=6000
+note 61=6086
+note 62=6196
+note 63=6306
+note 64=6392
+note 65=6502
+note 66=6588
+note 67=6698
+note 68=6784
+note 69=6894
+note 70=7004
+note 71=7090
+note 72=7200
+note 73=7286
+note 74=7396
+note 75=7506
+note 76=7592
+note 77=7702
+note 78=7788
+note 79=7898
+note 80=7984
+note 81=8094
+note 82=8204
+note 83=8290
+note 84=8400
+note 85=8486
+note 86=8596
+note 87=8706
+note 88=8792
+note 89=8902
+note 90=8988
+note 91=9098
+note 92=9184
+note 93=9294
+note 94=9404
+note 95=9490
+note 96=9600
+note 97=9686
+note 98=9796
+note 99=9906
+note 100=9992
+note 101=10102
+note 102=10188
+note 103=10298
+note 104=10384
+note 105=10494
+note 106=10604
+note 107=10690
+note 108=10800
+note 109=10886
+note 110=10996
+note 111=11106
+note 112=11192
+note 113=11302
+note 114=11388
+note 115=11498
+note 116=11584
+note 117=11694
+note 118=11804
+note 119=11890
+note 120=12000
+note 121=12086
+note 122=12196
+note 123=12306
+note 124=12392
+note 125=12502
+note 126=12588
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "silbermann2.tun"
+ID= "ID_silbermann2.tun"
+Filename= "silbermann2.scl"
+Description= "Gottfried Silbermann's temperament nr. 2, 1/6 Pyth. comma meantone"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 86.314990
+note 2= 196.090000
+note 3= 305.865000
+note 4= 392.180000
+note 5= 501.955000
+note 6= 588.269995
+note 7= 698.045000
+note 8= 784.359990
+note 9= 894.135000
+note 10= 1003.910000
+note 11= 1090.225000
+note 12= 1200.000000
+note 13= 1286.314990
+note 14= 1396.090000
+note 15= 1505.865000
+note 16= 1592.180000
+note 17= 1701.955000
+note 18= 1788.269995
+note 19= 1898.045000
+note 20= 1984.359990
+note 21= 2094.135000
+note 22= 2203.910000
+note 23= 2290.225000
+note 24= 2400.000000
+note 25= 2486.314990
+note 26= 2596.090000
+note 27= 2705.865000
+note 28= 2792.180000
+note 29= 2901.955000
+note 30= 2988.269995
+note 31= 3098.045000
+note 32= 3184.359990
+note 33= 3294.135000
+note 34= 3403.910000
+note 35= 3490.225000
+note 36= 3600.000000
+note 37= 3686.314990
+note 38= 3796.090000
+note 39= 3905.865000
+note 40= 3992.180000
+note 41= 4101.955000
+note 42= 4188.269995
+note 43= 4298.045000
+note 44= 4384.359990
+note 45= 4494.135000
+note 46= 4603.910000
+note 47= 4690.225000
+note 48= 4800.000000
+note 49= 4886.314990
+note 50= 4996.090000
+note 51= 5105.865000
+note 52= 5192.180000
+note 53= 5301.955000
+note 54= 5388.269995
+note 55= 5498.045000
+note 56= 5584.359990
+note 57= 5694.135000
+note 58= 5803.910000
+note 59= 5890.225000
+note 60= 6000.000000
+note 61= 6086.314990
+note 62= 6196.090000
+note 63= 6305.865000
+note 64= 6392.180000
+note 65= 6501.955000
+note 66= 6588.269995
+note 67= 6698.045000
+note 68= 6784.359990
+note 69= 6894.135000
+note 70= 7003.910000
+note 71= 7090.225000
+note 72= 7200.000000
+note 73= 7286.314990
+note 74= 7396.090000
+note 75= 7505.865000
+note 76= 7592.180000
+note 77= 7701.955000
+note 78= 7788.269995
+note 79= 7898.045000
+note 80= 7984.359990
+note 81= 8094.135000
+note 82= 8203.910000
+note 83= 8290.225000
+note 84= 8400.000000
+note 85= 8486.314990
+note 86= 8596.090000
+note 87= 8705.865000
+note 88= 8792.180000
+note 89= 8901.955000
+note 90= 8988.269995
+note 91= 9098.045000
+note 92= 9184.359990
+note 93= 9294.135000
+note 94= 9403.910000
+note 95= 9490.225000
+note 96= 9600.000000
+note 97= 9686.314990
+note 98= 9796.090000
+note 99= 9905.865000
+note 100= 9992.180000
+note 101= 10101.955000
+note 102= 10188.269995
+note 103= 10298.045000
+note 104= 10384.359990
+note 105= 10494.135000
+note 106= 10603.910000
+note 107= 10690.225000
+note 108= 10800.000000
+note 109= 10886.314990
+note 110= 10996.090000
+note 111= 11105.865000
+note 112= 11192.180000
+note 113= 11301.955000
+note 114= 11388.269995
+note 115= 11498.045000
+note 116= 11584.359990
+note 117= 11694.135000
+note 118= 11803.910000
+note 119= 11890.225000
+note 120= 12000.000000
+note 121= 12086.314990
+note 122= 12196.090000
+note 123= 12305.865000
+note 124= 12392.180000
+note 125= 12501.955000
+note 126= 12588.269995
+note 127= 12698.045000
+
+[Functional Tuning]
+note 1="#=0 % 86.314990"
+note 2="#=0 % 196.090000"
+note 3="#=0 % 305.865000"
+note 4="#=0 % 392.180000"
+note 5="#=0 % 501.955000"
+note 6="#=0 * 1024/729"
+note 7="#=0 % 698.045000"
+note 8="#=0 % 784.359990"
+note 9="#=0 % 894.135000"
+note 10="#=0 % 1003.910000"
+note 11="#=0 % 1090.225000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

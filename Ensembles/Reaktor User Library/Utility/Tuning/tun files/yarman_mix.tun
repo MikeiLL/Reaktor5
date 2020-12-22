@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mixture of Turkish and Arabic intonations of Hijaz, Humayun, and Zirgule with perde dugah on D
+;
+; VAZ Plus section
+[Tuning]
+note 0=-20
+note 1=51
+note 2=180
+note 3=313
+note 4=380
+note 5=482
+note 6=549
+note 7=682
+note 8=563
+note 9=882
+note 10=984
+note 11=1051
+note 12=1184
+note 13=1255
+note 14=1384
+note 15=1517
+note 16=1584
+note 17=1686
+note 18=1753
+note 19=1886
+note 20=1767
+note 21=2086
+note 22=2188
+note 23=2255
+note 24=2388
+note 25=2459
+note 26=2588
+note 27=2721
+note 28=2788
+note 29=2890
+note 30=2957
+note 31=3090
+note 32=2971
+note 33=3290
+note 34=3392
+note 35=3459
+note 36=3592
+note 37=3663
+note 38=3792
+note 39=3925
+note 40=3992
+note 41=4094
+note 42=4161
+note 43=4294
+note 44=4175
+note 45=4494
+note 46=4596
+note 47=4663
+note 48=4796
+note 49=4867
+note 50=4996
+note 51=5129
+note 52=5196
+note 53=5298
+note 54=5365
+note 55=5498
+note 56=5379
+note 57=5698
+note 58=5800
+note 59=5867
+note 60=6000
+note 61=6071
+note 62=6200
+note 63=6333
+note 64=6400
+note 65=6502
+note 66=6569
+note 67=6702
+note 68=6583
+note 69=6902
+note 70=7004
+note 71=7071
+note 72=7204
+note 73=7275
+note 74=7404
+note 75=7537
+note 76=7604
+note 77=7706
+note 78=7773
+note 79=7906
+note 80=7786
+note 81=8106
+note 82=8208
+note 83=8275
+note 84=8408
+note 85=8479
+note 86=8608
+note 87=8741
+note 88=8808
+note 89=8910
+note 90=8977
+note 91=9110
+note 92=8990
+note 93=9310
+note 94=9412
+note 95=9479
+note 96=9612
+note 97=9682
+note 98=9812
+note 99=9945
+note 100=10012
+note 101=10114
+note 102=10181
+note 103=10314
+note 104=10194
+note 105=10514
+note 106=10616
+note 107=10683
+note 108=10816
+note 109=10886
+note 110=11016
+note 111=11149
+note 112=11216
+note 113=11318
+note 114=11384
+note 115=11518
+note 116=11398
+note 117=11718
+note 118=11820
+note 119=11887
+note 120=12020
+note 121=12090
+note 122=12220
+note 123=12353
+note 124=12420
+note 125=12522
+note 126=12588
+note 127=12722
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "yarman_mix.tun"
+ID= "ID_yarman_mix.tun"
+Filename= "yarman_mix.scl"
+Description= "Mixture of Turkish and Arabic intonations of Hijaz, Humayun, and Zirgule with perde dugah on D"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-19.650792
+note 1= 51.021635
+note 2= 180.329051
+note 3= 313.389978
+note 4= 380.457688
+note 5= 482.324365
+note 6= 549.066634
+note 7= 682.304209
+note 8= 562.861400
+note 9= 882.284052
+note 10= 984.150729
+note 11= 1051.218439
+note 12= 1184.279366
+note 13= 1254.951793
+note 14= 1384.259210
+note 15= 1517.320137
+note 16= 1584.387847
+note 17= 1686.254524
+note 18= 1752.996792
+note 19= 1886.234367
+note 20= 1766.791559
+note 21= 2086.214210
+note 22= 2188.080888
+note 23= 2255.148597
+note 24= 2388.209525
+note 25= 2458.881952
+note 26= 2588.189368
+note 27= 2721.250295
+note 28= 2788.318005
+note 29= 2890.184682
+note 30= 2956.926951
+note 31= 3090.164526
+note 32= 2970.721717
+note 33= 3290.144369
+note 34= 3392.011046
+note 35= 3459.078756
+note 36= 3592.139683
+note 37= 3662.812110
+note 38= 3792.119526
+note 39= 3925.180454
+note 40= 3992.248164
+note 41= 4094.114841
+note 42= 4160.857109
+note 43= 4294.094684
+note 44= 4174.651876
+note 45= 4494.074527
+note 46= 4595.941204
+note 47= 4663.008914
+note 48= 4796.069842
+note 49= 4866.742268
+note 50= 4996.049685
+note 51= 5129.110612
+note 52= 5196.178322
+note 53= 5298.044999
+note 54= 5364.787268
+note 55= 5498.024842
+note 56= 5378.582034
+note 57= 5698.004686
+note 58= 5799.871363
+note 59= 5866.939073
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6199.979843
+note 63= 6333.040771
+note 64= 6400.108480
+note 65= 6501.975158
+note 66= 6568.717426
+note 67= 6701.955001
+note 68= 6582.512193
+note 69= 6901.934844
+note 70= 7003.801521
+note 71= 7070.869231
+note 72= 7203.930158
+note 73= 7274.602585
+note 74= 7403.910002
+note 75= 7536.970929
+note 76= 7604.038639
+note 77= 7705.905316
+note 78= 7772.647584
+note 79= 7905.885159
+note 80= 7786.442351
+note 81= 8105.865003
+note 82= 8207.731680
+note 83= 8274.799390
+note 84= 8407.860317
+note 85= 8478.532744
+note 86= 8607.840160
+note 87= 8740.901088
+note 88= 8807.968797
+note 89= 8909.835474
+note 90= 8976.577743
+note 91= 9109.815318
+note 92= 8990.372509
+note 93= 9309.795161
+note 94= 9411.661838
+note 95= 9478.729548
+note 96= 9611.790475
+note 97= 9682.462902
+note 98= 9811.770319
+note 99= 9944.831246
+note 100= 10011.898956
+note 101= 10113.765633
+note 102= 10180.507901
+note 103= 10313.745476
+note 104= 10194.302668
+note 105= 10513.725319
+note 106= 10615.591997
+note 107= 10682.659706
+note 108= 10815.720634
+note 109= 10886.393061
+note 110= 11015.700477
+note 111= 11148.761404
+note 112= 11215.829114
+note 113= 11317.695791
+note 114= 11384.438060
+note 115= 11517.675635
+note 116= 11398.232826
+note 117= 11717.655478
+note 118= 11819.522155
+note 119= 11886.589865
+note 120= 12019.650792
+note 121= 12090.323219
+note 122= 12219.630635
+note 123= 12352.691563
+note 124= 12419.759273
+note 125= 12521.625950
+note 126= 12588.368218
+note 127= 12721.605793
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 55/49"
+note 3="#=0 * 40/33"
+note 4="#=0 * 63/50"
+note 5="#=0 * 147/110"
+note 6="#=0 * 25/18"
+note 7="#=0 * 3/2"
+note 8="#=0 * 7/5"
+note 9="#=0 * 165/98"
+note 10="#=0 * 25/14"
+note 11="#=0 * 297/160"
+note 12="#>-12 * 441/220 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

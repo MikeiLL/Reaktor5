@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sundanese 'multi-laras' gamelan Ki Barong tuning, Weintraub, TL 15-2-99 1/1=497
+;
+; VAZ Plus section
+[Tuning]
+note 0=-1180
+note 1=-1023
+note 2=-953
+note 3=-869
+note 4=-721
+note 5=-547
+note 6=-465
+note 7=-360
+note 8=-241
+note 9=-84
+note 10=20
+note 11=190
+note 12=256
+note 13=413
+note 14=483
+note 15=567
+note 16=715
+note 17=889
+note 18=971
+note 19=1076
+note 20=1195
+note 21=1352
+note 22=1456
+note 23=1626
+note 24=1692
+note 25=1849
+note 26=1919
+note 27=2003
+note 28=2151
+note 29=2325
+note 30=2407
+note 31=2512
+note 32=2631
+note 33=2788
+note 34=2892
+note 35=3062
+note 36=3128
+note 37=3285
+note 38=3355
+note 39=3439
+note 40=3587
+note 41=3761
+note 42=3843
+note 43=3948
+note 44=4067
+note 45=4224
+note 46=4328
+note 47=4498
+note 48=4564
+note 49=4721
+note 50=4791
+note 51=4875
+note 52=5023
+note 53=5197
+note 54=5279
+note 55=5384
+note 56=5503
+note 57=5660
+note 58=5764
+note 59=5934
+note 60=6000
+note 61=6157
+note 62=6227
+note 63=6311
+note 64=6459
+note 65=6633
+note 66=6715
+note 67=6820
+note 68=6939
+note 69=7096
+note 70=7200
+note 71=7370
+note 72=7436
+note 73=7593
+note 74=7663
+note 75=7747
+note 76=7895
+note 77=8069
+note 78=8151
+note 79=8256
+note 80=8375
+note 81=8532
+note 82=8636
+note 83=8806
+note 84=8872
+note 85=9029
+note 86=9099
+note 87=9183
+note 88=9331
+note 89=9505
+note 90=9587
+note 91=9692
+note 92=9811
+note 93=9968
+note 94=10072
+note 95=10242
+note 96=10308
+note 97=10465
+note 98=10535
+note 99=10619
+note 100=10767
+note 101=10941
+note 102=11023
+note 103=11128
+note 104=11247
+note 105=11404
+note 106=11508
+note 107=11678
+note 108=11744
+note 109=11901
+note 110=11971
+note 111=12055
+note 112=12203
+note 113=12377
+note 114=12459
+note 115=12564
+note 116=12683
+note 117=12840
+note 118=12944
+note 119=13114
+note 120=13180
+note 121=13337
+note 122=13407
+note 123=13491
+note 124=13639
+note 125=13813
+note 126=13895
+note 127=14000
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "lara.tun"
+ID= "ID_lara.tun"
+Filename= "lara.scl"
+Description= "Sundanese 'multi-laras' gamelan Ki Barong tuning, Weintraub, TL 15-2-99 1/1=497"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-1180.000000
+note 1=-1023.000000
+note 2=-953.000000
+note 3=-869.000000
+note 4=-721.000000
+note 5=-547.000000
+note 6=-465.000000
+note 7=-360.000000
+note 8=-241.000000
+note 9=-84.000000
+note 10= 20.000000
+note 11= 190.000000
+note 12= 256.000000
+note 13= 413.000000
+note 14= 483.000000
+note 15= 567.000000
+note 16= 715.000000
+note 17= 889.000000
+note 18= 971.000000
+note 19= 1076.000000
+note 20= 1195.000000
+note 21= 1352.000000
+note 22= 1456.000000
+note 23= 1626.000000
+note 24= 1692.000000
+note 25= 1849.000000
+note 26= 1919.000000
+note 27= 2003.000000
+note 28= 2151.000000
+note 29= 2325.000000
+note 30= 2407.000000
+note 31= 2512.000000
+note 32= 2631.000000
+note 33= 2788.000000
+note 34= 2892.000000
+note 35= 3062.000000
+note 36= 3128.000000
+note 37= 3285.000000
+note 38= 3355.000000
+note 39= 3439.000000
+note 40= 3587.000000
+note 41= 3761.000000
+note 42= 3843.000000
+note 43= 3948.000000
+note 44= 4067.000000
+note 45= 4224.000000
+note 46= 4328.000000
+note 47= 4498.000000
+note 48= 4564.000000
+note 49= 4721.000000
+note 50= 4791.000000
+note 51= 4875.000000
+note 52= 5023.000000
+note 53= 5197.000000
+note 54= 5279.000000
+note 55= 5384.000000
+note 56= 5503.000000
+note 57= 5660.000000
+note 58= 5764.000000
+note 59= 5934.000000
+note 60= 6000.000000
+note 61= 6157.000000
+note 62= 6227.000000
+note 63= 6311.000000
+note 64= 6459.000000
+note 65= 6633.000000
+note 66= 6715.000000
+note 67= 6820.000000
+note 68= 6939.000000
+note 69= 7096.000000
+note 70= 7200.000000
+note 71= 7370.000000
+note 72= 7436.000000
+note 73= 7593.000000
+note 74= 7663.000000
+note 75= 7747.000000
+note 76= 7895.000000
+note 77= 8069.000000
+note 78= 8151.000000
+note 79= 8256.000000
+note 80= 8375.000000
+note 81= 8532.000000
+note 82= 8636.000000
+note 83= 8806.000000
+note 84= 8872.000000
+note 85= 9029.000000
+note 86= 9099.000000
+note 87= 9183.000000
+note 88= 9331.000000
+note 89= 9505.000000
+note 90= 9587.000000
+note 91= 9692.000000
+note 92= 9811.000000
+note 93= 9968.000000
+note 94= 10072.000000
+note 95= 10242.000000
+note 96= 10308.000000
+note 97= 10465.000000
+note 98= 10535.000000
+note 99= 10619.000000
+note 100= 10767.000000
+note 101= 10941.000000
+note 102= 11023.000000
+note 103= 11128.000000
+note 104= 11247.000000
+note 105= 11404.000000
+note 106= 11508.000000
+note 107= 11678.000000
+note 108= 11744.000000
+note 109= 11901.000000
+note 110= 11971.000000
+note 111= 12055.000000
+note 112= 12203.000000
+note 113= 12377.000000
+note 114= 12459.000000
+note 115= 12564.000000
+note 116= 12683.000000
+note 117= 12840.000000
+note 118= 12944.000000
+note 119= 13114.000000
+note 120= 13180.000000
+note 121= 13337.000000
+note 122= 13407.000000
+note 123= 13491.000000
+note 124= 13639.000000
+note 125= 13813.000000
+note 126= 13895.000000
+note 127= 14000.000000
+
+[Functional Tuning]
+note 1="#=0 % 157.000000"
+note 2="#=0 % 227.000000"
+note 3="#=0 % 311.000000"
+note 4="#=0 % 459.000000"
+note 5="#=0 % 633.000000"
+note 6="#=0 % 715.000000"
+note 7="#=0 % 820.000000"
+note 8="#=0 % 939.000000"
+note 9="#=0 % 1096.000000"
+note 10="#=0 * 2/1"
+note 11="#=0 % 1370.000000"
+note 12="#>-12 % 1436.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

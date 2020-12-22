@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Charles E. Moscow's equal beating piano tuning (1895)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=102
+note 2=200
+note 3=302
+note 4=400
+note 5=503
+note 6=604
+note 7=702
+note 8=804
+note 9=902
+note 10=1004
+note 11=1102
+note 12=1200
+note 13=1302
+note 14=1400
+note 15=1502
+note 16=1600
+note 17=1703
+note 18=1804
+note 19=1902
+note 20=2004
+note 21=2102
+note 22=2204
+note 23=2302
+note 24=2400
+note 25=2502
+note 26=2600
+note 27=2702
+note 28=2800
+note 29=2903
+note 30=3004
+note 31=3102
+note 32=3204
+note 33=3302
+note 34=3404
+note 35=3502
+note 36=3600
+note 37=3702
+note 38=3800
+note 39=3902
+note 40=4000
+note 41=4103
+note 42=4204
+note 43=4302
+note 44=4404
+note 45=4502
+note 46=4604
+note 47=4702
+note 48=4800
+note 49=4902
+note 50=5000
+note 51=5102
+note 52=5200
+note 53=5303
+note 54=5404
+note 55=5502
+note 56=5604
+note 57=5702
+note 58=5804
+note 59=5902
+note 60=6000
+note 61=6102
+note 62=6200
+note 63=6302
+note 64=6400
+note 65=6503
+note 66=6604
+note 67=6702
+note 68=6804
+note 69=6902
+note 70=7004
+note 71=7102
+note 72=7200
+note 73=7302
+note 74=7400
+note 75=7502
+note 76=7600
+note 77=7703
+note 78=7804
+note 79=7902
+note 80=8004
+note 81=8102
+note 82=8204
+note 83=8302
+note 84=8400
+note 85=8502
+note 86=8600
+note 87=8702
+note 88=8800
+note 89=8903
+note 90=9004
+note 91=9102
+note 92=9204
+note 93=9302
+note 94=9404
+note 95=9502
+note 96=9600
+note 97=9702
+note 98=9800
+note 99=9902
+note 100=10000
+note 101=10103
+note 102=10204
+note 103=10302
+note 104=10404
+note 105=10502
+note 106=10604
+note 107=10702
+note 108=10800
+note 109=10902
+note 110=11000
+note 111=11102
+note 112=11200
+note 113=11303
+note 114=11404
+note 115=11502
+note 116=11604
+note 117=11702
+note 118=11804
+note 119=11902
+note 120=12000
+note 121=12102
+note 122=12200
+note 123=12302
+note 124=12400
+note 125=12503
+note 126=12604
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "moscow.tun"
+ID= "ID_moscow.tun"
+Filename= "moscow.scl"
+Description= "Charles E. Moscow's equal beating piano tuning (1895)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 101.866390
+note 2= 199.902370
+note 3= 301.998020
+note 4= 400.242230
+note 5= 502.542520
+note 6= 604.152230
+note 7= 701.955001
+note 8= 803.821390
+note 9= 901.857370
+note 10= 1003.953020
+note 11= 1102.197230
+note 12= 1200.000000
+note 13= 1301.866390
+note 14= 1399.902370
+note 15= 1501.998020
+note 16= 1600.242230
+note 17= 1702.542520
+note 18= 1804.152230
+note 19= 1901.955001
+note 20= 2003.821390
+note 21= 2101.857370
+note 22= 2203.953020
+note 23= 2302.197230
+note 24= 2400.000000
+note 25= 2501.866390
+note 26= 2599.902370
+note 27= 2701.998020
+note 28= 2800.242230
+note 29= 2902.542520
+note 30= 3004.152230
+note 31= 3101.955001
+note 32= 3203.821390
+note 33= 3301.857370
+note 34= 3403.953020
+note 35= 3502.197230
+note 36= 3600.000000
+note 37= 3701.866390
+note 38= 3799.902370
+note 39= 3901.998020
+note 40= 4000.242230
+note 41= 4102.542520
+note 42= 4204.152230
+note 43= 4301.955001
+note 44= 4403.821390
+note 45= 4501.857370
+note 46= 4603.953020
+note 47= 4702.197230
+note 48= 4800.000000
+note 49= 4901.866390
+note 50= 4999.902370
+note 51= 5101.998020
+note 52= 5200.242230
+note 53= 5302.542520
+note 54= 5404.152230
+note 55= 5501.955001
+note 56= 5603.821390
+note 57= 5701.857370
+note 58= 5803.953020
+note 59= 5902.197230
+note 60= 6000.000000
+note 61= 6101.866390
+note 62= 6199.902370
+note 63= 6301.998020
+note 64= 6400.242230
+note 65= 6502.542520
+note 66= 6604.152230
+note 67= 6701.955001
+note 68= 6803.821390
+note 69= 6901.857370
+note 70= 7003.953020
+note 71= 7102.197230
+note 72= 7200.000000
+note 73= 7301.866390
+note 74= 7399.902370
+note 75= 7501.998020
+note 76= 7600.242230
+note 77= 7702.542520
+note 78= 7804.152230
+note 79= 7901.955001
+note 80= 8003.821390
+note 81= 8101.857370
+note 82= 8203.953020
+note 83= 8302.197230
+note 84= 8400.000000
+note 85= 8501.866390
+note 86= 8599.902370
+note 87= 8701.998020
+note 88= 8800.242230
+note 89= 8902.542520
+note 90= 9004.152230
+note 91= 9101.955001
+note 92= 9203.821390
+note 93= 9301.857370
+note 94= 9403.953020
+note 95= 9502.197230
+note 96= 9600.000000
+note 97= 9701.866390
+note 98= 9799.902370
+note 99= 9901.998020
+note 100= 10000.242230
+note 101= 10102.542520
+note 102= 10204.152230
+note 103= 10301.955001
+note 104= 10403.821390
+note 105= 10501.857370
+note 106= 10603.953020
+note 107= 10702.197230
+note 108= 10800.000000
+note 109= 10901.866390
+note 110= 10999.902370
+note 111= 11101.998020
+note 112= 11200.242230
+note 113= 11302.542520
+note 114= 11404.152230
+note 115= 11501.955001
+note 116= 11603.821390
+note 117= 11701.857370
+note 118= 11803.953020
+note 119= 11902.197230
+note 120= 12000.000000
+note 121= 12101.866390
+note 122= 12199.902370
+note 123= 12301.998020
+note 124= 12400.242230
+note 125= 12502.542520
+note 126= 12604.152230
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 % 101.866390"
+note 2="#=0 % 199.902370"
+note 3="#=0 % 301.998020"
+note 4="#=0 % 400.242230"
+note 5="#=0 % 502.542520"
+note 6="#=0 % 604.152230"
+note 7="#=0 * 3/2"
+note 8="#=0 % 803.821390"
+note 9="#=0 % 901.857370"
+note 10="#=0 % 1003.953020"
+note 11="#=0 % 1102.197230"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

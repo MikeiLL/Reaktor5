@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Pat Pagano and David Beardsley, 17-limit scale, TL 27-2-2001
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=105
+note 2=176
+note 3=309
+note 4=421
+note 5=513
+note 6=603
+note 7=687
+note 8=807
+note 9=919
+note 10=989
+note 11=1074
+note 12=1200
+note 13=1305
+note 14=1376
+note 15=1509
+note 16=1621
+note 17=1713
+note 18=1803
+note 19=1887
+note 20=2007
+note 21=2119
+note 22=2189
+note 23=2274
+note 24=2400
+note 25=2505
+note 26=2576
+note 27=2709
+note 28=2821
+note 29=2913
+note 30=3003
+note 31=3087
+note 32=3207
+note 33=3319
+note 34=3389
+note 35=3474
+note 36=3600
+note 37=3705
+note 38=3776
+note 39=3909
+note 40=4021
+note 41=4113
+note 42=4203
+note 43=4287
+note 44=4407
+note 45=4519
+note 46=4589
+note 47=4674
+note 48=4800
+note 49=4905
+note 50=4976
+note 51=5109
+note 52=5221
+note 53=5313
+note 54=5403
+note 55=5487
+note 56=5607
+note 57=5719
+note 58=5789
+note 59=5874
+note 60=6000
+note 61=6105
+note 62=6176
+note 63=6309
+note 64=6421
+note 65=6513
+note 66=6603
+note 67=6687
+note 68=6807
+note 69=6919
+note 70=6989
+note 71=7074
+note 72=7200
+note 73=7305
+note 74=7376
+note 75=7509
+note 76=7621
+note 77=7713
+note 78=7803
+note 79=7887
+note 80=8007
+note 81=8119
+note 82=8189
+note 83=8274
+note 84=8400
+note 85=8505
+note 86=8576
+note 87=8709
+note 88=8821
+note 89=8913
+note 90=9003
+note 91=9087
+note 92=9207
+note 93=9319
+note 94=9389
+note 95=9474
+note 96=9600
+note 97=9705
+note 98=9776
+note 99=9909
+note 100=10021
+note 101=10113
+note 102=10203
+note 103=10287
+note 104=10407
+note 105=10519
+note 106=10589
+note 107=10674
+note 108=10800
+note 109=10905
+note 110=10976
+note 111=11109
+note 112=11221
+note 113=11313
+note 114=11403
+note 115=11487
+note 116=11607
+note 117=11719
+note 118=11789
+note 119=11874
+note 120=12000
+note 121=12105
+note 122=12176
+note 123=12309
+note 124=12421
+note 125=12513
+note 126=12603
+note 127=12687
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pagano_b.tun"
+ID= "ID_pagano_b.tun"
+Filename= "pagano_b.scl"
+Description= "Pat Pagano and David Beardsley, 17-limit scale, TL 27-2-2001"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 104.955410
+note 2= 175.627836
+note 3= 308.865411
+note 4= 420.596697
+note 5= 512.775413
+note 6= 603.000409
+note 7= 687.467602
+note 8= 806.910410
+note 9= 918.641696
+note 10= 989.314122
+note 11= 1073.781316
+note 12= 1200.000000
+note 13= 1304.955410
+note 14= 1375.627836
+note 15= 1508.865411
+note 16= 1620.596697
+note 17= 1712.775413
+note 18= 1803.000409
+note 19= 1887.467602
+note 20= 2006.910410
+note 21= 2118.641696
+note 22= 2189.314122
+note 23= 2273.781316
+note 24= 2400.000000
+note 25= 2504.955410
+note 26= 2575.627836
+note 27= 2708.865411
+note 28= 2820.596697
+note 29= 2912.775413
+note 30= 3003.000409
+note 31= 3087.467602
+note 32= 3206.910410
+note 33= 3318.641696
+note 34= 3389.314122
+note 35= 3473.781316
+note 36= 3600.000000
+note 37= 3704.955410
+note 38= 3775.627836
+note 39= 3908.865411
+note 40= 4020.596697
+note 41= 4112.775413
+note 42= 4203.000409
+note 43= 4287.467602
+note 44= 4406.910410
+note 45= 4518.641696
+note 46= 4589.314122
+note 47= 4673.781316
+note 48= 4800.000000
+note 49= 4904.955410
+note 50= 4975.627836
+note 51= 5108.865411
+note 52= 5220.596697
+note 53= 5312.775413
+note 54= 5403.000409
+note 55= 5487.467602
+note 56= 5606.910410
+note 57= 5718.641696
+note 58= 5789.314122
+note 59= 5873.781316
+note 60= 6000.000000
+note 61= 6104.955410
+note 62= 6175.627836
+note 63= 6308.865411
+note 64= 6420.596697
+note 65= 6512.775413
+note 66= 6603.000409
+note 67= 6687.467602
+note 68= 6806.910410
+note 69= 6918.641696
+note 70= 6989.314122
+note 71= 7073.781316
+note 72= 7200.000000
+note 73= 7304.955410
+note 74= 7375.627836
+note 75= 7508.865411
+note 76= 7620.596697
+note 77= 7712.775413
+note 78= 7803.000409
+note 79= 7887.467602
+note 80= 8006.910410
+note 81= 8118.641696
+note 82= 8189.314122
+note 83= 8273.781316
+note 84= 8400.000000
+note 85= 8504.955410
+note 86= 8575.627836
+note 87= 8708.865411
+note 88= 8820.596697
+note 89= 8912.775413
+note 90= 9003.000409
+note 91= 9087.467602
+note 92= 9206.910410
+note 93= 9318.641696
+note 94= 9389.314122
+note 95= 9473.781316
+note 96= 9600.000000
+note 97= 9704.955410
+note 98= 9775.627836
+note 99= 9908.865411
+note 100= 10020.596697
+note 101= 10112.775413
+note 102= 10203.000409
+note 103= 10287.467602
+note 104= 10406.910410
+note 105= 10518.641696
+note 106= 10589.314122
+note 107= 10673.781316
+note 108= 10800.000000
+note 109= 10904.955410
+note 110= 10975.627836
+note 111= 11108.865411
+note 112= 11220.596697
+note 113= 11312.775413
+note 114= 11403.000409
+note 115= 11487.467602
+note 116= 11606.910410
+note 117= 11718.641696
+note 118= 11789.314122
+note 119= 11873.781316
+note 120= 12000.000000
+note 121= 12104.955410
+note 122= 12175.627836
+note 123= 12308.865411
+note 124= 12420.596697
+note 125= 12512.775413
+note 126= 12603.000409
+note 127= 12687.467602
+
+[Functional Tuning]
+note 1="#=0 * 17/16"
+note 2="#=0 * 425/384"
+note 3="#=0 * 153/128"
+note 4="#=0 * 51/40"
+note 5="#=0 * 1377/1024"
+note 6="#=0 * 17/12"
+note 7="#=0 * 119/80"
+note 8="#=0 * 51/32"
+note 9="#=0 * 17/10"
+note 10="#=0 * 85/48"
+note 11="#=0 * 119/64"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

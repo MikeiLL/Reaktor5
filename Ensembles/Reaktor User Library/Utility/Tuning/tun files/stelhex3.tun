@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Stellated Tetrachordal Hexany based on Archytas's Enharmonic
+;
+; VAZ Plus section
+[Tuning]
+note 0=610
+note 1=673
+note 2=877
+note 3=996
+note 4=1200
+note 5=1263
+note 6=1312
+note 7=1326
+note 8=1375
+note 9=1423
+note 10=1649
+note 11=1698
+note 12=1747
+note 13=1761
+note 14=1810
+note 15=1873
+note 16=2077
+note 17=2196
+note 18=2400
+note 19=2463
+note 20=2512
+note 21=2526
+note 22=2575
+note 23=2623
+note 24=2849
+note 25=2898
+note 26=2947
+note 27=2961
+note 28=3010
+note 29=3073
+note 30=3277
+note 31=3396
+note 32=3600
+note 33=3663
+note 34=3712
+note 35=3726
+note 36=3775
+note 37=3823
+note 38=4049
+note 39=4098
+note 40=4147
+note 41=4161
+note 42=4210
+note 43=4273
+note 44=4477
+note 45=4596
+note 46=4800
+note 47=4863
+note 48=4912
+note 49=4926
+note 50=4975
+note 51=5023
+note 52=5249
+note 53=5298
+note 54=5347
+note 55=5361
+note 56=5410
+note 57=5473
+note 58=5677
+note 59=5796
+note 60=6000
+note 61=6063
+note 62=6112
+note 63=6126
+note 64=6175
+note 65=6223
+note 66=6449
+note 67=6498
+note 68=6547
+note 69=6561
+note 70=6610
+note 71=6673
+note 72=6877
+note 73=6996
+note 74=7200
+note 75=7263
+note 76=7312
+note 77=7326
+note 78=7375
+note 79=7423
+note 80=7649
+note 81=7698
+note 82=7747
+note 83=7761
+note 84=7810
+note 85=7873
+note 86=8077
+note 87=8196
+note 88=8400
+note 89=8463
+note 90=8512
+note 91=8526
+note 92=8575
+note 93=8623
+note 94=8849
+note 95=8898
+note 96=8947
+note 97=8961
+note 98=9010
+note 99=9073
+note 100=9277
+note 101=9396
+note 102=9600
+note 103=9663
+note 104=9712
+note 105=9726
+note 106=9775
+note 107=9823
+note 108=10049
+note 109=10098
+note 110=10147
+note 111=10161
+note 112=10210
+note 113=10273
+note 114=10477
+note 115=10596
+note 116=10800
+note 117=10863
+note 118=10912
+note 119=10926
+note 120=10975
+note 121=11023
+note 122=11249
+note 123=11298
+note 124=11347
+note 125=11361
+note 126=11410
+note 127=11473
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stelhex3.tun"
+ID= "ID_stelhex3.tun"
+Filename= "stelhex3.scl"
+Description= "Stellated Tetrachordal Hexany based on Archytas's Enharmonic"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 609.776284
+note 1= 672.737188
+note 2= 876.647190
+note 3= 996.089998
+note 4= 1200.000000
+note 5= 1262.960904
+note 6= 1311.731285
+note 7= 1325.921808
+note 8= 1374.692189
+note 9= 1423.462571
+note 10= 1649.274618
+note 11= 1698.044999
+note 12= 1746.815381
+note 13= 1761.005903
+note 14= 1809.776284
+note 15= 1872.737188
+note 16= 2076.647190
+note 17= 2196.089998
+note 18= 2400.000000
+note 19= 2462.960904
+note 20= 2511.731285
+note 21= 2525.921808
+note 22= 2574.692189
+note 23= 2623.462571
+note 24= 2849.274618
+note 25= 2898.044999
+note 26= 2946.815381
+note 27= 2961.005903
+note 28= 3009.776284
+note 29= 3072.737188
+note 30= 3276.647190
+note 31= 3396.089998
+note 32= 3600.000000
+note 33= 3662.960904
+note 34= 3711.731285
+note 35= 3725.921808
+note 36= 3774.692189
+note 37= 3823.462571
+note 38= 4049.274618
+note 39= 4098.044999
+note 40= 4146.815381
+note 41= 4161.005903
+note 42= 4209.776284
+note 43= 4272.737188
+note 44= 4476.647190
+note 45= 4596.089998
+note 46= 4800.000000
+note 47= 4862.960904
+note 48= 4911.731285
+note 49= 4925.921808
+note 50= 4974.692189
+note 51= 5023.462571
+note 52= 5249.274618
+note 53= 5298.044999
+note 54= 5346.815381
+note 55= 5361.005903
+note 56= 5409.776284
+note 57= 5472.737188
+note 58= 5676.647190
+note 59= 5796.089998
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6111.731285
+note 63= 6125.921808
+note 64= 6174.692189
+note 65= 6223.462571
+note 66= 6449.274618
+note 67= 6498.044999
+note 68= 6546.815381
+note 69= 6561.005903
+note 70= 6609.776284
+note 71= 6672.737188
+note 72= 6876.647190
+note 73= 6996.089998
+note 74= 7200.000000
+note 75= 7262.960904
+note 76= 7311.731285
+note 77= 7325.921808
+note 78= 7374.692189
+note 79= 7423.462571
+note 80= 7649.274618
+note 81= 7698.044999
+note 82= 7746.815381
+note 83= 7761.005903
+note 84= 7809.776284
+note 85= 7872.737188
+note 86= 8076.647190
+note 87= 8196.089998
+note 88= 8400.000000
+note 89= 8462.960904
+note 90= 8511.731285
+note 91= 8525.921808
+note 92= 8574.692189
+note 93= 8623.462571
+note 94= 8849.274618
+note 95= 8898.044999
+note 96= 8946.815381
+note 97= 8961.005903
+note 98= 9009.776284
+note 99= 9072.737188
+note 100= 9276.647190
+note 101= 9396.089998
+note 102= 9600.000000
+note 103= 9662.960904
+note 104= 9711.731285
+note 105= 9725.921808
+note 106= 9774.692189
+note 107= 9823.462571
+note 108= 10049.274618
+note 109= 10098.044999
+note 110= 10146.815381
+note 111= 10161.005903
+note 112= 10209.776284
+note 113= 10272.737188
+note 114= 10476.647190
+note 115= 10596.089998
+note 116= 10800.000000
+note 117= 10862.960904
+note 118= 10911.731285
+note 119= 10925.921808
+note 120= 10974.692189
+note 121= 11023.462571
+note 122= 11249.274618
+note 123= 11298.044999
+note 124= 11346.815381
+note 125= 11361.005903
+note 126= 11409.776284
+note 127= 11472.737188
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 16/15"
+note 3="#=0 * 784/729"
+note 4="#=0 * 448/405"
+note 5="#=0 * 256/225"
+note 6="#=0 * 35/27"
+note 7="#=0 * 4/3"
+note 8="#=0 * 48/35"
+note 9="#=0 * 112/81"
+note 10="#=0 * 64/45"
+note 11="#=0 * 1792/1215"
+note 12="#=0 * 224/135"
+note 13="#=0 * 16/9"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

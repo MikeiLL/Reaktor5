@@ -1,0 +1,318 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Untempered version of Groven's 36-tone scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=4008
+note 1=4027
+note 2=4078
+note 3=4098
+note 4=4120
+note 5=4169
+note 6=4190
+note 7=4210
+note 8=4280
+note 9=4302
+note 10=4322
+note 11=4373
+note 12=4394
+note 13=4414
+note 14=4484
+note 15=4506
+note 16=4525
+note 17=4577
+note 18=4596
+note 19=4618
+note 20=4667
+note 21=4688
+note 22=4708
+note 23=4780
+note 24=4800
+note 25=4822
+note 26=4871
+note 27=4892
+note 28=4912
+note 29=4982
+note 30=5004
+note 31=5023
+note 32=5075
+note 33=5094
+note 34=5116
+note 35=5186
+note 36=5208
+note 37=5227
+note 38=5278
+note 39=5298
+note 40=5320
+note 41=5369
+note 42=5390
+note 43=5410
+note 44=5480
+note 45=5502
+note 46=5522
+note 47=5573
+note 48=5594
+note 49=5614
+note 50=5684
+note 51=5706
+note 52=5725
+note 53=5777
+note 54=5796
+note 55=5818
+note 56=5867
+note 57=5888
+note 58=5908
+note 59=5980
+note 60=6000
+note 61=6022
+note 62=6071
+note 63=6092
+note 64=6112
+note 65=6182
+note 66=6204
+note 67=6223
+note 68=6275
+note 69=6294
+note 70=6316
+note 71=6386
+note 72=6408
+note 73=6427
+note 74=6478
+note 75=6498
+note 76=6520
+note 77=6569
+note 78=6590
+note 79=6610
+note 80=6680
+note 81=6702
+note 82=6722
+note 83=6773
+note 84=6794
+note 85=6814
+note 86=6884
+note 87=6906
+note 88=6925
+note 89=6977
+note 90=6996
+note 91=7018
+note 92=7067
+note 93=7088
+note 94=7108
+note 95=7180
+note 96=7200
+note 97=7222
+note 98=7271
+note 99=7292
+note 100=7312
+note 101=7382
+note 102=7404
+note 103=7423
+note 104=7475
+note 105=7494
+note 106=7516
+note 107=7586
+note 108=7608
+note 109=7627
+note 110=7678
+note 111=7698
+note 112=7720
+note 113=7769
+note 114=7790
+note 115=7810
+note 116=7880
+note 117=7902
+note 118=7922
+note 119=7973
+note 120=7994
+note 121=8014
+note 122=8084
+note 123=8106
+note 124=8125
+note 125=8177
+note 126=8196
+note 127=8218
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "groven_ji.tun"
+ID= "ID_groven_ji.tun"
+Filename= "groven_ji.scl"
+Description= "Untempered version of Groven's 36-tone scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4007.820003
+note 1= 4027.372572
+note 2= 4078.492430
+note 3= 4098.044999
+note 4= 4119.551289
+note 5= 4168.717426
+note 6= 4190.223716
+note 7= 4209.776284
+note 8= 4280.448711
+note 9= 4301.955001
+note 10= 4321.507570
+note 11= 4372.627428
+note 12= 4394.133717
+note 13= 4413.686286
+note 14= 4484.358713
+note 15= 4505.865003
+note 16= 4525.417571
+note 17= 4576.537429
+note 18= 4596.089998
+note 19= 4617.596288
+note 20= 4666.762425
+note 21= 4688.268715
+note 22= 4707.821284
+note 23= 4780.447431
+note 24= 4800.000000
+note 25= 4821.506290
+note 26= 4870.672427
+note 27= 4892.178716
+note 28= 4911.731285
+note 29= 4982.403712
+note 30= 5003.910002
+note 31= 5023.462571
+note 32= 5074.582429
+note 33= 5094.134997
+note 34= 5115.641287
+note 35= 5186.313714
+note 36= 5207.820003
+note 37= 5227.372572
+note 38= 5278.492430
+note 39= 5298.044999
+note 40= 5319.551289
+note 41= 5368.717426
+note 42= 5390.223716
+note 43= 5409.776284
+note 44= 5480.448711
+note 45= 5501.955001
+note 46= 5521.507570
+note 47= 5572.627428
+note 48= 5594.133717
+note 49= 5613.686286
+note 50= 5684.358713
+note 51= 5705.865003
+note 52= 5725.417571
+note 53= 5776.537429
+note 54= 5796.089998
+note 55= 5817.596288
+note 56= 5866.762425
+note 57= 5888.268715
+note 58= 5907.821284
+note 59= 5980.447431
+note 60= 6000.000000
+note 61= 6021.506290
+note 62= 6070.672427
+note 63= 6092.178716
+note 64= 6111.731285
+note 65= 6182.403712
+note 66= 6203.910002
+note 67= 6223.462571
+note 68= 6274.582429
+note 69= 6294.134997
+note 70= 6315.641287
+note 71= 6386.313714
+note 72= 6407.820003
+note 73= 6427.372572
+note 74= 6478.492430
+note 75= 6498.044999
+note 76= 6519.551289
+note 77= 6568.717426
+note 78= 6590.223716
+note 79= 6609.776284
+note 80= 6680.448711
+note 81= 6701.955001
+note 82= 6721.507570
+note 83= 6772.627428
+note 84= 6794.133717
+note 85= 6813.686286
+note 86= 6884.358713
+note 87= 6905.865003
+note 88= 6925.417571
+note 89= 6976.537429
+note 90= 6996.089998
+note 91= 7017.596288
+note 92= 7066.762425
+note 93= 7088.268715
+note 94= 7107.821284
+note 95= 7180.447431
+note 96= 7200.000000
+note 97= 7221.506290
+note 98= 7270.672427
+note 99= 7292.178716
+note 100= 7311.731285
+note 101= 7382.403712
+note 102= 7403.910002
+note 103= 7423.462571
+note 104= 7474.582429
+note 105= 7494.134997
+note 106= 7515.641287
+note 107= 7586.313714
+note 108= 7607.820003
+note 109= 7627.372572
+note 110= 7678.492430
+note 111= 7698.044999
+note 112= 7719.551289
+note 113= 7768.717426
+note 114= 7790.223716
+note 115= 7809.776284
+note 116= 7880.448711
+note 117= 7901.955001
+note 118= 7921.507570
+note 119= 7972.627428
+note 120= 7994.133717
+note 121= 8013.686286
+note 122= 8084.358713
+note 123= 8105.865003
+note 124= 8125.417571
+note 125= 8176.537429
+note 126= 8196.089998
+note 127= 8217.596288
+
+[Functional Tuning]
+note 1="#=0 * 81/80"
+note 2="#=0 * 25/24"
+note 3="#=0 * 135/128"
+note 4="#=0 * 16/15"
+note 5="#=0 * 10/9"
+note 6="#=0 * 9/8"
+note 7="#=0 * 256/225"
+note 8="#=0 * 75/64"
+note 9="#=0 * 32/27"
+note 10="#=0 * 6/5"
+note 11="#=0 * 5/4"
+note 12="#=0 * 81/64"
+note 13="#=0 * 32/25"
+note 14="#=0 * 675/512"
+note 15="#=0 * 4/3"
+note 16="#=0 * 27/20"
+note 17="#=0 * 25/18"
+note 18="#=0 * 45/32"
+note 19="#=0 * 64/45"
+note 20="#=0 * 40/27"
+note 21="#=0 * 3/2"
+note 22="#=0 * 1024/675"
+note 23="#=0 * 25/16"
+note 24="#=0 * 405/256"
+note 25="#=0 * 8/5"
+note 26="#=0 * 5/3"
+note 27="#=0 * 27/16"
+note 28="#=0 * 128/75"
+note 29="#=0 * 225/128"
+note 30="#=0 * 16/9"
+note 31="#=0 * 9/5"
+note 32="#=0 * 50/27"
+note 33="#=0 * 15/8"
+note 34="#=0 * 256/135"
+note 35="#=0 * 2025/1024"
+note 36="#>-36 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

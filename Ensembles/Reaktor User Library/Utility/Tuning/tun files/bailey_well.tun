@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Paul Bailey's proportional beating modern temperament (1993)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=92
+note 2=195
+note 3=296
+note 4=392
+note 5=500
+note 6=590
+note 7=699
+note 8=794
+note 9=894
+note 10=998
+note 11=1094
+note 12=1200
+note 13=1292
+note 14=1395
+note 15=1496
+note 16=1592
+note 17=1700
+note 18=1790
+note 19=1899
+note 20=1994
+note 21=2094
+note 22=2198
+note 23=2294
+note 24=2400
+note 25=2492
+note 26=2595
+note 27=2696
+note 28=2792
+note 29=2900
+note 30=2990
+note 31=3099
+note 32=3194
+note 33=3294
+note 34=3398
+note 35=3494
+note 36=3600
+note 37=3692
+note 38=3795
+note 39=3896
+note 40=3992
+note 41=4100
+note 42=4190
+note 43=4299
+note 44=4394
+note 45=4494
+note 46=4598
+note 47=4694
+note 48=4800
+note 49=4892
+note 50=4995
+note 51=5096
+note 52=5192
+note 53=5300
+note 54=5390
+note 55=5499
+note 56=5594
+note 57=5694
+note 58=5798
+note 59=5894
+note 60=6000
+note 61=6092
+note 62=6195
+note 63=6296
+note 64=6392
+note 65=6500
+note 66=6590
+note 67=6699
+note 68=6794
+note 69=6894
+note 70=6998
+note 71=7094
+note 72=7200
+note 73=7292
+note 74=7395
+note 75=7496
+note 76=7592
+note 77=7700
+note 78=7790
+note 79=7899
+note 80=7994
+note 81=8094
+note 82=8198
+note 83=8294
+note 84=8400
+note 85=8492
+note 86=8595
+note 87=8696
+note 88=8792
+note 89=8900
+note 90=8990
+note 91=9099
+note 92=9194
+note 93=9294
+note 94=9398
+note 95=9494
+note 96=9600
+note 97=9692
+note 98=9795
+note 99=9896
+note 100=9992
+note 101=10100
+note 102=10190
+note 103=10299
+note 104=10394
+note 105=10494
+note 106=10598
+note 107=10694
+note 108=10800
+note 109=10892
+note 110=10995
+note 111=11096
+note 112=11192
+note 113=11300
+note 114=11390
+note 115=11499
+note 116=11594
+note 117=11694
+note 118=11798
+note 119=11894
+note 120=12000
+note 121=12092
+note 122=12195
+note 123=12296
+note 124=12392
+note 125=12500
+note 126=12590
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bailey_well.tun"
+ID= "ID_bailey_well.tun"
+Filename= "bailey_well.scl"
+Description= "Paul Bailey's proportional beating modern temperament (1993)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 92.165010
+note 2= 195.190000
+note 3= 296.055010
+note 4= 391.680000
+note 5= 499.945010
+note 6= 590.170010
+note 7= 698.695000
+note 8= 794.060010
+note 9= 893.785000
+note 10= 997.950010
+note 11= 1093.675000
+note 12= 1200.000000
+note 13= 1292.165010
+note 14= 1395.190000
+note 15= 1496.055010
+note 16= 1591.680000
+note 17= 1699.945010
+note 18= 1790.170010
+note 19= 1898.695000
+note 20= 1994.060010
+note 21= 2093.785000
+note 22= 2197.950010
+note 23= 2293.675000
+note 24= 2400.000000
+note 25= 2492.165010
+note 26= 2595.190000
+note 27= 2696.055010
+note 28= 2791.680000
+note 29= 2899.945010
+note 30= 2990.170010
+note 31= 3098.695000
+note 32= 3194.060010
+note 33= 3293.785000
+note 34= 3397.950010
+note 35= 3493.675000
+note 36= 3600.000000
+note 37= 3692.165010
+note 38= 3795.190000
+note 39= 3896.055010
+note 40= 3991.680000
+note 41= 4099.945010
+note 42= 4190.170010
+note 43= 4298.695000
+note 44= 4394.060010
+note 45= 4493.785000
+note 46= 4597.950010
+note 47= 4693.675000
+note 48= 4800.000000
+note 49= 4892.165010
+note 50= 4995.190000
+note 51= 5096.055010
+note 52= 5191.680000
+note 53= 5299.945010
+note 54= 5390.170010
+note 55= 5498.695000
+note 56= 5594.060010
+note 57= 5693.785000
+note 58= 5797.950010
+note 59= 5893.675000
+note 60= 6000.000000
+note 61= 6092.165010
+note 62= 6195.190000
+note 63= 6296.055010
+note 64= 6391.680000
+note 65= 6499.945010
+note 66= 6590.170010
+note 67= 6698.695000
+note 68= 6794.060010
+note 69= 6893.785000
+note 70= 6997.950010
+note 71= 7093.675000
+note 72= 7200.000000
+note 73= 7292.165010
+note 74= 7395.190000
+note 75= 7496.055010
+note 76= 7591.680000
+note 77= 7699.945010
+note 78= 7790.170010
+note 79= 7898.695000
+note 80= 7994.060010
+note 81= 8093.785000
+note 82= 8197.950010
+note 83= 8293.675000
+note 84= 8400.000000
+note 85= 8492.165010
+note 86= 8595.190000
+note 87= 8696.055010
+note 88= 8791.680000
+note 89= 8899.945010
+note 90= 8990.170010
+note 91= 9098.695000
+note 92= 9194.060010
+note 93= 9293.785000
+note 94= 9397.950010
+note 95= 9493.675000
+note 96= 9600.000000
+note 97= 9692.165010
+note 98= 9795.190000
+note 99= 9896.055010
+note 100= 9991.680000
+note 101= 10099.945010
+note 102= 10190.170010
+note 103= 10298.695000
+note 104= 10394.060010
+note 105= 10493.785000
+note 106= 10597.950010
+note 107= 10693.675000
+note 108= 10800.000000
+note 109= 10892.165010
+note 110= 10995.190000
+note 111= 11096.055010
+note 112= 11191.680000
+note 113= 11299.945010
+note 114= 11390.170010
+note 115= 11498.695000
+note 116= 11594.060010
+note 117= 11693.785000
+note 118= 11797.950010
+note 119= 11893.675000
+note 120= 12000.000000
+note 121= 12092.165010
+note 122= 12195.190000
+note 123= 12296.055010
+note 124= 12391.680000
+note 125= 12499.945010
+note 126= 12590.170010
+note 127= 12698.695000
+
+[Functional Tuning]
+note 1="#=0 % 92.165010"
+note 2="#=0 % 195.190000"
+note 3="#=0 % 296.055010"
+note 4="#=0 % 391.680000"
+note 5="#=0 % 499.945010"
+note 6="#=0 % 590.170010"
+note 7="#=0 % 698.695000"
+note 8="#=0 % 794.060010"
+note 9="#=0 % 893.785000"
+note 10="#=0 % 997.950010"
+note 11="#=0 % 1093.675000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

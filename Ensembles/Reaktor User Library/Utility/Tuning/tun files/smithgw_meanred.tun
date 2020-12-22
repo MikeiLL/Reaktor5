@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 171-et Hahn reduced rational Meantone[12]
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=126
+note 2=190
+note 3=316
+note 4=379
+note 5=506
+note 6=569
+note 7=694
+note 8=821
+note 9=884
+note 10=1010
+note 11=1074
+note 12=1200
+note 13=1326
+note 14=1390
+note 15=1516
+note 16=1579
+note 17=1706
+note 18=1769
+note 19=1894
+note 20=2021
+note 21=2084
+note 22=2210
+note 23=2274
+note 24=2400
+note 25=2526
+note 26=2590
+note 27=2716
+note 28=2779
+note 29=2906
+note 30=2969
+note 31=3094
+note 32=3221
+note 33=3284
+note 34=3410
+note 35=3474
+note 36=3600
+note 37=3726
+note 38=3790
+note 39=3916
+note 40=3979
+note 41=4106
+note 42=4169
+note 43=4294
+note 44=4421
+note 45=4484
+note 46=4610
+note 47=4674
+note 48=4800
+note 49=4926
+note 50=4990
+note 51=5116
+note 52=5179
+note 53=5306
+note 54=5369
+note 55=5494
+note 56=5621
+note 57=5684
+note 58=5810
+note 59=5874
+note 60=6000
+note 61=6126
+note 62=6190
+note 63=6316
+note 64=6379
+note 65=6506
+note 66=6569
+note 67=6694
+note 68=6821
+note 69=6884
+note 70=7010
+note 71=7074
+note 72=7200
+note 73=7326
+note 74=7390
+note 75=7516
+note 76=7579
+note 77=7706
+note 78=7769
+note 79=7894
+note 80=8021
+note 81=8084
+note 82=8210
+note 83=8274
+note 84=8400
+note 85=8526
+note 86=8590
+note 87=8716
+note 88=8779
+note 89=8906
+note 90=8969
+note 91=9094
+note 92=9221
+note 93=9284
+note 94=9410
+note 95=9474
+note 96=9600
+note 97=9726
+note 98=9790
+note 99=9916
+note 100=9979
+note 101=10106
+note 102=10169
+note 103=10294
+note 104=10421
+note 105=10484
+note 106=10610
+note 107=10674
+note 108=10800
+note 109=10926
+note 110=10990
+note 111=11116
+note 112=11179
+note 113=11306
+note 114=11369
+note 115=11494
+note 116=11621
+note 117=11684
+note 118=11810
+note 119=11874
+note 120=12000
+note 121=12126
+note 122=12190
+note 123=12316
+note 124=12379
+note 125=12506
+note 126=12569
+note 127=12694
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_meanred.tun"
+ID= "ID_smithgw_meanred.tun"
+Filename= "smithgw_meanred.scl"
+Description= "171-et Hahn reduced rational Meantone[12]"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 125.526052
+note 2= 190.115235
+note 3= 315.641287
+note 4= 378.602191
+note 5= 505.756522
+note 6= 568.717426
+note 7= 694.243478
+note 8= 821.397809
+note 9= 884.358713
+note 10= 1009.884765
+note 11= 1074.473948
+note 12= 1200.000000
+note 13= 1325.526052
+note 14= 1390.115235
+note 15= 1515.641287
+note 16= 1578.602191
+note 17= 1705.756522
+note 18= 1768.717426
+note 19= 1894.243478
+note 20= 2021.397809
+note 21= 2084.358713
+note 22= 2209.884765
+note 23= 2274.473948
+note 24= 2400.000000
+note 25= 2525.526052
+note 26= 2590.115235
+note 27= 2715.641287
+note 28= 2778.602191
+note 29= 2905.756522
+note 30= 2968.717426
+note 31= 3094.243478
+note 32= 3221.397809
+note 33= 3284.358713
+note 34= 3409.884765
+note 35= 3474.473948
+note 36= 3600.000000
+note 37= 3725.526052
+note 38= 3790.115235
+note 39= 3915.641287
+note 40= 3978.602191
+note 41= 4105.756522
+note 42= 4168.717426
+note 43= 4294.243478
+note 44= 4421.397809
+note 45= 4484.358713
+note 46= 4609.884765
+note 47= 4674.473948
+note 48= 4800.000000
+note 49= 4925.526052
+note 50= 4990.115235
+note 51= 5115.641287
+note 52= 5178.602191
+note 53= 5305.756522
+note 54= 5368.717426
+note 55= 5494.243478
+note 56= 5621.397809
+note 57= 5684.358713
+note 58= 5809.884765
+note 59= 5874.473948
+note 60= 6000.000000
+note 61= 6125.526052
+note 62= 6190.115235
+note 63= 6315.641287
+note 64= 6378.602191
+note 65= 6505.756522
+note 66= 6568.717426
+note 67= 6694.243478
+note 68= 6821.397809
+note 69= 6884.358713
+note 70= 7009.884765
+note 71= 7074.473948
+note 72= 7200.000000
+note 73= 7325.526052
+note 74= 7390.115235
+note 75= 7515.641287
+note 76= 7578.602191
+note 77= 7705.756522
+note 78= 7768.717426
+note 79= 7894.243478
+note 80= 8021.397809
+note 81= 8084.358713
+note 82= 8209.884765
+note 83= 8274.473948
+note 84= 8400.000000
+note 85= 8525.526052
+note 86= 8590.115235
+note 87= 8715.641287
+note 88= 8778.602191
+note 89= 8905.756522
+note 90= 8968.717426
+note 91= 9094.243478
+note 92= 9221.397809
+note 93= 9284.358713
+note 94= 9409.884765
+note 95= 9474.473948
+note 96= 9600.000000
+note 97= 9725.526052
+note 98= 9790.115235
+note 99= 9915.641287
+note 100= 9978.602191
+note 101= 10105.756522
+note 102= 10168.717426
+note 103= 10294.243478
+note 104= 10421.397809
+note 105= 10484.358713
+note 106= 10609.884765
+note 107= 10674.473948
+note 108= 10800.000000
+note 109= 10925.526052
+note 110= 10990.115235
+note 111= 11115.641287
+note 112= 11178.602191
+note 113= 11305.756522
+note 114= 11368.717426
+note 115= 11494.243478
+note 116= 11621.397809
+note 117= 11684.358713
+note 118= 11809.884765
+note 119= 11874.473948
+note 120= 12000.000000
+note 121= 12125.526052
+note 122= 12190.115235
+note 123= 12315.641287
+note 124= 12378.602191
+note 125= 12505.756522
+note 126= 12568.717426
+note 127= 12694.243478
+
+[Functional Tuning]
+note 1="#=0 * 672/625"
+note 2="#=0 * 125/112"
+note 3="#=0 * 6/5"
+note 4="#=0 * 56/45"
+note 5="#=0 * 75/56"
+note 6="#=0 * 25/18"
+note 7="#=0 * 112/75"
+note 8="#=0 * 45/28"
+note 9="#=0 * 5/3"
+note 10="#=0 * 224/125"
+note 11="#=0 * 625/336"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

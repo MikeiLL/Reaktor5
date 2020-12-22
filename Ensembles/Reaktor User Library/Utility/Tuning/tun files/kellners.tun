@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kellner's temperament with 1/5 synt. comma instead of 1/5 Pyth. comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=92
+note 2=195
+note 3=295
+note 4=391
+note 5=498
+note 6=590
+note 7=698
+note 8=793
+note 9=893
+note 10=997
+note 11=1092
+note 12=1200
+note 13=1292
+note 14=1395
+note 15=1495
+note 16=1591
+note 17=1698
+note 18=1790
+note 19=1898
+note 20=1993
+note 21=2093
+note 22=2197
+note 23=2292
+note 24=2400
+note 25=2492
+note 26=2595
+note 27=2695
+note 28=2791
+note 29=2898
+note 30=2990
+note 31=3098
+note 32=3193
+note 33=3293
+note 34=3397
+note 35=3492
+note 36=3600
+note 37=3692
+note 38=3795
+note 39=3895
+note 40=3991
+note 41=4098
+note 42=4190
+note 43=4298
+note 44=4393
+note 45=4493
+note 46=4597
+note 47=4692
+note 48=4800
+note 49=4892
+note 50=4995
+note 51=5095
+note 52=5191
+note 53=5298
+note 54=5390
+note 55=5498
+note 56=5593
+note 57=5693
+note 58=5797
+note 59=5892
+note 60=6000
+note 61=6092
+note 62=6195
+note 63=6295
+note 64=6391
+note 65=6498
+note 66=6590
+note 67=6698
+note 68=6793
+note 69=6893
+note 70=6997
+note 71=7092
+note 72=7200
+note 73=7292
+note 74=7395
+note 75=7495
+note 76=7591
+note 77=7698
+note 78=7790
+note 79=7898
+note 80=7993
+note 81=8093
+note 82=8197
+note 83=8292
+note 84=8400
+note 85=8492
+note 86=8595
+note 87=8695
+note 88=8791
+note 89=8898
+note 90=8990
+note 91=9098
+note 92=9193
+note 93=9293
+note 94=9397
+note 95=9492
+note 96=9600
+note 97=9692
+note 98=9795
+note 99=9895
+note 100=9991
+note 101=10098
+note 102=10190
+note 103=10298
+note 104=10393
+note 105=10493
+note 106=10597
+note 107=10692
+note 108=10800
+note 109=10892
+note 110=10995
+note 111=11095
+note 112=11191
+note 113=11298
+note 114=11390
+note 115=11498
+note 116=11593
+note 117=11693
+note 118=11797
+note 119=11892
+note 120=12000
+note 121=12092
+note 122=12195
+note 123=12295
+note 124=12391
+note 125=12498
+note 126=12590
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kellners.tun"
+ID= "ID_kellners.tun"
+Filename= "kellners.scl"
+Description= "Kellner's temperament with 1/5 synt. comma instead of 1/5 Pyth. comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 91.620510
+note 2= 195.307490
+note 3= 294.972310
+note 4= 390.614970
+note 5= 498.324100
+note 6= 589.944610
+note 7= 697.653740
+note 8= 793.296410
+note 9= 892.961230
+note 10= 996.648200
+note 11= 1092.290870
+note 12= 1200.000000
+note 13= 1291.620510
+note 14= 1395.307490
+note 15= 1494.972310
+note 16= 1590.614970
+note 17= 1698.324100
+note 18= 1789.944610
+note 19= 1897.653740
+note 20= 1993.296410
+note 21= 2092.961230
+note 22= 2196.648200
+note 23= 2292.290870
+note 24= 2400.000000
+note 25= 2491.620510
+note 26= 2595.307490
+note 27= 2694.972310
+note 28= 2790.614970
+note 29= 2898.324100
+note 30= 2989.944610
+note 31= 3097.653740
+note 32= 3193.296410
+note 33= 3292.961230
+note 34= 3396.648200
+note 35= 3492.290870
+note 36= 3600.000000
+note 37= 3691.620510
+note 38= 3795.307490
+note 39= 3894.972310
+note 40= 3990.614970
+note 41= 4098.324100
+note 42= 4189.944610
+note 43= 4297.653740
+note 44= 4393.296410
+note 45= 4492.961230
+note 46= 4596.648200
+note 47= 4692.290870
+note 48= 4800.000000
+note 49= 4891.620510
+note 50= 4995.307490
+note 51= 5094.972310
+note 52= 5190.614970
+note 53= 5298.324100
+note 54= 5389.944610
+note 55= 5497.653740
+note 56= 5593.296410
+note 57= 5692.961230
+note 58= 5796.648200
+note 59= 5892.290870
+note 60= 6000.000000
+note 61= 6091.620510
+note 62= 6195.307490
+note 63= 6294.972310
+note 64= 6390.614970
+note 65= 6498.324100
+note 66= 6589.944610
+note 67= 6697.653740
+note 68= 6793.296410
+note 69= 6892.961230
+note 70= 6996.648200
+note 71= 7092.290870
+note 72= 7200.000000
+note 73= 7291.620510
+note 74= 7395.307490
+note 75= 7494.972310
+note 76= 7590.614970
+note 77= 7698.324100
+note 78= 7789.944610
+note 79= 7897.653740
+note 80= 7993.296410
+note 81= 8092.961230
+note 82= 8196.648200
+note 83= 8292.290870
+note 84= 8400.000000
+note 85= 8491.620510
+note 86= 8595.307490
+note 87= 8694.972310
+note 88= 8790.614970
+note 89= 8898.324100
+note 90= 8989.944610
+note 91= 9097.653740
+note 92= 9193.296410
+note 93= 9292.961230
+note 94= 9396.648200
+note 95= 9492.290870
+note 96= 9600.000000
+note 97= 9691.620510
+note 98= 9795.307490
+note 99= 9894.972310
+note 100= 9990.614970
+note 101= 10098.324100
+note 102= 10189.944610
+note 103= 10297.653740
+note 104= 10393.296410
+note 105= 10492.961230
+note 106= 10596.648200
+note 107= 10692.290870
+note 108= 10800.000000
+note 109= 10891.620510
+note 110= 10995.307490
+note 111= 11094.972310
+note 112= 11190.614970
+note 113= 11298.324100
+note 114= 11389.944610
+note 115= 11497.653740
+note 116= 11593.296410
+note 117= 11692.961230
+note 118= 11796.648200
+note 119= 11892.290870
+note 120= 12000.000000
+note 121= 12091.620510
+note 122= 12195.307490
+note 123= 12294.972310
+note 124= 12390.614970
+note 125= 12498.324100
+note 126= 12589.944610
+note 127= 12697.653740
+
+[Functional Tuning]
+note 1="#=0 % 91.620510"
+note 2="#=0 % 195.307490"
+note 3="#=0 % 294.972310"
+note 4="#=0 % 390.614970"
+note 5="#=0 % 498.324100"
+note 6="#=0 % 589.944610"
+note 7="#=0 % 697.653740"
+note 8="#=0 % 793.296410"
+note 9="#=0 % 892.961230"
+note 10="#=0 % 996.648200"
+note 11="#=0 % 1092.290870"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

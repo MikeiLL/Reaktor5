@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Schismatically altered 17-tone Pythagorean scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1788
+note 1=1810
+note 2=1902
+note 3=1992
+note 4=2014
+note 5=2106
+note 6=2196
+note 7=2218
+note 8=2310
+note 9=2400
+note 10=2490
+note 11=2512
+note 12=2604
+note 13=2694
+note 14=2716
+note 15=2808
+note 16=2898
+note 17=2988
+note 18=3010
+note 19=3102
+note 20=3192
+note 21=3214
+note 22=3306
+note 23=3396
+note 24=3418
+note 25=3510
+note 26=3600
+note 27=3690
+note 28=3712
+note 29=3804
+note 30=3894
+note 31=3916
+note 32=4008
+note 33=4098
+note 34=4188
+note 35=4210
+note 36=4302
+note 37=4392
+note 38=4414
+note 39=4506
+note 40=4596
+note 41=4618
+note 42=4710
+note 43=4800
+note 44=4890
+note 45=4912
+note 46=5004
+note 47=5094
+note 48=5116
+note 49=5208
+note 50=5298
+note 51=5388
+note 52=5410
+note 53=5502
+note 54=5592
+note 55=5614
+note 56=5706
+note 57=5796
+note 58=5818
+note 59=5910
+note 60=6000
+note 61=6090
+note 62=6112
+note 63=6204
+note 64=6294
+note 65=6316
+note 66=6408
+note 67=6498
+note 68=6588
+note 69=6610
+note 70=6702
+note 71=6792
+note 72=6814
+note 73=6906
+note 74=6996
+note 75=7018
+note 76=7110
+note 77=7200
+note 78=7290
+note 79=7312
+note 80=7404
+note 81=7494
+note 82=7516
+note 83=7608
+note 84=7698
+note 85=7788
+note 86=7810
+note 87=7902
+note 88=7992
+note 89=8014
+note 90=8106
+note 91=8196
+note 92=8218
+note 93=8310
+note 94=8400
+note 95=8490
+note 96=8512
+note 97=8604
+note 98=8694
+note 99=8716
+note 100=8808
+note 101=8898
+note 102=8988
+note 103=9010
+note 104=9102
+note 105=9192
+note 106=9214
+note 107=9306
+note 108=9396
+note 109=9418
+note 110=9510
+note 111=9600
+note 112=9690
+note 113=9712
+note 114=9804
+note 115=9894
+note 116=9916
+note 117=10008
+note 118=10098
+note 119=10188
+note 120=10210
+note 121=10302
+note 122=10392
+note 123=10414
+note 124=10506
+note 125=10596
+note 126=10618
+note 127=10710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pyth_17s.tun"
+ID= "ID_pyth_17s.tun"
+Filename= "pyth_17s.scl"
+Description= "Schismatically altered 17-tone Pythagorean scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1788.269995
+note 1= 1809.776284
+note 2= 1901.955001
+note 3= 1992.179997
+note 4= 2013.686286
+note 5= 2105.865003
+note 6= 2196.089998
+note 7= 2217.596288
+note 8= 2309.775004
+note 9= 2400.000000
+note 10= 2490.224996
+note 11= 2511.731285
+note 12= 2603.910002
+note 13= 2694.134997
+note 14= 2715.641287
+note 15= 2807.820003
+note 16= 2898.044999
+note 17= 2988.269995
+note 18= 3009.776284
+note 19= 3101.955001
+note 20= 3192.179997
+note 21= 3213.686286
+note 22= 3305.865003
+note 23= 3396.089998
+note 24= 3417.596288
+note 25= 3509.775004
+note 26= 3600.000000
+note 27= 3690.224996
+note 28= 3711.731285
+note 29= 3803.910002
+note 30= 3894.134997
+note 31= 3915.641287
+note 32= 4007.820003
+note 33= 4098.044999
+note 34= 4188.269995
+note 35= 4209.776284
+note 36= 4301.955001
+note 37= 4392.179997
+note 38= 4413.686286
+note 39= 4505.865003
+note 40= 4596.089998
+note 41= 4617.596288
+note 42= 4709.775004
+note 43= 4800.000000
+note 44= 4890.224996
+note 45= 4911.731285
+note 46= 5003.910002
+note 47= 5094.134997
+note 48= 5115.641287
+note 49= 5207.820003
+note 50= 5298.044999
+note 51= 5388.269995
+note 52= 5409.776284
+note 53= 5501.955001
+note 54= 5592.179997
+note 55= 5613.686286
+note 56= 5705.865003
+note 57= 5796.089998
+note 58= 5817.596288
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6111.731285
+note 63= 6203.910002
+note 64= 6294.134997
+note 65= 6315.641287
+note 66= 6407.820003
+note 67= 6498.044999
+note 68= 6588.269995
+note 69= 6609.776284
+note 70= 6701.955001
+note 71= 6792.179997
+note 72= 6813.686286
+note 73= 6905.865003
+note 74= 6996.089998
+note 75= 7017.596288
+note 76= 7109.775004
+note 77= 7200.000000
+note 78= 7290.224996
+note 79= 7311.731285
+note 80= 7403.910002
+note 81= 7494.134997
+note 82= 7515.641287
+note 83= 7607.820003
+note 84= 7698.044999
+note 85= 7788.269995
+note 86= 7809.776284
+note 87= 7901.955001
+note 88= 7992.179997
+note 89= 8013.686286
+note 90= 8105.865003
+note 91= 8196.089998
+note 92= 8217.596288
+note 93= 8309.775004
+note 94= 8400.000000
+note 95= 8490.224996
+note 96= 8511.731285
+note 97= 8603.910002
+note 98= 8694.134997
+note 99= 8715.641287
+note 100= 8807.820003
+note 101= 8898.044999
+note 102= 8988.269995
+note 103= 9009.776284
+note 104= 9101.955001
+note 105= 9192.179997
+note 106= 9213.686286
+note 107= 9305.865003
+note 108= 9396.089998
+note 109= 9417.596288
+note 110= 9509.775004
+note 111= 9600.000000
+note 112= 9690.224996
+note 113= 9711.731285
+note 114= 9803.910002
+note 115= 9894.134997
+note 116= 9915.641287
+note 117= 10007.820003
+note 118= 10098.044999
+note 119= 10188.269995
+note 120= 10209.776284
+note 121= 10301.955001
+note 122= 10392.179997
+note 123= 10413.686286
+note 124= 10505.865003
+note 125= 10596.089998
+note 126= 10617.596288
+note 127= 10709.775004
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 16/15"
+note 3="#=0 * 9/8"
+note 4="#=0 * 32/27"
+note 5="#=0 * 6/5"
+note 6="#=0 * 81/64"
+note 7="#=0 * 4/3"
+note 8="#=0 * 1024/729"
+note 9="#=0 * 64/45"
+note 10="#=0 * 3/2"
+note 11="#=0 * 128/81"
+note 12="#=0 * 8/5"
+note 13="#=0 * 27/16"
+note 14="#=0 * 16/9"
+note 15="#=0 * 9/5"
+note 16="#=0 * 243/128"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

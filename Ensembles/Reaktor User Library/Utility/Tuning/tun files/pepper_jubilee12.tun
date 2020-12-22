@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; A 3-distributionally even scale in jubilee (50/49 planar) temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=3
+note 1=106
+note 2=209
+note 3=281
+note 4=384
+note 5=487
+note 6=603
+note 7=706
+note 8=809
+note 9=881
+note 10=984
+note 11=1087
+note 12=1203
+note 13=1306
+note 14=1409
+note 15=1480
+note 16=1583
+note 17=1686
+note 18=1802
+note 19=1905
+note 20=2008
+note 21=2080
+note 22=2183
+note 23=2286
+note 24=2402
+note 25=2505
+note 26=2608
+note 27=2680
+note 28=2783
+note 29=2886
+note 30=3002
+note 31=3105
+note 32=3208
+note 33=3279
+note 34=3382
+note 35=3485
+note 36=3601
+note 37=3704
+note 38=3807
+note 39=3879
+note 40=3982
+note 41=4085
+note 42=4201
+note 43=4304
+note 44=4407
+note 45=4479
+note 46=4582
+note 47=4685
+note 48=4801
+note 49=4904
+note 50=5007
+note 51=5078
+note 52=5181
+note 53=5284
+note 54=5400
+note 55=5503
+note 56=5606
+note 57=5678
+note 58=5781
+note 59=5884
+note 60=6000
+note 61=6103
+note 62=6206
+note 63=6278
+note 64=6381
+note 65=6484
+note 66=6600
+note 67=6703
+note 68=6806
+note 69=6877
+note 70=6980
+note 71=7083
+note 72=7199
+note 73=7302
+note 74=7405
+note 75=7477
+note 76=7580
+note 77=7683
+note 78=7799
+note 79=7902
+note 80=8005
+note 81=8077
+note 82=8180
+note 83=8283
+note 84=8399
+note 85=8502
+note 86=8604
+note 87=8676
+note 88=8779
+note 89=8882
+note 90=8998
+note 91=9101
+note 92=9204
+note 93=9276
+note 94=9379
+note 95=9482
+note 96=9598
+note 97=9701
+note 98=9804
+note 99=9876
+note 100=9979
+note 101=10082
+note 102=10198
+note 103=10301
+note 104=10403
+note 105=10475
+note 106=10578
+note 107=10681
+note 108=10797
+note 109=10900
+note 110=11003
+note 111=11075
+note 112=11178
+note 113=11281
+note 114=11397
+note 115=11500
+note 116=11603
+note 117=11675
+note 118=11778
+note 119=11880
+note 120=11997
+note 121=12100
+note 122=12202
+note 123=12274
+note 124=12377
+note 125=12480
+note 126=12596
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pepper_jubilee12.tun"
+ID= "ID_pepper_jubilee12.tun"
+Filename= "pepper_jubilee12.scl"
+Description= "A 3-distributionally even scale in jubilee (50/49 planar) temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3.400000
+note 1= 106.320000
+note 2= 209.240000
+note 3= 281.100000
+note 4= 384.020000
+note 5= 486.940000
+note 6= 603.060000
+note 7= 705.980000
+note 8= 808.900000
+note 9= 880.760000
+note 10= 983.680000
+note 11= 1086.600000
+note 12= 1202.720000
+note 13= 1305.640000
+note 14= 1408.560000
+note 15= 1480.420000
+note 16= 1583.340000
+note 17= 1686.260000
+note 18= 1802.380000
+note 19= 1905.300000
+note 20= 2008.220000
+note 21= 2080.080000
+note 22= 2183.000000
+note 23= 2285.920000
+note 24= 2402.040000
+note 25= 2504.960000
+note 26= 2607.880000
+note 27= 2679.740000
+note 28= 2782.660000
+note 29= 2885.580000
+note 30= 3001.700000
+note 31= 3104.620000
+note 32= 3207.540000
+note 33= 3279.400000
+note 34= 3382.320000
+note 35= 3485.240000
+note 36= 3601.360000
+note 37= 3704.280000
+note 38= 3807.200000
+note 39= 3879.060000
+note 40= 3981.980000
+note 41= 4084.900000
+note 42= 4201.020000
+note 43= 4303.940000
+note 44= 4406.860000
+note 45= 4478.720000
+note 46= 4581.640000
+note 47= 4684.560000
+note 48= 4800.680000
+note 49= 4903.600000
+note 50= 5006.520000
+note 51= 5078.380000
+note 52= 5181.300000
+note 53= 5284.220000
+note 54= 5400.340000
+note 55= 5503.260000
+note 56= 5606.180000
+note 57= 5678.040000
+note 58= 5780.960000
+note 59= 5883.880000
+note 60= 6000.000000
+note 61= 6102.920000
+note 62= 6205.840000
+note 63= 6277.700000
+note 64= 6380.620000
+note 65= 6483.540000
+note 66= 6599.660000
+note 67= 6702.580000
+note 68= 6805.500000
+note 69= 6877.360000
+note 70= 6980.280000
+note 71= 7083.200000
+note 72= 7199.320000
+note 73= 7302.240000
+note 74= 7405.160000
+note 75= 7477.020000
+note 76= 7579.940000
+note 77= 7682.860000
+note 78= 7798.980000
+note 79= 7901.900000
+note 80= 8004.820000
+note 81= 8076.680000
+note 82= 8179.600000
+note 83= 8282.520000
+note 84= 8398.640000
+note 85= 8501.560000
+note 86= 8604.480000
+note 87= 8676.340000
+note 88= 8779.260000
+note 89= 8882.180000
+note 90= 8998.300000
+note 91= 9101.220000
+note 92= 9204.140000
+note 93= 9276.000000
+note 94= 9378.920000
+note 95= 9481.840000
+note 96= 9597.960000
+note 97= 9700.880000
+note 98= 9803.800000
+note 99= 9875.660000
+note 100= 9978.580000
+note 101= 10081.500000
+note 102= 10197.620000
+note 103= 10300.540000
+note 104= 10403.460000
+note 105= 10475.320000
+note 106= 10578.240000
+note 107= 10681.160000
+note 108= 10797.280000
+note 109= 10900.200000
+note 110= 11003.120000
+note 111= 11074.980000
+note 112= 11177.900000
+note 113= 11280.820000
+note 114= 11396.940000
+note 115= 11499.860000
+note 116= 11602.780000
+note 117= 11674.640000
+note 118= 11777.560000
+note 119= 11880.480000
+note 120= 11996.600000
+note 121= 12099.520000
+note 122= 12202.440000
+note 123= 12274.300000
+note 124= 12377.220000
+note 125= 12480.140000
+note 126= 12596.260000
+note 127= 12699.180000
+
+[Functional Tuning]
+note 1="#=0 % 102.920000"
+note 2="#=0 % 205.840000"
+note 3="#=0 % 277.700000"
+note 4="#=0 % 380.620000"
+note 5="#=0 % 483.540000"
+note 6="#=0 % 599.660000"
+note 7="#=0 % 702.580000"
+note 8="#=0 % 805.500000"
+note 9="#=0 % 877.360000"
+note 10="#=0 % 980.280000"
+note 11="#=0 % 1083.200000"
+note 12="#>-12 % 1199.320000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

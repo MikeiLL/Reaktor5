@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; from William Malm: Music Cultures of the Pacific, the Near East and Asia.
+;
+; VAZ Plus section
+[Tuning]
+note 0=-4457
+note 1=-4330
+note 2=-4214
+note 3=-4010
+note 4=-3788
+note 5=-3663
+note 6=-3522
+note 7=-3225
+note 8=-3112
+note 9=-2988
+note 10=-2823
+note 11=-2568
+note 12=-2428
+note 13=-2285
+note 14=-2010
+note 15=-1883
+note 16=-1767
+note 17=-1563
+note 18=-1341
+note 19=-1216
+note 20=-1075
+note 21=-778
+note 22=-665
+note 23=-541
+note 24=-376
+note 25=-121
+note 26=19
+note 27=162
+note 28=437
+note 29=564
+note 30=680
+note 31=884
+note 32=1106
+note 33=1231
+note 34=1372
+note 35=1669
+note 36=1782
+note 37=1906
+note 38=2071
+note 39=2326
+note 40=2466
+note 41=2609
+note 42=2884
+note 43=3011
+note 44=3127
+note 45=3331
+note 46=3553
+note 47=3678
+note 48=3819
+note 49=4116
+note 50=4229
+note 51=4353
+note 52=4518
+note 53=4773
+note 54=4913
+note 55=5056
+note 56=5331
+note 57=5458
+note 58=5574
+note 59=5778
+note 60=6000
+note 61=6125
+note 62=6266
+note 63=6563
+note 64=6676
+note 65=6800
+note 66=6965
+note 67=7220
+note 68=7360
+note 69=7503
+note 70=7778
+note 71=7905
+note 72=8021
+note 73=8225
+note 74=8447
+note 75=8572
+note 76=8713
+note 77=9010
+note 78=9123
+note 79=9247
+note 80=9412
+note 81=9667
+note 82=9807
+note 83=9950
+note 84=10225
+note 85=10352
+note 86=10468
+note 87=10672
+note 88=10894
+note 89=11019
+note 90=11160
+note 91=11457
+note 92=11570
+note 93=11694
+note 94=11859
+note 95=12114
+note 96=12254
+note 97=12397
+note 98=12672
+note 99=12799
+note 100=12915
+note 101=13119
+note 102=13341
+note 103=13466
+note 104=13607
+note 105=13904
+note 106=14017
+note 107=14141
+note 108=14306
+note 109=14561
+note 110=14701
+note 111=14844
+note 112=15119
+note 113=15246
+note 114=15362
+note 115=15566
+note 116=15788
+note 117=15913
+note 118=16054
+note 119=16351
+note 120=16464
+note 121=16588
+note 122=16753
+note 123=17008
+note 124=17148
+note 125=17291
+note 126=17566
+note 127=17693
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pelog8.tun"
+ID= "ID_pelog8.tun"
+Filename= "pelog8.scl"
+Description= "from William Malm: Music Cultures of the Pacific, the Near East and Asia."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-4457.000000
+note 1=-4330.000000
+note 2=-4214.000000
+note 3=-4010.000000
+note 4=-3788.000000
+note 5=-3663.000000
+note 6=-3522.000000
+note 7=-3225.000000
+note 8=-3112.000000
+note 9=-2988.000000
+note 10=-2823.000000
+note 11=-2568.000000
+note 12=-2428.000000
+note 13=-2285.000000
+note 14=-2010.000000
+note 15=-1883.000000
+note 16=-1767.000000
+note 17=-1563.000000
+note 18=-1341.000000
+note 19=-1216.000000
+note 20=-1075.000000
+note 21=-778.000000
+note 22=-665.000000
+note 23=-541.000000
+note 24=-376.000000
+note 25=-121.000000
+note 26= 19.000000
+note 27= 162.000000
+note 28= 437.000000
+note 29= 564.000000
+note 30= 680.000000
+note 31= 884.000000
+note 32= 1106.000000
+note 33= 1231.000000
+note 34= 1372.000000
+note 35= 1669.000000
+note 36= 1782.000000
+note 37= 1906.000000
+note 38= 2071.000000
+note 39= 2326.000000
+note 40= 2466.000000
+note 41= 2609.000000
+note 42= 2884.000000
+note 43= 3011.000000
+note 44= 3127.000000
+note 45= 3331.000000
+note 46= 3553.000000
+note 47= 3678.000000
+note 48= 3819.000000
+note 49= 4116.000000
+note 50= 4229.000000
+note 51= 4353.000000
+note 52= 4518.000000
+note 53= 4773.000000
+note 54= 4913.000000
+note 55= 5056.000000
+note 56= 5331.000000
+note 57= 5458.000000
+note 58= 5574.000000
+note 59= 5778.000000
+note 60= 6000.000000
+note 61= 6125.000000
+note 62= 6266.000000
+note 63= 6563.000000
+note 64= 6676.000000
+note 65= 6800.000000
+note 66= 6965.000000
+note 67= 7220.000000
+note 68= 7360.000000
+note 69= 7503.000000
+note 70= 7778.000000
+note 71= 7905.000000
+note 72= 8021.000000
+note 73= 8225.000000
+note 74= 8447.000000
+note 75= 8572.000000
+note 76= 8713.000000
+note 77= 9010.000000
+note 78= 9123.000000
+note 79= 9247.000000
+note 80= 9412.000000
+note 81= 9667.000000
+note 82= 9807.000000
+note 83= 9950.000000
+note 84= 10225.000000
+note 85= 10352.000000
+note 86= 10468.000000
+note 87= 10672.000000
+note 88= 10894.000000
+note 89= 11019.000000
+note 90= 11160.000000
+note 91= 11457.000000
+note 92= 11570.000000
+note 93= 11694.000000
+note 94= 11859.000000
+note 95= 12114.000000
+note 96= 12254.000000
+note 97= 12397.000000
+note 98= 12672.000000
+note 99= 12799.000000
+note 100= 12915.000000
+note 101= 13119.000000
+note 102= 13341.000000
+note 103= 13466.000000
+note 104= 13607.000000
+note 105= 13904.000000
+note 106= 14017.000000
+note 107= 14141.000000
+note 108= 14306.000000
+note 109= 14561.000000
+note 110= 14701.000000
+note 111= 14844.000000
+note 112= 15119.000000
+note 113= 15246.000000
+note 114= 15362.000000
+note 115= 15566.000000
+note 116= 15788.000000
+note 117= 15913.000000
+note 118= 16054.000000
+note 119= 16351.000000
+note 120= 16464.000000
+note 121= 16588.000000
+note 122= 16753.000000
+note 123= 17008.000000
+note 124= 17148.000000
+note 125= 17291.000000
+note 126= 17566.000000
+note 127= 17693.000000
+
+[Functional Tuning]
+note 1="#=0 % 125.000000"
+note 2="#=0 % 266.000000"
+note 3="#=0 % 563.000000"
+note 4="#=0 % 676.000000"
+note 5="#=0 % 800.000000"
+note 6="#=0 % 965.000000"
+note 7="#=0 % 1220.000000"
+note 8="#=0 % 1360.000000"
+note 9="#=0 % 1503.000000"
+note 10="#=0 % 1778.000000"
+note 11="#=0 % 1905.000000"
+note 12="#=0 % 2021.000000"
+note 13="#=0 % 2225.000000"
+note 14="#>-14 % 2447.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

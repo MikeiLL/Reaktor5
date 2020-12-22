@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Smallest knot in cubic lattice, American Scientist, Nov-Dec '97 p. 506-510, trefoil knot of 24 units long
+;
+; VAZ Plus section
+[Tuning]
+note 0=3053
+note 1=3102
+note 2=3173
+note 3=3214
+note 4=3257
+note 5=3284
+note 6=3333
+note 7=3369
+note 8=3377
+note 9=3439
+note 10=3445
+note 11=3488
+note 12=3600
+note 13=3643
+note 14=3719
+note 15=3755
+note 16=3804
+note 17=3831
+note 18=3875
+note 19=3986
+note 20=4098
+note 21=4141
+note 22=4183
+note 23=4190
+note 24=4253
+note 25=4302
+note 26=4373
+note 27=4414
+note 28=4457
+note 29=4484
+note 30=4533
+note 31=4569
+note 32=4577
+note 33=4639
+note 34=4645
+note 35=4688
+note 36=4800
+note 37=4843
+note 38=4919
+note 39=4955
+note 40=5004
+note 41=5031
+note 42=5075
+note 43=5186
+note 44=5298
+note 45=5341
+note 46=5383
+note 47=5390
+note 48=5453
+note 49=5502
+note 50=5573
+note 51=5614
+note 52=5657
+note 53=5684
+note 54=5733
+note 55=5769
+note 56=5777
+note 57=5839
+note 58=5845
+note 59=5888
+note 60=6000
+note 61=6043
+note 62=6119
+note 63=6155
+note 64=6204
+note 65=6231
+note 66=6275
+note 67=6386
+note 68=6498
+note 69=6541
+note 70=6583
+note 71=6590
+note 72=6653
+note 73=6702
+note 74=6773
+note 75=6814
+note 76=6857
+note 77=6884
+note 78=6933
+note 79=6969
+note 80=6977
+note 81=7039
+note 82=7045
+note 83=7088
+note 84=7200
+note 85=7243
+note 86=7319
+note 87=7355
+note 88=7404
+note 89=7431
+note 90=7475
+note 91=7586
+note 92=7698
+note 93=7741
+note 94=7783
+note 95=7790
+note 96=7853
+note 97=7902
+note 98=7973
+note 99=8014
+note 100=8057
+note 101=8084
+note 102=8133
+note 103=8169
+note 104=8177
+note 105=8239
+note 106=8245
+note 107=8288
+note 108=8400
+note 109=8443
+note 110=8519
+note 111=8555
+note 112=8604
+note 113=8631
+note 114=8675
+note 115=8786
+note 116=8898
+note 117=8941
+note 118=8983
+note 119=8990
+note 120=9053
+note 121=9102
+note 122=9173
+note 123=9214
+note 124=9257
+note 125=9284
+note 126=9333
+note 127=9369
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "knot.tun"
+ID= "ID_knot.tun"
+Filename= "knot.scl"
+Description= "Smallest knot in cubic lattice, American Scientist, Nov-Dec '97 p. 506-510, trefoil knot of 24 units long"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3053.184619
+note 1= 3101.955001
+note 2= 3172.627428
+note 3= 3213.686286
+note 4= 3257.094621
+note 5= 3284.358713
+note 6= 3333.129094
+note 7= 3368.825906
+note 8= 3376.537429
+note 9= 3439.498333
+note 10= 3444.860380
+note 11= 3488.268715
+note 12= 3600.000000
+note 13= 3643.408335
+note 14= 3719.442808
+note 15= 3755.139620
+note 16= 3803.910002
+note 17= 3831.174094
+note 18= 3874.582429
+note 19= 3986.313714
+note 20= 4098.044999
+note 21= 4141.453334
+note 22= 4182.512193
+note 23= 4190.223716
+note 24= 4253.184619
+note 25= 4301.955001
+note 26= 4372.627428
+note 27= 4413.686286
+note 28= 4457.094621
+note 29= 4484.358713
+note 30= 4533.129094
+note 31= 4568.825906
+note 32= 4576.537429
+note 33= 4639.498333
+note 34= 4644.860380
+note 35= 4688.268715
+note 36= 4800.000000
+note 37= 4843.408335
+note 38= 4919.442808
+note 39= 4955.139620
+note 40= 5003.910002
+note 41= 5031.174094
+note 42= 5074.582429
+note 43= 5186.313714
+note 44= 5298.044999
+note 45= 5341.453334
+note 46= 5382.512193
+note 47= 5390.223716
+note 48= 5453.184619
+note 49= 5501.955001
+note 50= 5572.627428
+note 51= 5613.686286
+note 52= 5657.094621
+note 53= 5684.358713
+note 54= 5733.129094
+note 55= 5768.825906
+note 56= 5776.537429
+note 57= 5839.498333
+note 58= 5844.860380
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6043.408335
+note 62= 6119.442808
+note 63= 6155.139620
+note 64= 6203.910002
+note 65= 6231.174094
+note 66= 6274.582429
+note 67= 6386.313714
+note 68= 6498.044999
+note 69= 6541.453334
+note 70= 6582.512193
+note 71= 6590.223716
+note 72= 6653.184619
+note 73= 6701.955001
+note 74= 6772.627428
+note 75= 6813.686286
+note 76= 6857.094621
+note 77= 6884.358713
+note 78= 6933.129094
+note 79= 6968.825906
+note 80= 6976.537429
+note 81= 7039.498333
+note 82= 7044.860380
+note 83= 7088.268715
+note 84= 7200.000000
+note 85= 7243.408335
+note 86= 7319.442808
+note 87= 7355.139620
+note 88= 7403.910002
+note 89= 7431.174094
+note 90= 7474.582429
+note 91= 7586.313714
+note 92= 7698.044999
+note 93= 7741.453334
+note 94= 7782.512193
+note 95= 7790.223716
+note 96= 7853.184619
+note 97= 7901.955001
+note 98= 7972.627428
+note 99= 8013.686286
+note 100= 8057.094621
+note 101= 8084.358713
+note 102= 8133.129094
+note 103= 8168.825906
+note 104= 8176.537429
+note 105= 8239.498333
+note 106= 8244.860380
+note 107= 8288.268715
+note 108= 8400.000000
+note 109= 8443.408335
+note 110= 8519.442808
+note 111= 8555.139620
+note 112= 8603.910002
+note 113= 8631.174094
+note 114= 8674.582429
+note 115= 8786.313714
+note 116= 8898.044999
+note 117= 8941.453334
+note 118= 8982.512193
+note 119= 8990.223716
+note 120= 9053.184619
+note 121= 9101.955001
+note 122= 9172.627428
+note 123= 9213.686286
+note 124= 9257.094621
+note 125= 9284.358713
+note 126= 9333.129094
+note 127= 9368.825906
+
+[Functional Tuning]
+note 1="#=0 * 525/512"
+note 2="#=0 * 15/14"
+note 3="#=0 * 35/32"
+note 4="#=0 * 9/8"
+note 5="#=0 * 8/7"
+note 6="#=0 * 75/64"
+note 7="#=0 * 5/4"
+note 8="#=0 * 4/3"
+note 9="#=0 * 175/128"
+note 10="#=0 * 7/5"
+note 11="#=0 * 45/32"
+note 12="#=0 * 35/24"
+note 13="#=0 * 3/2"
+note 14="#=0 * 25/16"
+note 15="#=0 * 8/5"
+note 16="#=0 * 105/64"
+note 17="#=0 * 5/3"
+note 18="#=0 * 12/7"
+note 19="#=0 * 7/4"
+note 20="#=0 * 225/128"
+note 21="#=0 * 175/96"
+note 22="#=0 * 64/35"
+note 23="#=0 * 15/8"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

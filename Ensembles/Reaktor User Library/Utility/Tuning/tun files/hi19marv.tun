@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; inverted smithgw_hahn19 in 1/4 kleismic tempering
+;
+; VAZ Plus section
+[Tuning]
+note 0=2200
+note 1=2284
+note 2=2316
+note 3=2400
+note 4=2447
+note 5=2516
+note 6=2584
+note 7=2631
+note 8=2716
+note 9=2784
+note 10=2831
+note 11=2900
+note 12=2984
+note 13=3016
+note 14=3100
+note 15=3169
+note 16=3216
+note 17=3284
+note 18=3331
+note 19=3400
+note 20=3484
+note 21=3516
+note 22=3600
+note 23=3647
+note 24=3716
+note 25=3784
+note 26=3831
+note 27=3916
+note 28=3984
+note 29=4031
+note 30=4100
+note 31=4184
+note 32=4216
+note 33=4300
+note 34=4369
+note 35=4416
+note 36=4484
+note 37=4531
+note 38=4600
+note 39=4684
+note 40=4716
+note 41=4800
+note 42=4847
+note 43=4916
+note 44=4984
+note 45=5031
+note 46=5116
+note 47=5184
+note 48=5231
+note 49=5300
+note 50=5384
+note 51=5416
+note 52=5500
+note 53=5569
+note 54=5616
+note 55=5684
+note 56=5731
+note 57=5800
+note 58=5884
+note 59=5916
+note 60=6000
+note 61=6047
+note 62=6116
+note 63=6184
+note 64=6231
+note 65=6316
+note 66=6384
+note 67=6431
+note 68=6500
+note 69=6584
+note 70=6616
+note 71=6700
+note 72=6769
+note 73=6816
+note 74=6884
+note 75=6931
+note 76=7000
+note 77=7084
+note 78=7116
+note 79=7200
+note 80=7247
+note 81=7316
+note 82=7384
+note 83=7431
+note 84=7516
+note 85=7584
+note 86=7631
+note 87=7700
+note 88=7784
+note 89=7816
+note 90=7900
+note 91=7969
+note 92=8016
+note 93=8084
+note 94=8131
+note 95=8200
+note 96=8284
+note 97=8316
+note 98=8400
+note 99=8447
+note 100=8516
+note 101=8584
+note 102=8631
+note 103=8716
+note 104=8784
+note 105=8831
+note 106=8900
+note 107=8984
+note 108=9016
+note 109=9100
+note 110=9169
+note 111=9216
+note 112=9284
+note 113=9331
+note 114=9400
+note 115=9484
+note 116=9516
+note 117=9600
+note 118=9647
+note 119=9716
+note 120=9784
+note 121=9831
+note 122=9916
+note 123=9984
+note 124=10031
+note 125=10100
+note 126=10184
+note 127=10216
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hi19marv.tun"
+ID= "ID_hi19marv.tun"
+Filename= "hi19marv.scl"
+Description= "inverted smithgw_hahn19 in 1/4 kleismic tempering"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2199.945760
+note 1= 2284.412950
+note 2= 2315.532807
+note 3= 2400.000000
+note 4= 2446.842500
+note 5= 2515.587050
+note 6= 2584.331590
+note 7= 2631.174094
+note 8= 2715.641287
+note 9= 2784.385830
+note 10= 2831.228330
+note 11= 2899.972880
+note 12= 2984.440070
+note 13= 3015.559930
+note 14= 3100.027120
+note 15= 3168.771670
+note 16= 3215.614170
+note 17= 3284.358713
+note 18= 3331.201210
+note 19= 3399.945760
+note 20= 3484.412950
+note 21= 3515.532807
+note 22= 3600.000000
+note 23= 3646.842500
+note 24= 3715.587050
+note 25= 3784.331590
+note 26= 3831.174094
+note 27= 3915.641287
+note 28= 3984.385830
+note 29= 4031.228330
+note 30= 4099.972880
+note 31= 4184.440070
+note 32= 4215.559930
+note 33= 4300.027120
+note 34= 4368.771670
+note 35= 4415.614170
+note 36= 4484.358713
+note 37= 4531.201210
+note 38= 4599.945760
+note 39= 4684.412950
+note 40= 4715.532807
+note 41= 4800.000000
+note 42= 4846.842500
+note 43= 4915.587050
+note 44= 4984.331590
+note 45= 5031.174094
+note 46= 5115.641287
+note 47= 5184.385830
+note 48= 5231.228330
+note 49= 5299.972880
+note 50= 5384.440070
+note 51= 5415.559930
+note 52= 5500.027120
+note 53= 5568.771670
+note 54= 5615.614170
+note 55= 5684.358713
+note 56= 5731.201210
+note 57= 5799.945760
+note 58= 5884.412950
+note 59= 5915.532807
+note 60= 6000.000000
+note 61= 6046.842500
+note 62= 6115.587050
+note 63= 6184.331590
+note 64= 6231.174094
+note 65= 6315.641287
+note 66= 6384.385830
+note 67= 6431.228330
+note 68= 6499.972880
+note 69= 6584.440070
+note 70= 6615.559930
+note 71= 6700.027120
+note 72= 6768.771670
+note 73= 6815.614170
+note 74= 6884.358713
+note 75= 6931.201210
+note 76= 6999.945760
+note 77= 7084.412950
+note 78= 7115.532807
+note 79= 7200.000000
+note 80= 7246.842500
+note 81= 7315.587050
+note 82= 7384.331590
+note 83= 7431.174094
+note 84= 7515.641287
+note 85= 7584.385830
+note 86= 7631.228330
+note 87= 7699.972880
+note 88= 7784.440070
+note 89= 7815.559930
+note 90= 7900.027120
+note 91= 7968.771670
+note 92= 8015.614170
+note 93= 8084.358713
+note 94= 8131.201210
+note 95= 8199.945760
+note 96= 8284.412950
+note 97= 8315.532807
+note 98= 8400.000000
+note 99= 8446.842500
+note 100= 8515.587050
+note 101= 8584.331590
+note 102= 8631.174094
+note 103= 8715.641287
+note 104= 8784.385830
+note 105= 8831.228330
+note 106= 8899.972880
+note 107= 8984.440070
+note 108= 9015.559930
+note 109= 9100.027120
+note 110= 9168.771670
+note 111= 9215.614170
+note 112= 9284.358713
+note 113= 9331.201210
+note 114= 9399.945760
+note 115= 9484.412950
+note 116= 9515.532807
+note 117= 9600.000000
+note 118= 9646.842500
+note 119= 9715.587050
+note 120= 9784.331590
+note 121= 9831.174094
+note 122= 9915.641287
+note 123= 9984.385830
+note 124= 10031.228330
+note 125= 10099.972880
+note 126= 10184.440070
+note 127= 10215.559930
+
+[Functional Tuning]
+note 1="#=0 % 46.842500"
+note 2="#=0 % 115.587050"
+note 3="#=0 % 184.331590"
+note 4="#=0 * 8/7"
+note 5="#=0 * 6/5"
+note 6="#=0 % 384.385830"
+note 7="#=0 % 431.228330"
+note 8="#=0 % 499.972880"
+note 9="#=0 % 584.440070"
+note 10="#=0 % 615.559930"
+note 11="#=0 % 700.027120"
+note 12="#=0 % 768.771670"
+note 13="#=0 % 815.614170"
+note 14="#=0 * 5/3"
+note 15="#=0 % 931.201210"
+note 16="#=0 % 999.945760"
+note 17="#=0 % 1084.412950"
+note 18="#=0 * 40/21"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

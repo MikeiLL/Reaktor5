@@ -1,0 +1,325 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Franck Jedrzejewski continued fractions approx. of 43-tet
+;
+; VAZ Plus section
+[Tuning]
+note 0=4326
+note 1=4354
+note 2=4302
+note 3=4409
+note 4=4437
+note 5=4465
+note 6=4493
+note 7=4521
+note 8=4549
+note 9=4576
+note 10=4604
+note 11=4633
+note 12=4661
+note 13=4688
+note 14=4716
+note 15=4745
+note 16=4772
+note 17=4800
+note 18=4828
+note 19=4856
+note 20=4884
+note 21=4912
+note 22=4939
+note 23=4967
+note 24=4995
+note 25=5024
+note 26=5051
+note 27=5079
+note 28=5107
+note 29=5135
+note 30=5163
+note 31=5191
+note 32=5218
+note 33=5246
+note 34=5275
+note 35=5298
+note 36=5330
+note 37=5358
+note 38=5386
+note 39=5414
+note 40=5442
+note 41=5470
+note 42=5498
+note 43=5526
+note 44=5554
+note 45=5502
+note 46=5609
+note 47=5637
+note 48=5665
+note 49=5693
+note 50=5721
+note 51=5749
+note 52=5776
+note 53=5804
+note 54=5833
+note 55=5861
+note 56=5888
+note 57=5916
+note 58=5945
+note 59=5972
+note 60=6000
+note 61=6028
+note 62=6056
+note 63=6084
+note 64=6112
+note 65=6139
+note 66=6167
+note 67=6195
+note 68=6224
+note 69=6251
+note 70=6279
+note 71=6307
+note 72=6335
+note 73=6363
+note 74=6391
+note 75=6418
+note 76=6446
+note 77=6475
+note 78=6498
+note 79=6530
+note 80=6558
+note 81=6586
+note 82=6614
+note 83=6642
+note 84=6670
+note 85=6698
+note 86=6726
+note 87=6754
+note 88=6702
+note 89=6809
+note 90=6837
+note 91=6865
+note 92=6893
+note 93=6921
+note 94=6949
+note 95=6976
+note 96=7004
+note 97=7033
+note 98=7061
+note 99=7088
+note 100=7116
+note 101=7145
+note 102=7172
+note 103=7200
+note 104=7228
+note 105=7256
+note 106=7284
+note 107=7312
+note 108=7339
+note 109=7367
+note 110=7395
+note 111=7424
+note 112=7451
+note 113=7479
+note 114=7507
+note 115=7535
+note 116=7563
+note 117=7591
+note 118=7618
+note 119=7646
+note 120=7675
+note 121=7698
+note 122=7730
+note 123=7758
+note 124=7786
+note 125=7814
+note 126=7842
+note 127=7870
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fj-43tet.tun"
+ID= "ID_fj-43tet.tun"
+Filename= "fj-43tet.scl"
+Description= "Franck Jedrzejewski continued fractions approx. of 43-tet"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4325.834470
+note 1= 4353.637467
+note 2= 4301.955001
+note 3= 4409.075807
+note 4= 4436.924676
+note 5= 4465.015115
+note 6= 4492.993315
+note 7= 4520.807092
+note 8= 4548.655961
+note 9= 4576.304251
+note 10= 4603.801521
+note 11= 4632.716332
+note 12= 4661.427339
+note 13= 4688.268715
+note 14= 4715.532807
+note 15= 4745.035572
+note 16= 4771.849233
+note 17= 4800.000000
+note 18= 4827.700336
+note 19= 4855.851103
+note 20= 4884.467193
+note 21= 4911.731285
+note 22= 4938.572661
+note 23= 4967.283668
+note 24= 4995.275400
+note 25= 5023.695749
+note 26= 5051.344039
+note 27= 5079.192908
+note 28= 5107.006685
+note 29= 5134.771140
+note 30= 5163.075324
+note 31= 5190.691046
+note 32= 5217.507964
+note 33= 5246.362533
+note 34= 5275.114412
+note 35= 5298.044999
+note 36= 5330.405456
+note 37= 5357.955270
+note 38= 5386.199593
+note 39= 5413.800407
+note 40= 5442.044730
+note 41= 5469.594544
+note 42= 5497.610622
+note 43= 5525.834470
+note 44= 5553.637467
+note 45= 5501.955001
+note 46= 5609.075807
+note 47= 5636.924676
+note 48= 5665.015115
+note 49= 5692.993315
+note 50= 5720.807092
+note 51= 5748.655961
+note 52= 5776.304251
+note 53= 5803.801521
+note 54= 5832.716332
+note 55= 5861.427339
+note 56= 5888.268715
+note 57= 5915.532807
+note 58= 5945.035572
+note 59= 5971.849233
+note 60= 6000.000000
+note 61= 6027.700336
+note 62= 6055.851103
+note 63= 6084.467193
+note 64= 6111.731285
+note 65= 6138.572661
+note 66= 6167.283668
+note 67= 6195.275400
+note 68= 6223.695749
+note 69= 6251.344039
+note 70= 6279.192908
+note 71= 6307.006685
+note 72= 6334.771140
+note 73= 6363.075324
+note 74= 6390.691046
+note 75= 6417.507964
+note 76= 6446.362533
+note 77= 6475.114412
+note 78= 6498.044999
+note 79= 6530.405456
+note 80= 6557.955270
+note 81= 6586.199593
+note 82= 6613.800407
+note 83= 6642.044730
+note 84= 6669.594544
+note 85= 6697.610622
+note 86= 6725.834470
+note 87= 6753.637467
+note 88= 6701.955001
+note 89= 6809.075807
+note 90= 6836.924676
+note 91= 6865.015115
+note 92= 6892.993315
+note 93= 6920.807092
+note 94= 6948.655961
+note 95= 6976.304251
+note 96= 7003.801521
+note 97= 7032.716332
+note 98= 7061.427339
+note 99= 7088.268715
+note 100= 7115.532807
+note 101= 7145.035572
+note 102= 7171.849233
+note 103= 7200.000000
+note 104= 7227.700336
+note 105= 7255.851103
+note 106= 7284.467193
+note 107= 7311.731285
+note 108= 7338.572661
+note 109= 7367.283668
+note 110= 7395.275400
+note 111= 7423.695749
+note 112= 7451.344039
+note 113= 7479.192908
+note 114= 7507.006685
+note 115= 7534.771140
+note 116= 7563.075324
+note 117= 7590.691046
+note 118= 7617.507964
+note 119= 7646.362533
+note 120= 7675.114412
+note 121= 7698.044999
+note 122= 7730.405456
+note 123= 7757.955270
+note 124= 7786.199593
+note 125= 7813.800407
+note 126= 7842.044730
+note 127= 7869.594544
+
+[Functional Tuning]
+note 1="#=0 * 63/62"
+note 2="#=0 * 63/61"
+note 3="#=0 * 21/20"
+note 4="#=0 * 16/15"
+note 5="#=0 * 13/12"
+note 6="#=0 * 76/69"
+note 7="#=0 * 75/67"
+note 8="#=0 * 33/29"
+note 9="#=0 * 37/32"
+note 10="#=0 * 47/40"
+note 11="#=0 * 80/67"
+note 12="#=0 * 91/75"
+note 13="#=0 * 37/30"
+note 14="#=0 * 99/79"
+note 15="#=0 * 14/11"
+note 16="#=0 * 22/17"
+note 17="#=0 * 25/19"
+note 18="#=0 * 4/3"
+note 19="#=0 * 72/53"
+note 20="#=0 * 98/71"
+note 21="#=0 * 94/67"
+note 22="#=0 * 67/47"
+note 23="#=0 * 71/49"
+note 24="#=0 * 53/36"
+note 25="#=0 * 199/133"
+note 26="#=0 * 73/48"
+note 27="#=0 * 17/11"
+note 28="#=0 * 3/2"
+note 29="#=0 * 75/47"
+note 30="#=0 * 60/37"
+note 31="#=0 * 89/54"
+note 32="#=0 * 67/40"
+note 33="#=0 * 80/47"
+note 34="#=0 * 64/37"
+note 35="#=0 * 58/33"
+note 36="#=0 * 25/14"
+note 37="#=0 * 69/38"
+note 38="#=0 * 24/13"
+note 39="#=0 * 15/8"
+note 40="#=0 * 40/21"
+note 41="#=0 * 31/16"
+note 42="#=0 * 61/31"
+note 43="#>-43 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

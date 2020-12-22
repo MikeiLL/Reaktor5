@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Eikosanyplus 11-limit 5 cents optimized
+;
+; VAZ Plus section
+[Tuning]
+note 0=2601
+note 1=2634
+note 2=2717
+note 3=2783
+note 4=2835
+note 5=2867
+note 6=2949
+note 7=2985
+note 8=3050
+note 9=3101
+note 10=3152
+note 11=3216
+note 12=3252
+note 13=3334
+note 14=3366
+note 15=3418
+note 16=3485
+note 17=3568
+note 18=3600
+note 19=3650
+note 20=3751
+note 21=3801
+note 22=3834
+note 23=3917
+note 24=3983
+note 25=4035
+note 26=4067
+note 27=4149
+note 28=4185
+note 29=4250
+note 30=4301
+note 31=4352
+note 32=4416
+note 33=4452
+note 34=4534
+note 35=4566
+note 36=4618
+note 37=4685
+note 38=4768
+note 39=4800
+note 40=4850
+note 41=4951
+note 42=5001
+note 43=5034
+note 44=5117
+note 45=5183
+note 46=5235
+note 47=5267
+note 48=5349
+note 49=5385
+note 50=5450
+note 51=5501
+note 52=5552
+note 53=5616
+note 54=5652
+note 55=5734
+note 56=5766
+note 57=5818
+note 58=5885
+note 59=5968
+note 60=6000
+note 61=6050
+note 62=6151
+note 63=6201
+note 64=6234
+note 65=6317
+note 66=6383
+note 67=6435
+note 68=6467
+note 69=6549
+note 70=6585
+note 71=6650
+note 72=6701
+note 73=6752
+note 74=6816
+note 75=6852
+note 76=6934
+note 77=6966
+note 78=7018
+note 79=7085
+note 80=7168
+note 81=7200
+note 82=7250
+note 83=7351
+note 84=7401
+note 85=7434
+note 86=7517
+note 87=7583
+note 88=7635
+note 89=7667
+note 90=7749
+note 91=7785
+note 92=7850
+note 93=7901
+note 94=7952
+note 95=8016
+note 96=8052
+note 97=8134
+note 98=8166
+note 99=8218
+note 100=8285
+note 101=8368
+note 102=8400
+note 103=8450
+note 104=8551
+note 105=8601
+note 106=8634
+note 107=8717
+note 108=8783
+note 109=8835
+note 110=8867
+note 111=8949
+note 112=8985
+note 113=9050
+note 114=9101
+note 115=9152
+note 116=9216
+note 117=9252
+note 118=9334
+note 119=9366
+note 120=9418
+note 121=9485
+note 122=9568
+note 123=9600
+note 124=9650
+note 125=9751
+note 126=9801
+note 127=9834
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "eikosanyplusop.tun"
+ID= "ID_eikosanyplusop.tun"
+Filename= "eikosanyplusop.scl"
+Description= "Eikosanyplus 11-limit 5 cents optimized"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2601.372300
+note 1= 2633.593800
+note 2= 2716.813200
+note 3= 2783.482100
+note 4= 2835.287400
+note 5= 2867.252700
+note 6= 2948.977400
+note 7= 2985.198500
+note 8= 3049.839400
+note 9= 3100.686100
+note 10= 3151.532900
+note 11= 3216.173800
+note 12= 3252.394900
+note 13= 3334.119600
+note 14= 3366.084900
+note 15= 3417.890200
+note 16= 3484.559100
+note 17= 3567.778500
+note 18= 3600.000000
+note 19= 3650.228900
+note 20= 3751.143400
+note 21= 3801.372300
+note 22= 3833.593800
+note 23= 3916.813200
+note 24= 3983.482100
+note 25= 4035.287400
+note 26= 4067.252700
+note 27= 4148.977400
+note 28= 4185.198500
+note 29= 4249.839400
+note 30= 4300.686100
+note 31= 4351.532900
+note 32= 4416.173800
+note 33= 4452.394900
+note 34= 4534.119600
+note 35= 4566.084900
+note 36= 4617.890200
+note 37= 4684.559100
+note 38= 4767.778500
+note 39= 4800.000000
+note 40= 4850.228900
+note 41= 4951.143400
+note 42= 5001.372300
+note 43= 5033.593800
+note 44= 5116.813200
+note 45= 5183.482100
+note 46= 5235.287400
+note 47= 5267.252700
+note 48= 5348.977400
+note 49= 5385.198500
+note 50= 5449.839400
+note 51= 5500.686100
+note 52= 5551.532900
+note 53= 5616.173800
+note 54= 5652.394900
+note 55= 5734.119600
+note 56= 5766.084900
+note 57= 5817.890200
+note 58= 5884.559100
+note 59= 5967.778500
+note 60= 6000.000000
+note 61= 6050.228900
+note 62= 6151.143400
+note 63= 6201.372300
+note 64= 6233.593800
+note 65= 6316.813200
+note 66= 6383.482100
+note 67= 6435.287400
+note 68= 6467.252700
+note 69= 6548.977400
+note 70= 6585.198500
+note 71= 6649.839400
+note 72= 6700.686100
+note 73= 6751.532900
+note 74= 6816.173800
+note 75= 6852.394900
+note 76= 6934.119600
+note 77= 6966.084900
+note 78= 7017.890200
+note 79= 7084.559100
+note 80= 7167.778500
+note 81= 7200.000000
+note 82= 7250.228900
+note 83= 7351.143400
+note 84= 7401.372300
+note 85= 7433.593800
+note 86= 7516.813200
+note 87= 7583.482100
+note 88= 7635.287400
+note 89= 7667.252700
+note 90= 7748.977400
+note 91= 7785.198500
+note 92= 7849.839400
+note 93= 7900.686100
+note 94= 7951.532900
+note 95= 8016.173800
+note 96= 8052.394900
+note 97= 8134.119600
+note 98= 8166.084900
+note 99= 8217.890200
+note 100= 8284.559100
+note 101= 8367.778500
+note 102= 8400.000000
+note 103= 8450.228900
+note 104= 8551.143400
+note 105= 8601.372300
+note 106= 8633.593800
+note 107= 8716.813200
+note 108= 8783.482100
+note 109= 8835.287400
+note 110= 8867.252700
+note 111= 8948.977400
+note 112= 8985.198500
+note 113= 9049.839400
+note 114= 9100.686100
+note 115= 9151.532900
+note 116= 9216.173800
+note 117= 9252.394900
+note 118= 9334.119600
+note 119= 9366.084900
+note 120= 9417.890200
+note 121= 9484.559100
+note 122= 9567.778500
+note 123= 9600.000000
+note 124= 9650.228900
+note 125= 9751.143400
+note 126= 9801.372300
+note 127= 9833.593800
+
+[Functional Tuning]
+note 1="#=0 % 50.228900"
+note 2="#=0 % 151.143400"
+note 3="#=0 % 201.372300"
+note 4="#=0 % 233.593800"
+note 5="#=0 % 316.813200"
+note 6="#=0 % 383.482100"
+note 7="#=0 % 435.287400"
+note 8="#=0 % 467.252700"
+note 9="#=0 % 548.977400"
+note 10="#=0 % 585.198500"
+note 11="#=0 % 649.839400"
+note 12="#=0 % 700.686100"
+note 13="#=0 % 751.532900"
+note 14="#=0 % 816.173800"
+note 15="#=0 % 852.394900"
+note 16="#=0 % 934.119600"
+note 17="#=0 % 966.084900"
+note 18="#=0 % 1017.890200"
+note 19="#=0 % 1084.559100"
+note 20="#=0 % 1167.778500"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

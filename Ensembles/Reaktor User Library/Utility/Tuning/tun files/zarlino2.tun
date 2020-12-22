@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 16-note choice system of Zarlino, Sopplimenti musicali (1588)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1494
+note 1=1516
+note 2=1586
+note 3=1698
+note 4=1769
+note 5=1790
+note 6=1902
+note 7=1973
+note 8=2084
+note 9=2196
+note 10=2218
+note 11=2288
+note 12=2400
+note 13=2471
+note 14=2582
+note 15=2604
+note 16=2694
+note 17=2716
+note 18=2786
+note 19=2898
+note 20=2969
+note 21=2990
+note 22=3102
+note 23=3173
+note 24=3284
+note 25=3396
+note 26=3418
+note 27=3488
+note 28=3600
+note 29=3671
+note 30=3782
+note 31=3804
+note 32=3894
+note 33=3916
+note 34=3986
+note 35=4098
+note 36=4169
+note 37=4190
+note 38=4302
+note 39=4373
+note 40=4484
+note 41=4596
+note 42=4618
+note 43=4688
+note 44=4800
+note 45=4871
+note 46=4982
+note 47=5004
+note 48=5094
+note 49=5116
+note 50=5186
+note 51=5298
+note 52=5369
+note 53=5390
+note 54=5502
+note 55=5573
+note 56=5684
+note 57=5796
+note 58=5818
+note 59=5888
+note 60=6000
+note 61=6071
+note 62=6182
+note 63=6204
+note 64=6294
+note 65=6316
+note 66=6386
+note 67=6498
+note 68=6569
+note 69=6590
+note 70=6702
+note 71=6773
+note 72=6884
+note 73=6996
+note 74=7018
+note 75=7088
+note 76=7200
+note 77=7271
+note 78=7382
+note 79=7404
+note 80=7494
+note 81=7516
+note 82=7586
+note 83=7698
+note 84=7769
+note 85=7790
+note 86=7902
+note 87=7973
+note 88=8084
+note 89=8196
+note 90=8218
+note 91=8288
+note 92=8400
+note 93=8471
+note 94=8582
+note 95=8604
+note 96=8694
+note 97=8716
+note 98=8786
+note 99=8898
+note 100=8969
+note 101=8990
+note 102=9102
+note 103=9173
+note 104=9284
+note 105=9396
+note 106=9418
+note 107=9488
+note 108=9600
+note 109=9671
+note 110=9782
+note 111=9804
+note 112=9894
+note 113=9916
+note 114=9986
+note 115=10098
+note 116=10169
+note 117=10190
+note 118=10302
+note 119=10373
+note 120=10484
+note 121=10596
+note 122=10618
+note 123=10688
+note 124=10800
+note 125=10871
+note 126=10982
+note 127=11004
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "zarlino2.tun"
+ID= "ID_zarlino2.tun"
+Filename= "zarlino2.scl"
+Description= "16-note choice system of Zarlino, Sopplimenti musicali (1588)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1494.134997
+note 1= 1515.641287
+note 2= 1586.313714
+note 3= 1698.044999
+note 4= 1768.717426
+note 5= 1790.223716
+note 6= 1901.955001
+note 7= 1972.627428
+note 8= 2084.358713
+note 9= 2196.089998
+note 10= 2217.596288
+note 11= 2288.268715
+note 12= 2400.000000
+note 13= 2470.672427
+note 14= 2582.403712
+note 15= 2603.910002
+note 16= 2694.134997
+note 17= 2715.641287
+note 18= 2786.313714
+note 19= 2898.044999
+note 20= 2968.717426
+note 21= 2990.223716
+note 22= 3101.955001
+note 23= 3172.627428
+note 24= 3284.358713
+note 25= 3396.089998
+note 26= 3417.596288
+note 27= 3488.268715
+note 28= 3600.000000
+note 29= 3670.672427
+note 30= 3782.403712
+note 31= 3803.910002
+note 32= 3894.134997
+note 33= 3915.641287
+note 34= 3986.313714
+note 35= 4098.044999
+note 36= 4168.717426
+note 37= 4190.223716
+note 38= 4301.955001
+note 39= 4372.627428
+note 40= 4484.358713
+note 41= 4596.089998
+note 42= 4617.596288
+note 43= 4688.268715
+note 44= 4800.000000
+note 45= 4870.672427
+note 46= 4982.403712
+note 47= 5003.910002
+note 48= 5094.134997
+note 49= 5115.641287
+note 50= 5186.313714
+note 51= 5298.044999
+note 52= 5368.717426
+note 53= 5390.223716
+note 54= 5501.955001
+note 55= 5572.627428
+note 56= 5684.358713
+note 57= 5796.089998
+note 58= 5817.596288
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6182.403712
+note 63= 6203.910002
+note 64= 6294.134997
+note 65= 6315.641287
+note 66= 6386.313714
+note 67= 6498.044999
+note 68= 6568.717426
+note 69= 6590.223716
+note 70= 6701.955001
+note 71= 6772.627428
+note 72= 6884.358713
+note 73= 6996.089998
+note 74= 7017.596288
+note 75= 7088.268715
+note 76= 7200.000000
+note 77= 7270.672427
+note 78= 7382.403712
+note 79= 7403.910002
+note 80= 7494.134997
+note 81= 7515.641287
+note 82= 7586.313714
+note 83= 7698.044999
+note 84= 7768.717426
+note 85= 7790.223716
+note 86= 7901.955001
+note 87= 7972.627428
+note 88= 8084.358713
+note 89= 8196.089998
+note 90= 8217.596288
+note 91= 8288.268715
+note 92= 8400.000000
+note 93= 8470.672427
+note 94= 8582.403712
+note 95= 8603.910002
+note 96= 8694.134997
+note 97= 8715.641287
+note 98= 8786.313714
+note 99= 8898.044999
+note 100= 8968.717426
+note 101= 8990.223716
+note 102= 9101.955001
+note 103= 9172.627428
+note 104= 9284.358713
+note 105= 9396.089998
+note 106= 9417.596288
+note 107= 9488.268715
+note 108= 9600.000000
+note 109= 9670.672427
+note 110= 9782.403712
+note 111= 9803.910002
+note 112= 9894.134997
+note 113= 9915.641287
+note 114= 9986.313714
+note 115= 10098.044999
+note 116= 10168.717426
+note 117= 10190.223716
+note 118= 10301.955001
+note 119= 10372.627428
+note 120= 10484.358713
+note 121= 10596.089998
+note 122= 10617.596288
+note 123= 10688.268715
+note 124= 10800.000000
+note 125= 10870.672427
+note 126= 10982.403712
+note 127= 11003.910002
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 10/9"
+note 3="#=0 * 9/8"
+note 4="#=0 * 32/27"
+note 5="#=0 * 6/5"
+note 6="#=0 * 5/4"
+note 7="#=0 * 4/3"
+note 8="#=0 * 25/18"
+note 9="#=0 * 45/32"
+note 10="#=0 * 3/2"
+note 11="#=0 * 25/16"
+note 12="#=0 * 5/3"
+note 13="#=0 * 16/9"
+note 14="#=0 * 9/5"
+note 15="#=0 * 15/8"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

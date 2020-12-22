@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; A 3-distributionally even scale in archytas (64/63 planar) temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=15
+note 1=136
+note 2=233
+note 3=287
+note 4=408
+note 5=505
+note 6=626
+note 7=723
+note 8=844
+note 9=897
+note 10=994
+note 11=1115
+note 12=1212
+note 13=1333
+note 14=1430
+note 15=1483
+note 16=1605
+note 17=1702
+note 18=1823
+note 19=1920
+note 20=2041
+note 21=2094
+note 22=2191
+note 23=2312
+note 24=2409
+note 25=2530
+note 26=2627
+note 27=2680
+note 28=2801
+note 29=2899
+note 30=3020
+note 31=3117
+note 32=3238
+note 33=3291
+note 34=3388
+note 35=3509
+note 36=3606
+note 37=3727
+note 38=3824
+note 39=3877
+note 40=3998
+note 41=4096
+note 42=4217
+note 43=4314
+note 44=4435
+note 45=4488
+note 46=4585
+note 47=4706
+note 48=4803
+note 49=4924
+note 50=5021
+note 51=5074
+note 52=5195
+note 53=5292
+note 54=5414
+note 55=5511
+note 56=5632
+note 57=5685
+note 58=5782
+note 59=5903
+note 60=6000
+note 61=6121
+note 62=6218
+note 63=6271
+note 64=6392
+note 65=6489
+note 66=6610
+note 67=6708
+note 68=6829
+note 69=6882
+note 70=6979
+note 71=7100
+note 72=7197
+note 73=7318
+note 74=7415
+note 75=7468
+note 76=7589
+note 77=7686
+note 78=7807
+note 79=7904
+note 80=8026
+note 81=8079
+note 82=8176
+note 83=8297
+note 84=8394
+note 85=8515
+note 86=8612
+note 87=8665
+note 88=8786
+note 89=8883
+note 90=9004
+note 91=9101
+note 92=9222
+note 93=9276
+note 94=9373
+note 95=9494
+note 96=9591
+note 97=9712
+note 98=9809
+note 99=9862
+note 100=9983
+note 101=10080
+note 102=10201
+note 103=10298
+note 104=10419
+note 105=10473
+note 106=10570
+note 107=10691
+note 108=10788
+note 109=10909
+note 110=11006
+note 111=11059
+note 112=11180
+note 113=11277
+note 114=11398
+note 115=11495
+note 116=11616
+note 117=11670
+note 118=11767
+note 119=11888
+note 120=11985
+note 121=12106
+note 122=12203
+note 123=12256
+note 124=12377
+note 125=12474
+note 126=12595
+note 127=12692
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pepper_archytas12.tun"
+ID= "ID_pepper_archytas12.tun"
+Filename= "pepper_archytas12.scl"
+Description= "A 3-distributionally even scale in archytas (64/63 planar) temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 15.166450
+note 1= 136.198180
+note 2= 233.256310
+note 3= 286.515020
+note 4= 407.546750
+note 5= 504.604870
+note 6= 625.636610
+note 7= 722.694730
+note 8= 843.726470
+note 9= 896.985180
+note 10= 994.043300
+note 11= 1115.075030
+note 12= 1212.133160
+note 13= 1333.164890
+note 14= 1430.223020
+note 15= 1483.481730
+note 16= 1604.513460
+note 17= 1701.571580
+note 18= 1822.603320
+note 19= 1919.661440
+note 20= 2040.693180
+note 21= 2093.951890
+note 22= 2191.010010
+note 23= 2312.041740
+note 24= 2409.099870
+note 25= 2530.131600
+note 26= 2627.189730
+note 27= 2680.448440
+note 28= 2801.480170
+note 29= 2898.538290
+note 30= 3019.570030
+note 31= 3116.628150
+note 32= 3237.659890
+note 33= 3290.918600
+note 34= 3387.976720
+note 35= 3509.008450
+note 36= 3606.066580
+note 37= 3727.098310
+note 38= 3824.156440
+note 39= 3877.415150
+note 40= 3998.446880
+note 41= 4095.505000
+note 42= 4216.536740
+note 43= 4313.594860
+note 44= 4434.626600
+note 45= 4487.885310
+note 46= 4584.943430
+note 47= 4705.975160
+note 48= 4803.033290
+note 49= 4924.065020
+note 50= 5021.123150
+note 51= 5074.381860
+note 52= 5195.413590
+note 53= 5292.471710
+note 54= 5413.503450
+note 55= 5510.561570
+note 56= 5631.593310
+note 57= 5684.852020
+note 58= 5781.910140
+note 59= 5902.941870
+note 60= 6000.000000
+note 61= 6121.031730
+note 62= 6218.089860
+note 63= 6271.348570
+note 64= 6392.380300
+note 65= 6489.438420
+note 66= 6610.470160
+note 67= 6707.528280
+note 68= 6828.560020
+note 69= 6881.818730
+note 70= 6978.876850
+note 71= 7099.908580
+note 72= 7196.966710
+note 73= 7317.998440
+note 74= 7415.056570
+note 75= 7468.315280
+note 76= 7589.347010
+note 77= 7686.405130
+note 78= 7807.436870
+note 79= 7904.494990
+note 80= 8025.526730
+note 81= 8078.785440
+note 82= 8175.843560
+note 83= 8296.875290
+note 84= 8393.933420
+note 85= 8514.965150
+note 86= 8612.023280
+note 87= 8665.281990
+note 88= 8786.313720
+note 89= 8883.371840
+note 90= 9004.403580
+note 91= 9101.461700
+note 92= 9222.493440
+note 93= 9275.752150
+note 94= 9372.810270
+note 95= 9493.842000
+note 96= 9590.900130
+note 97= 9711.931860
+note 98= 9808.989990
+note 99= 9862.248700
+note 100= 9983.280430
+note 101= 10080.338550
+note 102= 10201.370290
+note 103= 10298.428410
+note 104= 10419.460150
+note 105= 10472.718860
+note 106= 10569.776980
+note 107= 10690.808710
+note 108= 10787.866840
+note 109= 10908.898570
+note 110= 11005.956700
+note 111= 11059.215410
+note 112= 11180.247140
+note 113= 11277.305260
+note 114= 11398.337000
+note 115= 11495.395120
+note 116= 11616.426860
+note 117= 11669.685570
+note 118= 11766.743690
+note 119= 11887.775420
+note 120= 11984.833550
+note 121= 12105.865280
+note 122= 12202.923410
+note 123= 12256.182120
+note 124= 12377.213850
+note 125= 12474.271970
+note 126= 12595.303710
+note 127= 12692.361830
+
+[Functional Tuning]
+note 1="#=0 % 121.031730"
+note 2="#=0 % 218.089860"
+note 3="#=0 % 271.348570"
+note 4="#=0 % 392.380300"
+note 5="#=0 % 489.438420"
+note 6="#=0 % 610.470160"
+note 7="#=0 % 707.528280"
+note 8="#=0 % 828.560020"
+note 9="#=0 % 881.818730"
+note 10="#=0 % 978.876850"
+note 11="#=0 % 1099.908580"
+note 12="#>-12 % 1196.966710 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

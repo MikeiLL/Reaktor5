@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 5-limit Hahn Shell 3, Gene Ward Smith
+;
+; VAZ Plus section
+[Tuning]
+note 0=2155
+note 1=2267
+note 2=2359
+note 3=2400
+note 4=2441
+note 5=2533
+note 6=2645
+note 7=2653
+note 8=2675
+note 9=2694
+note 10=2857
+note 11=2920
+note 12=2990
+note 13=3010
+note 14=3080
+note 15=3143
+note 16=3306
+note 17=3325
+note 18=3347
+note 19=3355
+note 20=3467
+note 21=3559
+note 22=3600
+note 23=3641
+note 24=3733
+note 25=3845
+note 26=3853
+note 27=3875
+note 28=3894
+note 29=4057
+note 30=4120
+note 31=4190
+note 32=4210
+note 33=4280
+note 34=4343
+note 35=4506
+note 36=4525
+note 37=4547
+note 38=4555
+note 39=4667
+note 40=4759
+note 41=4800
+note 42=4841
+note 43=4933
+note 44=5045
+note 45=5053
+note 46=5075
+note 47=5094
+note 48=5257
+note 49=5320
+note 50=5390
+note 51=5410
+note 52=5480
+note 53=5543
+note 54=5706
+note 55=5725
+note 56=5747
+note 57=5755
+note 58=5867
+note 59=5959
+note 60=6000
+note 61=6041
+note 62=6133
+note 63=6245
+note 64=6253
+note 65=6275
+note 66=6294
+note 67=6457
+note 68=6520
+note 69=6590
+note 70=6610
+note 71=6680
+note 72=6743
+note 73=6906
+note 74=6925
+note 75=6947
+note 76=6955
+note 77=7067
+note 78=7159
+note 79=7200
+note 80=7241
+note 81=7333
+note 82=7445
+note 83=7453
+note 84=7475
+note 85=7494
+note 86=7657
+note 87=7720
+note 88=7790
+note 89=7810
+note 90=7880
+note 91=7943
+note 92=8106
+note 93=8125
+note 94=8147
+note 95=8155
+note 96=8267
+note 97=8359
+note 98=8400
+note 99=8441
+note 100=8533
+note 101=8645
+note 102=8653
+note 103=8675
+note 104=8694
+note 105=8857
+note 106=8920
+note 107=8990
+note 108=9010
+note 109=9080
+note 110=9143
+note 111=9306
+note 112=9325
+note 113=9347
+note 114=9355
+note 115=9467
+note 116=9559
+note 117=9600
+note 118=9641
+note 119=9733
+note 120=9845
+note 121=9853
+note 122=9875
+note 123=9894
+note 124=10057
+note 125=10120
+note 126=10190
+note 127=10210
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "shell5_3.tun"
+ID= "ID_shell5_3.tun"
+Filename= "shell5_3.scl"
+Description= "5-limit Hahn Shell 3, Gene Ward Smith"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2155.031140
+note 1= 2266.762425
+note 2= 2358.941142
+note 3= 2400.000000
+note 4= 2441.058858
+note 5= 2533.237575
+note 6= 2644.968860
+note 7= 2653.076139
+note 8= 2674.582429
+note 9= 2694.134997
+note 10= 2856.986141
+note 11= 2919.551289
+note 12= 2990.223716
+note 13= 3009.776284
+note 14= 3080.448711
+note 15= 3143.013859
+note 16= 3305.865003
+note 17= 3325.417571
+note 18= 3346.923861
+note 19= 3355.031140
+note 20= 3466.762425
+note 21= 3558.941142
+note 22= 3600.000000
+note 23= 3641.058858
+note 24= 3733.237575
+note 25= 3844.968860
+note 26= 3853.076139
+note 27= 3874.582429
+note 28= 3894.134997
+note 29= 4056.986141
+note 30= 4119.551289
+note 31= 4190.223716
+note 32= 4209.776284
+note 33= 4280.448711
+note 34= 4343.013859
+note 35= 4505.865003
+note 36= 4525.417571
+note 37= 4546.923861
+note 38= 4555.031140
+note 39= 4666.762425
+note 40= 4758.941142
+note 41= 4800.000000
+note 42= 4841.058858
+note 43= 4933.237575
+note 44= 5044.968860
+note 45= 5053.076139
+note 46= 5074.582429
+note 47= 5094.134997
+note 48= 5256.986141
+note 49= 5319.551289
+note 50= 5390.223716
+note 51= 5409.776284
+note 52= 5480.448711
+note 53= 5543.013859
+note 54= 5705.865003
+note 55= 5725.417571
+note 56= 5746.923861
+note 57= 5755.031140
+note 58= 5866.762425
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6041.058858
+note 62= 6133.237575
+note 63= 6244.968860
+note 64= 6253.076139
+note 65= 6274.582429
+note 66= 6294.134997
+note 67= 6456.986141
+note 68= 6519.551289
+note 69= 6590.223716
+note 70= 6609.776284
+note 71= 6680.448711
+note 72= 6743.013859
+note 73= 6905.865003
+note 74= 6925.417571
+note 75= 6946.923861
+note 76= 6955.031140
+note 77= 7066.762425
+note 78= 7158.941142
+note 79= 7200.000000
+note 80= 7241.058858
+note 81= 7333.237575
+note 82= 7444.968860
+note 83= 7453.076139
+note 84= 7474.582429
+note 85= 7494.134997
+note 86= 7656.986141
+note 87= 7719.551289
+note 88= 7790.223716
+note 89= 7809.776284
+note 90= 7880.448711
+note 91= 7943.013859
+note 92= 8105.865003
+note 93= 8125.417571
+note 94= 8146.923861
+note 95= 8155.031140
+note 96= 8266.762425
+note 97= 8358.941142
+note 98= 8400.000000
+note 99= 8441.058858
+note 100= 8533.237575
+note 101= 8644.968860
+note 102= 8653.076139
+note 103= 8674.582429
+note 104= 8694.134997
+note 105= 8856.986141
+note 106= 8919.551289
+note 107= 8990.223716
+note 108= 9009.776284
+note 109= 9080.448711
+note 110= 9143.013859
+note 111= 9305.865003
+note 112= 9325.417571
+note 113= 9346.923861
+note 114= 9355.031140
+note 115= 9466.762425
+note 116= 9558.941142
+note 117= 9600.000000
+note 118= 9641.058858
+note 119= 9733.237575
+note 120= 9844.968860
+note 121= 9853.076139
+note 122= 9874.582429
+note 123= 9894.134997
+note 124= 10056.986141
+note 125= 10119.551289
+note 126= 10190.223716
+note 127= 10209.776284
+
+[Functional Tuning]
+note 1="#=0 * 128/125"
+note 2="#=0 * 27/25"
+note 3="#=0 * 144/125"
+note 4="#=0 * 125/108"
+note 5="#=0 * 75/64"
+note 6="#=0 * 32/27"
+note 7="#=0 * 125/96"
+note 8="#=0 * 27/20"
+note 9="#=0 * 45/32"
+note 10="#=0 * 64/45"
+note 11="#=0 * 40/27"
+note 12="#=0 * 192/125"
+note 13="#=0 * 27/16"
+note 14="#=0 * 128/75"
+note 15="#=0 * 216/125"
+note 16="#=0 * 125/72"
+note 17="#=0 * 50/27"
+note 18="#=0 * 125/64"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

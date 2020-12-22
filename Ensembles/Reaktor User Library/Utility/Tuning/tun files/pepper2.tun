@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Keenan Pepper's "Noble Fifth" with chromatic/diatonic semitone = Phi (12)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=129
+note 2=208
+note 3=288
+note 4=416
+note 5=496
+note 6=625
+note 7=704
+note 8=833
+note 9=912
+note 10=992
+note 11=1120
+note 12=1200
+note 13=1329
+note 14=1408
+note 15=1488
+note 16=1616
+note 17=1696
+note 18=1825
+note 19=1904
+note 20=2033
+note 21=2112
+note 22=2192
+note 23=2320
+note 24=2400
+note 25=2529
+note 26=2608
+note 27=2688
+note 28=2816
+note 29=2896
+note 30=3025
+note 31=3104
+note 32=3233
+note 33=3312
+note 34=3392
+note 35=3520
+note 36=3600
+note 37=3729
+note 38=3808
+note 39=3888
+note 40=4016
+note 41=4096
+note 42=4225
+note 43=4304
+note 44=4433
+note 45=4512
+note 46=4592
+note 47=4720
+note 48=4800
+note 49=4929
+note 50=5008
+note 51=5088
+note 52=5216
+note 53=5296
+note 54=5425
+note 55=5504
+note 56=5633
+note 57=5712
+note 58=5792
+note 59=5920
+note 60=6000
+note 61=6129
+note 62=6208
+note 63=6288
+note 64=6416
+note 65=6496
+note 66=6625
+note 67=6704
+note 68=6833
+note 69=6912
+note 70=6992
+note 71=7120
+note 72=7200
+note 73=7329
+note 74=7408
+note 75=7488
+note 76=7616
+note 77=7696
+note 78=7825
+note 79=7904
+note 80=8033
+note 81=8112
+note 82=8192
+note 83=8320
+note 84=8400
+note 85=8529
+note 86=8608
+note 87=8688
+note 88=8816
+note 89=8896
+note 90=9025
+note 91=9104
+note 92=9233
+note 93=9312
+note 94=9392
+note 95=9520
+note 96=9600
+note 97=9729
+note 98=9808
+note 99=9888
+note 100=10016
+note 101=10096
+note 102=10225
+note 103=10304
+note 104=10433
+note 105=10512
+note 106=10592
+note 107=10720
+note 108=10800
+note 109=10929
+note 110=11008
+note 111=11088
+note 112=11216
+note 113=11296
+note 114=11425
+note 115=11504
+note 116=11633
+note 117=11712
+note 118=11792
+note 119=11920
+note 120=12000
+note 121=12129
+note 122=12208
+note 123=12288
+note 124=12416
+note 125=12496
+note 126=12625
+note 127=12704
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pepper2.tun"
+ID= "ID_pepper2.tun"
+Filename= "pepper2.scl"
+Description= "Keenan Pepper's "Noble Fifth" with chromatic/diatonic semitone = Phi (12)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 128.669250
+note 2= 208.191210
+note 3= 287.713180
+note 4= 416.382430
+note 5= 495.904390
+note 6= 624.573640
+note 7= 704.095610
+note 8= 832.764850
+note 9= 912.286820
+note 10= 991.808790
+note 11= 1120.478030
+note 12= 1200.000000
+note 13= 1328.669250
+note 14= 1408.191210
+note 15= 1487.713180
+note 16= 1616.382430
+note 17= 1695.904390
+note 18= 1824.573640
+note 19= 1904.095610
+note 20= 2032.764850
+note 21= 2112.286820
+note 22= 2191.808790
+note 23= 2320.478030
+note 24= 2400.000000
+note 25= 2528.669250
+note 26= 2608.191210
+note 27= 2687.713180
+note 28= 2816.382430
+note 29= 2895.904390
+note 30= 3024.573640
+note 31= 3104.095610
+note 32= 3232.764850
+note 33= 3312.286820
+note 34= 3391.808790
+note 35= 3520.478030
+note 36= 3600.000000
+note 37= 3728.669250
+note 38= 3808.191210
+note 39= 3887.713180
+note 40= 4016.382430
+note 41= 4095.904390
+note 42= 4224.573640
+note 43= 4304.095610
+note 44= 4432.764850
+note 45= 4512.286820
+note 46= 4591.808790
+note 47= 4720.478030
+note 48= 4800.000000
+note 49= 4928.669250
+note 50= 5008.191210
+note 51= 5087.713180
+note 52= 5216.382430
+note 53= 5295.904390
+note 54= 5424.573640
+note 55= 5504.095610
+note 56= 5632.764850
+note 57= 5712.286820
+note 58= 5791.808790
+note 59= 5920.478030
+note 60= 6000.000000
+note 61= 6128.669250
+note 62= 6208.191210
+note 63= 6287.713180
+note 64= 6416.382430
+note 65= 6495.904390
+note 66= 6624.573640
+note 67= 6704.095610
+note 68= 6832.764850
+note 69= 6912.286820
+note 70= 6991.808790
+note 71= 7120.478030
+note 72= 7200.000000
+note 73= 7328.669250
+note 74= 7408.191210
+note 75= 7487.713180
+note 76= 7616.382430
+note 77= 7695.904390
+note 78= 7824.573640
+note 79= 7904.095610
+note 80= 8032.764850
+note 81= 8112.286820
+note 82= 8191.808790
+note 83= 8320.478030
+note 84= 8400.000000
+note 85= 8528.669250
+note 86= 8608.191210
+note 87= 8687.713180
+note 88= 8816.382430
+note 89= 8895.904390
+note 90= 9024.573640
+note 91= 9104.095610
+note 92= 9232.764850
+note 93= 9312.286820
+note 94= 9391.808790
+note 95= 9520.478030
+note 96= 9600.000000
+note 97= 9728.669250
+note 98= 9808.191210
+note 99= 9887.713180
+note 100= 10016.382430
+note 101= 10095.904390
+note 102= 10224.573640
+note 103= 10304.095610
+note 104= 10432.764850
+note 105= 10512.286820
+note 106= 10591.808790
+note 107= 10720.478030
+note 108= 10800.000000
+note 109= 10928.669250
+note 110= 11008.191210
+note 111= 11087.713180
+note 112= 11216.382430
+note 113= 11295.904390
+note 114= 11424.573640
+note 115= 11504.095610
+note 116= 11632.764850
+note 117= 11712.286820
+note 118= 11791.808790
+note 119= 11920.478030
+note 120= 12000.000000
+note 121= 12128.669250
+note 122= 12208.191210
+note 123= 12287.713180
+note 124= 12416.382430
+note 125= 12495.904390
+note 126= 12624.573640
+note 127= 12704.095610
+
+[Functional Tuning]
+note 1="#=0 % 128.669250"
+note 2="#=0 % 208.191210"
+note 3="#=0 % 287.713180"
+note 4="#=0 % 416.382430"
+note 5="#=0 % 495.904390"
+note 6="#=0 % 624.573640"
+note 7="#=0 % 704.095610"
+note 8="#=0 % 832.764850"
+note 9="#=0 % 912.286820"
+note 10="#=0 % 991.808790"
+note 11="#=0 % 1120.478030"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

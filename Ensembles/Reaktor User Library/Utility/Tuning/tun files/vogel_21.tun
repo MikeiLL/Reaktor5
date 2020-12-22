@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Martin Vogel's 21-tone Archytas system, see Divisions of the tetrachord
+;
+; VAZ Plus section
+[Tuning]
+note 0=2604
+note 1=2667
+note 2=2694
+note 3=2716
+note 4=2757
+note 5=2806
+note 6=2898
+note 7=2961
+note 8=3010
+note 9=3102
+note 10=3165
+note 11=3192
+note 12=3214
+note 13=3255
+note 14=3304
+note 15=3396
+note 16=3459
+note 17=3508
+note 18=3600
+note 19=3663
+note 20=3712
+note 21=3804
+note 22=3867
+note 23=3894
+note 24=3916
+note 25=3957
+note 26=4006
+note 27=4098
+note 28=4161
+note 29=4210
+note 30=4302
+note 31=4365
+note 32=4392
+note 33=4414
+note 34=4455
+note 35=4504
+note 36=4596
+note 37=4659
+note 38=4708
+note 39=4800
+note 40=4863
+note 41=4912
+note 42=5004
+note 43=5067
+note 44=5094
+note 45=5116
+note 46=5157
+note 47=5206
+note 48=5298
+note 49=5361
+note 50=5410
+note 51=5502
+note 52=5565
+note 53=5592
+note 54=5614
+note 55=5655
+note 56=5704
+note 57=5796
+note 58=5859
+note 59=5908
+note 60=6000
+note 61=6063
+note 62=6112
+note 63=6204
+note 64=6267
+note 65=6294
+note 66=6316
+note 67=6357
+note 68=6406
+note 69=6498
+note 70=6561
+note 71=6610
+note 72=6702
+note 73=6765
+note 74=6792
+note 75=6814
+note 76=6855
+note 77=6904
+note 78=6996
+note 79=7059
+note 80=7108
+note 81=7200
+note 82=7263
+note 83=7312
+note 84=7404
+note 85=7467
+note 86=7494
+note 87=7516
+note 88=7557
+note 89=7606
+note 90=7698
+note 91=7761
+note 92=7810
+note 93=7902
+note 94=7965
+note 95=7992
+note 96=8014
+note 97=8055
+note 98=8104
+note 99=8196
+note 100=8259
+note 101=8308
+note 102=8400
+note 103=8463
+note 104=8512
+note 105=8604
+note 106=8667
+note 107=8694
+note 108=8716
+note 109=8757
+note 110=8806
+note 111=8898
+note 112=8961
+note 113=9010
+note 114=9102
+note 115=9165
+note 116=9192
+note 117=9214
+note 118=9255
+note 119=9304
+note 120=9396
+note 121=9459
+note 122=9508
+note 123=9600
+note 124=9663
+note 125=9712
+note 126=9804
+note 127=9867
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vogel_21.tun"
+ID= "ID_vogel_21.tun"
+Filename= "vogel_21.scl"
+Description= "Martin Vogel's 21-tone Archytas system, see Divisions of the tetrachord"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2603.910002
+note 1= 2666.870906
+note 2= 2694.134997
+note 3= 2715.641287
+note 4= 2757.095901
+note 5= 2805.866283
+note 6= 2898.044999
+note 7= 2961.005903
+note 8= 3009.776284
+note 9= 3101.955001
+note 10= 3164.915905
+note 11= 3192.179997
+note 12= 3213.686286
+note 13= 3255.140900
+note 14= 3303.911282
+note 15= 3396.089998
+note 16= 3459.050902
+note 17= 3507.821284
+note 18= 3600.000000
+note 19= 3662.960904
+note 20= 3711.731285
+note 21= 3803.910002
+note 22= 3866.870906
+note 23= 3894.134997
+note 24= 3915.641287
+note 25= 3957.095901
+note 26= 4005.866283
+note 27= 4098.044999
+note 28= 4161.005903
+note 29= 4209.776284
+note 30= 4301.955001
+note 31= 4364.915905
+note 32= 4392.179997
+note 33= 4413.686286
+note 34= 4455.140900
+note 35= 4503.911282
+note 36= 4596.089998
+note 37= 4659.050902
+note 38= 4707.821284
+note 39= 4800.000000
+note 40= 4862.960904
+note 41= 4911.731285
+note 42= 5003.910002
+note 43= 5066.870906
+note 44= 5094.134997
+note 45= 5115.641287
+note 46= 5157.095901
+note 47= 5205.866283
+note 48= 5298.044999
+note 49= 5361.005903
+note 50= 5409.776284
+note 51= 5501.955001
+note 52= 5564.915905
+note 53= 5592.179997
+note 54= 5613.686286
+note 55= 5655.140900
+note 56= 5703.911282
+note 57= 5796.089998
+note 58= 5859.050902
+note 59= 5907.821284
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6111.731285
+note 63= 6203.910002
+note 64= 6266.870906
+note 65= 6294.134997
+note 66= 6315.641287
+note 67= 6357.095901
+note 68= 6405.866283
+note 69= 6498.044999
+note 70= 6561.005903
+note 71= 6609.776284
+note 72= 6701.955001
+note 73= 6764.915905
+note 74= 6792.179997
+note 75= 6813.686286
+note 76= 6855.140900
+note 77= 6903.911282
+note 78= 6996.089998
+note 79= 7059.050902
+note 80= 7107.821284
+note 81= 7200.000000
+note 82= 7262.960904
+note 83= 7311.731285
+note 84= 7403.910002
+note 85= 7466.870906
+note 86= 7494.134997
+note 87= 7515.641287
+note 88= 7557.095901
+note 89= 7605.866283
+note 90= 7698.044999
+note 91= 7761.005903
+note 92= 7809.776284
+note 93= 7901.955001
+note 94= 7964.915905
+note 95= 7992.179997
+note 96= 8013.686286
+note 97= 8055.140900
+note 98= 8103.911282
+note 99= 8196.089998
+note 100= 8259.050902
+note 101= 8307.821284
+note 102= 8400.000000
+note 103= 8462.960904
+note 104= 8511.731285
+note 105= 8603.910002
+note 106= 8666.870906
+note 107= 8694.134997
+note 108= 8715.641287
+note 109= 8757.095901
+note 110= 8805.866283
+note 111= 8898.044999
+note 112= 8961.005903
+note 113= 9009.776284
+note 114= 9101.955001
+note 115= 9164.915905
+note 116= 9192.179997
+note 117= 9213.686286
+note 118= 9255.140900
+note 119= 9303.911282
+note 120= 9396.089998
+note 121= 9459.050902
+note 122= 9507.821284
+note 123= 9600.000000
+note 124= 9662.960904
+note 125= 9711.731285
+note 126= 9803.910002
+note 127= 9866.870906
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 16/15"
+note 3="#=0 * 9/8"
+note 4="#=0 * 7/6"
+note 5="#=0 * 32/27"
+note 6="#=0 * 6/5"
+note 7="#=0 * 896/729"
+note 8="#=0 * 512/405"
+note 9="#=0 * 4/3"
+note 10="#=0 * 112/81"
+note 11="#=0 * 64/45"
+note 12="#=0 * 3/2"
+note 13="#=0 * 14/9"
+note 14="#=0 * 128/81"
+note 15="#=0 * 8/5"
+note 16="#=0 * 3584/2187"
+note 17="#=0 * 2048/1215"
+note 18="#=0 * 16/9"
+note 19="#=0 * 448/243"
+note 20="#=0 * 256/135"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

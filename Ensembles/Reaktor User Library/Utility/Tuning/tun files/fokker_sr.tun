@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Fokker's 7-limit sruti scale, KNAW B72, 1969
+;
+; VAZ Plus section
+[Tuning]
+note 0=2723
+note 1=2779
+note 2=2835
+note 3=2890
+note 4=2947
+note 5=2990
+note 6=3053
+note 7=3102
+note 8=3165
+note 9=3214
+note 10=3277
+note 11=3325
+note 12=3382
+note 13=3432
+note 14=3488
+note 15=3544
+note 16=3600
+note 17=3649
+note 18=3712
+note 19=3761
+note 20=3818
+note 21=3867
+note 22=3923
+note 23=3979
+note 24=4035
+note 25=4090
+note 26=4147
+note 27=4190
+note 28=4253
+note 29=4302
+note 30=4365
+note 31=4414
+note 32=4477
+note 33=4525
+note 34=4582
+note 35=4632
+note 36=4688
+note 37=4744
+note 38=4800
+note 39=4849
+note 40=4912
+note 41=4961
+note 42=5018
+note 43=5067
+note 44=5123
+note 45=5179
+note 46=5235
+note 47=5290
+note 48=5347
+note 49=5390
+note 50=5453
+note 51=5502
+note 52=5565
+note 53=5614
+note 54=5677
+note 55=5725
+note 56=5782
+note 57=5832
+note 58=5888
+note 59=5944
+note 60=6000
+note 61=6049
+note 62=6112
+note 63=6161
+note 64=6218
+note 65=6267
+note 66=6323
+note 67=6379
+note 68=6435
+note 69=6490
+note 70=6547
+note 71=6590
+note 72=6653
+note 73=6702
+note 74=6765
+note 75=6814
+note 76=6877
+note 77=6925
+note 78=6982
+note 79=7032
+note 80=7088
+note 81=7144
+note 82=7200
+note 83=7249
+note 84=7312
+note 85=7361
+note 86=7418
+note 87=7467
+note 88=7523
+note 89=7579
+note 90=7635
+note 91=7690
+note 92=7747
+note 93=7790
+note 94=7853
+note 95=7902
+note 96=7965
+note 97=8014
+note 98=8077
+note 99=8125
+note 100=8182
+note 101=8232
+note 102=8288
+note 103=8344
+note 104=8400
+note 105=8449
+note 106=8512
+note 107=8561
+note 108=8618
+note 109=8667
+note 110=8723
+note 111=8779
+note 112=8835
+note 113=8890
+note 114=8947
+note 115=8990
+note 116=9053
+note 117=9102
+note 118=9165
+note 119=9214
+note 120=9277
+note 121=9325
+note 122=9382
+note 123=9432
+note 124=9488
+note 125=9544
+note 126=9600
+note 127=9649
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fokker_sr.tun"
+ID= "ID_fokker_sr.tun"
+Filename= "fokker_sr.scl"
+Description= "Fokker's 7-limit sruti scale, KNAW B72, 1969"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2723.352810
+note 1= 2778.602191
+note 2= 2835.084095
+note 3= 2890.333476
+note 4= 2946.815381
+note 5= 2990.223716
+note 6= 3053.184619
+note 7= 3101.955001
+note 8= 3164.915905
+note 9= 3213.686286
+note 10= 3276.647190
+note 11= 3325.417571
+note 12= 3381.899476
+note 13= 3431.786810
+note 14= 3488.268715
+note 15= 3543.518096
+note 16= 3600.000000
+note 17= 3648.770381
+note 18= 3711.731285
+note 19= 3760.501667
+note 20= 3818.100524
+note 21= 3866.870906
+note 22= 3923.352810
+note 23= 3978.602191
+note 24= 4035.084095
+note 25= 4090.333476
+note 26= 4146.815381
+note 27= 4190.223716
+note 28= 4253.184619
+note 29= 4301.955001
+note 30= 4364.915905
+note 31= 4413.686286
+note 32= 4476.647190
+note 33= 4525.417571
+note 34= 4581.899476
+note 35= 4631.786810
+note 36= 4688.268715
+note 37= 4743.518096
+note 38= 4800.000000
+note 39= 4848.770381
+note 40= 4911.731285
+note 41= 4960.501667
+note 42= 5018.100524
+note 43= 5066.870906
+note 44= 5123.352810
+note 45= 5178.602191
+note 46= 5235.084095
+note 47= 5290.333476
+note 48= 5346.815381
+note 49= 5390.223716
+note 50= 5453.184619
+note 51= 5501.955001
+note 52= 5564.915905
+note 53= 5613.686286
+note 54= 5676.647190
+note 55= 5725.417571
+note 56= 5781.899476
+note 57= 5831.786810
+note 58= 5888.268715
+note 59= 5943.518096
+note 60= 6000.000000
+note 61= 6048.770381
+note 62= 6111.731285
+note 63= 6160.501667
+note 64= 6218.100524
+note 65= 6266.870906
+note 66= 6323.352810
+note 67= 6378.602191
+note 68= 6435.084095
+note 69= 6490.333476
+note 70= 6546.815381
+note 71= 6590.223716
+note 72= 6653.184619
+note 73= 6701.955001
+note 74= 6764.915905
+note 75= 6813.686286
+note 76= 6876.647190
+note 77= 6925.417571
+note 78= 6981.899476
+note 79= 7031.786810
+note 80= 7088.268715
+note 81= 7143.518096
+note 82= 7200.000000
+note 83= 7248.770381
+note 84= 7311.731285
+note 85= 7360.501667
+note 86= 7418.100524
+note 87= 7466.870906
+note 88= 7523.352810
+note 89= 7578.602191
+note 90= 7635.084095
+note 91= 7690.333476
+note 92= 7746.815381
+note 93= 7790.223716
+note 94= 7853.184619
+note 95= 7901.955001
+note 96= 7964.915905
+note 97= 8013.686286
+note 98= 8076.647190
+note 99= 8125.417571
+note 100= 8181.899476
+note 101= 8231.786810
+note 102= 8288.268715
+note 103= 8343.518096
+note 104= 8400.000000
+note 105= 8448.770381
+note 106= 8511.731285
+note 107= 8560.501667
+note 108= 8618.100524
+note 109= 8666.870906
+note 110= 8723.352810
+note 111= 8778.602191
+note 112= 8835.084095
+note 113= 8890.333476
+note 114= 8946.815381
+note 115= 8990.223716
+note 116= 9053.184619
+note 117= 9101.955001
+note 118= 9164.915905
+note 119= 9213.686286
+note 120= 9276.647190
+note 121= 9325.417571
+note 122= 9381.899476
+note 123= 9431.786810
+note 124= 9488.268715
+note 125= 9543.518096
+note 126= 9600.000000
+note 127= 9648.770381
+
+[Functional Tuning]
+note 1="#=0 * 36/35"
+note 2="#=0 * 16/15"
+note 3="#=0 * 192/175"
+note 4="#=0 * 245/216"
+note 5="#=0 * 7/6"
+note 6="#=0 * 135/112"
+note 7="#=0 * 56/45"
+note 8="#=0 * 9/7"
+note 9="#=0 * 896/675"
+note 10="#=0 * 48/35"
+note 11="#=0 * 45/32"
+note 12="#=0 * 35/24"
+note 13="#=0 * 3/2"
+note 14="#=0 * 14/9"
+note 15="#=0 * 8/5"
+note 16="#=0 * 224/135"
+note 17="#=0 * 128/75"
+note 18="#=0 * 432/245"
+note 19="#=0 * 49/27"
+note 20="#=0 * 15/8"
+note 21="#=0 * 784/405"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

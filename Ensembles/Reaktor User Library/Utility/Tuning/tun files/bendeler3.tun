@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bendeler III temperament (c.1690), four 1/4P tempered fifths
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=96
+note 2=192
+note 3=294
+note 4=396
+note 5=498
+note 6=594
+note 7=696
+note 8=798
+note 9=894
+note 10=996
+note 11=1092
+note 12=1200
+note 13=1296
+note 14=1392
+note 15=1494
+note 16=1596
+note 17=1698
+note 18=1794
+note 19=1896
+note 20=1998
+note 21=2094
+note 22=2196
+note 23=2292
+note 24=2400
+note 25=2496
+note 26=2592
+note 27=2694
+note 28=2796
+note 29=2898
+note 30=2994
+note 31=3096
+note 32=3198
+note 33=3294
+note 34=3396
+note 35=3492
+note 36=3600
+note 37=3696
+note 38=3792
+note 39=3894
+note 40=3996
+note 41=4098
+note 42=4194
+note 43=4296
+note 44=4398
+note 45=4494
+note 46=4596
+note 47=4692
+note 48=4800
+note 49=4896
+note 50=4992
+note 51=5094
+note 52=5196
+note 53=5298
+note 54=5394
+note 55=5496
+note 56=5598
+note 57=5694
+note 58=5796
+note 59=5892
+note 60=6000
+note 61=6096
+note 62=6192
+note 63=6294
+note 64=6396
+note 65=6498
+note 66=6594
+note 67=6696
+note 68=6798
+note 69=6894
+note 70=6996
+note 71=7092
+note 72=7200
+note 73=7296
+note 74=7392
+note 75=7494
+note 76=7596
+note 77=7698
+note 78=7794
+note 79=7896
+note 80=7998
+note 81=8094
+note 82=8196
+note 83=8292
+note 84=8400
+note 85=8496
+note 86=8592
+note 87=8694
+note 88=8796
+note 89=8898
+note 90=8994
+note 91=9096
+note 92=9198
+note 93=9294
+note 94=9396
+note 95=9492
+note 96=9600
+note 97=9696
+note 98=9792
+note 99=9894
+note 100=9996
+note 101=10098
+note 102=10194
+note 103=10296
+note 104=10398
+note 105=10494
+note 106=10596
+note 107=10692
+note 108=10800
+note 109=10896
+note 110=10992
+note 111=11094
+note 112=11196
+note 113=11298
+note 114=11394
+note 115=11496
+note 116=11598
+note 117=11694
+note 118=11796
+note 119=11892
+note 120=12000
+note 121=12096
+note 122=12192
+note 123=12294
+note 124=12396
+note 125=12498
+note 126=12594
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bendeler3.tun"
+ID= "ID_bendeler3.tun"
+Filename= "bendeler3.scl"
+Description= "Bendeler III temperament (c.1690), four 1/4P tempered fifths"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 96.090000
+note 2= 192.180000
+note 3= 294.134997
+note 4= 396.090000
+note 5= 498.044999
+note 6= 594.135000
+note 7= 696.090000
+note 8= 798.045000
+note 9= 894.135000
+note 10= 996.089998
+note 11= 1092.180000
+note 12= 1200.000000
+note 13= 1296.090000
+note 14= 1392.180000
+note 15= 1494.134997
+note 16= 1596.090000
+note 17= 1698.044999
+note 18= 1794.135000
+note 19= 1896.090000
+note 20= 1998.045000
+note 21= 2094.135000
+note 22= 2196.089998
+note 23= 2292.180000
+note 24= 2400.000000
+note 25= 2496.090000
+note 26= 2592.180000
+note 27= 2694.134997
+note 28= 2796.090000
+note 29= 2898.044999
+note 30= 2994.135000
+note 31= 3096.090000
+note 32= 3198.045000
+note 33= 3294.135000
+note 34= 3396.089998
+note 35= 3492.180000
+note 36= 3600.000000
+note 37= 3696.090000
+note 38= 3792.180000
+note 39= 3894.134997
+note 40= 3996.090000
+note 41= 4098.044999
+note 42= 4194.135000
+note 43= 4296.090000
+note 44= 4398.045000
+note 45= 4494.135000
+note 46= 4596.089998
+note 47= 4692.180000
+note 48= 4800.000000
+note 49= 4896.090000
+note 50= 4992.180000
+note 51= 5094.134997
+note 52= 5196.090000
+note 53= 5298.044999
+note 54= 5394.135000
+note 55= 5496.090000
+note 56= 5598.045000
+note 57= 5694.135000
+note 58= 5796.089998
+note 59= 5892.180000
+note 60= 6000.000000
+note 61= 6096.090000
+note 62= 6192.180000
+note 63= 6294.134997
+note 64= 6396.090000
+note 65= 6498.044999
+note 66= 6594.135000
+note 67= 6696.090000
+note 68= 6798.045000
+note 69= 6894.135000
+note 70= 6996.089998
+note 71= 7092.180000
+note 72= 7200.000000
+note 73= 7296.090000
+note 74= 7392.180000
+note 75= 7494.134997
+note 76= 7596.090000
+note 77= 7698.044999
+note 78= 7794.135000
+note 79= 7896.090000
+note 80= 7998.045000
+note 81= 8094.135000
+note 82= 8196.089998
+note 83= 8292.180000
+note 84= 8400.000000
+note 85= 8496.090000
+note 86= 8592.180000
+note 87= 8694.134997
+note 88= 8796.090000
+note 89= 8898.044999
+note 90= 8994.135000
+note 91= 9096.090000
+note 92= 9198.045000
+note 93= 9294.135000
+note 94= 9396.089998
+note 95= 9492.180000
+note 96= 9600.000000
+note 97= 9696.090000
+note 98= 9792.180000
+note 99= 9894.134997
+note 100= 9996.090000
+note 101= 10098.044999
+note 102= 10194.135000
+note 103= 10296.090000
+note 104= 10398.045000
+note 105= 10494.135000
+note 106= 10596.089998
+note 107= 10692.180000
+note 108= 10800.000000
+note 109= 10896.090000
+note 110= 10992.180000
+note 111= 11094.134997
+note 112= 11196.090000
+note 113= 11298.044999
+note 114= 11394.135000
+note 115= 11496.090000
+note 116= 11598.045000
+note 117= 11694.135000
+note 118= 11796.089998
+note 119= 11892.180000
+note 120= 12000.000000
+note 121= 12096.090000
+note 122= 12192.180000
+note 123= 12294.134997
+note 124= 12396.090000
+note 125= 12498.044999
+note 126= 12594.135000
+note 127= 12696.090000
+
+[Functional Tuning]
+note 1="#=0 % 96.090000"
+note 2="#=0 % 192.180000"
+note 3="#=0 * 32/27"
+note 4="#=0 % 396.090000"
+note 5="#=0 * 4/3"
+note 6="#=0 % 594.135000"
+note 7="#=0 % 696.090000"
+note 8="#=0 % 798.045000"
+note 9="#=0 % 894.135000"
+note 10="#=0 * 16/9"
+note 11="#=0 % 1092.180000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

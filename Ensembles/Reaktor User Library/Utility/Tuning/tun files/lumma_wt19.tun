@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Carl Lumma, {2 3 17 19} well temperament, TL 13-09-2008
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=96
+note 2=195
+note 3=299
+note 4=393
+note 5=498
+note 6=597
+note 7=699
+note 8=798
+note 9=891
+note 10=996
+note 11=1095
+note 12=1200
+note 13=1296
+note 14=1395
+note 15=1499
+note 16=1593
+note 17=1698
+note 18=1797
+note 19=1899
+note 20=1998
+note 21=2091
+note 22=2196
+note 23=2295
+note 24=2400
+note 25=2496
+note 26=2595
+note 27=2699
+note 28=2793
+note 29=2898
+note 30=2997
+note 31=3099
+note 32=3198
+note 33=3291
+note 34=3396
+note 35=3495
+note 36=3600
+note 37=3696
+note 38=3795
+note 39=3899
+note 40=3993
+note 41=4098
+note 42=4197
+note 43=4299
+note 44=4398
+note 45=4491
+note 46=4596
+note 47=4695
+note 48=4800
+note 49=4896
+note 50=4995
+note 51=5099
+note 52=5193
+note 53=5298
+note 54=5397
+note 55=5499
+note 56=5598
+note 57=5691
+note 58=5796
+note 59=5895
+note 60=6000
+note 61=6096
+note 62=6195
+note 63=6299
+note 64=6393
+note 65=6498
+note 66=6597
+note 67=6699
+note 68=6798
+note 69=6891
+note 70=6996
+note 71=7095
+note 72=7200
+note 73=7296
+note 74=7395
+note 75=7499
+note 76=7593
+note 77=7698
+note 78=7797
+note 79=7899
+note 80=7998
+note 81=8091
+note 82=8196
+note 83=8295
+note 84=8400
+note 85=8496
+note 86=8595
+note 87=8699
+note 88=8793
+note 89=8898
+note 90=8997
+note 91=9099
+note 92=9198
+note 93=9291
+note 94=9396
+note 95=9495
+note 96=9600
+note 97=9696
+note 98=9795
+note 99=9899
+note 100=9993
+note 101=10098
+note 102=10197
+note 103=10299
+note 104=10398
+note 105=10491
+note 106=10596
+note 107=10695
+note 108=10800
+note 109=10896
+note 110=10995
+note 111=11099
+note 112=11193
+note 113=11298
+note 114=11397
+note 115=11499
+note 116=11598
+note 117=11691
+note 118=11796
+note 119=11895
+note 120=12000
+note 121=12096
+note 122=12195
+note 123=12299
+note 124=12393
+note 125=12498
+note 126=12597
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "lumma_wt19.tun"
+ID= "ID_lumma_wt19.tun"
+Filename= "lumma_wt19.scl"
+Description= "Carl Lumma, {2 3 17 19} well temperament, TL 13-09-2008"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 95.576574
+note 2= 195.180405
+note 3= 299.486575
+note 4= 393.089590
+note 5= 498.044999
+note 6= 596.999591
+note 7= 698.576982
+note 8= 797.531574
+note 9= 891.134589
+note 10= 996.089998
+note 11= 1095.044590
+note 12= 1200.000000
+note 13= 1295.576574
+note 14= 1395.180405
+note 15= 1499.486575
+note 16= 1593.089590
+note 17= 1698.044999
+note 18= 1796.999591
+note 19= 1898.576982
+note 20= 1997.531574
+note 21= 2091.134589
+note 22= 2196.089998
+note 23= 2295.044590
+note 24= 2400.000000
+note 25= 2495.576574
+note 26= 2595.180405
+note 27= 2699.486575
+note 28= 2793.089590
+note 29= 2898.044999
+note 30= 2996.999591
+note 31= 3098.576982
+note 32= 3197.531574
+note 33= 3291.134589
+note 34= 3396.089998
+note 35= 3495.044590
+note 36= 3600.000000
+note 37= 3695.576574
+note 38= 3795.180405
+note 39= 3899.486575
+note 40= 3993.089590
+note 41= 4098.044999
+note 42= 4196.999591
+note 43= 4298.576982
+note 44= 4397.531574
+note 45= 4491.134589
+note 46= 4596.089998
+note 47= 4695.044590
+note 48= 4800.000000
+note 49= 4895.576574
+note 50= 4995.180405
+note 51= 5099.486575
+note 52= 5193.089590
+note 53= 5298.044999
+note 54= 5396.999591
+note 55= 5498.576982
+note 56= 5597.531574
+note 57= 5691.134589
+note 58= 5796.089998
+note 59= 5895.044590
+note 60= 6000.000000
+note 61= 6095.576574
+note 62= 6195.180405
+note 63= 6299.486575
+note 64= 6393.089590
+note 65= 6498.044999
+note 66= 6596.999591
+note 67= 6698.576982
+note 68= 6797.531574
+note 69= 6891.134589
+note 70= 6996.089998
+note 71= 7095.044590
+note 72= 7200.000000
+note 73= 7295.576574
+note 74= 7395.180405
+note 75= 7499.486575
+note 76= 7593.089590
+note 77= 7698.044999
+note 78= 7796.999591
+note 79= 7898.576982
+note 80= 7997.531574
+note 81= 8091.134589
+note 82= 8196.089998
+note 83= 8295.044590
+note 84= 8400.000000
+note 85= 8495.576574
+note 86= 8595.180405
+note 87= 8699.486575
+note 88= 8793.089590
+note 89= 8898.044999
+note 90= 8996.999591
+note 91= 9098.576982
+note 92= 9197.531574
+note 93= 9291.134589
+note 94= 9396.089998
+note 95= 9495.044590
+note 96= 9600.000000
+note 97= 9695.576574
+note 98= 9795.180405
+note 99= 9899.486575
+note 100= 9993.089590
+note 101= 10098.044999
+note 102= 10196.999591
+note 103= 10298.576982
+note 104= 10397.531574
+note 105= 10491.134589
+note 106= 10596.089998
+note 107= 10695.044590
+note 108= 10800.000000
+note 109= 10895.576574
+note 110= 10995.180405
+note 111= 11099.486575
+note 112= 11193.089590
+note 113= 11298.044999
+note 114= 11396.999591
+note 115= 11498.576982
+note 116= 11597.531574
+note 117= 11691.134589
+note 118= 11796.089998
+note 119= 11895.044590
+note 120= 12000.000000
+note 121= 12095.576574
+note 122= 12195.180405
+note 123= 12299.486575
+note 124= 12393.089590
+note 125= 12498.044999
+note 126= 12596.999591
+note 127= 12698.576982
+
+[Functional Tuning]
+note 1="#=0 * 1024/969"
+note 2="#=0 * 272/243"
+note 3="#=0 * 384/323"
+note 4="#=0 * 64/51"
+note 5="#=0 * 4/3"
+note 6="#=0 * 24/17"
+note 7="#=0 * 256/171"
+note 8="#=0 * 512/323"
+note 9="#=0 * 256/153"
+note 10="#=0 * 16/9"
+note 11="#=0 * 32/17"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

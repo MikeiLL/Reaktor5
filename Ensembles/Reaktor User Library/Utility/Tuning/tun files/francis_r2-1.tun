@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; J. Charles Francis, Bach WTC temperament R2-1, fifths beat ratios 0, 1, 2. C=249.072 Cammerton
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=198
+note 3=299
+note 4=396
+note 5=500
+note 6=593
+note 7=700
+note 8=797
+note 9=896
+note 10=999
+note 11=1094
+note 12=1200
+note 13=1295
+note 14=1398
+note 15=1499
+note 16=1596
+note 17=1700
+note 18=1793
+note 19=1900
+note 20=1997
+note 21=2096
+note 22=2199
+note 23=2294
+note 24=2400
+note 25=2495
+note 26=2598
+note 27=2699
+note 28=2796
+note 29=2900
+note 30=2993
+note 31=3100
+note 32=3197
+note 33=3296
+note 34=3399
+note 35=3494
+note 36=3600
+note 37=3695
+note 38=3798
+note 39=3899
+note 40=3996
+note 41=4100
+note 42=4193
+note 43=4300
+note 44=4397
+note 45=4496
+note 46=4599
+note 47=4694
+note 48=4800
+note 49=4895
+note 50=4998
+note 51=5099
+note 52=5196
+note 53=5300
+note 54=5393
+note 55=5500
+note 56=5597
+note 57=5696
+note 58=5799
+note 59=5894
+note 60=6000
+note 61=6095
+note 62=6198
+note 63=6299
+note 64=6396
+note 65=6500
+note 66=6593
+note 67=6700
+note 68=6797
+note 69=6896
+note 70=6999
+note 71=7094
+note 72=7200
+note 73=7295
+note 74=7398
+note 75=7499
+note 76=7596
+note 77=7700
+note 78=7793
+note 79=7900
+note 80=7997
+note 81=8096
+note 82=8199
+note 83=8294
+note 84=8400
+note 85=8495
+note 86=8598
+note 87=8699
+note 88=8796
+note 89=8900
+note 90=8993
+note 91=9100
+note 92=9197
+note 93=9296
+note 94=9399
+note 95=9494
+note 96=9600
+note 97=9695
+note 98=9798
+note 99=9899
+note 100=9996
+note 101=10100
+note 102=10193
+note 103=10300
+note 104=10397
+note 105=10496
+note 106=10599
+note 107=10694
+note 108=10800
+note 109=10895
+note 110=10998
+note 111=11099
+note 112=11196
+note 113=11300
+note 114=11393
+note 115=11500
+note 116=11597
+note 117=11696
+note 118=11799
+note 119=11894
+note 120=12000
+note 121=12095
+note 122=12198
+note 123=12299
+note 124=12396
+note 125=12500
+note 126=12593
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "francis_r2-1.tun"
+ID= "ID_francis_r2-1.tun"
+Filename= "francis_r2-1.scl"
+Description= "J. Charles Francis, Bach WTC temperament R2-1, fifths beat ratios 0, 1, 2. C=249.072 Cammerton"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 95.213600
+note 2= 198.495410
+note 3= 299.123600
+note 4= 395.505250
+note 5= 499.781770
+note 6= 593.258600
+note 7= 699.636540
+note 8= 797.168600
+note 9= 896.313620
+note 10= 999.128230
+note 11= 1093.768890
+note 12= 1200.000000
+note 13= 1295.213600
+note 14= 1398.495410
+note 15= 1499.123600
+note 16= 1595.505250
+note 17= 1699.781770
+note 18= 1793.258600
+note 19= 1899.636540
+note 20= 1997.168600
+note 21= 2096.313620
+note 22= 2199.128230
+note 23= 2293.768890
+note 24= 2400.000000
+note 25= 2495.213600
+note 26= 2598.495410
+note 27= 2699.123600
+note 28= 2795.505250
+note 29= 2899.781770
+note 30= 2993.258600
+note 31= 3099.636540
+note 32= 3197.168600
+note 33= 3296.313620
+note 34= 3399.128230
+note 35= 3493.768890
+note 36= 3600.000000
+note 37= 3695.213600
+note 38= 3798.495410
+note 39= 3899.123600
+note 40= 3995.505250
+note 41= 4099.781770
+note 42= 4193.258600
+note 43= 4299.636540
+note 44= 4397.168600
+note 45= 4496.313620
+note 46= 4599.128230
+note 47= 4693.768890
+note 48= 4800.000000
+note 49= 4895.213600
+note 50= 4998.495410
+note 51= 5099.123600
+note 52= 5195.505250
+note 53= 5299.781770
+note 54= 5393.258600
+note 55= 5499.636540
+note 56= 5597.168600
+note 57= 5696.313620
+note 58= 5799.128230
+note 59= 5893.768890
+note 60= 6000.000000
+note 61= 6095.213600
+note 62= 6198.495410
+note 63= 6299.123600
+note 64= 6395.505250
+note 65= 6499.781770
+note 66= 6593.258600
+note 67= 6699.636540
+note 68= 6797.168600
+note 69= 6896.313620
+note 70= 6999.128230
+note 71= 7093.768890
+note 72= 7200.000000
+note 73= 7295.213600
+note 74= 7398.495410
+note 75= 7499.123600
+note 76= 7595.505250
+note 77= 7699.781770
+note 78= 7793.258600
+note 79= 7899.636540
+note 80= 7997.168600
+note 81= 8096.313620
+note 82= 8199.128230
+note 83= 8293.768890
+note 84= 8400.000000
+note 85= 8495.213600
+note 86= 8598.495410
+note 87= 8699.123600
+note 88= 8795.505250
+note 89= 8899.781770
+note 90= 8993.258600
+note 91= 9099.636540
+note 92= 9197.168600
+note 93= 9296.313620
+note 94= 9399.128230
+note 95= 9493.768890
+note 96= 9600.000000
+note 97= 9695.213600
+note 98= 9798.495410
+note 99= 9899.123600
+note 100= 9995.505250
+note 101= 10099.781770
+note 102= 10193.258600
+note 103= 10299.636540
+note 104= 10397.168600
+note 105= 10496.313620
+note 106= 10599.128230
+note 107= 10693.768890
+note 108= 10800.000000
+note 109= 10895.213600
+note 110= 10998.495410
+note 111= 11099.123600
+note 112= 11195.505250
+note 113= 11299.781770
+note 114= 11393.258600
+note 115= 11499.636540
+note 116= 11597.168600
+note 117= 11696.313620
+note 118= 11799.128230
+note 119= 11893.768890
+note 120= 12000.000000
+note 121= 12095.213600
+note 122= 12198.495410
+note 123= 12299.123600
+note 124= 12395.505250
+note 125= 12499.781770
+note 126= 12593.258600
+note 127= 12699.636540
+
+[Functional Tuning]
+note 1="#=0 % 95.213600"
+note 2="#=0 % 198.495410"
+note 3="#=0 % 299.123600"
+note 4="#=0 % 395.505250"
+note 5="#=0 % 499.781770"
+note 6="#=0 % 593.258600"
+note 7="#=0 % 699.636540"
+note 8="#=0 % 797.168600"
+note 9="#=0 % 896.313620"
+note 10="#=0 % 999.128230"
+note 11="#=0 % 1093.768890"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

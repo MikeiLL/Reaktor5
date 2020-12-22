@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rationalized JC Lydian Harmonia on Schlesinger's Mercury scale on C, MD = 26 or 13
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=68
+note 2=139
+note 3=212
+note 4=289
+note 5=454
+note 6=543
+note 7=637
+note 8=736
+note 9=841
+note 10=952
+note 11=1072
+note 12=1200
+note 13=1268
+note 14=1339
+note 15=1412
+note 16=1489
+note 17=1654
+note 18=1743
+note 19=1837
+note 20=1936
+note 21=2041
+note 22=2152
+note 23=2272
+note 24=2400
+note 25=2468
+note 26=2539
+note 27=2612
+note 28=2689
+note 29=2854
+note 30=2943
+note 31=3037
+note 32=3136
+note 33=3241
+note 34=3352
+note 35=3472
+note 36=3600
+note 37=3668
+note 38=3739
+note 39=3812
+note 40=3889
+note 41=4054
+note 42=4143
+note 43=4237
+note 44=4336
+note 45=4441
+note 46=4552
+note 47=4672
+note 48=4800
+note 49=4868
+note 50=4939
+note 51=5012
+note 52=5089
+note 53=5254
+note 54=5343
+note 55=5437
+note 56=5536
+note 57=5641
+note 58=5752
+note 59=5872
+note 60=6000
+note 61=6068
+note 62=6139
+note 63=6212
+note 64=6289
+note 65=6454
+note 66=6543
+note 67=6637
+note 68=6736
+note 69=6841
+note 70=6952
+note 71=7072
+note 72=7200
+note 73=7268
+note 74=7339
+note 75=7412
+note 76=7489
+note 77=7654
+note 78=7743
+note 79=7837
+note 80=7936
+note 81=8041
+note 82=8152
+note 83=8272
+note 84=8400
+note 85=8468
+note 86=8539
+note 87=8612
+note 88=8689
+note 89=8854
+note 90=8943
+note 91=9037
+note 92=9136
+note 93=9241
+note 94=9352
+note 95=9472
+note 96=9600
+note 97=9668
+note 98=9739
+note 99=9812
+note 100=9889
+note 101=10054
+note 102=10143
+note 103=10237
+note 104=10336
+note 105=10441
+note 106=10552
+note 107=10672
+note 108=10800
+note 109=10868
+note 110=10939
+note 111=11012
+note 112=11089
+note 113=11254
+note 114=11343
+note 115=11437
+note 116=11536
+note 117=11641
+note 118=11752
+note 119=11872
+note 120=12000
+note 121=12068
+note 122=12139
+note 123=12212
+note 124=12289
+note 125=12454
+note 126=12543
+note 127=12637
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "harmjc-lydian13.tun"
+ID= "ID_harmjc-lydian13.tun"
+Filename= "harmjc-lydian13.scl"
+Description= "Rationalized JC Lydian Harmonia on Schlesinger's Mercury scale on C, MD = 26 or 13"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 67.900234
+note 2= 138.572661
+note 3= 212.253315
+note 4= 289.209719
+note 5= 454.213948
+note 6= 543.014646
+note 7= 636.617660
+note 8= 735.572252
+note 9= 840.527662
+note 10= 952.258947
+note 11= 1071.701755
+note 12= 1200.000000
+note 13= 1267.900234
+note 14= 1338.572661
+note 15= 1412.253315
+note 16= 1489.209719
+note 17= 1654.213948
+note 18= 1743.014646
+note 19= 1836.617660
+note 20= 1935.572252
+note 21= 2040.527662
+note 22= 2152.258947
+note 23= 2271.701755
+note 24= 2400.000000
+note 25= 2467.900234
+note 26= 2538.572661
+note 27= 2612.253315
+note 28= 2689.209719
+note 29= 2854.213948
+note 30= 2943.014646
+note 31= 3036.617660
+note 32= 3135.572252
+note 33= 3240.527662
+note 34= 3352.258947
+note 35= 3471.701755
+note 36= 3600.000000
+note 37= 3667.900234
+note 38= 3738.572661
+note 39= 3812.253315
+note 40= 3889.209719
+note 41= 4054.213948
+note 42= 4143.014646
+note 43= 4236.617660
+note 44= 4335.572252
+note 45= 4440.527662
+note 46= 4552.258947
+note 47= 4671.701755
+note 48= 4800.000000
+note 49= 4867.900234
+note 50= 4938.572661
+note 51= 5012.253315
+note 52= 5089.209719
+note 53= 5254.213948
+note 54= 5343.014646
+note 55= 5436.617660
+note 56= 5535.572252
+note 57= 5640.527662
+note 58= 5752.258947
+note 59= 5871.701755
+note 60= 6000.000000
+note 61= 6067.900234
+note 62= 6138.572661
+note 63= 6212.253315
+note 64= 6289.209719
+note 65= 6454.213948
+note 66= 6543.014646
+note 67= 6636.617660
+note 68= 6735.572252
+note 69= 6840.527662
+note 70= 6952.258947
+note 71= 7071.701755
+note 72= 7200.000000
+note 73= 7267.900234
+note 74= 7338.572661
+note 75= 7412.253315
+note 76= 7489.209719
+note 77= 7654.213948
+note 78= 7743.014646
+note 79= 7836.617660
+note 80= 7935.572252
+note 81= 8040.527662
+note 82= 8152.258947
+note 83= 8271.701755
+note 84= 8400.000000
+note 85= 8467.900234
+note 86= 8538.572661
+note 87= 8612.253315
+note 88= 8689.209719
+note 89= 8854.213948
+note 90= 8943.014646
+note 91= 9036.617660
+note 92= 9135.572252
+note 93= 9240.527662
+note 94= 9352.258947
+note 95= 9471.701755
+note 96= 9600.000000
+note 97= 9667.900234
+note 98= 9738.572661
+note 99= 9812.253315
+note 100= 9889.209719
+note 101= 10054.213948
+note 102= 10143.014646
+note 103= 10236.617660
+note 104= 10335.572252
+note 105= 10440.527662
+note 106= 10552.258947
+note 107= 10671.701755
+note 108= 10800.000000
+note 109= 10867.900234
+note 110= 10938.572661
+note 111= 11012.253315
+note 112= 11089.209719
+note 113= 11254.213948
+note 114= 11343.014646
+note 115= 11436.617660
+note 116= 11535.572252
+note 117= 11640.527662
+note 118= 11752.258947
+note 119= 11871.701755
+note 120= 12000.000000
+note 121= 12067.900234
+note 122= 12138.572661
+note 123= 12212.253315
+note 124= 12289.209719
+note 125= 12454.213948
+note 126= 12543.014646
+note 127= 12636.617660
+
+[Functional Tuning]
+note 1="#=0 * 26/25"
+note 2="#=0 * 13/12"
+note 3="#=0 * 26/23"
+note 4="#=0 * 13/11"
+note 5="#=0 * 13/10"
+note 6="#=0 * 26/19"
+note 7="#=0 * 13/9"
+note 8="#=0 * 26/17"
+note 9="#=0 * 13/8"
+note 10="#=0 * 26/15"
+note 11="#=0 * 13/7"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

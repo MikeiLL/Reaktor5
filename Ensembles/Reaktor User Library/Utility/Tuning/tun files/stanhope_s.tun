@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Stanhope temperament, alt. version with 1/3 syntonic comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=91
+note 2=197
+note 3=295
+note 4=386
+note 5=498
+note 6=589
+note 7=702
+note 8=793
+note 9=892
+note 10=996
+note 11=1088
+note 12=1200
+note 13=1291
+note 14=1397
+note 15=1495
+note 16=1586
+note 17=1698
+note 18=1789
+note 19=1902
+note 20=1993
+note 21=2092
+note 22=2196
+note 23=2288
+note 24=2400
+note 25=2491
+note 26=2597
+note 27=2695
+note 28=2786
+note 29=2898
+note 30=2989
+note 31=3102
+note 32=3193
+note 33=3292
+note 34=3396
+note 35=3488
+note 36=3600
+note 37=3691
+note 38=3797
+note 39=3895
+note 40=3986
+note 41=4098
+note 42=4189
+note 43=4302
+note 44=4393
+note 45=4492
+note 46=4596
+note 47=4688
+note 48=4800
+note 49=4891
+note 50=4997
+note 51=5095
+note 52=5186
+note 53=5298
+note 54=5389
+note 55=5502
+note 56=5593
+note 57=5692
+note 58=5796
+note 59=5888
+note 60=6000
+note 61=6091
+note 62=6197
+note 63=6295
+note 64=6386
+note 65=6498
+note 66=6589
+note 67=6702
+note 68=6793
+note 69=6892
+note 70=6996
+note 71=7088
+note 72=7200
+note 73=7291
+note 74=7397
+note 75=7495
+note 76=7586
+note 77=7698
+note 78=7789
+note 79=7902
+note 80=7993
+note 81=8092
+note 82=8196
+note 83=8288
+note 84=8400
+note 85=8491
+note 86=8597
+note 87=8695
+note 88=8786
+note 89=8898
+note 90=8989
+note 91=9102
+note 92=9193
+note 93=9292
+note 94=9396
+note 95=9488
+note 96=9600
+note 97=9691
+note 98=9797
+note 99=9895
+note 100=9986
+note 101=10098
+note 102=10189
+note 103=10302
+note 104=10393
+note 105=10492
+note 106=10596
+note 107=10688
+note 108=10800
+note 109=10891
+note 110=10997
+note 111=11095
+note 112=11186
+note 113=11298
+note 114=11389
+note 115=11502
+note 116=11593
+note 117=11692
+note 118=11796
+note 119=11888
+note 120=12000
+note 121=12091
+note 122=12197
+note 123=12295
+note 124=12386
+note 125=12498
+note 126=12589
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stanhope_s.tun"
+ID= "ID_stanhope_s.tun"
+Filename= "stanhope_s.scl"
+Description= "Stanhope temperament, alt. version with 1/3 syntonic comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 91.202000
+note 2= 196.741000
+note 3= 295.112000
+note 4= 386.313714
+note 5= 498.044999
+note 6= 589.247000
+note 7= 701.955001
+note 8= 793.157000
+note 9= 891.527000
+note 10= 996.089998
+note 11= 1088.268715
+note 12= 1200.000000
+note 13= 1291.202000
+note 14= 1396.741000
+note 15= 1495.112000
+note 16= 1586.313714
+note 17= 1698.044999
+note 18= 1789.247000
+note 19= 1901.955001
+note 20= 1993.157000
+note 21= 2091.527000
+note 22= 2196.089998
+note 23= 2288.268715
+note 24= 2400.000000
+note 25= 2491.202000
+note 26= 2596.741000
+note 27= 2695.112000
+note 28= 2786.313714
+note 29= 2898.044999
+note 30= 2989.247000
+note 31= 3101.955001
+note 32= 3193.157000
+note 33= 3291.527000
+note 34= 3396.089998
+note 35= 3488.268715
+note 36= 3600.000000
+note 37= 3691.202000
+note 38= 3796.741000
+note 39= 3895.112000
+note 40= 3986.313714
+note 41= 4098.044999
+note 42= 4189.247000
+note 43= 4301.955001
+note 44= 4393.157000
+note 45= 4491.527000
+note 46= 4596.089998
+note 47= 4688.268715
+note 48= 4800.000000
+note 49= 4891.202000
+note 50= 4996.741000
+note 51= 5095.112000
+note 52= 5186.313714
+note 53= 5298.044999
+note 54= 5389.247000
+note 55= 5501.955001
+note 56= 5593.157000
+note 57= 5691.527000
+note 58= 5796.089998
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6091.202000
+note 62= 6196.741000
+note 63= 6295.112000
+note 64= 6386.313714
+note 65= 6498.044999
+note 66= 6589.247000
+note 67= 6701.955001
+note 68= 6793.157000
+note 69= 6891.527000
+note 70= 6996.089998
+note 71= 7088.268715
+note 72= 7200.000000
+note 73= 7291.202000
+note 74= 7396.741000
+note 75= 7495.112000
+note 76= 7586.313714
+note 77= 7698.044999
+note 78= 7789.247000
+note 79= 7901.955001
+note 80= 7993.157000
+note 81= 8091.527000
+note 82= 8196.089998
+note 83= 8288.268715
+note 84= 8400.000000
+note 85= 8491.202000
+note 86= 8596.741000
+note 87= 8695.112000
+note 88= 8786.313714
+note 89= 8898.044999
+note 90= 8989.247000
+note 91= 9101.955001
+note 92= 9193.157000
+note 93= 9291.527000
+note 94= 9396.089998
+note 95= 9488.268715
+note 96= 9600.000000
+note 97= 9691.202000
+note 98= 9796.741000
+note 99= 9895.112000
+note 100= 9986.313714
+note 101= 10098.044999
+note 102= 10189.247000
+note 103= 10301.955001
+note 104= 10393.157000
+note 105= 10491.527000
+note 106= 10596.089998
+note 107= 10688.268715
+note 108= 10800.000000
+note 109= 10891.202000
+note 110= 10996.741000
+note 111= 11095.112000
+note 112= 11186.313714
+note 113= 11298.044999
+note 114= 11389.247000
+note 115= 11501.955001
+note 116= 11593.157000
+note 117= 11691.527000
+note 118= 11796.089998
+note 119= 11888.268715
+note 120= 12000.000000
+note 121= 12091.202000
+note 122= 12196.741000
+note 123= 12295.112000
+note 124= 12386.313714
+note 125= 12498.044999
+note 126= 12589.247000
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 % 91.202000"
+note 2="#=0 % 196.741000"
+note 3="#=0 % 295.112000"
+note 4="#=0 * 5/4"
+note 5="#=0 * 4/3"
+note 6="#=0 % 589.247000"
+note 7="#=0 * 3/2"
+note 8="#=0 % 793.157000"
+note 9="#=0 % 891.527000"
+note 10="#=0 * 16/9"
+note 11="#=0 * 15/8"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

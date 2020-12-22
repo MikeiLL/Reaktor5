@@ -1,0 +1,313 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 11-limit Diamond with added 16/15 & 15/8, Zoomoozophone tuning: 1/1 = 392 Hz
+;
+; VAZ Plus section
+[Tuning]
+note 0=3751
+note 1=3765
+note 2=3782
+note 3=3804
+note 4=3831
+note 5=3867
+note 6=3916
+note 7=3947
+note 8=3986
+note 9=4018
+note 10=4035
+note 11=4098
+note 12=4151
+note 13=4183
+note 14=4217
+note 15=4249
+note 16=4302
+note 17=4365
+note 18=4382
+note 19=4414
+note 20=4453
+note 21=4484
+note 22=4533
+note 23=4569
+note 24=4596
+note 25=4618
+note 26=4635
+note 27=4649
+note 28=4688
+note 29=4800
+note 30=4912
+note 31=4951
+note 32=4965
+note 33=4982
+note 34=5004
+note 35=5031
+note 36=5067
+note 37=5116
+note 38=5147
+note 39=5186
+note 40=5218
+note 41=5235
+note 42=5298
+note 43=5351
+note 44=5383
+note 45=5417
+note 46=5449
+note 47=5502
+note 48=5565
+note 49=5582
+note 50=5614
+note 51=5653
+note 52=5684
+note 53=5733
+note 54=5769
+note 55=5796
+note 56=5818
+note 57=5835
+note 58=5849
+note 59=5888
+note 60=6000
+note 61=6112
+note 62=6151
+note 63=6165
+note 64=6182
+note 65=6204
+note 66=6231
+note 67=6267
+note 68=6316
+note 69=6347
+note 70=6386
+note 71=6418
+note 72=6435
+note 73=6498
+note 74=6551
+note 75=6583
+note 76=6617
+note 77=6649
+note 78=6702
+note 79=6765
+note 80=6782
+note 81=6814
+note 82=6853
+note 83=6884
+note 84=6933
+note 85=6969
+note 86=6996
+note 87=7018
+note 88=7035
+note 89=7049
+note 90=7088
+note 91=7200
+note 92=7312
+note 93=7351
+note 94=7365
+note 95=7382
+note 96=7404
+note 97=7431
+note 98=7467
+note 99=7516
+note 100=7547
+note 101=7586
+note 102=7618
+note 103=7635
+note 104=7698
+note 105=7751
+note 106=7783
+note 107=7817
+note 108=7849
+note 109=7902
+note 110=7965
+note 111=7982
+note 112=8014
+note 113=8053
+note 114=8084
+note 115=8133
+note 116=8169
+note 117=8196
+note 118=8218
+note 119=8235
+note 120=8249
+note 121=8288
+note 122=8400
+note 123=8512
+note 124=8551
+note 125=8565
+note 126=8582
+note 127=8604
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "diamond11a.tun"
+ID= "ID_diamond11a.tun"
+Filename= "diamond11a.scl"
+Description= "11-limit Diamond with added 16/15 & 15/8, Zoomoozophone tuning: 1/1 = 392 Hz"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3750.637059
+note 1= 3765.004228
+note 2= 3782.403712
+note 3= 3803.910002
+note 4= 3831.174094
+note 5= 3866.870906
+note 6= 3915.641287
+note 7= 3947.407941
+note 8= 3986.313714
+note 9= 4017.507964
+note 10= 4035.084095
+note 11= 4098.044999
+note 12= 4151.317942
+note 13= 4182.512193
+note 14= 4217.487807
+note 15= 4248.682058
+note 16= 4301.955001
+note 17= 4364.915905
+note 18= 4382.492036
+note 19= 4413.686286
+note 20= 4452.592059
+note 21= 4484.358713
+note 22= 4533.129094
+note 23= 4568.825906
+note 24= 4596.089998
+note 25= 4617.596288
+note 26= 4634.995772
+note 27= 4649.362941
+note 28= 4688.268715
+note 29= 4800.000000
+note 30= 4911.731285
+note 31= 4950.637059
+note 32= 4965.004228
+note 33= 4982.403712
+note 34= 5003.910002
+note 35= 5031.174094
+note 36= 5066.870906
+note 37= 5115.641287
+note 38= 5147.407941
+note 39= 5186.313714
+note 40= 5217.507964
+note 41= 5235.084095
+note 42= 5298.044999
+note 43= 5351.317942
+note 44= 5382.512193
+note 45= 5417.487807
+note 46= 5448.682058
+note 47= 5501.955001
+note 48= 5564.915905
+note 49= 5582.492036
+note 50= 5613.686286
+note 51= 5652.592059
+note 52= 5684.358713
+note 53= 5733.129094
+note 54= 5768.825906
+note 55= 5796.089998
+note 56= 5817.596288
+note 57= 5834.995772
+note 58= 5849.362941
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6150.637059
+note 63= 6165.004228
+note 64= 6182.403712
+note 65= 6203.910002
+note 66= 6231.174094
+note 67= 6266.870906
+note 68= 6315.641287
+note 69= 6347.407941
+note 70= 6386.313714
+note 71= 6417.507964
+note 72= 6435.084095
+note 73= 6498.044999
+note 74= 6551.317942
+note 75= 6582.512193
+note 76= 6617.487807
+note 77= 6648.682058
+note 78= 6701.955001
+note 79= 6764.915905
+note 80= 6782.492036
+note 81= 6813.686286
+note 82= 6852.592059
+note 83= 6884.358713
+note 84= 6933.129094
+note 85= 6968.825906
+note 86= 6996.089998
+note 87= 7017.596288
+note 88= 7034.995772
+note 89= 7049.362941
+note 90= 7088.268715
+note 91= 7200.000000
+note 92= 7311.731285
+note 93= 7350.637059
+note 94= 7365.004228
+note 95= 7382.403712
+note 96= 7403.910002
+note 97= 7431.174094
+note 98= 7466.870906
+note 99= 7515.641287
+note 100= 7547.407941
+note 101= 7586.313714
+note 102= 7617.507964
+note 103= 7635.084095
+note 104= 7698.044999
+note 105= 7751.317942
+note 106= 7782.512193
+note 107= 7817.487807
+note 108= 7848.682058
+note 109= 7901.955001
+note 110= 7964.915905
+note 111= 7982.492036
+note 112= 8013.686286
+note 113= 8052.592059
+note 114= 8084.358713
+note 115= 8133.129094
+note 116= 8168.825906
+note 117= 8196.089998
+note 118= 8217.596288
+note 119= 8234.995772
+note 120= 8249.362941
+note 121= 8288.268715
+note 122= 8400.000000
+note 123= 8511.731285
+note 124= 8550.637059
+note 125= 8565.004228
+note 126= 8582.403712
+note 127= 8603.910002
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 12/11"
+note 3="#=0 * 11/10"
+note 4="#=0 * 10/9"
+note 5="#=0 * 9/8"
+note 6="#=0 * 8/7"
+note 7="#=0 * 7/6"
+note 8="#=0 * 6/5"
+note 9="#=0 * 11/9"
+note 10="#=0 * 5/4"
+note 11="#=0 * 14/11"
+note 12="#=0 * 9/7"
+note 13="#=0 * 4/3"
+note 14="#=0 * 11/8"
+note 15="#=0 * 7/5"
+note 16="#=0 * 10/7"
+note 17="#=0 * 16/11"
+note 18="#=0 * 3/2"
+note 19="#=0 * 14/9"
+note 20="#=0 * 11/7"
+note 21="#=0 * 8/5"
+note 22="#=0 * 18/11"
+note 23="#=0 * 5/3"
+note 24="#=0 * 12/7"
+note 25="#=0 * 7/4"
+note 26="#=0 * 16/9"
+note 27="#=0 * 9/5"
+note 28="#=0 * 20/11"
+note 29="#=0 * 11/6"
+note 30="#=0 * 15/8"
+note 31="#>-31 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

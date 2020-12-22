@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Irrational scale: generator is Phi, period is Pi
+;
+; VAZ Plus section
+[Tuning]
+note 0=-261
+note 1=-173
+note 2=-59
+note 3=55
+note 4=143
+note 5=256
+note 6=370
+note 7=458
+note 8=572
+note 9=660
+note 10=774
+note 11=888
+note 12=976
+note 13=1090
+note 14=1203
+note 15=1291
+note 16=1405
+note 17=1519
+note 18=1607
+note 19=1721
+note 20=1809
+note 21=1923
+note 22=2036
+note 23=2125
+note 24=2238
+note 25=2352
+note 26=2440
+note 27=2554
+note 28=2642
+note 29=2756
+note 30=2869
+note 31=2958
+note 32=3071
+note 33=3185
+note 34=3273
+note 35=3387
+note 36=3501
+note 37=3589
+note 38=3703
+note 39=3791
+note 40=3904
+note 41=4018
+note 42=4106
+note 43=4220
+note 44=4334
+note 45=4422
+note 46=4536
+note 47=4624
+note 48=4738
+note 49=4851
+note 50=4939
+note 51=5053
+note 52=5167
+note 53=5255
+note 54=5369
+note 55=5483
+note 56=5571
+note 57=5684
+note 58=5772
+note 59=5886
+note 60=6000
+note 61=6088
+note 62=6202
+note 63=6316
+note 64=6404
+note 65=6517
+note 66=6606
+note 67=6719
+note 68=6833
+note 69=6921
+note 70=7035
+note 71=7149
+note 72=7237
+note 73=7351
+note 74=7464
+note 75=7552
+note 76=7666
+note 77=7754
+note 78=7868
+note 79=7982
+note 80=8070
+note 81=8184
+note 82=8297
+note 83=8386
+note 84=8499
+note 85=8587
+note 86=8701
+note 87=8815
+note 88=8903
+note 89=9017
+note 90=9131
+note 91=9219
+note 92=9332
+note 93=9446
+note 94=9534
+note 95=9648
+note 96=9736
+note 97=9850
+note 98=9964
+note 99=10052
+note 100=10165
+note 101=10279
+note 102=10367
+note 103=10481
+note 104=10569
+note 105=10683
+note 106=10797
+note 107=10885
+note 108=10999
+note 109=11112
+note 110=11200
+note 111=11314
+note 112=11428
+note 113=11516
+note 114=11630
+note 115=11718
+note 116=11832
+note 117=11945
+note 118=12033
+note 119=12147
+note 120=12261
+note 121=12349
+note 122=12463
+note 123=12551
+note 124=12665
+note 125=12778
+note 126=12867
+note 127=12980
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "irrational.tun"
+ID= "ID_irrational.tun"
+Filename= "irrational.scl"
+Description= "Irrational scale: generator is Phi, period is Pi"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-261.000850
+note 1=-172.894070
+note 2=-59.140080
+note 3= 54.613920
+note 4= 142.720700
+note 5= 256.474690
+note 6= 370.228680
+note 7= 458.335460
+note 8= 572.089450
+note 9= 660.196230
+note 10= 773.950220
+note 11= 887.704220
+note 12= 975.811000
+note 13= 1089.564990
+note 14= 1203.318980
+note 15= 1291.425760
+note 16= 1405.179750
+note 17= 1518.933740
+note 18= 1607.040520
+note 19= 1720.794510
+note 20= 1808.901290
+note 21= 1922.655280
+note 22= 2036.409280
+note 23= 2124.516060
+note 24= 2238.270050
+note 25= 2352.024040
+note 26= 2440.130820
+note 27= 2553.884810
+note 28= 2641.991590
+note 29= 2755.745580
+note 30= 2869.499580
+note 31= 2957.606360
+note 32= 3071.360350
+note 33= 3185.114340
+note 34= 3273.221120
+note 35= 3386.975110
+note 36= 3500.729100
+note 37= 3588.835880
+note 38= 3702.589870
+note 39= 3790.696650
+note 40= 3904.450640
+note 41= 4018.204640
+note 42= 4106.311420
+note 43= 4220.065410
+note 44= 4333.819400
+note 45= 4421.926180
+note 46= 4535.680170
+note 47= 4623.786950
+note 48= 4737.540940
+note 49= 4851.294940
+note 50= 4939.401720
+note 51= 5053.155710
+note 52= 5166.909700
+note 53= 5255.016480
+note 54= 5368.770470
+note 55= 5482.524460
+note 56= 5570.631240
+note 57= 5684.385230
+note 58= 5772.492010
+note 59= 5886.246000
+note 60= 6000.000000
+note 61= 6088.106780
+note 62= 6201.860770
+note 63= 6315.614760
+note 64= 6403.721540
+note 65= 6517.475530
+note 66= 6605.582310
+note 67= 6719.336300
+note 68= 6833.090300
+note 69= 6921.197080
+note 70= 7034.951070
+note 71= 7148.705060
+note 72= 7236.811840
+note 73= 7350.565830
+note 74= 7464.319820
+note 75= 7552.426600
+note 76= 7666.180590
+note 77= 7754.287370
+note 78= 7868.041360
+note 79= 7981.795360
+note 80= 8069.902140
+note 81= 8183.656130
+note 82= 8297.410120
+note 83= 8385.516900
+note 84= 8499.270890
+note 85= 8587.377670
+note 86= 8701.131660
+note 87= 8814.885660
+note 88= 8902.992440
+note 89= 9016.746430
+note 90= 9130.500420
+note 91= 9218.607200
+note 92= 9332.361190
+note 93= 9446.115180
+note 94= 9534.221960
+note 95= 9647.975950
+note 96= 9736.082730
+note 97= 9849.836720
+note 98= 9963.590720
+note 99= 10051.697500
+note 100= 10165.451490
+note 101= 10279.205480
+note 102= 10367.312260
+note 103= 10481.066250
+note 104= 10569.173030
+note 105= 10682.927020
+note 106= 10796.681020
+note 107= 10884.787800
+note 108= 10998.541790
+note 109= 11112.295780
+note 110= 11200.402560
+note 111= 11314.156550
+note 112= 11427.910540
+note 113= 11516.017320
+note 114= 11629.771310
+note 115= 11717.878090
+note 116= 11831.632080
+note 117= 11945.386080
+note 118= 12033.492860
+note 119= 12147.246850
+note 120= 12261.000840
+note 121= 12349.107620
+note 122= 12462.861610
+note 123= 12550.968390
+note 124= 12664.722380
+note 125= 12778.476380
+note 126= 12866.583160
+note 127= 12980.337150
+
+[Functional Tuning]
+note 1="#=0 % 88.106780"
+note 2="#=0 % 201.860770"
+note 3="#=0 % 315.614760"
+note 4="#=0 % 403.721540"
+note 5="#=0 % 517.475530"
+note 6="#=0 % 605.582310"
+note 7="#=0 % 719.336300"
+note 8="#=0 % 833.090300"
+note 9="#=0 % 921.197080"
+note 10="#=0 % 1034.951070"
+note 11="#=0 % 1148.705060"
+note 12="#=0 % 1236.811840"
+note 13="#=0 % 1350.565830"
+note 14="#=0 % 1464.319820"
+note 15="#=0 % 1552.426600"
+note 16="#=0 % 1666.180590"
+note 17="#=0 % 1754.287370"
+note 18="#=0 % 1868.041360"
+note 19="#>-19 % 1981.795360 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 16-note scale with all possible quadruplets of 60 & 90 c. Galois Field GF(2)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1440
+note 1=1530
+note 2=1590
+note 3=1680
+note 4=1740
+note 5=1800
+note 6=1890
+note 7=1980
+note 8=2040
+note 9=2130
+note 10=2220
+note 11=2310
+note 12=2400
+note 13=2460
+note 14=2520
+note 15=2580
+note 16=2640
+note 17=2730
+note 18=2790
+note 19=2880
+note 20=2940
+note 21=3000
+note 22=3090
+note 23=3180
+note 24=3240
+note 25=3330
+note 26=3420
+note 27=3510
+note 28=3600
+note 29=3660
+note 30=3720
+note 31=3780
+note 32=3840
+note 33=3930
+note 34=3990
+note 35=4080
+note 36=4140
+note 37=4200
+note 38=4290
+note 39=4380
+note 40=4440
+note 41=4530
+note 42=4620
+note 43=4710
+note 44=4800
+note 45=4860
+note 46=4920
+note 47=4980
+note 48=5040
+note 49=5130
+note 50=5190
+note 51=5280
+note 52=5340
+note 53=5400
+note 54=5490
+note 55=5580
+note 56=5640
+note 57=5730
+note 58=5820
+note 59=5910
+note 60=6000
+note 61=6060
+note 62=6120
+note 63=6180
+note 64=6240
+note 65=6330
+note 66=6390
+note 67=6480
+note 68=6540
+note 69=6600
+note 70=6690
+note 71=6780
+note 72=6840
+note 73=6930
+note 74=7020
+note 75=7110
+note 76=7200
+note 77=7260
+note 78=7320
+note 79=7380
+note 80=7440
+note 81=7530
+note 82=7590
+note 83=7680
+note 84=7740
+note 85=7800
+note 86=7890
+note 87=7980
+note 88=8040
+note 89=8130
+note 90=8220
+note 91=8310
+note 92=8400
+note 93=8460
+note 94=8520
+note 95=8580
+note 96=8640
+note 97=8730
+note 98=8790
+note 99=8880
+note 100=8940
+note 101=9000
+note 102=9090
+note 103=9180
+note 104=9240
+note 105=9330
+note 106=9420
+note 107=9510
+note 108=9600
+note 109=9660
+note 110=9720
+note 111=9780
+note 112=9840
+note 113=9930
+note 114=9990
+note 115=10080
+note 116=10140
+note 117=10200
+note 118=10290
+note 119=10380
+note 120=10440
+note 121=10530
+note 122=10620
+note 123=10710
+note 124=10800
+note 125=10860
+note 126=10920
+note 127=10980
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "gf2-3.tun"
+ID= "ID_gf2-3.tun"
+Filename= "gf2-3.scl"
+Description= "16-note scale with all possible quadruplets of 60 & 90 c. Galois Field GF(2)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1440.000000
+note 1= 1530.000000
+note 2= 1590.000000
+note 3= 1680.000000
+note 4= 1740.000000
+note 5= 1800.000000
+note 6= 1890.000000
+note 7= 1980.000000
+note 8= 2040.000000
+note 9= 2130.000000
+note 10= 2220.000000
+note 11= 2310.000000
+note 12= 2400.000000
+note 13= 2460.000000
+note 14= 2520.000000
+note 15= 2580.000000
+note 16= 2640.000000
+note 17= 2730.000000
+note 18= 2790.000000
+note 19= 2880.000000
+note 20= 2940.000000
+note 21= 3000.000000
+note 22= 3090.000000
+note 23= 3180.000000
+note 24= 3240.000000
+note 25= 3330.000000
+note 26= 3420.000000
+note 27= 3510.000000
+note 28= 3600.000000
+note 29= 3660.000000
+note 30= 3720.000000
+note 31= 3780.000000
+note 32= 3840.000000
+note 33= 3930.000000
+note 34= 3990.000000
+note 35= 4080.000000
+note 36= 4140.000000
+note 37= 4200.000000
+note 38= 4290.000000
+note 39= 4380.000000
+note 40= 4440.000000
+note 41= 4530.000000
+note 42= 4620.000000
+note 43= 4710.000000
+note 44= 4800.000000
+note 45= 4860.000000
+note 46= 4920.000000
+note 47= 4980.000000
+note 48= 5040.000000
+note 49= 5130.000000
+note 50= 5190.000000
+note 51= 5280.000000
+note 52= 5340.000000
+note 53= 5400.000000
+note 54= 5490.000000
+note 55= 5580.000000
+note 56= 5640.000000
+note 57= 5730.000000
+note 58= 5820.000000
+note 59= 5910.000000
+note 60= 6000.000000
+note 61= 6060.000000
+note 62= 6120.000000
+note 63= 6180.000000
+note 64= 6240.000000
+note 65= 6330.000000
+note 66= 6390.000000
+note 67= 6480.000000
+note 68= 6540.000000
+note 69= 6600.000000
+note 70= 6690.000000
+note 71= 6780.000000
+note 72= 6840.000000
+note 73= 6930.000000
+note 74= 7020.000000
+note 75= 7110.000000
+note 76= 7200.000000
+note 77= 7260.000000
+note 78= 7320.000000
+note 79= 7380.000000
+note 80= 7440.000000
+note 81= 7530.000000
+note 82= 7590.000000
+note 83= 7680.000000
+note 84= 7740.000000
+note 85= 7800.000000
+note 86= 7890.000000
+note 87= 7980.000000
+note 88= 8040.000000
+note 89= 8130.000000
+note 90= 8220.000000
+note 91= 8310.000000
+note 92= 8400.000000
+note 93= 8460.000000
+note 94= 8520.000000
+note 95= 8580.000000
+note 96= 8640.000000
+note 97= 8730.000000
+note 98= 8790.000000
+note 99= 8880.000000
+note 100= 8940.000000
+note 101= 9000.000000
+note 102= 9090.000000
+note 103= 9180.000000
+note 104= 9240.000000
+note 105= 9330.000000
+note 106= 9420.000000
+note 107= 9510.000000
+note 108= 9600.000000
+note 109= 9660.000000
+note 110= 9720.000000
+note 111= 9780.000000
+note 112= 9840.000000
+note 113= 9930.000000
+note 114= 9990.000000
+note 115= 10080.000000
+note 116= 10140.000000
+note 117= 10200.000000
+note 118= 10290.000000
+note 119= 10380.000000
+note 120= 10440.000000
+note 121= 10530.000000
+note 122= 10620.000000
+note 123= 10710.000000
+note 124= 10800.000000
+note 125= 10860.000000
+note 126= 10920.000000
+note 127= 10980.000000
+
+[Functional Tuning]
+note 1="#=0 % 60.000000"
+note 2="#=0 % 120.000000"
+note 3="#=0 % 180.000000"
+note 4="#=0 % 240.000000"
+note 5="#=0 % 330.000000"
+note 6="#=0 % 390.000000"
+note 7="#=0 % 480.000000"
+note 8="#=0 % 540.000000"
+note 9="#=0 % 600.000000"
+note 10="#=0 % 690.000000"
+note 11="#=0 % 780.000000"
+note 12="#=0 % 840.000000"
+note 13="#=0 % 930.000000"
+note 14="#=0 % 1020.000000"
+note 15="#=0 % 1110.000000"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

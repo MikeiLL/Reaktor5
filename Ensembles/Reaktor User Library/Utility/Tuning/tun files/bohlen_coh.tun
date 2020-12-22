@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Differentially coherent Bohlen-Pierce, interval=2
+;
+; VAZ Plus section
+[Tuning]
+note 0=-2782
+note 1=-2630
+note 2=-2488
+note 3=-2337
+note 4=-2195
+note 5=-2045
+note 6=-1901
+note 7=-1753
+note 8=-1608
+note 9=-1467
+note 10=-1314
+note 11=-1174
+note 12=-1021
+note 13=-880
+note 14=-728
+note 15=-586
+note 16=-435
+note 17=-293
+note 18=-143
+note 19=1
+note 20=149
+note 21=294
+note 22=435
+note 23=588
+note 24=728
+note 25=881
+note 26=1022
+note 27=1174
+note 28=1316
+note 29=1467
+note 30=1609
+note 31=1759
+note 32=1903
+note 33=2051
+note 34=2196
+note 35=2337
+note 36=2490
+note 37=2630
+note 38=2783
+note 39=2924
+note 40=3076
+note 41=3217
+note 42=3369
+note 43=3511
+note 44=3661
+note 45=3805
+note 46=3953
+note 47=4098
+note 48=4239
+note 49=4391
+note 50=4532
+note 51=4685
+note 52=4826
+note 53=4978
+note 54=5119
+note 55=5271
+note 56=5413
+note 57=5563
+note 58=5706
+note 59=5855
+note 60=6000
+note 61=6141
+note 62=6293
+note 63=6434
+note 64=6587
+note 65=6728
+note 66=6880
+note 67=7021
+note 68=7173
+note 69=7315
+note 70=7465
+note 71=7608
+note 72=7757
+note 73=7902
+note 74=8043
+note 75=8195
+note 76=8336
+note 77=8489
+note 78=8630
+note 79=8782
+note 80=8923
+note 81=9075
+note 82=9217
+note 83=9367
+note 84=9510
+note 85=9659
+note 86=9804
+note 87=9945
+note 88=10097
+note 89=10238
+note 90=10391
+note 91=10532
+note 92=10684
+note 93=10825
+note 94=10977
+note 95=11119
+note 96=11269
+note 97=11412
+note 98=11561
+note 99=11706
+note 100=11847
+note 101=11999
+note 102=12140
+note 103=12293
+note 104=12434
+note 105=12586
+note 106=12727
+note 107=12879
+note 108=13021
+note 109=13171
+note 110=13314
+note 111=13463
+note 112=13608
+note 113=13749
+note 114=13901
+note 115=14042
+note 116=14195
+note 117=14336
+note 118=14488
+note 119=14629
+note 120=14781
+note 121=14923
+note 122=15073
+note 123=15216
+note 124=15365
+note 125=15510
+note 126=15650
+note 127=15803
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bohlen_coh.tun"
+ID= "ID_bohlen_coh.tun"
+Filename= "bohlen_coh.scl"
+Description= "Differentially coherent Bohlen-Pierce, interval=2"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-2781.954934
+note 1=-2629.810994
+note 2=-2488.402244
+note 3=-2336.830764
+note 4=-2194.856774
+note 5=-2044.975684
+note 6=-1901.326344
+note 7=-1752.856164
+note 8=-1607.820003
+note 9=-1467.115653
+note 10=-1314.370943
+note 11=-1173.556743
+note 12=-1020.994973
+note 13=-879.999933
+note 14=-727.855993
+note 15=-586.447243
+note 16=-434.875763
+note 17=-292.901773
+note 18=-143.020683
+note 19= 0.628657
+note 20= 149.098837
+note 21= 294.134997
+note 22= 434.839347
+note 23= 587.584057
+note 24= 728.398257
+note 25= 880.960027
+note 26= 1021.955067
+note 27= 1174.099007
+note 28= 1315.507757
+note 29= 1467.079237
+note 30= 1609.053227
+note 31= 1758.934317
+note 32= 1902.583657
+note 33= 2051.053837
+note 34= 2196.089998
+note 35= 2336.794348
+note 36= 2489.539058
+note 37= 2630.353258
+note 38= 2782.915028
+note 39= 2923.910068
+note 40= 3076.054008
+note 41= 3217.462758
+note 42= 3369.034238
+note 43= 3511.008228
+note 44= 3660.889318
+note 45= 3804.538658
+note 46= 3953.008838
+note 47= 4098.044999
+note 48= 4238.749349
+note 49= 4391.494059
+note 50= 4532.308259
+note 51= 4684.870029
+note 52= 4825.865069
+note 53= 4978.009009
+note 54= 5119.417759
+note 55= 5270.989239
+note 56= 5412.963229
+note 57= 5562.844319
+note 58= 5706.493659
+note 59= 5854.963839
+note 60= 6000.000000
+note 61= 6140.704350
+note 62= 6293.449060
+note 63= 6434.263260
+note 64= 6586.825030
+note 65= 6727.820070
+note 66= 6879.964010
+note 67= 7021.372760
+note 68= 7172.944240
+note 69= 7314.918230
+note 70= 7464.799320
+note 71= 7608.448660
+note 72= 7756.918840
+note 73= 7901.955001
+note 74= 8042.659351
+note 75= 8195.404061
+note 76= 8336.218261
+note 77= 8488.780031
+note 78= 8629.775071
+note 79= 8781.919011
+note 80= 8923.327761
+note 81= 9074.899241
+note 82= 9216.873231
+note 83= 9366.754321
+note 84= 9510.403661
+note 85= 9658.873841
+note 86= 9803.910002
+note 87= 9944.614352
+note 88= 10097.359062
+note 89= 10238.173262
+note 90= 10390.735032
+note 91= 10531.730072
+note 92= 10683.874012
+note 93= 10825.282762
+note 94= 10976.854242
+note 95= 11118.828232
+note 96= 11268.709322
+note 97= 11412.358662
+note 98= 11560.828842
+note 99= 11705.865003
+note 100= 11846.569353
+note 101= 11999.314063
+note 102= 12140.128263
+note 103= 12292.690033
+note 104= 12433.685073
+note 105= 12585.829013
+note 106= 12727.237763
+note 107= 12878.809243
+note 108= 13020.783233
+note 109= 13170.664323
+note 110= 13314.313663
+note 111= 13462.783843
+note 112= 13607.820003
+note 113= 13748.524353
+note 114= 13901.269063
+note 115= 14042.083263
+note 116= 14194.645033
+note 117= 14335.640073
+note 118= 14487.784013
+note 119= 14629.192763
+note 120= 14780.764243
+note 121= 14922.738233
+note 122= 15072.619323
+note 123= 15216.268663
+note 124= 15364.738843
+note 125= 15509.775004
+note 126= 15650.479354
+note 127= 15803.224064
+
+[Functional Tuning]
+note 1="#=0 % 140.704350"
+note 2="#=0 % 293.449060"
+note 3="#=0 % 434.263260"
+note 4="#=0 % 586.825030"
+note 5="#=0 % 727.820070"
+note 6="#=0 % 879.964010"
+note 7="#=0 % 1021.372760"
+note 8="#=0 % 1172.944240"
+note 9="#=0 % 1314.918230"
+note 10="#=0 % 1464.799320"
+note 11="#=0 % 1608.448660"
+note 12="#=0 % 1756.918840"
+note 13="#>-13 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

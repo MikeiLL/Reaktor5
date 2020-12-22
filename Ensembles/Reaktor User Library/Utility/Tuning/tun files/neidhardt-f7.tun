@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Neidhardt's fifth-circle no. 7, 1/6 and 1/4 Pyth. comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=194
+note 3=298
+note 4=400
+note 5=494
+note 6=596
+note 7=696
+note 8=800
+note 9=892
+note 10=996
+note 11=1098
+note 12=1200
+note 13=1294
+note 14=1394
+note 15=1498
+note 16=1600
+note 17=1694
+note 18=1796
+note 19=1896
+note 20=2000
+note 21=2092
+note 22=2196
+note 23=2298
+note 24=2400
+note 25=2494
+note 26=2594
+note 27=2698
+note 28=2800
+note 29=2894
+note 30=2996
+note 31=3096
+note 32=3200
+note 33=3292
+note 34=3396
+note 35=3498
+note 36=3600
+note 37=3694
+note 38=3794
+note 39=3898
+note 40=4000
+note 41=4094
+note 42=4196
+note 43=4296
+note 44=4400
+note 45=4492
+note 46=4596
+note 47=4698
+note 48=4800
+note 49=4894
+note 50=4994
+note 51=5098
+note 52=5200
+note 53=5294
+note 54=5396
+note 55=5496
+note 56=5600
+note 57=5692
+note 58=5796
+note 59=5898
+note 60=6000
+note 61=6094
+note 62=6194
+note 63=6298
+note 64=6400
+note 65=6494
+note 66=6596
+note 67=6696
+note 68=6800
+note 69=6892
+note 70=6996
+note 71=7098
+note 72=7200
+note 73=7294
+note 74=7394
+note 75=7498
+note 76=7600
+note 77=7694
+note 78=7796
+note 79=7896
+note 80=8000
+note 81=8092
+note 82=8196
+note 83=8298
+note 84=8400
+note 85=8494
+note 86=8594
+note 87=8698
+note 88=8800
+note 89=8894
+note 90=8996
+note 91=9096
+note 92=9200
+note 93=9292
+note 94=9396
+note 95=9498
+note 96=9600
+note 97=9694
+note 98=9794
+note 99=9898
+note 100=10000
+note 101=10094
+note 102=10196
+note 103=10296
+note 104=10400
+note 105=10492
+note 106=10596
+note 107=10698
+note 108=10800
+note 109=10894
+note 110=10994
+note 111=11098
+note 112=11200
+note 113=11294
+note 114=11396
+note 115=11496
+note 116=11600
+note 117=11692
+note 118=11796
+note 119=11898
+note 120=12000
+note 121=12094
+note 122=12194
+note 123=12298
+note 124=12400
+note 125=12494
+note 126=12596
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "neidhardt-f7.tun"
+ID= "ID_neidhardt-f7.tun"
+Filename= "neidhardt-f7.scl"
+Description= "Neidhardt's fifth-circle no. 7, 1/6 and 1/4 Pyth. comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.135000
+note 2= 194.135000
+note 3= 298.045000
+note 4= 400.000000
+note 5= 494.135000
+note 6= 596.090000
+note 7= 696.090000
+note 8= 800.000000
+note 9= 892.180000
+note 10= 996.089998
+note 11= 1098.045000
+note 12= 1200.000000
+note 13= 1294.135000
+note 14= 1394.135000
+note 15= 1498.045000
+note 16= 1600.000000
+note 17= 1694.135000
+note 18= 1796.090000
+note 19= 1896.090000
+note 20= 2000.000000
+note 21= 2092.180000
+note 22= 2196.089998
+note 23= 2298.045000
+note 24= 2400.000000
+note 25= 2494.135000
+note 26= 2594.135000
+note 27= 2698.045000
+note 28= 2800.000000
+note 29= 2894.135000
+note 30= 2996.090000
+note 31= 3096.090000
+note 32= 3200.000000
+note 33= 3292.180000
+note 34= 3396.089998
+note 35= 3498.045000
+note 36= 3600.000000
+note 37= 3694.135000
+note 38= 3794.135000
+note 39= 3898.045000
+note 40= 4000.000000
+note 41= 4094.135000
+note 42= 4196.090000
+note 43= 4296.090000
+note 44= 4400.000000
+note 45= 4492.180000
+note 46= 4596.089998
+note 47= 4698.045000
+note 48= 4800.000000
+note 49= 4894.135000
+note 50= 4994.135000
+note 51= 5098.045000
+note 52= 5200.000000
+note 53= 5294.135000
+note 54= 5396.090000
+note 55= 5496.090000
+note 56= 5600.000000
+note 57= 5692.180000
+note 58= 5796.089998
+note 59= 5898.045000
+note 60= 6000.000000
+note 61= 6094.135000
+note 62= 6194.135000
+note 63= 6298.045000
+note 64= 6400.000000
+note 65= 6494.135000
+note 66= 6596.090000
+note 67= 6696.090000
+note 68= 6800.000000
+note 69= 6892.180000
+note 70= 6996.089998
+note 71= 7098.045000
+note 72= 7200.000000
+note 73= 7294.135000
+note 74= 7394.135000
+note 75= 7498.045000
+note 76= 7600.000000
+note 77= 7694.135000
+note 78= 7796.090000
+note 79= 7896.090000
+note 80= 8000.000000
+note 81= 8092.180000
+note 82= 8196.089998
+note 83= 8298.045000
+note 84= 8400.000000
+note 85= 8494.135000
+note 86= 8594.135000
+note 87= 8698.045000
+note 88= 8800.000000
+note 89= 8894.135000
+note 90= 8996.090000
+note 91= 9096.090000
+note 92= 9200.000000
+note 93= 9292.180000
+note 94= 9396.089998
+note 95= 9498.045000
+note 96= 9600.000000
+note 97= 9694.135000
+note 98= 9794.135000
+note 99= 9898.045000
+note 100= 10000.000000
+note 101= 10094.135000
+note 102= 10196.090000
+note 103= 10296.090000
+note 104= 10400.000000
+note 105= 10492.180000
+note 106= 10596.089998
+note 107= 10698.045000
+note 108= 10800.000000
+note 109= 10894.135000
+note 110= 10994.135000
+note 111= 11098.045000
+note 112= 11200.000000
+note 113= 11294.135000
+note 114= 11396.090000
+note 115= 11496.090000
+note 116= 11600.000000
+note 117= 11692.180000
+note 118= 11796.089998
+note 119= 11898.045000
+note 120= 12000.000000
+note 121= 12094.135000
+note 122= 12194.135000
+note 123= 12298.045000
+note 124= 12400.000000
+note 125= 12494.135000
+note 126= 12596.090000
+note 127= 12696.090000
+
+[Functional Tuning]
+note 1="#=0 % 94.135000"
+note 2="#=0 % 194.135000"
+note 3="#=0 % 298.045000"
+note 4="#=0 % 400.000000"
+note 5="#=0 % 494.135000"
+note 6="#=0 % 596.090000"
+note 7="#=0 % 696.090000"
+note 8="#=0 % 800.000000"
+note 9="#=0 % 892.180000"
+note 10="#=0 * 16/9"
+note 11="#=0 % 1098.045000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

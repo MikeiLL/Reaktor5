@@ -1,0 +1,309 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 4:5:6:7 equal beating in 12 of 27 keys, slendro temperament from chain links inverting the smallest Pisot-Vijayaraghavan number
+;
+; VAZ Plus section
+[Tuning]
+note 0=3340
+note 1=3374
+note 2=3433
+note 3=3467
+note 4=3506
+note 5=3566
+note 6=3600
+note 7=3634
+note 8=3694
+note 9=3733
+note 10=3767
+note 11=3826
+note 12=3860
+note 13=3920
+note 14=3954
+note 15=3993
+note 16=4053
+note 17=4087
+note 18=4146
+note 19=4181
+note 20=4219
+note 21=4254
+note 22=4313
+note 23=4347
+note 24=4407
+note 25=4441
+note 26=4480
+note 27=4540
+note 28=4574
+note 29=4633
+note 30=4667
+note 31=4706
+note 32=4766
+note 33=4800
+note 34=4834
+note 35=4894
+note 36=4933
+note 37=4967
+note 38=5026
+note 39=5060
+note 40=5120
+note 41=5154
+note 42=5193
+note 43=5253
+note 44=5287
+note 45=5346
+note 46=5381
+note 47=5419
+note 48=5454
+note 49=5513
+note 50=5547
+note 51=5607
+note 52=5641
+note 53=5680
+note 54=5740
+note 55=5774
+note 56=5833
+note 57=5867
+note 58=5906
+note 59=5966
+note 60=6000
+note 61=6034
+note 62=6094
+note 63=6133
+note 64=6167
+note 65=6226
+note 66=6260
+note 67=6320
+note 68=6354
+note 69=6393
+note 70=6453
+note 71=6487
+note 72=6546
+note 73=6581
+note 74=6619
+note 75=6654
+note 76=6713
+note 77=6747
+note 78=6807
+note 79=6841
+note 80=6880
+note 81=6940
+note 82=6974
+note 83=7033
+note 84=7067
+note 85=7106
+note 86=7166
+note 87=7200
+note 88=7234
+note 89=7294
+note 90=7333
+note 91=7367
+note 92=7426
+note 93=7460
+note 94=7520
+note 95=7554
+note 96=7593
+note 97=7653
+note 98=7687
+note 99=7746
+note 100=7781
+note 101=7819
+note 102=7854
+note 103=7913
+note 104=7947
+note 105=8007
+note 106=8041
+note 107=8080
+note 108=8140
+note 109=8174
+note 110=8233
+note 111=8267
+note 112=8306
+note 113=8366
+note 114=8400
+note 115=8434
+note 116=8494
+note 117=8533
+note 118=8567
+note 119=8626
+note 120=8660
+note 121=8720
+note 122=8754
+note 123=8793
+note 124=8853
+note 125=8887
+note 126=8946
+note 127=8981
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vines_ovovo27eb5w6w7_00_D.tun"
+ID= "ID_vines_ovovo27eb5w6w7_00_D.tun"
+Filename= "vines_ovovo27eb5w6w7_00_D.scl"
+Description= "4:5:6:7 equal beating in 12 of 27 keys, slendro temperament from chain links inverting the smallest Pisot-Vijayaraghavan number"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3339.533170
+note 1= 3373.644560
+note 2= 3433.299370
+note 3= 3467.410760
+note 4= 3506.233800
+note 5= 3565.888610
+note 6= 3600.000000
+note 7= 3634.111390
+note 8= 3693.766210
+note 9= 3732.589240
+note 10= 3766.700630
+note 11= 3826.355440
+note 12= 3860.466830
+note 13= 3920.121650
+note 14= 3954.233040
+note 15= 3993.056070
+note 16= 4052.710890
+note 17= 4086.822280
+note 18= 4146.477090
+note 19= 4180.588480
+note 20= 4219.411520
+note 21= 4253.522910
+note 22= 4313.177720
+note 23= 4347.289110
+note 24= 4406.943930
+note 25= 4441.055310
+note 26= 4479.878350
+note 27= 4539.533170
+note 28= 4573.644560
+note 29= 4633.299370
+note 30= 4667.410760
+note 31= 4706.233800
+note 32= 4765.888610
+note 33= 4800.000000
+note 34= 4834.111390
+note 35= 4893.766210
+note 36= 4932.589240
+note 37= 4966.700630
+note 38= 5026.355440
+note 39= 5060.466830
+note 40= 5120.121650
+note 41= 5154.233040
+note 42= 5193.056070
+note 43= 5252.710890
+note 44= 5286.822280
+note 45= 5346.477090
+note 46= 5380.588480
+note 47= 5419.411520
+note 48= 5453.522910
+note 49= 5513.177720
+note 50= 5547.289110
+note 51= 5606.943930
+note 52= 5641.055310
+note 53= 5679.878350
+note 54= 5739.533170
+note 55= 5773.644560
+note 56= 5833.299370
+note 57= 5867.410760
+note 58= 5906.233800
+note 59= 5965.888610
+note 60= 6000.000000
+note 61= 6034.111390
+note 62= 6093.766210
+note 63= 6132.589240
+note 64= 6166.700630
+note 65= 6226.355440
+note 66= 6260.466830
+note 67= 6320.121650
+note 68= 6354.233040
+note 69= 6393.056070
+note 70= 6452.710890
+note 71= 6486.822280
+note 72= 6546.477090
+note 73= 6580.588480
+note 74= 6619.411520
+note 75= 6653.522910
+note 76= 6713.177720
+note 77= 6747.289110
+note 78= 6806.943930
+note 79= 6841.055310
+note 80= 6879.878350
+note 81= 6939.533170
+note 82= 6973.644560
+note 83= 7033.299370
+note 84= 7067.410760
+note 85= 7106.233800
+note 86= 7165.888610
+note 87= 7200.000000
+note 88= 7234.111390
+note 89= 7293.766210
+note 90= 7332.589240
+note 91= 7366.700630
+note 92= 7426.355440
+note 93= 7460.466830
+note 94= 7520.121650
+note 95= 7554.233040
+note 96= 7593.056070
+note 97= 7652.710890
+note 98= 7686.822280
+note 99= 7746.477090
+note 100= 7780.588480
+note 101= 7819.411520
+note 102= 7853.522910
+note 103= 7913.177720
+note 104= 7947.289110
+note 105= 8006.943930
+note 106= 8041.055310
+note 107= 8079.878350
+note 108= 8139.533170
+note 109= 8173.644560
+note 110= 8233.299370
+note 111= 8267.410760
+note 112= 8306.233800
+note 113= 8365.888610
+note 114= 8400.000000
+note 115= 8434.111390
+note 116= 8493.766210
+note 117= 8532.589240
+note 118= 8566.700630
+note 119= 8626.355440
+note 120= 8660.466830
+note 121= 8720.121650
+note 122= 8754.233040
+note 123= 8793.056070
+note 124= 8852.710890
+note 125= 8886.822280
+note 126= 8946.477090
+note 127= 8980.588480
+
+[Functional Tuning]
+note 1="#=0 % 34.111390"
+note 2="#=0 % 93.766210"
+note 3="#=0 % 132.589240"
+note 4="#=0 % 166.700630"
+note 5="#=0 % 226.355440"
+note 6="#=0 % 260.466830"
+note 7="#=0 % 320.121650"
+note 8="#=0 % 354.233040"
+note 9="#=0 % 393.056070"
+note 10="#=0 % 452.710890"
+note 11="#=0 % 486.822280"
+note 12="#=0 % 546.477090"
+note 13="#=0 % 580.588480"
+note 14="#=0 % 619.411520"
+note 15="#=0 % 653.522910"
+note 16="#=0 % 713.177720"
+note 17="#=0 % 747.289110"
+note 18="#=0 % 806.943930"
+note 19="#=0 % 841.055310"
+note 20="#=0 % 879.878350"
+note 21="#=0 % 939.533170"
+note 22="#=0 % 973.644560"
+note 23="#=0 % 1033.299370"
+note 24="#=0 % 1067.410760"
+note 25="#=0 % 1106.233800"
+note 26="#=0 % 1165.888610"
+note 27="#>-27 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

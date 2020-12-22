@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; circulating scale from pipedum_22c in 50/49 (-1,5) tuning; approximate pajara
+;
+; VAZ Plus section
+[Tuning]
+note 0=2726
+note 1=2782
+note 2=2834
+note 3=2892
+note 4=2943
+note 5=3000
+note 6=3057
+note 7=3108
+note 8=3166
+note 9=3218
+note 10=3274
+note 11=3326
+note 12=3382
+note 13=3434
+note 14=3492
+note 15=3543
+note 16=3600
+note 17=3657
+note 18=3708
+note 19=3766
+note 20=3818
+note 21=3874
+note 22=3926
+note 23=3982
+note 24=4034
+note 25=4092
+note 26=4143
+note 27=4200
+note 28=4257
+note 29=4308
+note 30=4366
+note 31=4418
+note 32=4474
+note 33=4526
+note 34=4582
+note 35=4634
+note 36=4692
+note 37=4743
+note 38=4800
+note 39=4857
+note 40=4908
+note 41=4966
+note 42=5018
+note 43=5074
+note 44=5126
+note 45=5182
+note 46=5234
+note 47=5292
+note 48=5343
+note 49=5400
+note 50=5457
+note 51=5508
+note 52=5566
+note 53=5618
+note 54=5674
+note 55=5726
+note 56=5782
+note 57=5834
+note 58=5892
+note 59=5943
+note 60=6000
+note 61=6057
+note 62=6108
+note 63=6166
+note 64=6218
+note 65=6274
+note 66=6326
+note 67=6382
+note 68=6434
+note 69=6492
+note 70=6543
+note 71=6600
+note 72=6657
+note 73=6708
+note 74=6766
+note 75=6818
+note 76=6874
+note 77=6926
+note 78=6982
+note 79=7034
+note 80=7092
+note 81=7143
+note 82=7200
+note 83=7257
+note 84=7308
+note 85=7366
+note 86=7418
+note 87=7474
+note 88=7526
+note 89=7582
+note 90=7634
+note 91=7692
+note 92=7743
+note 93=7800
+note 94=7857
+note 95=7908
+note 96=7966
+note 97=8018
+note 98=8074
+note 99=8126
+note 100=8182
+note 101=8234
+note 102=8292
+note 103=8343
+note 104=8400
+note 105=8457
+note 106=8508
+note 107=8566
+note 108=8618
+note 109=8674
+note 110=8726
+note 111=8782
+note 112=8834
+note 113=8892
+note 114=8943
+note 115=9000
+note 116=9057
+note 117=9108
+note 118=9166
+note 119=9218
+note 120=9274
+note 121=9326
+note 122=9382
+note 123=9434
+note 124=9492
+note 125=9543
+note 126=9600
+note 127=9657
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "circb22.tun"
+ID= "ID_circb22.tun"
+Filename= "circb22.scl"
+Description= "circulating scale from pipedum_22c in 50/49 (-1,5) tuning; approximate pajara"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2725.863964
+note 1= 2782.473133
+note 2= 2834.201060
+note 3= 2891.662903
+note 4= 2943.390831
+note 5= 3000.000000
+note 6= 3056.609169
+note 7= 3108.337097
+note 8= 3165.798940
+note 9= 3217.526867
+note 10= 3274.136036
+note 11= 3325.863964
+note 12= 3382.473133
+note 13= 3434.201060
+note 14= 3491.662903
+note 15= 3543.390831
+note 16= 3600.000000
+note 17= 3656.609169
+note 18= 3708.337097
+note 19= 3765.798940
+note 20= 3817.526867
+note 21= 3874.136036
+note 22= 3925.863964
+note 23= 3982.473133
+note 24= 4034.201060
+note 25= 4091.662903
+note 26= 4143.390831
+note 27= 4200.000000
+note 28= 4256.609169
+note 29= 4308.337097
+note 30= 4365.798940
+note 31= 4417.526867
+note 32= 4474.136036
+note 33= 4525.863964
+note 34= 4582.473133
+note 35= 4634.201060
+note 36= 4691.662903
+note 37= 4743.390831
+note 38= 4800.000000
+note 39= 4856.609169
+note 40= 4908.337097
+note 41= 4965.798940
+note 42= 5017.526867
+note 43= 5074.136036
+note 44= 5125.863964
+note 45= 5182.473133
+note 46= 5234.201060
+note 47= 5291.662903
+note 48= 5343.390831
+note 49= 5400.000000
+note 50= 5456.609169
+note 51= 5508.337097
+note 52= 5565.798940
+note 53= 5617.526867
+note 54= 5674.136036
+note 55= 5725.863964
+note 56= 5782.473133
+note 57= 5834.201060
+note 58= 5891.662903
+note 59= 5943.390831
+note 60= 6000.000000
+note 61= 6056.609169
+note 62= 6108.337097
+note 63= 6165.798940
+note 64= 6217.526867
+note 65= 6274.136036
+note 66= 6325.863964
+note 67= 6382.473133
+note 68= 6434.201060
+note 69= 6491.662903
+note 70= 6543.390831
+note 71= 6600.000000
+note 72= 6656.609169
+note 73= 6708.337097
+note 74= 6765.798940
+note 75= 6817.526867
+note 76= 6874.136036
+note 77= 6925.863964
+note 78= 6982.473133
+note 79= 7034.201060
+note 80= 7091.662903
+note 81= 7143.390831
+note 82= 7200.000000
+note 83= 7256.609169
+note 84= 7308.337097
+note 85= 7365.798940
+note 86= 7417.526867
+note 87= 7474.136036
+note 88= 7525.863964
+note 89= 7582.473133
+note 90= 7634.201060
+note 91= 7691.662903
+note 92= 7743.390831
+note 93= 7800.000000
+note 94= 7856.609169
+note 95= 7908.337097
+note 96= 7965.798940
+note 97= 8017.526867
+note 98= 8074.136036
+note 99= 8125.863964
+note 100= 8182.473133
+note 101= 8234.201060
+note 102= 8291.662903
+note 103= 8343.390831
+note 104= 8400.000000
+note 105= 8456.609169
+note 106= 8508.337097
+note 107= 8565.798940
+note 108= 8617.526867
+note 109= 8674.136036
+note 110= 8725.863964
+note 111= 8782.473133
+note 112= 8834.201060
+note 113= 8891.662903
+note 114= 8943.390831
+note 115= 9000.000000
+note 116= 9056.609169
+note 117= 9108.337097
+note 118= 9165.798940
+note 119= 9217.526867
+note 120= 9274.136036
+note 121= 9325.863964
+note 122= 9382.473133
+note 123= 9434.201060
+note 124= 9491.662903
+note 125= 9543.390831
+note 126= 9600.000000
+note 127= 9656.609169
+
+[Functional Tuning]
+note 1="#=0 % 56.609169"
+note 2="#=0 % 108.337097"
+note 3="#=0 % 165.798940"
+note 4="#=0 % 217.526867"
+note 5="#=0 % 274.136036"
+note 6="#=0 % 325.863964"
+note 7="#=0 % 382.473133"
+note 8="#=0 % 434.201060"
+note 9="#=0 % 491.662903"
+note 10="#=0 % 543.390831"
+note 11="#=0 % 600.000000"
+note 12="#=0 % 656.609169"
+note 13="#=0 % 708.337097"
+note 14="#=0 % 765.798940"
+note 15="#=0 % 817.526867"
+note 16="#=0 % 874.136036"
+note 17="#=0 % 925.863964"
+note 18="#=0 % 982.473133"
+note 19="#=0 % 1034.201060"
+note 20="#=0 % 1091.662903"
+note 21="#=0 % 1143.390831"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

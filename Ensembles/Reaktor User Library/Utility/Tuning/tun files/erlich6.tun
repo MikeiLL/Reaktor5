@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Scale of consonant tones against 1/1-3/2 drone. TL 23-9-1998
+;
+; VAZ Plus section
+[Tuning]
+note 0=2667
+note 1=2716
+note 2=2786
+note 3=2835
+note 4=2871
+note 5=2898
+note 6=2951
+note 7=2983
+note 8=3017
+note 9=3102
+note 10=3214
+note 11=3284
+note 12=3333
+note 13=3369
+note 14=3418
+note 15=3488
+note 16=3600
+note 17=3684
+note 18=3719
+note 19=3751
+note 20=3804
+note 21=3831
+note 22=3867
+note 23=3916
+note 24=3986
+note 25=4035
+note 26=4071
+note 27=4098
+note 28=4151
+note 29=4183
+note 30=4217
+note 31=4302
+note 32=4414
+note 33=4484
+note 34=4533
+note 35=4569
+note 36=4618
+note 37=4688
+note 38=4800
+note 39=4884
+note 40=4919
+note 41=4951
+note 42=5004
+note 43=5031
+note 44=5067
+note 45=5116
+note 46=5186
+note 47=5235
+note 48=5271
+note 49=5298
+note 50=5351
+note 51=5383
+note 52=5417
+note 53=5502
+note 54=5614
+note 55=5684
+note 56=5733
+note 57=5769
+note 58=5818
+note 59=5888
+note 60=6000
+note 61=6084
+note 62=6119
+note 63=6151
+note 64=6204
+note 65=6231
+note 66=6267
+note 67=6316
+note 68=6386
+note 69=6435
+note 70=6471
+note 71=6498
+note 72=6551
+note 73=6583
+note 74=6617
+note 75=6702
+note 76=6814
+note 77=6884
+note 78=6933
+note 79=6969
+note 80=7018
+note 81=7088
+note 82=7200
+note 83=7284
+note 84=7319
+note 85=7351
+note 86=7404
+note 87=7431
+note 88=7467
+note 89=7516
+note 90=7586
+note 91=7635
+note 92=7671
+note 93=7698
+note 94=7751
+note 95=7783
+note 96=7817
+note 97=7902
+note 98=8014
+note 99=8084
+note 100=8133
+note 101=8169
+note 102=8218
+note 103=8288
+note 104=8400
+note 105=8484
+note 106=8519
+note 107=8551
+note 108=8604
+note 109=8631
+note 110=8667
+note 111=8716
+note 112=8786
+note 113=8835
+note 114=8871
+note 115=8898
+note 116=8951
+note 117=8983
+note 118=9017
+note 119=9102
+note 120=9214
+note 121=9284
+note 122=9333
+note 123=9369
+note 124=9418
+note 125=9488
+note 126=9600
+note 127=9684
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "erlich6.tun"
+ID= "ID_erlich6.tun"
+Filename= "erlich6.scl"
+Description= "Scale of consonant tones against 1/1-3/2 drone. TL 23-9-1998"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2666.870906
+note 1= 2715.641287
+note 2= 2786.313714
+note 3= 2835.084095
+note 4= 2870.780907
+note 5= 2898.044999
+note 6= 2951.317942
+note 7= 2982.512193
+note 8= 3017.487807
+note 9= 3101.955001
+note 10= 3213.686286
+note 11= 3284.358713
+note 12= 3333.129094
+note 13= 3368.825906
+note 14= 3417.596288
+note 15= 3488.268715
+note 16= 3600.000000
+note 17= 3684.467193
+note 18= 3719.442808
+note 19= 3750.637059
+note 20= 3803.910002
+note 21= 3831.174094
+note 22= 3866.870906
+note 23= 3915.641287
+note 24= 3986.313714
+note 25= 4035.084095
+note 26= 4070.780907
+note 27= 4098.044999
+note 28= 4151.317942
+note 29= 4182.512193
+note 30= 4217.487807
+note 31= 4301.955001
+note 32= 4413.686286
+note 33= 4484.358713
+note 34= 4533.129094
+note 35= 4568.825906
+note 36= 4617.596288
+note 37= 4688.268715
+note 38= 4800.000000
+note 39= 4884.467193
+note 40= 4919.442808
+note 41= 4950.637059
+note 42= 5003.910002
+note 43= 5031.174094
+note 44= 5066.870906
+note 45= 5115.641287
+note 46= 5186.313714
+note 47= 5235.084095
+note 48= 5270.780907
+note 49= 5298.044999
+note 50= 5351.317942
+note 51= 5382.512193
+note 52= 5417.487807
+note 53= 5501.955001
+note 54= 5613.686286
+note 55= 5684.358713
+note 56= 5733.129094
+note 57= 5768.825906
+note 58= 5817.596288
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6119.442808
+note 63= 6150.637059
+note 64= 6203.910002
+note 65= 6231.174094
+note 66= 6266.870906
+note 67= 6315.641287
+note 68= 6386.313714
+note 69= 6435.084095
+note 70= 6470.780907
+note 71= 6498.044999
+note 72= 6551.317942
+note 73= 6582.512193
+note 74= 6617.487807
+note 75= 6701.955001
+note 76= 6813.686286
+note 77= 6884.358713
+note 78= 6933.129094
+note 79= 6968.825906
+note 80= 7017.596288
+note 81= 7088.268715
+note 82= 7200.000000
+note 83= 7284.467193
+note 84= 7319.442808
+note 85= 7350.637059
+note 86= 7403.910002
+note 87= 7431.174094
+note 88= 7466.870906
+note 89= 7515.641287
+note 90= 7586.313714
+note 91= 7635.084095
+note 92= 7670.780907
+note 93= 7698.044999
+note 94= 7751.317942
+note 95= 7782.512193
+note 96= 7817.487807
+note 97= 7901.955001
+note 98= 8013.686286
+note 99= 8084.358713
+note 100= 8133.129094
+note 101= 8168.825906
+note 102= 8217.596288
+note 103= 8288.268715
+note 104= 8400.000000
+note 105= 8484.467193
+note 106= 8519.442808
+note 107= 8550.637059
+note 108= 8603.910002
+note 109= 8631.174094
+note 110= 8666.870906
+note 111= 8715.641287
+note 112= 8786.313714
+note 113= 8835.084095
+note 114= 8870.780907
+note 115= 8898.044999
+note 116= 8951.317942
+note 117= 8982.512193
+note 118= 9017.487807
+note 119= 9101.955001
+note 120= 9213.686286
+note 121= 9284.358713
+note 122= 9333.129094
+note 123= 9368.825906
+note 124= 9417.596288
+note 125= 9488.268715
+note 126= 9600.000000
+note 127= 9684.467193
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 15/14"
+note 3="#=0 * 12/11"
+note 4="#=0 * 9/8"
+note 5="#=0 * 8/7"
+note 6="#=0 * 7/6"
+note 7="#=0 * 6/5"
+note 8="#=0 * 5/4"
+note 9="#=0 * 9/7"
+note 10="#=0 * 21/16"
+note 11="#=0 * 4/3"
+note 12="#=0 * 11/8"
+note 13="#=0 * 7/5"
+note 14="#=0 * 10/7"
+note 15="#=0 * 3/2"
+note 16="#=0 * 8/5"
+note 17="#=0 * 5/3"
+note 18="#=0 * 12/7"
+note 19="#=0 * 7/4"
+note 20="#=0 * 9/5"
+note 21="#=0 * 15/8"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

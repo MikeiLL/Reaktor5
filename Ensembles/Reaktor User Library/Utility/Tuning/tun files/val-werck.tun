@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Vallotti-Young and Werckmeister III, 10 cents 5-limit lesfip scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=87
+note 2=192
+note 3=297
+note 4=384
+note 5=503
+note 6=582
+note 7=697
+note 8=792
+note 9=887
+note 10=1002
+note 11=1081
+note 12=1200
+note 13=1287
+note 14=1392
+note 15=1497
+note 16=1584
+note 17=1703
+note 18=1782
+note 19=1897
+note 20=1992
+note 21=2087
+note 22=2202
+note 23=2281
+note 24=2400
+note 25=2487
+note 26=2592
+note 27=2697
+note 28=2784
+note 29=2903
+note 30=2982
+note 31=3097
+note 32=3192
+note 33=3287
+note 34=3402
+note 35=3481
+note 36=3600
+note 37=3687
+note 38=3792
+note 39=3897
+note 40=3984
+note 41=4103
+note 42=4182
+note 43=4297
+note 44=4392
+note 45=4487
+note 46=4602
+note 47=4681
+note 48=4800
+note 49=4887
+note 50=4992
+note 51=5097
+note 52=5184
+note 53=5303
+note 54=5382
+note 55=5497
+note 56=5592
+note 57=5687
+note 58=5802
+note 59=5881
+note 60=6000
+note 61=6087
+note 62=6192
+note 63=6297
+note 64=6384
+note 65=6503
+note 66=6582
+note 67=6697
+note 68=6792
+note 69=6887
+note 70=7002
+note 71=7081
+note 72=7200
+note 73=7287
+note 74=7392
+note 75=7497
+note 76=7584
+note 77=7703
+note 78=7782
+note 79=7897
+note 80=7992
+note 81=8087
+note 82=8202
+note 83=8281
+note 84=8400
+note 85=8487
+note 86=8592
+note 87=8697
+note 88=8784
+note 89=8903
+note 90=8982
+note 91=9097
+note 92=9192
+note 93=9287
+note 94=9402
+note 95=9481
+note 96=9600
+note 97=9687
+note 98=9792
+note 99=9897
+note 100=9984
+note 101=10103
+note 102=10182
+note 103=10297
+note 104=10392
+note 105=10487
+note 106=10602
+note 107=10681
+note 108=10800
+note 109=10887
+note 110=10992
+note 111=11097
+note 112=11184
+note 113=11303
+note 114=11382
+note 115=11497
+note 116=11592
+note 117=11687
+note 118=11802
+note 119=11881
+note 120=12000
+note 121=12087
+note 122=12192
+note 123=12297
+note 124=12384
+note 125=12503
+note 126=12582
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "val-werck.tun"
+ID= "ID_val-werck.tun"
+Filename= "val-werck.scl"
+Description= "Vallotti-Young and Werckmeister III, 10 cents 5-limit lesfip scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 87.164120
+note 2= 192.017930
+note 3= 296.871740
+note 4= 384.035860
+note 5= 502.600700
+note 6= 582.310310
+note 7= 696.704130
+note 8= 792.017930
+note 9= 887.331730
+note 10= 1001.725550
+note 11= 1081.435170
+note 12= 1200.000000
+note 13= 1287.164120
+note 14= 1392.017930
+note 15= 1496.871740
+note 16= 1584.035860
+note 17= 1702.600700
+note 18= 1782.310310
+note 19= 1896.704130
+note 20= 1992.017930
+note 21= 2087.331730
+note 22= 2201.725550
+note 23= 2281.435170
+note 24= 2400.000000
+note 25= 2487.164120
+note 26= 2592.017930
+note 27= 2696.871740
+note 28= 2784.035860
+note 29= 2902.600700
+note 30= 2982.310310
+note 31= 3096.704130
+note 32= 3192.017930
+note 33= 3287.331730
+note 34= 3401.725550
+note 35= 3481.435170
+note 36= 3600.000000
+note 37= 3687.164120
+note 38= 3792.017930
+note 39= 3896.871740
+note 40= 3984.035860
+note 41= 4102.600700
+note 42= 4182.310310
+note 43= 4296.704130
+note 44= 4392.017930
+note 45= 4487.331730
+note 46= 4601.725550
+note 47= 4681.435170
+note 48= 4800.000000
+note 49= 4887.164120
+note 50= 4992.017930
+note 51= 5096.871740
+note 52= 5184.035860
+note 53= 5302.600700
+note 54= 5382.310310
+note 55= 5496.704130
+note 56= 5592.017930
+note 57= 5687.331730
+note 58= 5801.725550
+note 59= 5881.435170
+note 60= 6000.000000
+note 61= 6087.164120
+note 62= 6192.017930
+note 63= 6296.871740
+note 64= 6384.035860
+note 65= 6502.600700
+note 66= 6582.310310
+note 67= 6696.704130
+note 68= 6792.017930
+note 69= 6887.331730
+note 70= 7001.725550
+note 71= 7081.435170
+note 72= 7200.000000
+note 73= 7287.164120
+note 74= 7392.017930
+note 75= 7496.871740
+note 76= 7584.035860
+note 77= 7702.600700
+note 78= 7782.310310
+note 79= 7896.704130
+note 80= 7992.017930
+note 81= 8087.331730
+note 82= 8201.725550
+note 83= 8281.435170
+note 84= 8400.000000
+note 85= 8487.164120
+note 86= 8592.017930
+note 87= 8696.871740
+note 88= 8784.035860
+note 89= 8902.600700
+note 90= 8982.310310
+note 91= 9096.704130
+note 92= 9192.017930
+note 93= 9287.331730
+note 94= 9401.725550
+note 95= 9481.435170
+note 96= 9600.000000
+note 97= 9687.164120
+note 98= 9792.017930
+note 99= 9896.871740
+note 100= 9984.035860
+note 101= 10102.600700
+note 102= 10182.310310
+note 103= 10296.704130
+note 104= 10392.017930
+note 105= 10487.331730
+note 106= 10601.725550
+note 107= 10681.435170
+note 108= 10800.000000
+note 109= 10887.164120
+note 110= 10992.017930
+note 111= 11096.871740
+note 112= 11184.035860
+note 113= 11302.600700
+note 114= 11382.310310
+note 115= 11496.704130
+note 116= 11592.017930
+note 117= 11687.331730
+note 118= 11801.725550
+note 119= 11881.435170
+note 120= 12000.000000
+note 121= 12087.164120
+note 122= 12192.017930
+note 123= 12296.871740
+note 124= 12384.035860
+note 125= 12502.600700
+note 126= 12582.310310
+note 127= 12696.704130
+
+[Functional Tuning]
+note 1="#=0 % 87.164120"
+note 2="#=0 % 192.017930"
+note 3="#=0 % 296.871740"
+note 4="#=0 % 384.035860"
+note 5="#=0 % 502.600700"
+note 6="#=0 % 582.310310"
+note 7="#=0 % 696.704130"
+note 8="#=0 % 792.017930"
+note 9="#=0 % 887.331730"
+note 10="#=0 % 1001.725550"
+note 11="#=0 % 1081.435170"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

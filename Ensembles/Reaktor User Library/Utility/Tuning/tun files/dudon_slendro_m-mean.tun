@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Wilson meantone from Bb to F# extended in a Slendro M on black keys
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=74
+note 2=188
+note 3=309
+note 4=382
+note 5=501
+note 6=572
+note 7=695
+note 8=776
+note 9=885
+note 10=1007
+note 11=1076
+note 12=1200
+note 13=1274
+note 14=1388
+note 15=1509
+note 16=1582
+note 17=1701
+note 18=1772
+note 19=1895
+note 20=1976
+note 21=2085
+note 22=2207
+note 23=2276
+note 24=2400
+note 25=2474
+note 26=2588
+note 27=2709
+note 28=2782
+note 29=2901
+note 30=2972
+note 31=3095
+note 32=3176
+note 33=3285
+note 34=3407
+note 35=3476
+note 36=3600
+note 37=3674
+note 38=3788
+note 39=3909
+note 40=3982
+note 41=4101
+note 42=4172
+note 43=4295
+note 44=4376
+note 45=4485
+note 46=4607
+note 47=4676
+note 48=4800
+note 49=4874
+note 50=4988
+note 51=5109
+note 52=5182
+note 53=5301
+note 54=5372
+note 55=5495
+note 56=5576
+note 57=5685
+note 58=5807
+note 59=5876
+note 60=6000
+note 61=6074
+note 62=6188
+note 63=6309
+note 64=6382
+note 65=6501
+note 66=6572
+note 67=6695
+note 68=6776
+note 69=6885
+note 70=7007
+note 71=7076
+note 72=7200
+note 73=7274
+note 74=7388
+note 75=7509
+note 76=7582
+note 77=7701
+note 78=7772
+note 79=7895
+note 80=7976
+note 81=8085
+note 82=8207
+note 83=8276
+note 84=8400
+note 85=8474
+note 86=8588
+note 87=8709
+note 88=8782
+note 89=8901
+note 90=8972
+note 91=9095
+note 92=9176
+note 93=9285
+note 94=9407
+note 95=9476
+note 96=9600
+note 97=9674
+note 98=9788
+note 99=9909
+note 100=9982
+note 101=10101
+note 102=10172
+note 103=10295
+note 104=10376
+note 105=10485
+note 106=10607
+note 107=10676
+note 108=10800
+note 109=10874
+note 110=10988
+note 111=11109
+note 112=11182
+note 113=11301
+note 114=11372
+note 115=11495
+note 116=11576
+note 117=11685
+note 118=11807
+note 119=11876
+note 120=12000
+note 121=12074
+note 122=12188
+note 123=12309
+note 124=12382
+note 125=12501
+note 126=12572
+note 127=12695
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_slendro_m-mean.tun"
+ID= "ID_dudon_slendro_m-mean.tun"
+Filename= "dudon_slendro_m-mean.scl"
+Description= "Wilson meantone from Bb to F# extended in a Slendro M on black keys"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 74.324594
+note 2= 188.307787
+note 3= 309.357309
+note 4= 382.007159
+note 5= 500.731166
+note 6= 571.725653
+note 7= 694.771447
+note 8= 775.635654
+note 9= 885.433680
+note 10= 1006.809748
+note 11= 1076.038878
+note 12= 1200.000000
+note 13= 1274.324594
+note 14= 1388.307787
+note 15= 1509.357309
+note 16= 1582.007159
+note 17= 1700.731166
+note 18= 1771.725653
+note 19= 1894.771447
+note 20= 1975.635654
+note 21= 2085.433680
+note 22= 2206.809748
+note 23= 2276.038878
+note 24= 2400.000000
+note 25= 2474.324594
+note 26= 2588.307787
+note 27= 2709.357309
+note 28= 2782.007159
+note 29= 2900.731166
+note 30= 2971.725653
+note 31= 3094.771447
+note 32= 3175.635654
+note 33= 3285.433680
+note 34= 3406.809748
+note 35= 3476.038878
+note 36= 3600.000000
+note 37= 3674.324594
+note 38= 3788.307787
+note 39= 3909.357309
+note 40= 3982.007159
+note 41= 4100.731166
+note 42= 4171.725653
+note 43= 4294.771447
+note 44= 4375.635654
+note 45= 4485.433680
+note 46= 4606.809748
+note 47= 4676.038878
+note 48= 4800.000000
+note 49= 4874.324594
+note 50= 4988.307787
+note 51= 5109.357309
+note 52= 5182.007159
+note 53= 5300.731166
+note 54= 5371.725653
+note 55= 5494.771447
+note 56= 5575.635654
+note 57= 5685.433680
+note 58= 5806.809748
+note 59= 5876.038878
+note 60= 6000.000000
+note 61= 6074.324594
+note 62= 6188.307787
+note 63= 6309.357309
+note 64= 6382.007159
+note 65= 6500.731166
+note 66= 6571.725653
+note 67= 6694.771447
+note 68= 6775.635654
+note 69= 6885.433680
+note 70= 7006.809748
+note 71= 7076.038878
+note 72= 7200.000000
+note 73= 7274.324594
+note 74= 7388.307787
+note 75= 7509.357309
+note 76= 7582.007159
+note 77= 7700.731166
+note 78= 7771.725653
+note 79= 7894.771447
+note 80= 7975.635654
+note 81= 8085.433680
+note 82= 8206.809748
+note 83= 8276.038878
+note 84= 8400.000000
+note 85= 8474.324594
+note 86= 8588.307787
+note 87= 8709.357309
+note 88= 8782.007159
+note 89= 8900.731166
+note 90= 8971.725653
+note 91= 9094.771447
+note 92= 9175.635654
+note 93= 9285.433680
+note 94= 9406.809748
+note 95= 9476.038878
+note 96= 9600.000000
+note 97= 9674.324594
+note 98= 9788.307787
+note 99= 9909.357309
+note 100= 9982.007159
+note 101= 10100.731166
+note 102= 10171.725653
+note 103= 10294.771447
+note 104= 10375.635654
+note 105= 10485.433680
+note 106= 10606.809748
+note 107= 10676.038878
+note 108= 10800.000000
+note 109= 10874.324594
+note 110= 10988.307787
+note 111= 11109.357309
+note 112= 11182.007159
+note 113= 11300.731166
+note 114= 11371.725653
+note 115= 11494.771447
+note 116= 11575.635654
+note 117= 11685.433680
+note 118= 11806.809748
+note 119= 11876.038878
+note 120= 12000.000000
+note 121= 12074.324594
+note 122= 12188.307787
+note 123= 12309.357309
+note 124= 12382.007159
+note 125= 12500.731166
+note 126= 12571.725653
+note 127= 12694.771447
+
+[Functional Tuning]
+note 1="#=0 * 2689/2576"
+note 2="#=0 * 359/322"
+note 3="#=0 * 55/46"
+note 4="#=0 * 803/644"
+note 5="#=0 * 215/161"
+note 6="#=0 * 32/23"
+note 7="#=0 * 481/322"
+note 8="#=0 * 36/23"
+note 9="#=0 * 537/322"
+note 10="#=0 * 288/161"
+note 11="#=0 * 1199/644"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

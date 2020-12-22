@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Broadwood's Usual (Ellis tuner number 2), Victorian (1885)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=197
+note 3=297
+note 4=392
+note 5=499
+note 6=594
+note 7=700
+note 8=796
+note 9=894
+note 10=998
+note 11=1093
+note 12=1200
+note 13=1295
+note 14=1397
+note 15=1497
+note 16=1592
+note 17=1699
+note 18=1794
+note 19=1900
+note 20=1996
+note 21=2094
+note 22=2198
+note 23=2293
+note 24=2400
+note 25=2495
+note 26=2597
+note 27=2697
+note 28=2792
+note 29=2899
+note 30=2994
+note 31=3100
+note 32=3196
+note 33=3294
+note 34=3398
+note 35=3493
+note 36=3600
+note 37=3695
+note 38=3797
+note 39=3897
+note 40=3992
+note 41=4099
+note 42=4194
+note 43=4300
+note 44=4396
+note 45=4494
+note 46=4598
+note 47=4693
+note 48=4800
+note 49=4895
+note 50=4997
+note 51=5097
+note 52=5192
+note 53=5299
+note 54=5394
+note 55=5500
+note 56=5596
+note 57=5694
+note 58=5798
+note 59=5893
+note 60=6000
+note 61=6095
+note 62=6197
+note 63=6297
+note 64=6392
+note 65=6499
+note 66=6594
+note 67=6700
+note 68=6796
+note 69=6894
+note 70=6998
+note 71=7093
+note 72=7200
+note 73=7295
+note 74=7397
+note 75=7497
+note 76=7592
+note 77=7699
+note 78=7794
+note 79=7900
+note 80=7996
+note 81=8094
+note 82=8198
+note 83=8293
+note 84=8400
+note 85=8495
+note 86=8597
+note 87=8697
+note 88=8792
+note 89=8899
+note 90=8994
+note 91=9100
+note 92=9196
+note 93=9294
+note 94=9398
+note 95=9493
+note 96=9600
+note 97=9695
+note 98=9797
+note 99=9897
+note 100=9992
+note 101=10099
+note 102=10194
+note 103=10300
+note 104=10396
+note 105=10494
+note 106=10598
+note 107=10693
+note 108=10800
+note 109=10895
+note 110=10997
+note 111=11097
+note 112=11192
+note 113=11299
+note 114=11394
+note 115=11500
+note 116=11596
+note 117=11694
+note 118=11798
+note 119=11893
+note 120=12000
+note 121=12095
+note 122=12197
+note 123=12297
+note 124=12392
+note 125=12499
+note 126=12594
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "broadwood2.tun"
+ID= "ID_broadwood2.tun"
+Filename= "broadwood2.scl"
+Description= "Broadwood's Usual (Ellis tuner number 2), Victorian (1885)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.965010
+note 2= 196.990000
+note 3= 296.955010
+note 4= 391.980000
+note 5= 498.945010
+note 6= 593.970010
+note 7= 699.995000
+note 8= 795.960010
+note 9= 893.985000
+note 10= 997.950010
+note 11= 1092.975000
+note 12= 1200.000000
+note 13= 1294.965010
+note 14= 1396.990000
+note 15= 1496.955010
+note 16= 1591.980000
+note 17= 1698.945010
+note 18= 1793.970010
+note 19= 1899.995000
+note 20= 1995.960010
+note 21= 2093.985000
+note 22= 2197.950010
+note 23= 2292.975000
+note 24= 2400.000000
+note 25= 2494.965010
+note 26= 2596.990000
+note 27= 2696.955010
+note 28= 2791.980000
+note 29= 2898.945010
+note 30= 2993.970010
+note 31= 3099.995000
+note 32= 3195.960010
+note 33= 3293.985000
+note 34= 3397.950010
+note 35= 3492.975000
+note 36= 3600.000000
+note 37= 3694.965010
+note 38= 3796.990000
+note 39= 3896.955010
+note 40= 3991.980000
+note 41= 4098.945010
+note 42= 4193.970010
+note 43= 4299.995000
+note 44= 4395.960010
+note 45= 4493.985000
+note 46= 4597.950010
+note 47= 4692.975000
+note 48= 4800.000000
+note 49= 4894.965010
+note 50= 4996.990000
+note 51= 5096.955010
+note 52= 5191.980000
+note 53= 5298.945010
+note 54= 5393.970010
+note 55= 5499.995000
+note 56= 5595.960010
+note 57= 5693.985000
+note 58= 5797.950010
+note 59= 5892.975000
+note 60= 6000.000000
+note 61= 6094.965010
+note 62= 6196.990000
+note 63= 6296.955010
+note 64= 6391.980000
+note 65= 6498.945010
+note 66= 6593.970010
+note 67= 6699.995000
+note 68= 6795.960010
+note 69= 6893.985000
+note 70= 6997.950010
+note 71= 7092.975000
+note 72= 7200.000000
+note 73= 7294.965010
+note 74= 7396.990000
+note 75= 7496.955010
+note 76= 7591.980000
+note 77= 7698.945010
+note 78= 7793.970010
+note 79= 7899.995000
+note 80= 7995.960010
+note 81= 8093.985000
+note 82= 8197.950010
+note 83= 8292.975000
+note 84= 8400.000000
+note 85= 8494.965010
+note 86= 8596.990000
+note 87= 8696.955010
+note 88= 8791.980000
+note 89= 8898.945010
+note 90= 8993.970010
+note 91= 9099.995000
+note 92= 9195.960010
+note 93= 9293.985000
+note 94= 9397.950010
+note 95= 9492.975000
+note 96= 9600.000000
+note 97= 9694.965010
+note 98= 9796.990000
+note 99= 9896.955010
+note 100= 9991.980000
+note 101= 10098.945010
+note 102= 10193.970010
+note 103= 10299.995000
+note 104= 10395.960010
+note 105= 10493.985000
+note 106= 10597.950010
+note 107= 10692.975000
+note 108= 10800.000000
+note 109= 10894.965010
+note 110= 10996.990000
+note 111= 11096.955010
+note 112= 11191.980000
+note 113= 11298.945010
+note 114= 11393.970010
+note 115= 11499.995000
+note 116= 11595.960010
+note 117= 11693.985000
+note 118= 11797.950010
+note 119= 11892.975000
+note 120= 12000.000000
+note 121= 12094.965010
+note 122= 12196.990000
+note 123= 12296.955010
+note 124= 12391.980000
+note 125= 12498.945010
+note 126= 12593.970010
+note 127= 12699.995000
+
+[Functional Tuning]
+note 1="#=0 % 94.965010"
+note 2="#=0 % 196.990000"
+note 3="#=0 % 296.955010"
+note 4="#=0 % 391.980000"
+note 5="#=0 % 498.945010"
+note 6="#=0 % 593.970010"
+note 7="#=0 % 699.995000"
+note 8="#=0 % 795.960010"
+note 9="#=0 % 893.985000"
+note 10="#=0 % 997.950010"
+note 11="#=0 % 1092.975000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

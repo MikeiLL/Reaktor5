@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Second eikohole ball
+;
+; VAZ Plus section
+[Tuning]
+note 0=2014
+note 1=2053
+note 2=2116
+note 3=2218
+note 4=2281
+note 5=2319
+note 6=2400
+note 7=2431
+note 8=2484
+note 9=2551
+note 10=2635
+note 11=2716
+note 12=2818
+note 13=2898
+note 14=2983
+note 15=3049
+note 16=3102
+note 17=3133
+note 18=3214
+note 19=3253
+note 20=3316
+note 21=3418
+note 22=3481
+note 23=3519
+note 24=3600
+note 25=3631
+note 26=3684
+note 27=3751
+note 28=3835
+note 29=3916
+note 30=4018
+note 31=4098
+note 32=4183
+note 33=4249
+note 34=4302
+note 35=4333
+note 36=4414
+note 37=4453
+note 38=4516
+note 39=4618
+note 40=4681
+note 41=4719
+note 42=4800
+note 43=4831
+note 44=4884
+note 45=4951
+note 46=5035
+note 47=5116
+note 48=5218
+note 49=5298
+note 50=5383
+note 51=5449
+note 52=5502
+note 53=5533
+note 54=5614
+note 55=5653
+note 56=5716
+note 57=5818
+note 58=5881
+note 59=5919
+note 60=6000
+note 61=6031
+note 62=6084
+note 63=6151
+note 64=6235
+note 65=6316
+note 66=6418
+note 67=6498
+note 68=6583
+note 69=6649
+note 70=6702
+note 71=6733
+note 72=6814
+note 73=6853
+note 74=6916
+note 75=7018
+note 76=7081
+note 77=7119
+note 78=7200
+note 79=7231
+note 80=7284
+note 81=7351
+note 82=7435
+note 83=7516
+note 84=7618
+note 85=7698
+note 86=7783
+note 87=7849
+note 88=7902
+note 89=7933
+note 90=8014
+note 91=8053
+note 92=8116
+note 93=8218
+note 94=8281
+note 95=8319
+note 96=8400
+note 97=8431
+note 98=8484
+note 99=8551
+note 100=8635
+note 101=8716
+note 102=8818
+note 103=8898
+note 104=8983
+note 105=9049
+note 106=9102
+note 107=9133
+note 108=9214
+note 109=9253
+note 110=9316
+note 111=9418
+note 112=9481
+note 113=9519
+note 114=9600
+note 115=9631
+note 116=9684
+note 117=9751
+note 118=9835
+note 119=9916
+note 120=10018
+note 121=10098
+note 122=10183
+note 123=10249
+note 124=10302
+note 125=10333
+note 126=10414
+note 127=10453
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "eikohole2.tun"
+ID= "ID_eikohole2.tun"
+Filename= "eikohole2.scl"
+Description= "Second eikohole ball"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2013.686286
+note 1= 2052.592059
+note 2= 2115.552963
+note 3= 2217.596288
+note 4= 2280.557192
+note 5= 2319.462965
+note 6= 2400.000000
+note 7= 2431.194250
+note 8= 2484.467193
+note 9= 2550.637059
+note 10= 2635.104252
+note 11= 2715.641287
+note 12= 2817.507964
+note 13= 2898.044999
+note 14= 2982.512193
+note 15= 3048.682058
+note 16= 3101.955001
+note 17= 3133.149251
+note 18= 3213.686286
+note 19= 3252.592059
+note 20= 3315.552963
+note 21= 3417.596288
+note 22= 3480.557192
+note 23= 3519.462965
+note 24= 3600.000000
+note 25= 3631.194250
+note 26= 3684.467193
+note 27= 3750.637059
+note 28= 3835.104252
+note 29= 3915.641287
+note 30= 4017.507964
+note 31= 4098.044999
+note 32= 4182.512193
+note 33= 4248.682058
+note 34= 4301.955001
+note 35= 4333.149251
+note 36= 4413.686286
+note 37= 4452.592059
+note 38= 4515.552963
+note 39= 4617.596288
+note 40= 4680.557192
+note 41= 4719.462965
+note 42= 4800.000000
+note 43= 4831.194250
+note 44= 4884.467193
+note 45= 4950.637059
+note 46= 5035.104252
+note 47= 5115.641287
+note 48= 5217.507964
+note 49= 5298.044999
+note 50= 5382.512193
+note 51= 5448.682058
+note 52= 5501.955001
+note 53= 5533.149251
+note 54= 5613.686286
+note 55= 5652.592059
+note 56= 5715.552963
+note 57= 5817.596288
+note 58= 5880.557192
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6031.194250
+note 62= 6084.467193
+note 63= 6150.637059
+note 64= 6235.104252
+note 65= 6315.641287
+note 66= 6417.507964
+note 67= 6498.044999
+note 68= 6582.512193
+note 69= 6648.682058
+note 70= 6701.955001
+note 71= 6733.149251
+note 72= 6813.686286
+note 73= 6852.592059
+note 74= 6915.552963
+note 75= 7017.596288
+note 76= 7080.557192
+note 77= 7119.462965
+note 78= 7200.000000
+note 79= 7231.194250
+note 80= 7284.467193
+note 81= 7350.637059
+note 82= 7435.104252
+note 83= 7515.641287
+note 84= 7617.507964
+note 85= 7698.044999
+note 86= 7782.512193
+note 87= 7848.682058
+note 88= 7901.955001
+note 89= 7933.149251
+note 90= 8013.686286
+note 91= 8052.592059
+note 92= 8115.552963
+note 93= 8217.596288
+note 94= 8280.557192
+note 95= 8319.462965
+note 96= 8400.000000
+note 97= 8431.194250
+note 98= 8484.467193
+note 99= 8550.637059
+note 100= 8635.104252
+note 101= 8715.641287
+note 102= 8817.507964
+note 103= 8898.044999
+note 104= 8982.512193
+note 105= 9048.682058
+note 106= 9101.955001
+note 107= 9133.149251
+note 108= 9213.686286
+note 109= 9252.592059
+note 110= 9315.552963
+note 111= 9417.596288
+note 112= 9480.557192
+note 113= 9519.462965
+note 114= 9600.000000
+note 115= 9631.194250
+note 116= 9684.467193
+note 117= 9750.637059
+note 118= 9835.104252
+note 119= 9915.641287
+note 120= 10017.507964
+note 121= 10098.044999
+note 122= 10182.512193
+note 123= 10248.682058
+note 124= 10301.955001
+note 125= 10333.149251
+note 126= 10413.686286
+note 127= 10452.592059
+
+[Functional Tuning]
+note 1="#=0 * 56/55"
+note 2="#=0 * 21/20"
+note 3="#=0 * 12/11"
+note 4="#=0 * 63/55"
+note 5="#=0 * 6/5"
+note 6="#=0 * 14/11"
+note 7="#=0 * 4/3"
+note 8="#=0 * 7/5"
+note 9="#=0 * 16/11"
+note 10="#=0 * 3/2"
+note 11="#=0 * 84/55"
+note 12="#=0 * 8/5"
+note 13="#=0 * 18/11"
+note 14="#=0 * 56/33"
+note 15="#=0 * 9/5"
+note 16="#=0 * 28/15"
+note 17="#=0 * 21/11"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

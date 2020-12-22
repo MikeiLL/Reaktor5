@@ -1,0 +1,335 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sparschuh's rational 53-tone with some epimoric biased 5ths (2010)
+;
+; VAZ Plus section
+[Tuning]
+note 0=4635
+note 1=4661
+note 2=4688
+note 3=4711
+note 4=4732
+note 5=4747
+note 6=4773
+note 7=4800
+note 8=4827
+note 9=4853
+note 10=4868
+note 11=4889
+note 12=4912
+note 13=4939
+note 14=4965
+note 15=4982
+note 16=5004
+note 17=5031
+note 18=5050
+note 19=5067
+note 20=5094
+note 21=5116
+note 22=5147
+note 23=5159
+note 24=5186
+note 25=5208
+note 26=5235
+note 27=5248
+note 28=5271
+note 29=5298
+note 30=5323
+note 31=5351
+note 32=5363
+note 33=5383
+note 34=5417
+note 35=5437
+note 36=5449
+note 37=5477
+note 38=5502
+note 39=5529
+note 40=5552
+note 41=5565
+note 42=5592
+note 43=5614
+note 44=5641
+note 45=5653
+note 46=5684
+note 47=5706
+note 48=5733
+note 49=5750
+note 50=5769
+note 51=5796
+note 52=5818
+note 53=5835
+note 54=5861
+note 55=5888
+note 56=5911
+note 57=5932
+note 58=5947
+note 59=5973
+note 60=6000
+note 61=6027
+note 62=6053
+note 63=6068
+note 64=6089
+note 65=6112
+note 66=6139
+note 67=6165
+note 68=6182
+note 69=6204
+note 70=6231
+note 71=6250
+note 72=6267
+note 73=6294
+note 74=6316
+note 75=6347
+note 76=6359
+note 77=6386
+note 78=6408
+note 79=6435
+note 80=6448
+note 81=6471
+note 82=6498
+note 83=6523
+note 84=6551
+note 85=6563
+note 86=6583
+note 87=6617
+note 88=6637
+note 89=6649
+note 90=6677
+note 91=6702
+note 92=6729
+note 93=6752
+note 94=6765
+note 95=6792
+note 96=6814
+note 97=6841
+note 98=6853
+note 99=6884
+note 100=6906
+note 101=6933
+note 102=6950
+note 103=6969
+note 104=6996
+note 105=7018
+note 106=7035
+note 107=7061
+note 108=7088
+note 109=7111
+note 110=7132
+note 111=7147
+note 112=7173
+note 113=7200
+note 114=7227
+note 115=7253
+note 116=7268
+note 117=7289
+note 118=7312
+note 119=7339
+note 120=7365
+note 121=7382
+note 122=7404
+note 123=7431
+note 124=7450
+note 125=7467
+note 126=7494
+note 127=7516
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sparschuh_ji53.tun"
+ID= "ID_sparschuh_ji53.tun"
+Filename= "sparschuh_ji53.scl"
+Description= "Sparschuh's rational 53-tone with some epimoric biased 5ths (2010)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4634.995772
+note 1= 4661.427339
+note 2= 4688.268715
+note 3= 4711.199302
+note 4= 4732.099766
+note 5= 4746.727057
+note 6= 4773.158624
+note 7= 4800.000000
+note 8= 4826.841376
+note 9= 4853.272943
+note 10= 4867.900234
+note 11= 4888.800698
+note 12= 4911.731285
+note 13= 4938.572661
+note 14= 4965.004228
+note 15= 4982.403712
+note 16= 5003.910002
+note 17= 5031.174094
+note 18= 5050.303946
+note 19= 5066.870906
+note 20= 5094.134997
+note 21= 5115.641287
+note 22= 5147.407941
+note 23= 5159.472338
+note 24= 5186.313714
+note 25= 5207.820003
+note 26= 5235.084095
+note 27= 5248.150075
+note 28= 5270.780907
+note 29= 5298.044999
+note 30= 5323.318938
+note 31= 5351.317942
+note 32= 5363.382340
+note 33= 5382.512193
+note 34= 5417.487807
+note 35= 5436.617660
+note 36= 5448.682058
+note 37= 5476.681062
+note 38= 5501.955001
+note 39= 5529.219093
+note 40= 5551.849925
+note 41= 5564.915905
+note 42= 5592.179997
+note 43= 5613.686286
+note 44= 5640.527662
+note 45= 5652.592059
+note 46= 5684.358713
+note 47= 5705.865003
+note 48= 5733.129094
+note 49= 5749.696054
+note 50= 5768.825906
+note 51= 5796.089998
+note 52= 5817.596288
+note 53= 5834.995772
+note 54= 5861.427339
+note 55= 5888.268715
+note 56= 5911.199302
+note 57= 5932.099766
+note 58= 5946.727057
+note 59= 5973.158624
+note 60= 6000.000000
+note 61= 6026.841376
+note 62= 6053.272943
+note 63= 6067.900234
+note 64= 6088.800698
+note 65= 6111.731285
+note 66= 6138.572661
+note 67= 6165.004228
+note 68= 6182.403712
+note 69= 6203.910002
+note 70= 6231.174094
+note 71= 6250.303946
+note 72= 6266.870906
+note 73= 6294.134997
+note 74= 6315.641287
+note 75= 6347.407941
+note 76= 6359.472338
+note 77= 6386.313714
+note 78= 6407.820003
+note 79= 6435.084095
+note 80= 6448.150075
+note 81= 6470.780907
+note 82= 6498.044999
+note 83= 6523.318938
+note 84= 6551.317942
+note 85= 6563.382340
+note 86= 6582.512193
+note 87= 6617.487807
+note 88= 6636.617660
+note 89= 6648.682058
+note 90= 6676.681062
+note 91= 6701.955001
+note 92= 6729.219093
+note 93= 6751.849925
+note 94= 6764.915905
+note 95= 6792.179997
+note 96= 6813.686286
+note 97= 6840.527662
+note 98= 6852.592059
+note 99= 6884.358713
+note 100= 6905.865003
+note 101= 6933.129094
+note 102= 6949.696054
+note 103= 6968.825906
+note 104= 6996.089998
+note 105= 7017.596288
+note 106= 7034.995772
+note 107= 7061.427339
+note 108= 7088.268715
+note 109= 7111.199302
+note 110= 7132.099766
+note 111= 7146.727057
+note 112= 7173.158624
+note 113= 7200.000000
+note 114= 7226.841376
+note 115= 7253.272943
+note 116= 7267.900234
+note 117= 7288.800698
+note 118= 7311.731285
+note 119= 7338.572661
+note 120= 7365.004228
+note 121= 7382.403712
+note 122= 7403.910002
+note 123= 7431.174094
+note 124= 7450.303946
+note 125= 7466.870906
+note 126= 7494.134997
+note 127= 7515.641287
+
+[Functional Tuning]
+note 1="#=0 * 65/64"
+note 2="#=0 * 33/32"
+note 3="#=0 * 26/25"
+note 4="#=0 * 20/19"
+note 5="#=0 * 16/15"
+note 6="#=0 * 13/12"
+note 7="#=0 * 11/10"
+note 8="#=0 * 10/9"
+note 9="#=0 * 9/8"
+note 10="#=0 * 8/7"
+note 11="#=0 * 52/45"
+note 12="#=0 * 7/6"
+note 13="#=0 * 32/27"
+note 14="#=0 * 6/5"
+note 15="#=0 * 11/9"
+note 16="#=0 * 16/13"
+note 17="#=0 * 5/4"
+note 18="#=0 * 81/64"
+note 19="#=0 * 9/7"
+note 20="#=0 * 57/44"
+note 21="#=0 * 21/16"
+note 22="#=0 * 4/3"
+note 23="#=0 * 23/17"
+note 24="#=0 * 11/8"
+note 25="#=0 * 18/13"
+note 26="#=0 * 7/5"
+note 27="#=0 * 10/7"
+note 28="#=0 * 13/9"
+note 29="#=0 * 16/11"
+note 30="#=0 * 34/23"
+note 31="#=0 * 3/2"
+note 32="#=0 * 32/21"
+note 33="#=0 * 88/57"
+note 34="#=0 * 14/9"
+note 35="#=0 * 128/81"
+note 36="#=0 * 8/5"
+note 37="#=0 * 13/8"
+note 38="#=0 * 18/11"
+note 39="#=0 * 5/3"
+note 40="#=0 * 27/16"
+note 41="#=0 * 12/7"
+note 42="#=0 * 45/26"
+note 43="#=0 * 7/4"
+note 44="#=0 * 16/9"
+note 45="#=0 * 9/5"
+note 46="#=0 * 20/11"
+note 47="#=0 * 24/13"
+note 48="#=0 * 15/8"
+note 49="#=0 * 19/10"
+note 50="#=0 * 25/13"
+note 51="#=0 * 64/33"
+note 52="#=0 * 128/65"
+note 53="#>-53 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

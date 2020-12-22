@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Lydia Ayers, NINETEEN, for 19 for the 90's CD. Repeats at 37/19 (or 2/1)
+;
+; VAZ Plus section
+[Tuning]
+note 0=2181
+note 1=2265
+note 2=2354
+note 3=2400
+note 4=2447
+note 5=2496
+note 6=2546
+note 7=2598
+note 8=2651
+note 9=2706
+note 10=2763
+note 11=2822
+note 12=2883
+note 13=2945
+note 14=3011
+note 15=3079
+note 16=3149
+note 17=3223
+note 18=3300
+note 19=3381
+note 20=3465
+note 21=3554
+note 22=3600
+note 23=3647
+note 24=3696
+note 25=3746
+note 26=3798
+note 27=3851
+note 28=3906
+note 29=3963
+note 30=4022
+note 31=4083
+note 32=4145
+note 33=4211
+note 34=4279
+note 35=4349
+note 36=4423
+note 37=4500
+note 38=4581
+note 39=4665
+note 40=4754
+note 41=4800
+note 42=4847
+note 43=4896
+note 44=4946
+note 45=4998
+note 46=5051
+note 47=5106
+note 48=5163
+note 49=5222
+note 50=5283
+note 51=5345
+note 52=5411
+note 53=5479
+note 54=5549
+note 55=5623
+note 56=5700
+note 57=5781
+note 58=5865
+note 59=5954
+note 60=6000
+note 61=6047
+note 62=6096
+note 63=6146
+note 64=6198
+note 65=6251
+note 66=6306
+note 67=6363
+note 68=6422
+note 69=6483
+note 70=6545
+note 71=6611
+note 72=6679
+note 73=6749
+note 74=6823
+note 75=6900
+note 76=6981
+note 77=7065
+note 78=7154
+note 79=7200
+note 80=7247
+note 81=7296
+note 82=7346
+note 83=7398
+note 84=7451
+note 85=7506
+note 86=7563
+note 87=7622
+note 88=7683
+note 89=7745
+note 90=7811
+note 91=7879
+note 92=7949
+note 93=8023
+note 94=8100
+note 95=8181
+note 96=8265
+note 97=8354
+note 98=8400
+note 99=8447
+note 100=8496
+note 101=8546
+note 102=8598
+note 103=8651
+note 104=8706
+note 105=8763
+note 106=8822
+note 107=8883
+note 108=8945
+note 109=9011
+note 110=9079
+note 111=9149
+note 112=9223
+note 113=9300
+note 114=9381
+note 115=9465
+note 116=9554
+note 117=9600
+note 118=9647
+note 119=9696
+note 120=9746
+note 121=9798
+note 122=9851
+note 123=9906
+note 124=9963
+note 125=10022
+note 126=10083
+note 127=10145
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ayers_19.tun"
+ID= "ID_ayers_19.tun"
+Filename= "ayers_19.scl"
+Description= "Lydia Ayers, NINETEEN, for 19 for the 90's CD. Repeats at 37/19 (or 2/1)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2180.563131
+note 1= 2265.030325
+note 2= 2353.831023
+note 3= 2400.000000
+note 4= 2447.434037
+note 5= 2496.204418
+note 6= 2546.388629
+note 7= 2598.071096
+note 8= 2651.344039
+note 9= 2706.308466
+note 10= 2763.075324
+note 11= 2821.766845
+note 12= 2882.518132
+note 13= 2945.479036
+note 14= 3010.816377
+note 15= 3078.716611
+note 16= 3149.389038
+note 17= 3223.069691
+note 18= 3300.026096
+note 19= 3380.563131
+note 20= 3465.030325
+note 21= 3553.831023
+note 22= 3600.000000
+note 23= 3647.434037
+note 24= 3696.204418
+note 25= 3746.388629
+note 26= 3798.071096
+note 27= 3851.344039
+note 28= 3906.308466
+note 29= 3963.075324
+note 30= 4021.766845
+note 31= 4082.518132
+note 32= 4145.479036
+note 33= 4210.816377
+note 34= 4278.716611
+note 35= 4349.389038
+note 36= 4423.069691
+note 37= 4500.026096
+note 38= 4580.563131
+note 39= 4665.030325
+note 40= 4753.831023
+note 41= 4800.000000
+note 42= 4847.434037
+note 43= 4896.204418
+note 44= 4946.388629
+note 45= 4998.071096
+note 46= 5051.344039
+note 47= 5106.308466
+note 48= 5163.075324
+note 49= 5221.766845
+note 50= 5282.518132
+note 51= 5345.479036
+note 52= 5410.816377
+note 53= 5478.716611
+note 54= 5549.389038
+note 55= 5623.069691
+note 56= 5700.026096
+note 57= 5780.563131
+note 58= 5865.030325
+note 59= 5953.831023
+note 60= 6000.000000
+note 61= 6047.434037
+note 62= 6096.204418
+note 63= 6146.388629
+note 64= 6198.071096
+note 65= 6251.344039
+note 66= 6306.308466
+note 67= 6363.075324
+note 68= 6421.766845
+note 69= 6482.518132
+note 70= 6545.479036
+note 71= 6610.816377
+note 72= 6678.716611
+note 73= 6749.389038
+note 74= 6823.069691
+note 75= 6900.026096
+note 76= 6980.563131
+note 77= 7065.030325
+note 78= 7153.831023
+note 79= 7200.000000
+note 80= 7247.434037
+note 81= 7296.204418
+note 82= 7346.388629
+note 83= 7398.071096
+note 84= 7451.344039
+note 85= 7506.308466
+note 86= 7563.075324
+note 87= 7621.766845
+note 88= 7682.518132
+note 89= 7745.479036
+note 90= 7810.816377
+note 91= 7878.716611
+note 92= 7949.389038
+note 93= 8023.069691
+note 94= 8100.026096
+note 95= 8180.563131
+note 96= 8265.030325
+note 97= 8353.831023
+note 98= 8400.000000
+note 99= 8447.434037
+note 100= 8496.204418
+note 101= 8546.388629
+note 102= 8598.071096
+note 103= 8651.344039
+note 104= 8706.308466
+note 105= 8763.075324
+note 106= 8821.766845
+note 107= 8882.518132
+note 108= 8945.479036
+note 109= 9010.816377
+note 110= 9078.716611
+note 111= 9149.389038
+note 112= 9223.069691
+note 113= 9300.026096
+note 114= 9380.563131
+note 115= 9465.030325
+note 116= 9553.831023
+note 117= 9600.000000
+note 118= 9647.434037
+note 119= 9696.204418
+note 120= 9746.388629
+note 121= 9798.071096
+note 122= 9851.344039
+note 123= 9906.308466
+note 124= 9963.075324
+note 125= 10021.766845
+note 126= 10082.518132
+note 127= 10145.479036
+
+[Functional Tuning]
+note 1="#=0 * 37/36"
+note 2="#=0 * 37/35"
+note 3="#=0 * 37/34"
+note 4="#=0 * 37/33"
+note 5="#=0 * 37/32"
+note 6="#=0 * 37/31"
+note 7="#=0 * 37/30"
+note 8="#=0 * 37/29"
+note 9="#=0 * 37/28"
+note 10="#=0 * 37/27"
+note 11="#=0 * 37/26"
+note 12="#=0 * 37/25"
+note 13="#=0 * 37/24"
+note 14="#=0 * 37/23"
+note 15="#=0 * 37/22"
+note 16="#=0 * 37/21"
+note 17="#=0 * 37/20"
+note 18="#=0 * 37/19"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

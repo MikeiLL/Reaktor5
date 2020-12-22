@@ -1,0 +1,328 @@
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Various\
+
+Scale.ism		Writing: OK
+4Control.ism		Writing: OK
+Mapper.ism		Writing: OK
+Microtune.ism		Writing: OK
+Scratcher.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Soundeffects\
+
+AM+HP.ism		Writing: OK
+Planets.ism		Writing: OK
+Howl.ism		Writing: OK
+Shepard Tone.ism		Writing: OK
+Soundtrack.ism		Writing: OK
+Random 3Pole.ism		Writing: OK
+Par_extreme.ism		Writing: OK
+Colored Noise.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Delay, Echo\
+
+Echo 4-tap stereo.ism		Writing: OK
+Echo 2-tap A.ism		Writing: OK
+Echo 2-tap B.ism		Writing: OK
+Echo 4-tap.ism		Writing: OK
+Delay filter A.ism		Writing: OK
+Delay filter B.ism		Writing: OK
+Delay grain.ism		Writing: OK
+Echo 2-tap stereo.ism		Writing: OK
+Delay modulation.ism		Writing: OK
+Delay stereo pseudo.ism		Writing: OK
+Delay two times.ism		Writing: OK
+Delay A.ism		Writing: OK
+Delay B.ism		Writing: OK
+Delay C.ism		Writing: OK
+Delay stereo beat-sync.ism		Writing: OK
+Delay pitch.ism		Writing: OK
+Delay stereo A.ism		Writing: OK
+Delay stereo B.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sample - Wavesynth\
+
+Tabulator.ism		Writing: OK
+WaveSetter.ism		Writing: OK
+Vibrator.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Pitch, Time Shift\
+
+Pitch shifter.ism		Writing: OK
+Pitch shifter 4-band.ism		Writing: OK
+Pitch delay.ism		Writing: OK
+First stretch.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Surround\
+
+5.1 Surround Delay.ism		Writing: OK
+5.1 Surround Matrix.ism		Writing: OK
+5.1 Surround Panner.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - Organ\
+
+8 Bars.ism		Writing: OK
+Shaper Organ.ism		Writing: OK
+Adding 8 Osc.ism		Writing: OK
+Pulse Organ.ism		Writing: OK
+6 Bars.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - Drums\
+
+Percussion (YazzYea).ism		Writing: OK
+BassDrum+.ism		Writing: OK
+OscDrum2.ism		Writing: OK
+Agogo.ism		Writing: OK
+PerCussC.ism		Writing: OK
+Claps.ism		Writing: OK
+SimpleDrum.ism		Writing: OK
+Reson2Drum.ism		Writing: OK
+Bass Drum.ism		Writing: OK
+Mr Snare.ism		Writing: OK
+RingModBell.ism		Writing: OK
+OscDrum1c.ism		Writing: OK
+Synare.ism		Writing: OK
+Dr Bassdrum.ism		Writing: OK
+DrumDown.ism		Writing: OK
+FM-Shaker.ism		Writing: OK
+El Cymbal.ism		Writing: OK
+Percussion FM 4.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sequenced Synths\
+
+NewsCool.ism		Writing: OK
+BiMachine.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Reverb, Rooms\
+
+Rooms A.ism		Writing: OK
+Rooms B.ism		Writing: OK
+Reverb A.ism		Writing: OK
+Reverb B.ism		Writing: OK
+Reflector A.ism		Writing: OK
+Reflector B.ism		Writing: OK
+Reflector C.ism		Writing: OK
+Reverberator.ism		Writing: OK
+Reverberator RND.ism		Writing: OK
+Mono to stereo.ism		Writing: OK
+Input diffuser.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Chorus, Flanger, Phaser\
+
+Flanger S+H.ism		Writing: OK
+Flanger stereo.ism		Writing: OK
+Chorus filter.ism		Writing: OK
+Chorus quad.ism		Writing: OK
+Chorus twin.ism		Writing: OK
+Flanger 2X.ism		Writing: OK
+Chorus A.ism		Writing: OK
+Chorus B.ism		Writing: OK
+Phaser A.ism		Writing: OK
+Phaser B.ism		Writing: OK
+Flanger filter.ism		Writing: OK
+Chorus.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Ring, Freq, Amp Mod\
+
+Gapper.ism		Writing: OK
+Ring mod stereo.ism		Writing: OK
+Ring mod AB.ism		Writing: OK
+Vibrato.ism		Writing: OK
+Ring mod MIDI.ism		Writing: OK
+Tremolo MIDI.ism		Writing: OK
+Tremolo.ism		Writing: OK
+Six rings.ism		Writing: OK
+Ring mod.ism		Writing: OK
+Wacky FM.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Recorder\
+
+Rec Stereo (Level).ism		Writing: OK
+Rec Stereo (Loop).ism		Writing: OK
+Rec Mono (Note, Fade).ism		Writing: OK
+Rec Stereo (Simple).ism		Writing: OK
+Rec Mono (Level).ism		Writing: OK
+Rec Mono (Loop).ism		Writing: OK
+Rec Stereo (Note, Fade).ism		Writing: OK
+Rec Mono (Simple).ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sequencer - Percussion\
+
+Drum Dyna 3.ism		Writing: OK
+Drum Dyna 5.ism		Writing: OK
+Drum Static 3.ism		Writing: OK
+Drum Static 5.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - Vintage\
+
+S.E.M.ism		Writing: OK
+333.ism		Writing: OK
+Juno.ism		Writing: OK
+SH-101.ism		Writing: OK
+MiniMood.ism		Writing: OK
+MS-20.ism		Writing: OK
+Rogue.ism		Writing: OK
+Prophet 5.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Dynamics\
+
+Limiter soft-knee,stereo.ism		Writing: OK
+Compressor stereo.ism		Writing: OK
+Limiter soft-knee,mono.ism		Writing: OK
+Compressor mono.ism		Writing: OK
+Gate stereo.ism		Writing: OK
+Gate MIDI.ism		Writing: OK
+Limiter prec,stereo.ism		Writing: OK
+Acc Gate mono.ism		Writing: OK
+Acc Gate stereo.ism		Writing: OK
+Limiter soft.ism		Writing: OK
+Gate expander.ism		Writing: OK
+Limiter prec,mono.ism		Writing: OK
+Velocity gain.ism		Writing: OK
+Compressor magic.ism		Writing: OK
+Envelope follower.ism		Writing: OK
+Gate mono.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sample - Transform\
+
+Plasma.ism		Writing: OK
+Granulator.ism		Writing: OK
+Kompressor.ism		Writing: OK
+Destructor.ism		Writing: OK
+BPMStretcher.ism		Writing: OK
+Loopo.ism		Writing: OK
+ReVoice.ism		Writing: OK
+Formantor.ism		Writing: OK
+Stimulant.ism		Writing: OK
+Diktaphon.ism		Writing: OK
+Impaktor.ism		Writing: OK
+Simulant.ism		Writing: OK
+Beat Looper.ism		Writing: OK
+TimeStretcher.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sample - Drums\
+
+Gonzzo Classic.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sample - Playback\
+
+Sampler Filter.ism		Writing: OK
+Diletant.ism		Writing: OK
+Sampler AR.ism		Writing: OK
+Sampler ADSR.ism		Writing: OK
+Sampler AR Start.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Sequencer - Melody\
+
+Big Control Seq.ism		Writing: OK
+Big 2 Seq.ism		Writing: OK
+Experimental Seq.ism		Writing: OK
+Big Seq.ism		Writing: OK
+Control Seq.ism		Writing: OK
+Simple Seq.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Laszlie, Panorama\
+
+Auto panner.ism		Writing: OK
+Laszlie HR,treble.ism		Writing: OK
+Laszlie H-R.ism		Writing: OK
+Panner filter,delay.ism		Writing: OK
+Laszlie simple.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - Resonator\
+
+Tanga.ism		Writing: OK
+Tanga Dual.ism		Writing: OK
+DriveResA.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Overdrive, Distortion\
+
+Evil amplifier.ism		Writing: OK
+SSB radio.ism		Writing: OK
+Distortion.ism		Writing: OK
+Overdrive FB.ism		Writing: OK
+One bit.ism		Writing: OK
+Overdrive A.ism		Writing: OK
+Overdrive B.ism		Writing: OK
+Overdrive C.ism		Writing: OK
+Quantization.ism		Writing: OK
+Self mod.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\FX - Vocoder, Filtering\
+
+Resonator.ism		Writing: OK
+Bandpass variator 4-Band.ism		Writing: OK
+Vocoder A 5.ism		Writing: OK
+Filter 24 db.ism		Writing: OK
+Autowah.ism		Writing: OK
+Filter resonator 4-Band.ism		Writing: OK
+Vocoder B 5.ism		Writing: OK
+Filter notch.ism		Writing: OK
+Resiner 8-Band.ism		Writing: OK
+Formants.ism		Writing: OK
+Resiner harmonic 8-Band.ism		Writing: OK
+Vowel-morph.ism		Writing: OK
+EQ shelving.ism		Writing: OK
+Filter env follower.ism		Writing: OK
+Filter step LFO.ism		Writing: OK
+EQ parametic 2-Band.ism		Writing: OK
+Vocoder R 8.ism		Writing: OK
+Renoiser 8-Band.ism		Writing: OK
+EQ 3-Band.ism		Writing: OK
+Filter 8-pole lowpass.ism		Writing: OK
+Filter comb.ism		Writing: OK
+Micro synth.ism		Writing: OK
+Filter 12-Band.ism		Writing: OK
+EQ parametic.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - Analog\
+
+Pad.ism		Writing: OK
+Bassline.ism		Writing: OK
+OneOsc 2.ism		Writing: OK
+Double Synth.ism		Writing: OK
+OneOsc 5.ism		Writing: OK
+Uranus.ism		Writing: OK
+Classic 2-VCO.ism		Writing: OK
+Pico Lead.ism		Writing: OK
+SoundforumSynthR3.ism		Writing: OK
+ThreeOsc.ism		Writing: OK
+Mood4.ism		Writing: OK
+Dual PWM.ism		Writing: OK
+Step Osc.ism		Writing: OK
+TwoOsc.ism		Writing: OK
+Decay!.ism		Writing: OK
+7Saws+Casc.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Synth - FM\
+
+FM 2 Samples.ism		Writing: OK
+Fat FM.ism		Writing: OK
+Puls-Filt-FM.ism		Writing: OK
+FM 2 Ops.ism		Writing: OK
+Slow Carriers.ism		Writing: OK
+FM Puls Mod.ism		Writing: OK
+Chopped Filter.ism		Writing: OK
+AMonica.ism		Writing: OK
+FM-Sample.ism		Writing: OK
+FM 3 Ops A.ism		Writing: OK
+FM 3 Ops B.ism		Writing: OK
+Percussion FM 4.ism		Writing: OK
+FM 5 Ops.ism		Writing: OK
+Filtered FM.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\Analyzer, Display\
+
+EasyScope.ism		Writing: OK
+8-band Analyzer.ism		Writing: OK
+Frequency Tracker.ism		Writing: OK
+NoteScope.ism		Writing: OK
+Chromatic Tuner.ism		Writing: OK
+Oscilloscope.ism		Writing: OK
+
+C:\Dokumente und Einstellungen\Stephan\Eigene Dateien\Reaktor 5\Instruments\Essentials\_New\
+
+In2Out2.ism		Writing: OK
+Out1.ism		Writing: OK
+Out2.ism		Writing: OK
+Empty.ism		Writing: OK
+In1Out1.ism		Writing: OK

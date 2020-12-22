@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Neil Haverstick, just guitar tuning, TL 19-07-2007
+;
+; VAZ Plus section
+[Tuning]
+note 0=2582
+note 1=2604
+note 2=2698
+note 3=2716
+note 4=2786
+note 5=2871
+note 6=2898
+note 7=2951
+note 8=3028
+note 9=3102
+note 10=3173
+note 11=3241
+note 12=3284
+note 13=3306
+note 14=3369
+note 15=3430
+note 16=3488
+note 17=3545
+note 18=3600
+note 19=3671
+note 20=3705
+note 21=3782
+note 22=3804
+note 23=3898
+note 24=3916
+note 25=3986
+note 26=4071
+note 27=4098
+note 28=4151
+note 29=4228
+note 30=4302
+note 31=4373
+note 32=4441
+note 33=4484
+note 34=4506
+note 35=4569
+note 36=4630
+note 37=4688
+note 38=4745
+note 39=4800
+note 40=4871
+note 41=4905
+note 42=4982
+note 43=5004
+note 44=5098
+note 45=5116
+note 46=5186
+note 47=5271
+note 48=5298
+note 49=5351
+note 50=5428
+note 51=5502
+note 52=5573
+note 53=5641
+note 54=5684
+note 55=5706
+note 56=5769
+note 57=5830
+note 58=5888
+note 59=5945
+note 60=6000
+note 61=6071
+note 62=6105
+note 63=6182
+note 64=6204
+note 65=6298
+note 66=6316
+note 67=6386
+note 68=6471
+note 69=6498
+note 70=6551
+note 71=6628
+note 72=6702
+note 73=6773
+note 74=6841
+note 75=6884
+note 76=6906
+note 77=6969
+note 78=7030
+note 79=7088
+note 80=7145
+note 81=7200
+note 82=7271
+note 83=7305
+note 84=7382
+note 85=7404
+note 86=7498
+note 87=7516
+note 88=7586
+note 89=7671
+note 90=7698
+note 91=7751
+note 92=7828
+note 93=7902
+note 94=7973
+note 95=8041
+note 96=8084
+note 97=8106
+note 98=8169
+note 99=8230
+note 100=8288
+note 101=8345
+note 102=8400
+note 103=8471
+note 104=8505
+note 105=8582
+note 106=8604
+note 107=8698
+note 108=8716
+note 109=8786
+note 110=8871
+note 111=8898
+note 112=8951
+note 113=9028
+note 114=9102
+note 115=9173
+note 116=9241
+note 117=9284
+note 118=9306
+note 119=9369
+note 120=9430
+note 121=9488
+note 122=9545
+note 123=9600
+note 124=9671
+note 125=9705
+note 126=9782
+note 127=9804
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "haverstick21.tun"
+ID= "ID_haverstick21.tun"
+Filename= "haverstick21.scl"
+Description= "Neil Haverstick, just guitar tuning, TL 19-07-2007"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2582.403712
+note 1= 2603.910002
+note 2= 2697.513016
+note 3= 2715.641287
+note 4= 2786.313714
+note 5= 2870.780907
+note 6= 2898.044999
+note 7= 2951.317942
+note 8= 3028.274347
+note 9= 3101.955001
+note 10= 3172.627428
+note 11= 3240.527662
+note 12= 3284.358713
+note 13= 3305.865003
+note 14= 3368.825906
+note 15= 3429.577194
+note 16= 3488.268715
+note 17= 3545.035572
+note 18= 3600.000000
+note 19= 3670.672427
+note 20= 3704.955410
+note 21= 3782.403712
+note 22= 3803.910002
+note 23= 3897.513016
+note 24= 3915.641287
+note 25= 3986.313714
+note 26= 4070.780907
+note 27= 4098.044999
+note 28= 4151.317942
+note 29= 4228.274347
+note 30= 4301.955001
+note 31= 4372.627428
+note 32= 4440.527662
+note 33= 4484.358713
+note 34= 4505.865003
+note 35= 4568.825906
+note 36= 4629.577194
+note 37= 4688.268715
+note 38= 4745.035572
+note 39= 4800.000000
+note 40= 4870.672427
+note 41= 4904.955410
+note 42= 4982.403712
+note 43= 5003.910002
+note 44= 5097.513016
+note 45= 5115.641287
+note 46= 5186.313714
+note 47= 5270.780907
+note 48= 5298.044999
+note 49= 5351.317942
+note 50= 5428.274347
+note 51= 5501.955001
+note 52= 5572.627428
+note 53= 5640.527662
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5768.825906
+note 57= 5829.577194
+note 58= 5888.268715
+note 59= 5945.035572
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6104.955410
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6297.513016
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6470.780907
+note 69= 6498.044999
+note 70= 6551.317942
+note 71= 6628.274347
+note 72= 6701.955001
+note 73= 6772.627428
+note 74= 6840.527662
+note 75= 6884.358713
+note 76= 6905.865003
+note 77= 6968.825906
+note 78= 7029.577194
+note 79= 7088.268715
+note 80= 7145.035572
+note 81= 7200.000000
+note 82= 7270.672427
+note 83= 7304.955410
+note 84= 7382.403712
+note 85= 7403.910002
+note 86= 7497.513016
+note 87= 7515.641287
+note 88= 7586.313714
+note 89= 7670.780907
+note 90= 7698.044999
+note 91= 7751.317942
+note 92= 7828.274347
+note 93= 7901.955001
+note 94= 7972.627428
+note 95= 8040.527662
+note 96= 8084.358713
+note 97= 8105.865003
+note 98= 8168.825906
+note 99= 8229.577194
+note 100= 8288.268715
+note 101= 8345.035572
+note 102= 8400.000000
+note 103= 8470.672427
+note 104= 8504.955410
+note 105= 8582.403712
+note 106= 8603.910002
+note 107= 8697.513016
+note 108= 8715.641287
+note 109= 8786.313714
+note 110= 8870.780907
+note 111= 8898.044999
+note 112= 8951.317942
+note 113= 9028.274347
+note 114= 9101.955001
+note 115= 9172.627428
+note 116= 9240.527662
+note 117= 9284.358713
+note 118= 9305.865003
+note 119= 9368.825906
+note 120= 9429.577194
+note 121= 9488.268715
+note 122= 9545.035572
+note 123= 9600.000000
+note 124= 9670.672427
+note 125= 9704.955410
+note 126= 9782.403712
+note 127= 9803.910002
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 17/16"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 19/16"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 21/16"
+note 9="#=0 * 4/3"
+note 10="#=0 * 11/8"
+note 11="#=0 * 23/16"
+note 12="#=0 * 3/2"
+note 13="#=0 * 25/16"
+note 14="#=0 * 13/8"
+note 15="#=0 * 5/3"
+note 16="#=0 * 27/16"
+note 17="#=0 * 7/4"
+note 18="#=0 * 29/16"
+note 19="#=0 * 15/8"
+note 20="#=0 * 31/16"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Holder's irregular e.b. temperament with improved Eb and G#
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=81
+note 2=194
+note 3=307
+note 4=388
+note 5=503
+note 6=584
+note 7=696
+note 8=780
+note 9=890
+note 10=1005
+note 11=1085
+note 12=1200
+note 13=1281
+note 14=1394
+note 15=1507
+note 16=1588
+note 17=1703
+note 18=1784
+note 19=1896
+note 20=1980
+note 21=2090
+note 22=2205
+note 23=2285
+note 24=2400
+note 25=2481
+note 26=2594
+note 27=2707
+note 28=2788
+note 29=2903
+note 30=2984
+note 31=3096
+note 32=3180
+note 33=3290
+note 34=3405
+note 35=3485
+note 36=3600
+note 37=3681
+note 38=3794
+note 39=3907
+note 40=3988
+note 41=4103
+note 42=4184
+note 43=4296
+note 44=4380
+note 45=4490
+note 46=4605
+note 47=4685
+note 48=4800
+note 49=4881
+note 50=4994
+note 51=5107
+note 52=5188
+note 53=5303
+note 54=5384
+note 55=5496
+note 56=5580
+note 57=5690
+note 58=5805
+note 59=5885
+note 60=6000
+note 61=6081
+note 62=6194
+note 63=6307
+note 64=6388
+note 65=6503
+note 66=6584
+note 67=6696
+note 68=6780
+note 69=6890
+note 70=7005
+note 71=7085
+note 72=7200
+note 73=7281
+note 74=7394
+note 75=7507
+note 76=7588
+note 77=7703
+note 78=7784
+note 79=7896
+note 80=7980
+note 81=8090
+note 82=8205
+note 83=8285
+note 84=8400
+note 85=8481
+note 86=8594
+note 87=8707
+note 88=8788
+note 89=8903
+note 90=8984
+note 91=9096
+note 92=9180
+note 93=9290
+note 94=9405
+note 95=9485
+note 96=9600
+note 97=9681
+note 98=9794
+note 99=9907
+note 100=9988
+note 101=10103
+note 102=10184
+note 103=10296
+note 104=10380
+note 105=10490
+note 106=10605
+note 107=10685
+note 108=10800
+note 109=10881
+note 110=10994
+note 111=11107
+note 112=11188
+note 113=11303
+note 114=11384
+note 115=11496
+note 116=11580
+note 117=11690
+note 118=11805
+note 119=11885
+note 120=12000
+note 121=12081
+note 122=12194
+note 123=12307
+note 124=12388
+note 125=12503
+note 126=12584
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "holder2.tun"
+ID= "ID_holder2.tun"
+Filename= "holder2.scl"
+Description= "Holder's irregular e.b. temperament with improved Eb and G#"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 81.473000
+note 2= 193.586000
+note 3= 307.401000
+note 4= 388.267000
+note 5= 502.671000
+note 6= 583.932000
+note 7= 695.768000
+note 8= 780.479000
+note 9= 890.009000
+note 10= 1004.813000
+note 11= 1085.279000
+note 12= 1200.000000
+note 13= 1281.473000
+note 14= 1393.586000
+note 15= 1507.401000
+note 16= 1588.267000
+note 17= 1702.671000
+note 18= 1783.932000
+note 19= 1895.768000
+note 20= 1980.479000
+note 21= 2090.009000
+note 22= 2204.813000
+note 23= 2285.279000
+note 24= 2400.000000
+note 25= 2481.473000
+note 26= 2593.586000
+note 27= 2707.401000
+note 28= 2788.267000
+note 29= 2902.671000
+note 30= 2983.932000
+note 31= 3095.768000
+note 32= 3180.479000
+note 33= 3290.009000
+note 34= 3404.813000
+note 35= 3485.279000
+note 36= 3600.000000
+note 37= 3681.473000
+note 38= 3793.586000
+note 39= 3907.401000
+note 40= 3988.267000
+note 41= 4102.671000
+note 42= 4183.932000
+note 43= 4295.768000
+note 44= 4380.479000
+note 45= 4490.009000
+note 46= 4604.813000
+note 47= 4685.279000
+note 48= 4800.000000
+note 49= 4881.473000
+note 50= 4993.586000
+note 51= 5107.401000
+note 52= 5188.267000
+note 53= 5302.671000
+note 54= 5383.932000
+note 55= 5495.768000
+note 56= 5580.479000
+note 57= 5690.009000
+note 58= 5804.813000
+note 59= 5885.279000
+note 60= 6000.000000
+note 61= 6081.473000
+note 62= 6193.586000
+note 63= 6307.401000
+note 64= 6388.267000
+note 65= 6502.671000
+note 66= 6583.932000
+note 67= 6695.768000
+note 68= 6780.479000
+note 69= 6890.009000
+note 70= 7004.813000
+note 71= 7085.279000
+note 72= 7200.000000
+note 73= 7281.473000
+note 74= 7393.586000
+note 75= 7507.401000
+note 76= 7588.267000
+note 77= 7702.671000
+note 78= 7783.932000
+note 79= 7895.768000
+note 80= 7980.479000
+note 81= 8090.009000
+note 82= 8204.813000
+note 83= 8285.279000
+note 84= 8400.000000
+note 85= 8481.473000
+note 86= 8593.586000
+note 87= 8707.401000
+note 88= 8788.267000
+note 89= 8902.671000
+note 90= 8983.932000
+note 91= 9095.768000
+note 92= 9180.479000
+note 93= 9290.009000
+note 94= 9404.813000
+note 95= 9485.279000
+note 96= 9600.000000
+note 97= 9681.473000
+note 98= 9793.586000
+note 99= 9907.401000
+note 100= 9988.267000
+note 101= 10102.671000
+note 102= 10183.932000
+note 103= 10295.768000
+note 104= 10380.479000
+note 105= 10490.009000
+note 106= 10604.813000
+note 107= 10685.279000
+note 108= 10800.000000
+note 109= 10881.473000
+note 110= 10993.586000
+note 111= 11107.401000
+note 112= 11188.267000
+note 113= 11302.671000
+note 114= 11383.932000
+note 115= 11495.768000
+note 116= 11580.479000
+note 117= 11690.009000
+note 118= 11804.813000
+note 119= 11885.279000
+note 120= 12000.000000
+note 121= 12081.473000
+note 122= 12193.586000
+note 123= 12307.401000
+note 124= 12388.267000
+note 125= 12502.671000
+note 126= 12583.932000
+note 127= 12695.768000
+
+[Functional Tuning]
+note 1="#=0 % 81.473000"
+note 2="#=0 % 193.586000"
+note 3="#=0 % 307.401000"
+note 4="#=0 % 388.267000"
+note 5="#=0 % 502.671000"
+note 6="#=0 % 583.932000"
+note 7="#=0 % 695.768000"
+note 8="#=0 % 780.479000"
+note 9="#=0 % 890.009000"
+note 10="#=0 % 1004.813000"
+note 11="#=0 % 1085.279000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

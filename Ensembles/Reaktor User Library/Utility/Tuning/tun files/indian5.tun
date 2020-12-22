@@ -1,0 +1,305 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 23 Shrutis, Amit Mitra, 1/1 no. 12:2, Table C.
+;
+; VAZ Plus section
+[Tuning]
+note 0=2898
+note 1=2920
+note 2=2990
+note 3=3010
+note 4=3080
+note 5=3102
+note 6=3192
+note 7=3214
+note 8=3284
+note 9=3306
+note 10=3396
+note 11=3418
+note 12=3488
+note 13=3510
+note 14=3600
+note 15=3690
+note 16=3712
+note 17=3782
+note 18=3804
+note 19=3894
+note 20=3916
+note 21=3986
+note 22=4008
+note 23=4098
+note 24=4120
+note 25=4190
+note 26=4210
+note 27=4280
+note 28=4302
+note 29=4392
+note 30=4414
+note 31=4484
+note 32=4506
+note 33=4596
+note 34=4618
+note 35=4688
+note 36=4710
+note 37=4800
+note 38=4890
+note 39=4912
+note 40=4982
+note 41=5004
+note 42=5094
+note 43=5116
+note 44=5186
+note 45=5208
+note 46=5298
+note 47=5320
+note 48=5390
+note 49=5410
+note 50=5480
+note 51=5502
+note 52=5592
+note 53=5614
+note 54=5684
+note 55=5706
+note 56=5796
+note 57=5818
+note 58=5888
+note 59=5910
+note 60=6000
+note 61=6090
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6294
+note 66=6316
+note 67=6386
+note 68=6408
+note 69=6498
+note 70=6520
+note 71=6590
+note 72=6610
+note 73=6680
+note 74=6702
+note 75=6792
+note 76=6814
+note 77=6884
+note 78=6906
+note 79=6996
+note 80=7018
+note 81=7088
+note 82=7110
+note 83=7200
+note 84=7290
+note 85=7312
+note 86=7382
+note 87=7404
+note 88=7494
+note 89=7516
+note 90=7586
+note 91=7608
+note 92=7698
+note 93=7720
+note 94=7790
+note 95=7810
+note 96=7880
+note 97=7902
+note 98=7992
+note 99=8014
+note 100=8084
+note 101=8106
+note 102=8196
+note 103=8218
+note 104=8288
+note 105=8310
+note 106=8400
+note 107=8490
+note 108=8512
+note 109=8582
+note 110=8604
+note 111=8694
+note 112=8716
+note 113=8786
+note 114=8808
+note 115=8898
+note 116=8920
+note 117=8990
+note 118=9010
+note 119=9080
+note 120=9102
+note 121=9192
+note 122=9214
+note 123=9284
+note 124=9306
+note 125=9396
+note 126=9418
+note 127=9488
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian5.tun"
+ID= "ID_indian5.tun"
+Filename= "indian5.scl"
+Description= "23 Shrutis, Amit Mitra, 1/1 no. 12:2, Table C."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2898.044999
+note 1= 2919.551289
+note 2= 2990.223716
+note 3= 3009.776284
+note 4= 3080.448711
+note 5= 3101.955001
+note 6= 3192.179997
+note 7= 3213.686286
+note 8= 3284.358713
+note 9= 3305.865003
+note 10= 3396.089998
+note 11= 3417.596288
+note 12= 3488.268715
+note 13= 3509.775004
+note 14= 3600.000000
+note 15= 3690.224996
+note 16= 3711.731285
+note 17= 3782.403712
+note 18= 3803.910002
+note 19= 3894.134997
+note 20= 3915.641287
+note 21= 3986.313714
+note 22= 4007.820003
+note 23= 4098.044999
+note 24= 4119.551289
+note 25= 4190.223716
+note 26= 4209.776284
+note 27= 4280.448711
+note 28= 4301.955001
+note 29= 4392.179997
+note 30= 4413.686286
+note 31= 4484.358713
+note 32= 4505.865003
+note 33= 4596.089998
+note 34= 4617.596288
+note 35= 4688.268715
+note 36= 4709.775004
+note 37= 4800.000000
+note 38= 4890.224996
+note 39= 4911.731285
+note 40= 4982.403712
+note 41= 5003.910002
+note 42= 5094.134997
+note 43= 5115.641287
+note 44= 5186.313714
+note 45= 5207.820003
+note 46= 5298.044999
+note 47= 5319.551289
+note 48= 5390.223716
+note 49= 5409.776284
+note 50= 5480.448711
+note 51= 5501.955001
+note 52= 5592.179997
+note 53= 5613.686286
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5796.089998
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6294.134997
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6407.820003
+note 69= 6498.044999
+note 70= 6519.551289
+note 71= 6590.223716
+note 72= 6609.776284
+note 73= 6680.448711
+note 74= 6701.955001
+note 75= 6792.179997
+note 76= 6813.686286
+note 77= 6884.358713
+note 78= 6905.865003
+note 79= 6996.089998
+note 80= 7017.596288
+note 81= 7088.268715
+note 82= 7109.775004
+note 83= 7200.000000
+note 84= 7290.224996
+note 85= 7311.731285
+note 86= 7382.403712
+note 87= 7403.910002
+note 88= 7494.134997
+note 89= 7515.641287
+note 90= 7586.313714
+note 91= 7607.820003
+note 92= 7698.044999
+note 93= 7719.551289
+note 94= 7790.223716
+note 95= 7809.776284
+note 96= 7880.448711
+note 97= 7901.955001
+note 98= 7992.179997
+note 99= 8013.686286
+note 100= 8084.358713
+note 101= 8105.865003
+note 102= 8196.089998
+note 103= 8217.596288
+note 104= 8288.268715
+note 105= 8309.775004
+note 106= 8400.000000
+note 107= 8490.224996
+note 108= 8511.731285
+note 109= 8582.403712
+note 110= 8603.910002
+note 111= 8694.134997
+note 112= 8715.641287
+note 113= 8786.313714
+note 114= 8807.820003
+note 115= 8898.044999
+note 116= 8919.551289
+note 117= 8990.223716
+note 118= 9009.776284
+note 119= 9080.448711
+note 120= 9101.955001
+note 121= 9192.179997
+note 122= 9213.686286
+note 123= 9284.358713
+note 124= 9305.865003
+note 125= 9396.089998
+note 126= 9417.596288
+note 127= 9488.268715
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 32/27"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 81/64"
+note 9="#=0 * 4/3"
+note 10="#=0 * 27/20"
+note 11="#=0 * 45/32"
+note 12="#=0 * 64/45"
+note 13="#=0 * 40/27"
+note 14="#=0 * 3/2"
+note 15="#=0 * 128/81"
+note 16="#=0 * 8/5"
+note 17="#=0 * 5/3"
+note 18="#=0 * 27/16"
+note 19="#=0 * 16/9"
+note 20="#=0 * 9/5"
+note 21="#=0 * 15/8"
+note 22="#=0 * 243/128"
+note 23="#>-23 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

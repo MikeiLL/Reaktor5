@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Andreas Sparschuh, neo-Victorian temperament, C4 = 262 Hz or A = 440
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=90
+note 2=199
+note 3=302
+note 4=394
+note 5=501
+note 6=588
+note 7=702
+note 8=796
+note 9=898
+note 10=1004
+note 11=1091
+note 12=1200
+note 13=1290
+note 14=1399
+note 15=1502
+note 16=1594
+note 17=1701
+note 18=1788
+note 19=1902
+note 20=1996
+note 21=2098
+note 22=2204
+note 23=2291
+note 24=2400
+note 25=2490
+note 26=2599
+note 27=2702
+note 28=2794
+note 29=2901
+note 30=2988
+note 31=3102
+note 32=3196
+note 33=3298
+note 34=3404
+note 35=3491
+note 36=3600
+note 37=3690
+note 38=3799
+note 39=3902
+note 40=3994
+note 41=4101
+note 42=4188
+note 43=4302
+note 44=4396
+note 45=4498
+note 46=4604
+note 47=4691
+note 48=4800
+note 49=4890
+note 50=4999
+note 51=5102
+note 52=5194
+note 53=5301
+note 54=5388
+note 55=5502
+note 56=5596
+note 57=5698
+note 58=5804
+note 59=5891
+note 60=6000
+note 61=6090
+note 62=6199
+note 63=6302
+note 64=6394
+note 65=6501
+note 66=6588
+note 67=6702
+note 68=6796
+note 69=6898
+note 70=7004
+note 71=7091
+note 72=7200
+note 73=7290
+note 74=7399
+note 75=7502
+note 76=7594
+note 77=7701
+note 78=7788
+note 79=7902
+note 80=7996
+note 81=8098
+note 82=8204
+note 83=8291
+note 84=8400
+note 85=8490
+note 86=8599
+note 87=8702
+note 88=8794
+note 89=8901
+note 90=8988
+note 91=9102
+note 92=9196
+note 93=9298
+note 94=9404
+note 95=9491
+note 96=9600
+note 97=9690
+note 98=9799
+note 99=9902
+note 100=9994
+note 101=10101
+note 102=10188
+note 103=10302
+note 104=10396
+note 105=10498
+note 106=10604
+note 107=10691
+note 108=10800
+note 109=10890
+note 110=10999
+note 111=11102
+note 112=11194
+note 113=11301
+note 114=11388
+note 115=11502
+note 116=11596
+note 117=11698
+note 118=11804
+note 119=11891
+note 120=12000
+note 121=12090
+note 122=12199
+note 123=12302
+note 124=12394
+note 125=12501
+note 126=12588
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sparschuh-neovictorian2.tun"
+ID= "ID_sparschuh-neovictorian2.tun"
+Filename= "sparschuh-neovictorian2.scl"
+Description= "Andreas Sparschuh, neo-Victorian temperament, C4 = 262 Hz or A = 440"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 90.121746
+note 2= 199.499212
+note 3= 302.375061
+note 4= 394.224927
+note 5= 501.345732
+note 6= 588.166745
+note 7= 701.955001
+note 8= 796.253430
+note 9= 897.524054
+note 10= 1004.330062
+note 11= 1090.909805
+note 12= 1200.000000
+note 13= 1290.121746
+note 14= 1399.499212
+note 15= 1502.375061
+note 16= 1594.224927
+note 17= 1701.345732
+note 18= 1788.166745
+note 19= 1901.955001
+note 20= 1996.253430
+note 21= 2097.524054
+note 22= 2204.330062
+note 23= 2290.909805
+note 24= 2400.000000
+note 25= 2490.121746
+note 26= 2599.499212
+note 27= 2702.375061
+note 28= 2794.224927
+note 29= 2901.345732
+note 30= 2988.166745
+note 31= 3101.955001
+note 32= 3196.253430
+note 33= 3297.524054
+note 34= 3404.330062
+note 35= 3490.909805
+note 36= 3600.000000
+note 37= 3690.121746
+note 38= 3799.499212
+note 39= 3902.375061
+note 40= 3994.224927
+note 41= 4101.345732
+note 42= 4188.166745
+note 43= 4301.955001
+note 44= 4396.253430
+note 45= 4497.524054
+note 46= 4604.330062
+note 47= 4690.909805
+note 48= 4800.000000
+note 49= 4890.121746
+note 50= 4999.499212
+note 51= 5102.375061
+note 52= 5194.224927
+note 53= 5301.345732
+note 54= 5388.166745
+note 55= 5501.955001
+note 56= 5596.253430
+note 57= 5697.524054
+note 58= 5804.330062
+note 59= 5890.909805
+note 60= 6000.000000
+note 61= 6090.121746
+note 62= 6199.499212
+note 63= 6302.375061
+note 64= 6394.224927
+note 65= 6501.345732
+note 66= 6588.166745
+note 67= 6701.955001
+note 68= 6796.253430
+note 69= 6897.524054
+note 70= 7004.330062
+note 71= 7090.909805
+note 72= 7200.000000
+note 73= 7290.121746
+note 74= 7399.499212
+note 75= 7502.375061
+note 76= 7594.224927
+note 77= 7701.345732
+note 78= 7788.166745
+note 79= 7901.955001
+note 80= 7996.253430
+note 81= 8097.524054
+note 82= 8204.330062
+note 83= 8290.909805
+note 84= 8400.000000
+note 85= 8490.121746
+note 86= 8599.499212
+note 87= 8702.375061
+note 88= 8794.224927
+note 89= 8901.345732
+note 90= 8988.166745
+note 91= 9101.955001
+note 92= 9196.253430
+note 93= 9297.524054
+note 94= 9404.330062
+note 95= 9490.909805
+note 96= 9600.000000
+note 97= 9690.121746
+note 98= 9799.499212
+note 99= 9902.375061
+note 100= 9994.224927
+note 101= 10101.345732
+note 102= 10188.166745
+note 103= 10301.955001
+note 104= 10396.253430
+note 105= 10497.524054
+note 106= 10604.330062
+note 107= 10690.909805
+note 108= 10800.000000
+note 109= 10890.121746
+note 110= 10999.499212
+note 111= 11102.375061
+note 112= 11194.224927
+note 113= 11301.345732
+note 114= 11388.166745
+note 115= 11501.955001
+note 116= 11596.253430
+note 117= 11697.524054
+note 118= 11804.330062
+note 119= 11890.909805
+note 120= 12000.000000
+note 121= 12090.121746
+note 122= 12199.499212
+note 123= 12302.375061
+note 124= 12394.224927
+note 125= 12501.345732
+note 126= 12588.166745
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 138/131"
+note 2="#=0 * 147/131"
+note 3="#=0 * 156/131"
+note 4="#=0 * 329/262"
+note 5="#=0 * 175/131"
+note 6="#=0 * 184/131"
+note 7="#=0 * 3/2"
+note 8="#=0 * 415/262"
+note 9="#=0 * 220/131"
+note 10="#=0 * 234/131"
+note 11="#=0 * 246/131"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

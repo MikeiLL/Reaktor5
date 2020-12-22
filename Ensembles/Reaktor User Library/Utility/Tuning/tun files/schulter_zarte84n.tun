@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Zarlino temperament extraordinaire, 1024-tET mapping
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=70
+note 2=191
+note 3=287
+note 4=383
+note 5=504
+note 6=574
+note 7=696
+note 8=778
+note 9=887
+note 10=996
+note 11=1079
+note 12=1200
+note 13=1270
+note 14=1391
+note 15=1487
+note 16=1583
+note 17=1704
+note 18=1774
+note 19=1896
+note 20=1978
+note 21=2087
+note 22=2196
+note 23=2279
+note 24=2400
+note 25=2470
+note 26=2591
+note 27=2687
+note 28=2783
+note 29=2904
+note 30=2974
+note 31=3096
+note 32=3178
+note 33=3287
+note 34=3396
+note 35=3479
+note 36=3600
+note 37=3670
+note 38=3791
+note 39=3887
+note 40=3983
+note 41=4104
+note 42=4174
+note 43=4296
+note 44=4378
+note 45=4487
+note 46=4596
+note 47=4679
+note 48=4800
+note 49=4870
+note 50=4991
+note 51=5087
+note 52=5183
+note 53=5304
+note 54=5374
+note 55=5496
+note 56=5578
+note 57=5687
+note 58=5796
+note 59=5879
+note 60=6000
+note 61=6070
+note 62=6191
+note 63=6287
+note 64=6383
+note 65=6504
+note 66=6574
+note 67=6696
+note 68=6778
+note 69=6887
+note 70=6996
+note 71=7079
+note 72=7200
+note 73=7270
+note 74=7391
+note 75=7487
+note 76=7583
+note 77=7704
+note 78=7774
+note 79=7896
+note 80=7978
+note 81=8087
+note 82=8196
+note 83=8279
+note 84=8400
+note 85=8470
+note 86=8591
+note 87=8687
+note 88=8783
+note 89=8904
+note 90=8974
+note 91=9096
+note 92=9178
+note 93=9287
+note 94=9396
+note 95=9479
+note 96=9600
+note 97=9670
+note 98=9791
+note 99=9887
+note 100=9983
+note 101=10104
+note 102=10174
+note 103=10296
+note 104=10378
+note 105=10487
+note 106=10596
+note 107=10679
+note 108=10800
+note 109=10870
+note 110=10991
+note 111=11087
+note 112=11183
+note 113=11304
+note 114=11374
+note 115=11496
+note 116=11578
+note 117=11687
+note 118=11796
+note 119=11879
+note 120=12000
+note 121=12070
+note 122=12191
+note 123=12287
+note 124=12383
+note 125=12504
+note 126=12574
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schulter_zarte84n.tun"
+ID= "ID_schulter_zarte84n.tun"
+Filename= "schulter_zarte84n.scl"
+Description= "Zarlino temperament extraordinaire, 1024-tET mapping"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 70.312500
+note 2= 191.015620
+note 3= 287.109380
+note 4= 383.203130
+note 5= 503.906250
+note 6= 574.218750
+note 7= 696.093750
+note 8= 778.125000
+note 9= 887.109380
+note 10= 996.093750
+note 11= 1079.296880
+note 12= 1200.000000
+note 13= 1270.312500
+note 14= 1391.015620
+note 15= 1487.109380
+note 16= 1583.203130
+note 17= 1703.906250
+note 18= 1774.218750
+note 19= 1896.093750
+note 20= 1978.125000
+note 21= 2087.109380
+note 22= 2196.093750
+note 23= 2279.296880
+note 24= 2400.000000
+note 25= 2470.312500
+note 26= 2591.015620
+note 27= 2687.109380
+note 28= 2783.203130
+note 29= 2903.906250
+note 30= 2974.218750
+note 31= 3096.093750
+note 32= 3178.125000
+note 33= 3287.109380
+note 34= 3396.093750
+note 35= 3479.296880
+note 36= 3600.000000
+note 37= 3670.312500
+note 38= 3791.015620
+note 39= 3887.109380
+note 40= 3983.203130
+note 41= 4103.906250
+note 42= 4174.218750
+note 43= 4296.093750
+note 44= 4378.125000
+note 45= 4487.109380
+note 46= 4596.093750
+note 47= 4679.296880
+note 48= 4800.000000
+note 49= 4870.312500
+note 50= 4991.015620
+note 51= 5087.109380
+note 52= 5183.203130
+note 53= 5303.906250
+note 54= 5374.218750
+note 55= 5496.093750
+note 56= 5578.125000
+note 57= 5687.109380
+note 58= 5796.093750
+note 59= 5879.296880
+note 60= 6000.000000
+note 61= 6070.312500
+note 62= 6191.015620
+note 63= 6287.109380
+note 64= 6383.203130
+note 65= 6503.906250
+note 66= 6574.218750
+note 67= 6696.093750
+note 68= 6778.125000
+note 69= 6887.109380
+note 70= 6996.093750
+note 71= 7079.296880
+note 72= 7200.000000
+note 73= 7270.312500
+note 74= 7391.015620
+note 75= 7487.109380
+note 76= 7583.203130
+note 77= 7703.906250
+note 78= 7774.218750
+note 79= 7896.093750
+note 80= 7978.125000
+note 81= 8087.109380
+note 82= 8196.093750
+note 83= 8279.296880
+note 84= 8400.000000
+note 85= 8470.312500
+note 86= 8591.015620
+note 87= 8687.109380
+note 88= 8783.203130
+note 89= 8903.906250
+note 90= 8974.218750
+note 91= 9096.093750
+note 92= 9178.125000
+note 93= 9287.109380
+note 94= 9396.093750
+note 95= 9479.296880
+note 96= 9600.000000
+note 97= 9670.312500
+note 98= 9791.015620
+note 99= 9887.109380
+note 100= 9983.203130
+note 101= 10103.906250
+note 102= 10174.218750
+note 103= 10296.093750
+note 104= 10378.125000
+note 105= 10487.109380
+note 106= 10596.093750
+note 107= 10679.296880
+note 108= 10800.000000
+note 109= 10870.312500
+note 110= 10991.015620
+note 111= 11087.109380
+note 112= 11183.203130
+note 113= 11303.906250
+note 114= 11374.218750
+note 115= 11496.093750
+note 116= 11578.125000
+note 117= 11687.109380
+note 118= 11796.093750
+note 119= 11879.296880
+note 120= 12000.000000
+note 121= 12070.312500
+note 122= 12191.015620
+note 123= 12287.109380
+note 124= 12383.203130
+note 125= 12503.906250
+note 126= 12574.218750
+note 127= 12696.093750
+
+[Functional Tuning]
+note 1="#=0 % 70.312500"
+note 2="#=0 % 191.015620"
+note 3="#=0 % 287.109380"
+note 4="#=0 % 383.203130"
+note 5="#=0 % 503.906250"
+note 6="#=0 % 574.218750"
+note 7="#=0 % 696.093750"
+note 8="#=0 % 778.125000"
+note 9="#=0 % 887.109380"
+note 10="#=0 % 996.093750"
+note 11="#=0 % 1079.296880"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Salinas enharmonic system "instrumentum perfectum". Subset of Mersenne
+;
+; VAZ Plus section
+[Tuning]
+note 0=3010
+note 1=3031
+note 2=3102
+note 3=3173
+note 4=3214
+note 5=3284
+note 6=3355
+note 7=3377
+note 8=3396
+note 9=3418
+note 10=3488
+note 11=3559
+note 12=3600
+note 13=3671
+note 14=3712
+note 15=3782
+note 16=3804
+note 17=3875
+note 18=3916
+note 19=3986
+note 20=4057
+note 21=4098
+note 22=4169
+note 23=4190
+note 24=4210
+note 25=4231
+note 26=4302
+note 27=4373
+note 28=4414
+note 29=4484
+note 30=4555
+note 31=4577
+note 32=4596
+note 33=4618
+note 34=4688
+note 35=4759
+note 36=4800
+note 37=4871
+note 38=4912
+note 39=4982
+note 40=5004
+note 41=5075
+note 42=5116
+note 43=5186
+note 44=5257
+note 45=5298
+note 46=5369
+note 47=5390
+note 48=5410
+note 49=5431
+note 50=5502
+note 51=5573
+note 52=5614
+note 53=5684
+note 54=5755
+note 55=5777
+note 56=5796
+note 57=5818
+note 58=5888
+note 59=5959
+note 60=6000
+note 61=6071
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6275
+note 66=6316
+note 67=6386
+note 68=6457
+note 69=6498
+note 70=6569
+note 71=6590
+note 72=6610
+note 73=6631
+note 74=6702
+note 75=6773
+note 76=6814
+note 77=6884
+note 78=6955
+note 79=6977
+note 80=6996
+note 81=7018
+note 82=7088
+note 83=7159
+note 84=7200
+note 85=7271
+note 86=7312
+note 87=7382
+note 88=7404
+note 89=7475
+note 90=7516
+note 91=7586
+note 92=7657
+note 93=7698
+note 94=7769
+note 95=7790
+note 96=7810
+note 97=7831
+note 98=7902
+note 99=7973
+note 100=8014
+note 101=8084
+note 102=8155
+note 103=8177
+note 104=8196
+note 105=8218
+note 106=8288
+note 107=8359
+note 108=8400
+note 109=8471
+note 110=8512
+note 111=8582
+note 112=8604
+note 113=8675
+note 114=8716
+note 115=8786
+note 116=8857
+note 117=8898
+note 118=8969
+note 119=8990
+note 120=9010
+note 121=9031
+note 122=9102
+note 123=9173
+note 124=9214
+note 125=9284
+note 126=9355
+note 127=9377
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "salinas_24.tun"
+ID= "ID_salinas_24.tun"
+Filename= "salinas_24.scl"
+Description= "Salinas enharmonic system "instrumentum perfectum". Subset of Mersenne"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3009.776284
+note 1= 3031.282574
+note 2= 3101.955001
+note 3= 3172.627428
+note 4= 3213.686286
+note 5= 3284.358713
+note 6= 3355.031140
+note 7= 3376.537429
+note 8= 3396.089998
+note 9= 3417.596288
+note 10= 3488.268715
+note 11= 3558.941142
+note 12= 3600.000000
+note 13= 3670.672427
+note 14= 3711.731285
+note 15= 3782.403712
+note 16= 3803.910002
+note 17= 3874.582429
+note 18= 3915.641287
+note 19= 3986.313714
+note 20= 4056.986141
+note 21= 4098.044999
+note 22= 4168.717426
+note 23= 4190.223716
+note 24= 4209.776284
+note 25= 4231.282574
+note 26= 4301.955001
+note 27= 4372.627428
+note 28= 4413.686286
+note 29= 4484.358713
+note 30= 4555.031140
+note 31= 4576.537429
+note 32= 4596.089998
+note 33= 4617.596288
+note 34= 4688.268715
+note 35= 4758.941142
+note 36= 4800.000000
+note 37= 4870.672427
+note 38= 4911.731285
+note 39= 4982.403712
+note 40= 5003.910002
+note 41= 5074.582429
+note 42= 5115.641287
+note 43= 5186.313714
+note 44= 5256.986141
+note 45= 5298.044999
+note 46= 5368.717426
+note 47= 5390.223716
+note 48= 5409.776284
+note 49= 5431.282574
+note 50= 5501.955001
+note 51= 5572.627428
+note 52= 5613.686286
+note 53= 5684.358713
+note 54= 5755.031140
+note 55= 5776.537429
+note 56= 5796.089998
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6274.582429
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6456.986141
+note 69= 6498.044999
+note 70= 6568.717426
+note 71= 6590.223716
+note 72= 6609.776284
+note 73= 6631.282574
+note 74= 6701.955001
+note 75= 6772.627428
+note 76= 6813.686286
+note 77= 6884.358713
+note 78= 6955.031140
+note 79= 6976.537429
+note 80= 6996.089998
+note 81= 7017.596288
+note 82= 7088.268715
+note 83= 7158.941142
+note 84= 7200.000000
+note 85= 7270.672427
+note 86= 7311.731285
+note 87= 7382.403712
+note 88= 7403.910002
+note 89= 7474.582429
+note 90= 7515.641287
+note 91= 7586.313714
+note 92= 7656.986141
+note 93= 7698.044999
+note 94= 7768.717426
+note 95= 7790.223716
+note 96= 7809.776284
+note 97= 7831.282574
+note 98= 7901.955001
+note 99= 7972.627428
+note 100= 8013.686286
+note 101= 8084.358713
+note 102= 8155.031140
+note 103= 8176.537429
+note 104= 8196.089998
+note 105= 8217.596288
+note 106= 8288.268715
+note 107= 8358.941142
+note 108= 8400.000000
+note 109= 8470.672427
+note 110= 8511.731285
+note 111= 8582.403712
+note 112= 8603.910002
+note 113= 8674.582429
+note 114= 8715.641287
+note 115= 8786.313714
+note 116= 8856.986141
+note 117= 8898.044999
+note 118= 8968.717426
+note 119= 8990.223716
+note 120= 9009.776284
+note 121= 9031.282574
+note 122= 9101.955001
+note 123= 9172.627428
+note 124= 9213.686286
+note 125= 9284.358713
+note 126= 9355.031140
+note 127= 9376.537429
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 75/64"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 125/96"
+note 9="#=0 * 4/3"
+note 10="#=0 * 25/18"
+note 11="#=0 * 45/32"
+note 12="#=0 * 64/45"
+note 13="#=0 * 36/25"
+note 14="#=0 * 3/2"
+note 15="#=0 * 25/16"
+note 16="#=0 * 8/5"
+note 17="#=0 * 5/3"
+note 18="#=0 * 125/72"
+note 19="#=0 * 225/128"
+note 20="#=0 * 16/9"
+note 21="#=0 * 9/5"
+note 22="#=0 * 15/8"
+note 23="#=0 * 125/64"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

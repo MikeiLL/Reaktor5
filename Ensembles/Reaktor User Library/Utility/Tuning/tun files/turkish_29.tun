@@ -1,0 +1,311 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Gültekin Oransay, 29-tone Turkish gamut, 1/1=D
+;
+; VAZ Plus section
+[Tuning]
+note 0=3510
+note 1=3578
+note 2=3600
+note 3=3622
+note 4=3690
+note 5=3712
+note 6=3782
+note 7=3804
+note 8=3875
+note 9=3894
+note 10=3916
+note 11=3986
+note 12=4008
+note 13=4077
+note 14=4098
+note 15=4120
+note 16=4190
+note 17=4210
+note 18=4280
+note 19=4302
+note 20=4323
+note 21=4392
+note 22=4414
+note 23=4484
+note 24=4506
+note 25=4525
+note 26=4596
+note 27=4618
+note 28=4688
+note 29=4710
+note 30=4778
+note 31=4800
+note 32=4822
+note 33=4890
+note 34=4912
+note 35=4982
+note 36=5004
+note 37=5075
+note 38=5094
+note 39=5116
+note 40=5186
+note 41=5208
+note 42=5277
+note 43=5298
+note 44=5320
+note 45=5390
+note 46=5410
+note 47=5480
+note 48=5502
+note 49=5523
+note 50=5592
+note 51=5614
+note 52=5684
+note 53=5706
+note 54=5725
+note 55=5796
+note 56=5818
+note 57=5888
+note 58=5910
+note 59=5978
+note 60=6000
+note 61=6022
+note 62=6090
+note 63=6112
+note 64=6182
+note 65=6204
+note 66=6275
+note 67=6294
+note 68=6316
+note 69=6386
+note 70=6408
+note 71=6477
+note 72=6498
+note 73=6520
+note 74=6590
+note 75=6610
+note 76=6680
+note 77=6702
+note 78=6723
+note 79=6792
+note 80=6814
+note 81=6884
+note 82=6906
+note 83=6925
+note 84=6996
+note 85=7018
+note 86=7088
+note 87=7110
+note 88=7178
+note 89=7200
+note 90=7222
+note 91=7290
+note 92=7312
+note 93=7382
+note 94=7404
+note 95=7475
+note 96=7494
+note 97=7516
+note 98=7586
+note 99=7608
+note 100=7677
+note 101=7698
+note 102=7720
+note 103=7790
+note 104=7810
+note 105=7880
+note 106=7902
+note 107=7923
+note 108=7992
+note 109=8014
+note 110=8084
+note 111=8106
+note 112=8125
+note 113=8196
+note 114=8218
+note 115=8288
+note 116=8310
+note 117=8378
+note 118=8400
+note 119=8422
+note 120=8490
+note 121=8512
+note 122=8582
+note 123=8604
+note 124=8675
+note 125=8694
+note 126=8716
+note 127=8786
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "turkish_29.tun"
+ID= "ID_turkish_29.tun"
+Filename= "turkish_29.scl"
+Description= "Gültekin Oransay, 29-tone Turkish gamut, 1/1=D"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3509.775004
+note 1= 3578.493710
+note 2= 3600.000000
+note 3= 3621.506290
+note 4= 3690.224996
+note 5= 3711.731285
+note 6= 3782.403712
+note 7= 3803.910002
+note 8= 3874.582429
+note 9= 3894.134997
+note 10= 3915.641287
+note 11= 3986.313714
+note 12= 4007.820003
+note 13= 4076.538710
+note 14= 4098.044999
+note 15= 4119.551289
+note 16= 4190.223716
+note 17= 4209.776284
+note 18= 4280.448711
+note 19= 4301.955001
+note 20= 4323.461290
+note 21= 4392.179997
+note 22= 4413.686286
+note 23= 4484.358713
+note 24= 4505.865003
+note 25= 4525.417571
+note 26= 4596.089998
+note 27= 4617.596288
+note 28= 4688.268715
+note 29= 4709.775004
+note 30= 4778.493710
+note 31= 4800.000000
+note 32= 4821.506290
+note 33= 4890.224996
+note 34= 4911.731285
+note 35= 4982.403712
+note 36= 5003.910002
+note 37= 5074.582429
+note 38= 5094.134997
+note 39= 5115.641287
+note 40= 5186.313714
+note 41= 5207.820003
+note 42= 5276.538710
+note 43= 5298.044999
+note 44= 5319.551289
+note 45= 5390.223716
+note 46= 5409.776284
+note 47= 5480.448711
+note 48= 5501.955001
+note 49= 5523.461290
+note 50= 5592.179997
+note 51= 5613.686286
+note 52= 5684.358713
+note 53= 5705.865003
+note 54= 5725.417571
+note 55= 5796.089998
+note 56= 5817.596288
+note 57= 5888.268715
+note 58= 5909.775004
+note 59= 5978.493710
+note 60= 6000.000000
+note 61= 6021.506290
+note 62= 6090.224996
+note 63= 6111.731285
+note 64= 6182.403712
+note 65= 6203.910002
+note 66= 6274.582429
+note 67= 6294.134997
+note 68= 6315.641287
+note 69= 6386.313714
+note 70= 6407.820003
+note 71= 6476.538710
+note 72= 6498.044999
+note 73= 6519.551289
+note 74= 6590.223716
+note 75= 6609.776284
+note 76= 6680.448711
+note 77= 6701.955001
+note 78= 6723.461290
+note 79= 6792.179997
+note 80= 6813.686286
+note 81= 6884.358713
+note 82= 6905.865003
+note 83= 6925.417571
+note 84= 6996.089998
+note 85= 7017.596288
+note 86= 7088.268715
+note 87= 7109.775004
+note 88= 7178.493710
+note 89= 7200.000000
+note 90= 7221.506290
+note 91= 7290.224996
+note 92= 7311.731285
+note 93= 7382.403712
+note 94= 7403.910002
+note 95= 7474.582429
+note 96= 7494.134997
+note 97= 7515.641287
+note 98= 7586.313714
+note 99= 7607.820003
+note 100= 7676.538710
+note 101= 7698.044999
+note 102= 7719.551289
+note 103= 7790.223716
+note 104= 7809.776284
+note 105= 7880.448711
+note 106= 7901.955001
+note 107= 7923.461290
+note 108= 7992.179997
+note 109= 8013.686286
+note 110= 8084.358713
+note 111= 8105.865003
+note 112= 8125.417571
+note 113= 8196.089998
+note 114= 8217.596288
+note 115= 8288.268715
+note 116= 8309.775004
+note 117= 8378.493710
+note 118= 8400.000000
+note 119= 8421.506290
+note 120= 8490.224996
+note 121= 8511.731285
+note 122= 8582.403712
+note 123= 8603.910002
+note 124= 8674.582429
+note 125= 8694.134997
+note 126= 8715.641287
+note 127= 8786.313714
+
+[Functional Tuning]
+note 1="#=0 * 81/80"
+note 2="#=0 * 256/243"
+note 3="#=0 * 16/15"
+note 4="#=0 * 10/9"
+note 5="#=0 * 9/8"
+note 6="#=0 * 75/64"
+note 7="#=0 * 32/27"
+note 8="#=0 * 6/5"
+note 9="#=0 * 5/4"
+note 10="#=0 * 81/64"
+note 11="#=0 * 320/243"
+note 12="#=0 * 4/3"
+note 13="#=0 * 27/20"
+note 14="#=0 * 45/32"
+note 15="#=0 * 64/45"
+note 16="#=0 * 40/27"
+note 17="#=0 * 3/2"
+note 18="#=0 * 243/160"
+note 19="#=0 * 128/81"
+note 20="#=0 * 8/5"
+note 21="#=0 * 5/3"
+note 22="#=0 * 27/16"
+note 23="#=0 * 128/75"
+note 24="#=0 * 16/9"
+note 25="#=0 * 9/5"
+note 26="#=0 * 15/8"
+note 27="#=0 * 243/128"
+note 28="#=0 * 160/81"
+note 29="#>-29 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

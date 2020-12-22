@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Stelhex tempered in 13-limit POTE-tuned catakleismic
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=85
+note 2=268
+note 3=317
+note 4=384
+note 5=469
+note 6=585
+note 7=700
+note 8=816
+note 9=901
+note 10=968
+note 11=1017
+note 12=1200
+note 13=1285
+note 14=1468
+note 15=1517
+note 16=1584
+note 17=1669
+note 18=1785
+note 19=1900
+note 20=2016
+note 21=2101
+note 22=2168
+note 23=2217
+note 24=2400
+note 25=2485
+note 26=2668
+note 27=2717
+note 28=2784
+note 29=2869
+note 30=2985
+note 31=3100
+note 32=3216
+note 33=3301
+note 34=3368
+note 35=3417
+note 36=3600
+note 37=3685
+note 38=3868
+note 39=3917
+note 40=3984
+note 41=4069
+note 42=4185
+note 43=4300
+note 44=4416
+note 45=4501
+note 46=4568
+note 47=4617
+note 48=4800
+note 49=4885
+note 50=5068
+note 51=5117
+note 52=5184
+note 53=5269
+note 54=5385
+note 55=5500
+note 56=5616
+note 57=5701
+note 58=5768
+note 59=5817
+note 60=6000
+note 61=6085
+note 62=6268
+note 63=6317
+note 64=6384
+note 65=6469
+note 66=6585
+note 67=6700
+note 68=6816
+note 69=6901
+note 70=6968
+note 71=7017
+note 72=7200
+note 73=7285
+note 74=7468
+note 75=7517
+note 76=7584
+note 77=7669
+note 78=7785
+note 79=7900
+note 80=8016
+note 81=8101
+note 82=8168
+note 83=8217
+note 84=8400
+note 85=8485
+note 86=8668
+note 87=8717
+note 88=8784
+note 89=8869
+note 90=8985
+note 91=9100
+note 92=9216
+note 93=9301
+note 94=9368
+note 95=9417
+note 96=9600
+note 97=9685
+note 98=9868
+note 99=9917
+note 100=9984
+note 101=10069
+note 102=10185
+note 103=10300
+note 104=10416
+note 105=10501
+note 106=10568
+note 107=10617
+note 108=10800
+note 109=10885
+note 110=11068
+note 111=11117
+note 112=11184
+note 113=11269
+note 114=11385
+note 115=11500
+note 116=11616
+note 117=11701
+note 118=11768
+note 119=11817
+note 120=12000
+note 121=12085
+note 122=12268
+note 123=12317
+note 124=12384
+note 125=12469
+note 126=12585
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stelhex-catakleismic.tun"
+ID= "ID_stelhex-catakleismic.tun"
+Filename= "stelhex-catakleismic.scl"
+Description= "Stelhex tempered in 13-limit POTE-tuned catakleismic"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 84.963120
+note 2= 267.800430
+note 3= 316.737530
+note 4= 383.687640
+note 5= 468.650760
+note 6= 584.537960
+note 7= 700.425160
+note 8= 816.312360
+note 9= 901.275490
+note 10= 968.225600
+note 11= 1017.162690
+note 12= 1200.000000
+note 13= 1284.963120
+note 14= 1467.800430
+note 15= 1516.737530
+note 16= 1583.687640
+note 17= 1668.650760
+note 18= 1784.537960
+note 19= 1900.425160
+note 20= 2016.312360
+note 21= 2101.275490
+note 22= 2168.225600
+note 23= 2217.162690
+note 24= 2400.000000
+note 25= 2484.963120
+note 26= 2667.800430
+note 27= 2716.737530
+note 28= 2783.687640
+note 29= 2868.650760
+note 30= 2984.537960
+note 31= 3100.425160
+note 32= 3216.312360
+note 33= 3301.275490
+note 34= 3368.225600
+note 35= 3417.162690
+note 36= 3600.000000
+note 37= 3684.963120
+note 38= 3867.800430
+note 39= 3916.737530
+note 40= 3983.687640
+note 41= 4068.650760
+note 42= 4184.537960
+note 43= 4300.425160
+note 44= 4416.312360
+note 45= 4501.275490
+note 46= 4568.225600
+note 47= 4617.162690
+note 48= 4800.000000
+note 49= 4884.963120
+note 50= 5067.800430
+note 51= 5116.737530
+note 52= 5183.687640
+note 53= 5268.650760
+note 54= 5384.537960
+note 55= 5500.425160
+note 56= 5616.312360
+note 57= 5701.275490
+note 58= 5768.225600
+note 59= 5817.162690
+note 60= 6000.000000
+note 61= 6084.963120
+note 62= 6267.800430
+note 63= 6316.737530
+note 64= 6383.687640
+note 65= 6468.650760
+note 66= 6584.537960
+note 67= 6700.425160
+note 68= 6816.312360
+note 69= 6901.275490
+note 70= 6968.225600
+note 71= 7017.162690
+note 72= 7200.000000
+note 73= 7284.963120
+note 74= 7467.800430
+note 75= 7516.737530
+note 76= 7583.687640
+note 77= 7668.650760
+note 78= 7784.537960
+note 79= 7900.425160
+note 80= 8016.312360
+note 81= 8101.275490
+note 82= 8168.225600
+note 83= 8217.162690
+note 84= 8400.000000
+note 85= 8484.963120
+note 86= 8667.800430
+note 87= 8716.737530
+note 88= 8783.687640
+note 89= 8868.650760
+note 90= 8984.537960
+note 91= 9100.425160
+note 92= 9216.312360
+note 93= 9301.275490
+note 94= 9368.225600
+note 95= 9417.162690
+note 96= 9600.000000
+note 97= 9684.963120
+note 98= 9867.800430
+note 99= 9916.737530
+note 100= 9983.687640
+note 101= 10068.650760
+note 102= 10184.537960
+note 103= 10300.425160
+note 104= 10416.312360
+note 105= 10501.275490
+note 106= 10568.225600
+note 107= 10617.162690
+note 108= 10800.000000
+note 109= 10884.963120
+note 110= 11067.800430
+note 111= 11116.737530
+note 112= 11183.687640
+note 113= 11268.650760
+note 114= 11384.537960
+note 115= 11500.425160
+note 116= 11616.312360
+note 117= 11701.275490
+note 118= 11768.225600
+note 119= 11817.162690
+note 120= 12000.000000
+note 121= 12084.963120
+note 122= 12267.800430
+note 123= 12316.737530
+note 124= 12383.687640
+note 125= 12468.650760
+note 126= 12584.537960
+note 127= 12700.425160
+
+[Functional Tuning]
+note 1="#=0 % 84.963120"
+note 2="#=0 % 267.800430"
+note 3="#=0 % 316.737530"
+note 4="#=0 % 383.687640"
+note 5="#=0 % 468.650760"
+note 6="#=0 % 584.537960"
+note 7="#=0 % 700.425160"
+note 8="#=0 % 816.312360"
+note 9="#=0 % 901.275490"
+note 10="#=0 % 968.225600"
+note 11="#=0 % 1017.162690"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

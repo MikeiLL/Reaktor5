@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ultimate synchronous proportional beating well-temperament by Ozan Yarman (2010)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=195
+note 3=298
+note 4=395
+note 5=500
+note 6=593
+note 7=699
+note 8=796
+note 9=893
+note 10=1000
+note 11=1094
+note 12=1200
+note 13=1294
+note 14=1395
+note 15=1498
+note 16=1595
+note 17=1700
+note 18=1793
+note 19=1899
+note 20=1996
+note 21=2093
+note 22=2200
+note 23=2294
+note 24=2400
+note 25=2494
+note 26=2595
+note 27=2698
+note 28=2795
+note 29=2900
+note 30=2993
+note 31=3099
+note 32=3196
+note 33=3293
+note 34=3400
+note 35=3494
+note 36=3600
+note 37=3694
+note 38=3795
+note 39=3898
+note 40=3995
+note 41=4100
+note 42=4193
+note 43=4299
+note 44=4396
+note 45=4493
+note 46=4600
+note 47=4694
+note 48=4800
+note 49=4894
+note 50=4995
+note 51=5098
+note 52=5195
+note 53=5300
+note 54=5393
+note 55=5499
+note 56=5596
+note 57=5693
+note 58=5800
+note 59=5894
+note 60=6000
+note 61=6094
+note 62=6195
+note 63=6298
+note 64=6395
+note 65=6500
+note 66=6593
+note 67=6699
+note 68=6796
+note 69=6893
+note 70=7000
+note 71=7094
+note 72=7200
+note 73=7294
+note 74=7395
+note 75=7498
+note 76=7595
+note 77=7700
+note 78=7793
+note 79=7899
+note 80=7996
+note 81=8093
+note 82=8200
+note 83=8294
+note 84=8400
+note 85=8494
+note 86=8595
+note 87=8698
+note 88=8795
+note 89=8900
+note 90=8993
+note 91=9099
+note 92=9196
+note 93=9293
+note 94=9400
+note 95=9494
+note 96=9600
+note 97=9694
+note 98=9795
+note 99=9898
+note 100=9995
+note 101=10100
+note 102=10193
+note 103=10299
+note 104=10396
+note 105=10493
+note 106=10600
+note 107=10694
+note 108=10800
+note 109=10894
+note 110=10995
+note 111=11098
+note 112=11195
+note 113=11300
+note 114=11393
+note 115=11499
+note 116=11596
+note 117=11693
+note 118=11800
+note 119=11894
+note 120=12000
+note 121=12094
+note 122=12195
+note 123=12298
+note 124=12395
+note 125=12500
+note 126=12593
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "yarman_temp.tun"
+ID= "ID_yarman_temp.tun"
+Filename= "yarman_temp.scl"
+Description= "Ultimate synchronous proportional beating well-temperament by Ozan Yarman (2010)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.065478
+note 2= 195.099631
+note 3= 297.975480
+note 4= 395.079475
+note 5= 500.240604
+note 6= 593.150570
+note 7= 699.023190
+note 8= 796.020479
+note 9= 893.124474
+note 10= 999.930481
+note 11= 1093.533495
+note 12= 1200.000000
+note 13= 1294.065478
+note 14= 1395.099631
+note 15= 1497.975480
+note 16= 1595.079475
+note 17= 1700.240604
+note 18= 1793.150570
+note 19= 1899.023190
+note 20= 1996.020479
+note 21= 2093.124474
+note 22= 2199.930481
+note 23= 2293.533495
+note 24= 2400.000000
+note 25= 2494.065478
+note 26= 2595.099631
+note 27= 2697.975480
+note 28= 2795.079475
+note 29= 2900.240604
+note 30= 2993.150570
+note 31= 3099.023190
+note 32= 3196.020479
+note 33= 3293.124474
+note 34= 3399.930481
+note 35= 3493.533495
+note 36= 3600.000000
+note 37= 3694.065478
+note 38= 3795.099631
+note 39= 3897.975480
+note 40= 3995.079475
+note 41= 4100.240604
+note 42= 4193.150570
+note 43= 4299.023190
+note 44= 4396.020479
+note 45= 4493.124474
+note 46= 4599.930481
+note 47= 4693.533495
+note 48= 4800.000000
+note 49= 4894.065478
+note 50= 4995.099631
+note 51= 5097.975480
+note 52= 5195.079475
+note 53= 5300.240604
+note 54= 5393.150570
+note 55= 5499.023190
+note 56= 5596.020479
+note 57= 5693.124474
+note 58= 5799.930481
+note 59= 5893.533495
+note 60= 6000.000000
+note 61= 6094.065478
+note 62= 6195.099631
+note 63= 6297.975480
+note 64= 6395.079475
+note 65= 6500.240604
+note 66= 6593.150570
+note 67= 6699.023190
+note 68= 6796.020479
+note 69= 6893.124474
+note 70= 6999.930481
+note 71= 7093.533495
+note 72= 7200.000000
+note 73= 7294.065478
+note 74= 7395.099631
+note 75= 7497.975480
+note 76= 7595.079475
+note 77= 7700.240604
+note 78= 7793.150570
+note 79= 7899.023190
+note 80= 7996.020479
+note 81= 8093.124474
+note 82= 8199.930481
+note 83= 8293.533495
+note 84= 8400.000000
+note 85= 8494.065478
+note 86= 8595.099631
+note 87= 8697.975480
+note 88= 8795.079475
+note 89= 8900.240604
+note 90= 8993.150570
+note 91= 9099.023190
+note 92= 9196.020479
+note 93= 9293.124474
+note 94= 9399.930481
+note 95= 9493.533495
+note 96= 9600.000000
+note 97= 9694.065478
+note 98= 9795.099631
+note 99= 9897.975480
+note 100= 9995.079475
+note 101= 10100.240604
+note 102= 10193.150570
+note 103= 10299.023190
+note 104= 10396.020479
+note 105= 10493.124474
+note 106= 10599.930481
+note 107= 10693.533495
+note 108= 10800.000000
+note 109= 10894.065478
+note 110= 10995.099631
+note 111= 11097.975480
+note 112= 11195.079475
+note 113= 11300.240604
+note 114= 11393.150570
+note 115= 11499.023190
+note 116= 11596.020479
+note 117= 11693.124474
+note 118= 11799.930481
+note 119= 11893.533495
+note 120= 12000.000000
+note 121= 12094.065478
+note 122= 12195.099631
+note 123= 12297.975480
+note 124= 12395.079475
+note 125= 12500.240604
+note 126= 12593.150570
+note 127= 12699.023190
+
+[Functional Tuning]
+note 1="#=0 * 208/197"
+note 2="#=0 * 441/394"
+note 3="#=0 * 234/197"
+note 4="#=0 * 495/394"
+note 5="#=0 * 263/197"
+note 6="#=0 * 555/394"
+note 7="#=0 * 295/197"
+note 8="#=0 * 312/197"
+note 9="#=0 * 330/197"
+note 10="#=0 * 351/197"
+note 11="#=0 * 741/394"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

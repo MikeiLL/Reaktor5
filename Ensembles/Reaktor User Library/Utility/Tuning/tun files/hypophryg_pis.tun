@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; The Diatonic Perfect Immutable System in the Hypophrygian Tonos
+;
+; VAZ Plus section
+[Tuning]
+note 0=-3600
+note 1=-3461
+note 2=-3311
+note 3=-3146
+note 4=-2963
+note 5=-2759
+note 6=-2648
+note 7=-2400
+note 8=-2332
+note 9=-2261
+note 10=-2111
+note 11=-1946
+note 12=-1763
+note 13=-1559
+note 14=-1328
+note 15=-1200
+note 16=-1061
+note 17=-911
+note 18=-746
+note 19=-563
+note 20=-359
+note 21=-248
+note 22=0
+note 23=68
+note 24=139
+note 25=289
+note 26=454
+note 27=637
+note 28=841
+note 29=1072
+note 30=1200
+note 31=1339
+note 32=1489
+note 33=1654
+note 34=1837
+note 35=2041
+note 36=2152
+note 37=2400
+note 38=2468
+note 39=2539
+note 40=2689
+note 41=2854
+note 42=3037
+note 43=3241
+note 44=3472
+note 45=3600
+note 46=3739
+note 47=3889
+note 48=4054
+note 49=4237
+note 50=4441
+note 51=4552
+note 52=4800
+note 53=4868
+note 54=4939
+note 55=5089
+note 56=5254
+note 57=5437
+note 58=5641
+note 59=5872
+note 60=6000
+note 61=6139
+note 62=6289
+note 63=6454
+note 64=6637
+note 65=6841
+note 66=6952
+note 67=7200
+note 68=7268
+note 69=7339
+note 70=7489
+note 71=7654
+note 72=7837
+note 73=8041
+note 74=8272
+note 75=8400
+note 76=8539
+note 77=8689
+note 78=8854
+note 79=9037
+note 80=9241
+note 81=9352
+note 82=9600
+note 83=9668
+note 84=9739
+note 85=9889
+note 86=10054
+note 87=10237
+note 88=10441
+note 89=10672
+note 90=10800
+note 91=10939
+note 92=11089
+note 93=11254
+note 94=11437
+note 95=11641
+note 96=11752
+note 97=12000
+note 98=12068
+note 99=12139
+note 100=12289
+note 101=12454
+note 102=12637
+note 103=12841
+note 104=13072
+note 105=13200
+note 106=13339
+note 107=13489
+note 108=13654
+note 109=13837
+note 110=14041
+note 111=14152
+note 112=14400
+note 113=14468
+note 114=14539
+note 115=14689
+note 116=14854
+note 117=15037
+note 118=15241
+note 119=15472
+note 120=15600
+note 121=15739
+note 122=15889
+note 123=16054
+note 124=16237
+note 125=16441
+note 126=16552
+note 127=16800
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hypophryg_pis.tun"
+ID= "ID_hypophryg_pis.tun"
+Filename= "hypophryg_pis.scl"
+Description= "The Diatonic Perfect Immutable System in the Hypophrygian Tonos"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-3600.000000
+note 1=-3461.427339
+note 2=-3310.790281
+note 3=-3145.786052
+note 4=-2963.382340
+note 5=-2759.472338
+note 6=-2647.741053
+note 7=-2400.000000
+note 8=-2332.099766
+note 9=-2261.427339
+note 10=-2110.790281
+note 11=-1945.786052
+note 12=-1763.382340
+note 13=-1559.472338
+note 14=-1328.298245
+note 15=-1200.000000
+note 16=-1061.427339
+note 17=-910.790281
+note 18=-745.786052
+note 19=-563.382340
+note 20=-359.472338
+note 21=-247.741053
+note 22= 0.000000
+note 23= 67.900234
+note 24= 138.572661
+note 25= 289.209719
+note 26= 454.213948
+note 27= 636.617660
+note 28= 840.527662
+note 29= 1071.701755
+note 30= 1200.000000
+note 31= 1338.572661
+note 32= 1489.209719
+note 33= 1654.213948
+note 34= 1836.617660
+note 35= 2040.527662
+note 36= 2152.258947
+note 37= 2400.000000
+note 38= 2467.900234
+note 39= 2538.572661
+note 40= 2689.209719
+note 41= 2854.213948
+note 42= 3036.617660
+note 43= 3240.527662
+note 44= 3471.701755
+note 45= 3600.000000
+note 46= 3738.572661
+note 47= 3889.209719
+note 48= 4054.213948
+note 49= 4236.617660
+note 50= 4440.527662
+note 51= 4552.258947
+note 52= 4800.000000
+note 53= 4867.900234
+note 54= 4938.572661
+note 55= 5089.209719
+note 56= 5254.213948
+note 57= 5436.617660
+note 58= 5640.527662
+note 59= 5871.701755
+note 60= 6000.000000
+note 61= 6138.572661
+note 62= 6289.209719
+note 63= 6454.213948
+note 64= 6636.617660
+note 65= 6840.527662
+note 66= 6952.258947
+note 67= 7200.000000
+note 68= 7267.900234
+note 69= 7338.572661
+note 70= 7489.209719
+note 71= 7654.213948
+note 72= 7836.617660
+note 73= 8040.527662
+note 74= 8271.701755
+note 75= 8400.000000
+note 76= 8538.572661
+note 77= 8689.209719
+note 78= 8854.213948
+note 79= 9036.617660
+note 80= 9240.527662
+note 81= 9352.258947
+note 82= 9600.000000
+note 83= 9667.900234
+note 84= 9738.572661
+note 85= 9889.209719
+note 86= 10054.213948
+note 87= 10236.617660
+note 88= 10440.527662
+note 89= 10671.701755
+note 90= 10800.000000
+note 91= 10938.572661
+note 92= 11089.209719
+note 93= 11254.213948
+note 94= 11436.617660
+note 95= 11640.527662
+note 96= 11752.258947
+note 97= 12000.000000
+note 98= 12067.900234
+note 99= 12138.572661
+note 100= 12289.209719
+note 101= 12454.213948
+note 102= 12636.617660
+note 103= 12840.527662
+note 104= 13071.701755
+note 105= 13200.000000
+note 106= 13338.572661
+note 107= 13489.209719
+note 108= 13654.213948
+note 109= 13836.617660
+note 110= 14040.527662
+note 111= 14152.258947
+note 112= 14400.000000
+note 113= 14467.900234
+note 114= 14538.572661
+note 115= 14689.209719
+note 116= 14854.213948
+note 117= 15036.617660
+note 118= 15240.527662
+note 119= 15471.701755
+note 120= 15600.000000
+note 121= 15738.572661
+note 122= 15889.209719
+note 123= 16054.213948
+note 124= 16236.617660
+note 125= 16440.527662
+note 126= 16552.258947
+note 127= 16800.000000
+
+[Functional Tuning]
+note 1="#=0 * 13/12"
+note 2="#=0 * 13/11"
+note 3="#=0 * 13/10"
+note 4="#=0 * 13/9"
+note 5="#=0 * 13/8"
+note 6="#=0 * 26/15"
+note 7="#=0 * 2/1"
+note 8="#=0 * 52/25"
+note 9="#=0 * 13/6"
+note 10="#=0 * 26/11"
+note 11="#=0 * 13/5"
+note 12="#=0 * 26/9"
+note 13="#=0 * 13/4"
+note 14="#=0 * 26/7"
+note 15="#>-15 * 4/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

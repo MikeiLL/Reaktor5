@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Margo Schulter, Wilsonistic Pivot on C
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=58
+note 2=209
+note 3=267
+note 4=418
+note 5=498
+note 6=551
+note 7=702
+note 8=760
+note 9=911
+note 10=969
+note 11=1119
+note 12=1200
+note 13=1258
+note 14=1409
+note 15=1467
+note 16=1618
+note 17=1698
+note 18=1751
+note 19=1902
+note 20=1960
+note 21=2111
+note 22=2169
+note 23=2319
+note 24=2400
+note 25=2458
+note 26=2609
+note 27=2667
+note 28=2818
+note 29=2898
+note 30=2951
+note 31=3102
+note 32=3160
+note 33=3311
+note 34=3369
+note 35=3519
+note 36=3600
+note 37=3658
+note 38=3809
+note 39=3867
+note 40=4018
+note 41=4098
+note 42=4151
+note 43=4302
+note 44=4360
+note 45=4511
+note 46=4569
+note 47=4719
+note 48=4800
+note 49=4858
+note 50=5009
+note 51=5067
+note 52=5218
+note 53=5298
+note 54=5351
+note 55=5502
+note 56=5560
+note 57=5711
+note 58=5769
+note 59=5919
+note 60=6000
+note 61=6058
+note 62=6209
+note 63=6267
+note 64=6418
+note 65=6498
+note 66=6551
+note 67=6702
+note 68=6760
+note 69=6911
+note 70=6969
+note 71=7119
+note 72=7200
+note 73=7258
+note 74=7409
+note 75=7467
+note 76=7618
+note 77=7698
+note 78=7751
+note 79=7902
+note 80=7960
+note 81=8111
+note 82=8169
+note 83=8319
+note 84=8400
+note 85=8458
+note 86=8609
+note 87=8667
+note 88=8818
+note 89=8898
+note 90=8951
+note 91=9102
+note 92=9160
+note 93=9311
+note 94=9369
+note 95=9519
+note 96=9600
+note 97=9658
+note 98=9809
+note 99=9867
+note 100=10018
+note 101=10098
+note 102=10151
+note 103=10302
+note 104=10360
+note 105=10511
+note 106=10569
+note 107=10719
+note 108=10800
+note 109=10858
+note 110=11009
+note 111=11067
+note 112=11218
+note 113=11298
+note 114=11351
+note 115=11502
+note 116=11560
+note 117=11711
+note 118=11769
+note 119=11919
+note 120=12000
+note 121=12058
+note 122=12209
+note 123=12267
+note 124=12418
+note 125=12498
+note 126=12551
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schulter_wilsonistic.tun"
+ID= "ID_schulter_wilsonistic.tun"
+Filename= "schulter_wilsonistic.scl"
+Description= "Margo Schulter, Wilsonistic Pivot on C"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 58.035626
+note 2= 208.835280
+note 3= 266.870906
+note 4= 417.507964
+note 5= 498.044999
+note 6= 551.317942
+note 7= 701.955001
+note 8= 759.990627
+note 9= 910.790281
+note 10= 968.825906
+note 11= 1119.462965
+note 12= 1200.000000
+note 13= 1258.035626
+note 14= 1408.835280
+note 15= 1466.870906
+note 16= 1617.507964
+note 17= 1698.044999
+note 18= 1751.317942
+note 19= 1901.955001
+note 20= 1959.990627
+note 21= 2110.790281
+note 22= 2168.825906
+note 23= 2319.462965
+note 24= 2400.000000
+note 25= 2458.035626
+note 26= 2608.835280
+note 27= 2666.870906
+note 28= 2817.507964
+note 29= 2898.044999
+note 30= 2951.317942
+note 31= 3101.955001
+note 32= 3159.990627
+note 33= 3310.790281
+note 34= 3368.825906
+note 35= 3519.462965
+note 36= 3600.000000
+note 37= 3658.035626
+note 38= 3808.835280
+note 39= 3866.870906
+note 40= 4017.507964
+note 41= 4098.044999
+note 42= 4151.317942
+note 43= 4301.955001
+note 44= 4359.990627
+note 45= 4510.790281
+note 46= 4568.825906
+note 47= 4719.462965
+note 48= 4800.000000
+note 49= 4858.035626
+note 50= 5008.835280
+note 51= 5066.870906
+note 52= 5217.507964
+note 53= 5298.044999
+note 54= 5351.317942
+note 55= 5501.955001
+note 56= 5559.990627
+note 57= 5710.790281
+note 58= 5768.825906
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6058.035626
+note 62= 6208.835280
+note 63= 6266.870906
+note 64= 6417.507964
+note 65= 6498.044999
+note 66= 6551.317942
+note 67= 6701.955001
+note 68= 6759.990627
+note 69= 6910.790281
+note 70= 6968.825906
+note 71= 7119.462965
+note 72= 7200.000000
+note 73= 7258.035626
+note 74= 7408.835280
+note 75= 7466.870906
+note 76= 7617.507964
+note 77= 7698.044999
+note 78= 7751.317942
+note 79= 7901.955001
+note 80= 7959.990627
+note 81= 8110.790281
+note 82= 8168.825906
+note 83= 8319.462965
+note 84= 8400.000000
+note 85= 8458.035626
+note 86= 8608.835280
+note 87= 8666.870906
+note 88= 8817.507964
+note 89= 8898.044999
+note 90= 8951.317942
+note 91= 9101.955001
+note 92= 9159.990627
+note 93= 9310.790281
+note 94= 9368.825906
+note 95= 9519.462965
+note 96= 9600.000000
+note 97= 9658.035626
+note 98= 9808.835280
+note 99= 9866.870906
+note 100= 10017.507964
+note 101= 10098.044999
+note 102= 10151.317942
+note 103= 10301.955001
+note 104= 10359.990627
+note 105= 10510.790281
+note 106= 10568.825906
+note 107= 10719.462965
+note 108= 10800.000000
+note 109= 10858.035626
+note 110= 11008.835280
+note 111= 11066.870906
+note 112= 11217.507964
+note 113= 11298.044999
+note 114= 11351.317942
+note 115= 11501.955001
+note 116= 11559.990627
+note 117= 11710.790281
+note 118= 11768.825906
+note 119= 11919.462965
+note 120= 12000.000000
+note 121= 12058.035626
+note 122= 12208.835280
+note 123= 12266.870906
+note 124= 12417.507964
+note 125= 12498.044999
+note 126= 12551.317942
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 91/88"
+note 2="#=0 * 44/39"
+note 3="#=0 * 7/6"
+note 4="#=0 * 14/11"
+note 5="#=0 * 4/3"
+note 6="#=0 * 11/8"
+note 7="#=0 * 3/2"
+note 8="#=0 * 273/176"
+note 9="#=0 * 22/13"
+note 10="#=0 * 7/4"
+note 11="#=0 * 21/11"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

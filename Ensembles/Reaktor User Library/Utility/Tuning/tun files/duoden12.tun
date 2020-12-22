@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Almost equal 12-tone subset of Duodenarium
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=92
+note 2=204
+note 3=296
+note 4=406
+note 5=498
+note 6=610
+note 7=702
+note 8=794
+note 9=904
+note 10=998
+note 11=1108
+note 12=1200
+note 13=1292
+note 14=1404
+note 15=1496
+note 16=1606
+note 17=1698
+note 18=1810
+note 19=1902
+note 20=1994
+note 21=2104
+note 22=2198
+note 23=2308
+note 24=2400
+note 25=2492
+note 26=2604
+note 27=2696
+note 28=2806
+note 29=2898
+note 30=3010
+note 31=3102
+note 32=3194
+note 33=3304
+note 34=3398
+note 35=3508
+note 36=3600
+note 37=3692
+note 38=3804
+note 39=3896
+note 40=4006
+note 41=4098
+note 42=4210
+note 43=4302
+note 44=4394
+note 45=4504
+note 46=4598
+note 47=4708
+note 48=4800
+note 49=4892
+note 50=5004
+note 51=5096
+note 52=5206
+note 53=5298
+note 54=5410
+note 55=5502
+note 56=5594
+note 57=5704
+note 58=5798
+note 59=5908
+note 60=6000
+note 61=6092
+note 62=6204
+note 63=6296
+note 64=6406
+note 65=6498
+note 66=6610
+note 67=6702
+note 68=6794
+note 69=6904
+note 70=6998
+note 71=7108
+note 72=7200
+note 73=7292
+note 74=7404
+note 75=7496
+note 76=7606
+note 77=7698
+note 78=7810
+note 79=7902
+note 80=7994
+note 81=8104
+note 82=8198
+note 83=8308
+note 84=8400
+note 85=8492
+note 86=8604
+note 87=8696
+note 88=8806
+note 89=8898
+note 90=9010
+note 91=9102
+note 92=9194
+note 93=9304
+note 94=9398
+note 95=9508
+note 96=9600
+note 97=9692
+note 98=9804
+note 99=9896
+note 100=10006
+note 101=10098
+note 102=10210
+note 103=10302
+note 104=10394
+note 105=10504
+note 106=10598
+note 107=10708
+note 108=10800
+note 109=10892
+note 110=11004
+note 111=11096
+note 112=11206
+note 113=11298
+note 114=11410
+note 115=11502
+note 116=11594
+note 117=11704
+note 118=11798
+note 119=11908
+note 120=12000
+note 121=12092
+note 122=12204
+note 123=12296
+note 124=12406
+note 125=12498
+note 126=12610
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "duoden12.tun"
+ID= "ID_duoden12.tun"
+Filename= "duoden12.scl"
+Description= "Almost equal 12-tone subset of Duodenarium"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 92.178716
+note 2= 203.910002
+note 3= 296.088718
+note 4= 405.866283
+note 5= 498.044999
+note 6= 609.776284
+note 7= 701.955001
+note 8= 794.133717
+note 9= 903.911282
+note 10= 998.043719
+note 11= 1107.821284
+note 12= 1200.000000
+note 13= 1292.178716
+note 14= 1403.910002
+note 15= 1496.088718
+note 16= 1605.866283
+note 17= 1698.044999
+note 18= 1809.776284
+note 19= 1901.955001
+note 20= 1994.133717
+note 21= 2103.911282
+note 22= 2198.043719
+note 23= 2307.821284
+note 24= 2400.000000
+note 25= 2492.178716
+note 26= 2603.910002
+note 27= 2696.088718
+note 28= 2805.866283
+note 29= 2898.044999
+note 30= 3009.776284
+note 31= 3101.955001
+note 32= 3194.133717
+note 33= 3303.911282
+note 34= 3398.043719
+note 35= 3507.821284
+note 36= 3600.000000
+note 37= 3692.178716
+note 38= 3803.910002
+note 39= 3896.088718
+note 40= 4005.866283
+note 41= 4098.044999
+note 42= 4209.776284
+note 43= 4301.955001
+note 44= 4394.133717
+note 45= 4503.911282
+note 46= 4598.043719
+note 47= 4707.821284
+note 48= 4800.000000
+note 49= 4892.178716
+note 50= 5003.910002
+note 51= 5096.088718
+note 52= 5205.866283
+note 53= 5298.044999
+note 54= 5409.776284
+note 55= 5501.955001
+note 56= 5594.133717
+note 57= 5703.911282
+note 58= 5798.043719
+note 59= 5907.821284
+note 60= 6000.000000
+note 61= 6092.178716
+note 62= 6203.910002
+note 63= 6296.088718
+note 64= 6405.866283
+note 65= 6498.044999
+note 66= 6609.776284
+note 67= 6701.955001
+note 68= 6794.133717
+note 69= 6903.911282
+note 70= 6998.043719
+note 71= 7107.821284
+note 72= 7200.000000
+note 73= 7292.178716
+note 74= 7403.910002
+note 75= 7496.088718
+note 76= 7605.866283
+note 77= 7698.044999
+note 78= 7809.776284
+note 79= 7901.955001
+note 80= 7994.133717
+note 81= 8103.911282
+note 82= 8198.043719
+note 83= 8307.821284
+note 84= 8400.000000
+note 85= 8492.178716
+note 86= 8603.910002
+note 87= 8696.088718
+note 88= 8805.866283
+note 89= 8898.044999
+note 90= 9009.776284
+note 91= 9101.955001
+note 92= 9194.133717
+note 93= 9303.911282
+note 94= 9398.043719
+note 95= 9507.821284
+note 96= 9600.000000
+note 97= 9692.178716
+note 98= 9803.910002
+note 99= 9896.088718
+note 100= 10005.866283
+note 101= 10098.044999
+note 102= 10209.776284
+note 103= 10301.955001
+note 104= 10394.133717
+note 105= 10503.911282
+note 106= 10598.043719
+note 107= 10707.821284
+note 108= 10800.000000
+note 109= 10892.178716
+note 110= 11003.910002
+note 111= 11096.088718
+note 112= 11205.866283
+note 113= 11298.044999
+note 114= 11409.776284
+note 115= 11501.955001
+note 116= 11594.133717
+note 117= 11703.911282
+note 118= 11798.043719
+note 119= 11907.821284
+note 120= 12000.000000
+note 121= 12092.178716
+note 122= 12203.910002
+note 123= 12296.088718
+note 124= 12405.866283
+note 125= 12498.044999
+note 126= 12609.776284
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 135/128"
+note 2="#=0 * 9/8"
+note 3="#=0 * 1215/1024"
+note 4="#=0 * 512/405"
+note 5="#=0 * 4/3"
+note 6="#=0 * 64/45"
+note 7="#=0 * 3/2"
+note 8="#=0 * 405/256"
+note 9="#=0 * 2048/1215"
+note 10="#=0 * 3645/2048"
+note 11="#=0 * 256/135"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

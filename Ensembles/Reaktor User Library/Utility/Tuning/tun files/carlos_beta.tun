@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Wendy Carlos' Beta scale with perfect fifth divided by eleven
+;
+; VAZ Plus section
+[Tuning]
+note 0=2172
+note 1=2236
+note 2=2300
+note 3=2363
+note 4=2427
+note 5=2491
+note 6=2555
+note 7=2619
+note 8=2682
+note 9=2746
+note 10=2810
+note 11=2874
+note 12=2938
+note 13=3001
+note 14=3065
+note 15=3129
+note 16=3193
+note 17=3257
+note 18=3320
+note 19=3384
+note 20=3448
+note 21=3512
+note 22=3576
+note 23=3639
+note 24=3703
+note 25=3767
+note 26=3831
+note 27=3895
+note 28=3958
+note 29=4022
+note 30=4086
+note 31=4150
+note 32=4214
+note 33=4277
+note 34=4341
+note 35=4405
+note 36=4469
+note 37=4533
+note 38=4596
+note 39=4660
+note 40=4724
+note 41=4788
+note 42=4852
+note 43=4915
+note 44=4979
+note 45=5043
+note 46=5107
+note 47=5171
+note 48=5234
+note 49=5298
+note 50=5362
+note 51=5426
+note 52=5490
+note 53=5553
+note 54=5617
+note 55=5681
+note 56=5745
+note 57=5809
+note 58=5872
+note 59=5936
+note 60=6000
+note 61=6064
+note 62=6128
+note 63=6191
+note 64=6255
+note 65=6319
+note 66=6383
+note 67=6447
+note 68=6510
+note 69=6574
+note 70=6638
+note 71=6702
+note 72=6766
+note 73=6829
+note 74=6893
+note 75=6957
+note 76=7021
+note 77=7085
+note 78=7148
+note 79=7212
+note 80=7276
+note 81=7340
+note 82=7404
+note 83=7467
+note 84=7531
+note 85=7595
+note 86=7659
+note 87=7723
+note 88=7786
+note 89=7850
+note 90=7914
+note 91=7978
+note 92=8042
+note 93=8105
+note 94=8169
+note 95=8233
+note 96=8297
+note 97=8361
+note 98=8424
+note 99=8488
+note 100=8552
+note 101=8616
+note 102=8680
+note 103=8743
+note 104=8807
+note 105=8871
+note 106=8935
+note 107=8999
+note 108=9062
+note 109=9126
+note 110=9190
+note 111=9254
+note 112=9318
+note 113=9381
+note 114=9445
+note 115=9509
+note 116=9573
+note 117=9637
+note 118=9700
+note 119=9764
+note 120=9828
+note 121=9892
+note 122=9956
+note 123=10019
+note 124=10083
+note 125=10147
+note 126=10211
+note 127=10275
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "carlos_beta.tun"
+ID= "ID_carlos_beta.tun"
+Filename= "carlos_beta.scl"
+Description= "Wendy Carlos' Beta scale with perfect fifth divided by eleven"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2172.000000
+note 1= 2235.800000
+note 2= 2299.600000
+note 3= 2363.400000
+note 4= 2427.200000
+note 5= 2491.000000
+note 6= 2554.800000
+note 7= 2618.600000
+note 8= 2682.400000
+note 9= 2746.200000
+note 10= 2810.000000
+note 11= 2873.800000
+note 12= 2937.600000
+note 13= 3001.400000
+note 14= 3065.200000
+note 15= 3129.000000
+note 16= 3192.800000
+note 17= 3256.600000
+note 18= 3320.400000
+note 19= 3384.200000
+note 20= 3448.000000
+note 21= 3511.800000
+note 22= 3575.600000
+note 23= 3639.400000
+note 24= 3703.200000
+note 25= 3767.000000
+note 26= 3830.800000
+note 27= 3894.600000
+note 28= 3958.400000
+note 29= 4022.200000
+note 30= 4086.000000
+note 31= 4149.800000
+note 32= 4213.600000
+note 33= 4277.400000
+note 34= 4341.200000
+note 35= 4405.000000
+note 36= 4468.800000
+note 37= 4532.600000
+note 38= 4596.400000
+note 39= 4660.200000
+note 40= 4724.000000
+note 41= 4787.800000
+note 42= 4851.600000
+note 43= 4915.400000
+note 44= 4979.200000
+note 45= 5043.000000
+note 46= 5106.800000
+note 47= 5170.600000
+note 48= 5234.400000
+note 49= 5298.200000
+note 50= 5362.000000
+note 51= 5425.800000
+note 52= 5489.600000
+note 53= 5553.400000
+note 54= 5617.200000
+note 55= 5681.000000
+note 56= 5744.800000
+note 57= 5808.600000
+note 58= 5872.400000
+note 59= 5936.200000
+note 60= 6000.000000
+note 61= 6063.800000
+note 62= 6127.600000
+note 63= 6191.400000
+note 64= 6255.200000
+note 65= 6319.000000
+note 66= 6382.800000
+note 67= 6446.600000
+note 68= 6510.400000
+note 69= 6574.200000
+note 70= 6638.000000
+note 71= 6701.800000
+note 72= 6765.600000
+note 73= 6829.400000
+note 74= 6893.200000
+note 75= 6957.000000
+note 76= 7020.800000
+note 77= 7084.600000
+note 78= 7148.400000
+note 79= 7212.200000
+note 80= 7276.000000
+note 81= 7339.800000
+note 82= 7403.600000
+note 83= 7467.400000
+note 84= 7531.200000
+note 85= 7595.000000
+note 86= 7658.800000
+note 87= 7722.600000
+note 88= 7786.400000
+note 89= 7850.200000
+note 90= 7914.000000
+note 91= 7977.800000
+note 92= 8041.600000
+note 93= 8105.400000
+note 94= 8169.200000
+note 95= 8233.000000
+note 96= 8296.800000
+note 97= 8360.600000
+note 98= 8424.400000
+note 99= 8488.200000
+note 100= 8552.000000
+note 101= 8615.800000
+note 102= 8679.600000
+note 103= 8743.400000
+note 104= 8807.200000
+note 105= 8871.000000
+note 106= 8934.800000
+note 107= 8998.600000
+note 108= 9062.400000
+note 109= 9126.200000
+note 110= 9190.000000
+note 111= 9253.800000
+note 112= 9317.600000
+note 113= 9381.400000
+note 114= 9445.200000
+note 115= 9509.000000
+note 116= 9572.800000
+note 117= 9636.600000
+note 118= 9700.400000
+note 119= 9764.200000
+note 120= 9828.000000
+note 121= 9891.800000
+note 122= 9955.600000
+note 123= 10019.400000
+note 124= 10083.200000
+note 125= 10147.000000
+note 126= 10210.800000
+note 127= 10274.600000
+
+[Functional Tuning]
+note 1="#=0 % 63.800000"
+note 2="#=0 % 127.600000"
+note 3="#=0 % 191.400000"
+note 4="#=0 % 255.200000"
+note 5="#=0 % 319.000000"
+note 6="#=0 % 382.800000"
+note 7="#=0 % 446.600000"
+note 8="#=0 % 510.400000"
+note 9="#=0 % 574.200000"
+note 10="#=0 % 638.000000"
+note 11="#=0 % 701.800000"
+note 12="#=0 % 765.600000"
+note 13="#=0 % 829.400000"
+note 14="#=0 % 893.200000"
+note 15="#=0 % 957.000000"
+note 16="#=0 % 1020.800000"
+note 17="#=0 % 1084.600000"
+note 18="#=0 % 1148.400000"
+note 19="#=0 % 1212.200000"
+note 20="#=0 % 1276.000000"
+note 21="#=0 % 1339.800000"
+note 22="#>-22 % 1403.600000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

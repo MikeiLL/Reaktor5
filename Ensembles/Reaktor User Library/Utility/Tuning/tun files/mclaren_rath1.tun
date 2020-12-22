@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; McLaren Rat H1
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=112
+note 2=231
+note 3=427
+note 4=462
+note 5=498
+note 6=610
+note 7=649
+note 8=688
+note 9=729
+note 10=1095
+note 11=1147
+note 12=1200
+note 13=1312
+note 14=1431
+note 15=1627
+note 16=1662
+note 17=1698
+note 18=1810
+note 19=1849
+note 20=1888
+note 21=1929
+note 22=2295
+note 23=2347
+note 24=2400
+note 25=2512
+note 26=2631
+note 27=2827
+note 28=2862
+note 29=2898
+note 30=3010
+note 31=3049
+note 32=3088
+note 33=3129
+note 34=3495
+note 35=3547
+note 36=3600
+note 37=3712
+note 38=3831
+note 39=4027
+note 40=4062
+note 41=4098
+note 42=4210
+note 43=4249
+note 44=4288
+note 45=4329
+note 46=4695
+note 47=4747
+note 48=4800
+note 49=4912
+note 50=5031
+note 51=5227
+note 52=5262
+note 53=5298
+note 54=5410
+note 55=5449
+note 56=5488
+note 57=5529
+note 58=5895
+note 59=5947
+note 60=6000
+note 61=6112
+note 62=6231
+note 63=6427
+note 64=6462
+note 65=6498
+note 66=6610
+note 67=6649
+note 68=6688
+note 69=6729
+note 70=7095
+note 71=7147
+note 72=7200
+note 73=7312
+note 74=7431
+note 75=7627
+note 76=7662
+note 77=7698
+note 78=7810
+note 79=7849
+note 80=7888
+note 81=7929
+note 82=8295
+note 83=8347
+note 84=8400
+note 85=8512
+note 86=8631
+note 87=8827
+note 88=8862
+note 89=8898
+note 90=9010
+note 91=9049
+note 92=9088
+note 93=9129
+note 94=9495
+note 95=9547
+note 96=9600
+note 97=9712
+note 98=9831
+note 99=10027
+note 100=10062
+note 101=10098
+note 102=10210
+note 103=10249
+note 104=10288
+note 105=10329
+note 106=10695
+note 107=10747
+note 108=10800
+note 109=10912
+note 110=11031
+note 111=11227
+note 112=11262
+note 113=11298
+note 114=11410
+note 115=11449
+note 116=11488
+note 117=11529
+note 118=11895
+note 119=11947
+note 120=12000
+note 121=12112
+note 122=12231
+note 123=12427
+note 124=12462
+note 125=12498
+note 126=12610
+note 127=12649
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mclaren_rath1.tun"
+ID= "ID_mclaren_rath1.tun"
+Filename= "mclaren_rath1.scl"
+Description= "McLaren Rat H1"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 111.731285
+note 2= 231.174094
+note 3= 427.372572
+note 4= 462.348187
+note 5= 498.044999
+note 6= 609.776284
+note 7= 648.682058
+note 8= 688.482294
+note 9= 729.219093
+note 10= 1095.044590
+note 11= 1146.727057
+note 12= 1200.000000
+note 13= 1311.731285
+note 14= 1431.174094
+note 15= 1627.372572
+note 16= 1662.348187
+note 17= 1698.044999
+note 18= 1809.776284
+note 19= 1848.682058
+note 20= 1888.482294
+note 21= 1929.219093
+note 22= 2295.044590
+note 23= 2346.727057
+note 24= 2400.000000
+note 25= 2511.731285
+note 26= 2631.174094
+note 27= 2827.372572
+note 28= 2862.348187
+note 29= 2898.044999
+note 30= 3009.776284
+note 31= 3048.682058
+note 32= 3088.482294
+note 33= 3129.219093
+note 34= 3495.044590
+note 35= 3546.727057
+note 36= 3600.000000
+note 37= 3711.731285
+note 38= 3831.174094
+note 39= 4027.372572
+note 40= 4062.348187
+note 41= 4098.044999
+note 42= 4209.776284
+note 43= 4248.682058
+note 44= 4288.482294
+note 45= 4329.219093
+note 46= 4695.044590
+note 47= 4746.727057
+note 48= 4800.000000
+note 49= 4911.731285
+note 50= 5031.174094
+note 51= 5227.372572
+note 52= 5262.348187
+note 53= 5298.044999
+note 54= 5409.776284
+note 55= 5448.682058
+note 56= 5488.482294
+note 57= 5529.219093
+note 58= 5895.044590
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6231.174094
+note 63= 6427.372572
+note 64= 6462.348187
+note 65= 6498.044999
+note 66= 6609.776284
+note 67= 6648.682058
+note 68= 6688.482294
+note 69= 6729.219093
+note 70= 7095.044590
+note 71= 7146.727057
+note 72= 7200.000000
+note 73= 7311.731285
+note 74= 7431.174094
+note 75= 7627.372572
+note 76= 7662.348187
+note 77= 7698.044999
+note 78= 7809.776284
+note 79= 7848.682058
+note 80= 7888.482294
+note 81= 7929.219093
+note 82= 8295.044590
+note 83= 8346.727057
+note 84= 8400.000000
+note 85= 8511.731285
+note 86= 8631.174094
+note 87= 8827.372572
+note 88= 8862.348187
+note 89= 8898.044999
+note 90= 9009.776284
+note 91= 9048.682058
+note 92= 9088.482294
+note 93= 9129.219093
+note 94= 9495.044590
+note 95= 9546.727057
+note 96= 9600.000000
+note 97= 9711.731285
+note 98= 9831.174094
+note 99= 10027.372572
+note 100= 10062.348187
+note 101= 10098.044999
+note 102= 10209.776284
+note 103= 10248.682058
+note 104= 10288.482294
+note 105= 10329.219093
+note 106= 10695.044590
+note 107= 10746.727057
+note 108= 10800.000000
+note 109= 10911.731285
+note 110= 11031.174094
+note 111= 11227.372572
+note 112= 11262.348187
+note 113= 11298.044999
+note 114= 11409.776284
+note 115= 11448.682058
+note 116= 11488.482294
+note 117= 11529.219093
+note 118= 11895.044590
+note 119= 11946.727057
+note 120= 12000.000000
+note 121= 12111.731285
+note 122= 12231.174094
+note 123= 12427.372572
+note 124= 12462.348187
+note 125= 12498.044999
+note 126= 12609.776284
+note 127= 12648.682058
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 8/7"
+note 3="#=0 * 32/25"
+note 4="#=0 * 64/49"
+note 5="#=0 * 4/3"
+note 6="#=0 * 64/45"
+note 7="#=0 * 16/11"
+note 8="#=0 * 64/43"
+note 9="#=0 * 32/21"
+note 10="#=0 * 32/17"
+note 11="#=0 * 64/33"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

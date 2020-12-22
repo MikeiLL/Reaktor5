@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 11-limit chessboard pattern diamond. OdC
+;
+; VAZ Plus section
+[Tuning]
+note 0=1783
+note 1=1817
+note 2=1849
+note 3=1902
+note 4=1965
+note 5=2053
+note 6=2084
+note 7=2169
+note 8=2235
+note 9=2400
+note 10=2565
+note 11=2631
+note 12=2716
+note 13=2747
+note 14=2835
+note 15=2898
+note 16=2951
+note 17=2983
+note 18=3017
+note 19=3049
+note 20=3102
+note 21=3165
+note 22=3253
+note 23=3284
+note 24=3369
+note 25=3435
+note 26=3600
+note 27=3765
+note 28=3831
+note 29=3916
+note 30=3947
+note 31=4035
+note 32=4098
+note 33=4151
+note 34=4183
+note 35=4217
+note 36=4249
+note 37=4302
+note 38=4365
+note 39=4453
+note 40=4484
+note 41=4569
+note 42=4635
+note 43=4800
+note 44=4965
+note 45=5031
+note 46=5116
+note 47=5147
+note 48=5235
+note 49=5298
+note 50=5351
+note 51=5383
+note 52=5417
+note 53=5449
+note 54=5502
+note 55=5565
+note 56=5653
+note 57=5684
+note 58=5769
+note 59=5835
+note 60=6000
+note 61=6165
+note 62=6231
+note 63=6316
+note 64=6347
+note 65=6435
+note 66=6498
+note 67=6551
+note 68=6583
+note 69=6617
+note 70=6649
+note 71=6702
+note 72=6765
+note 73=6853
+note 74=6884
+note 75=6969
+note 76=7035
+note 77=7200
+note 78=7365
+note 79=7431
+note 80=7516
+note 81=7547
+note 82=7635
+note 83=7698
+note 84=7751
+note 85=7783
+note 86=7817
+note 87=7849
+note 88=7902
+note 89=7965
+note 90=8053
+note 91=8084
+note 92=8169
+note 93=8235
+note 94=8400
+note 95=8565
+note 96=8631
+note 97=8716
+note 98=8747
+note 99=8835
+note 100=8898
+note 101=8951
+note 102=8983
+note 103=9017
+note 104=9049
+note 105=9102
+note 106=9165
+note 107=9253
+note 108=9284
+note 109=9369
+note 110=9435
+note 111=9600
+note 112=9765
+note 113=9831
+note 114=9916
+note 115=9947
+note 116=10035
+note 117=10098
+note 118=10151
+note 119=10183
+note 120=10217
+note 121=10249
+note 122=10302
+note 123=10365
+note 124=10453
+note 125=10484
+note 126=10569
+note 127=10635
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "diamond_chess11.tun"
+ID= "ID_diamond_chess11.tun"
+Filename= "diamond_chess11.scl"
+Description= "11-limit chessboard pattern diamond. OdC"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1782.512193
+note 1= 1817.487807
+note 2= 1848.682058
+note 3= 1901.955001
+note 4= 1964.915905
+note 5= 2052.592059
+note 6= 2084.358713
+note 7= 2168.825906
+note 8= 2234.995772
+note 9= 2400.000000
+note 10= 2565.004228
+note 11= 2631.174094
+note 12= 2715.641287
+note 13= 2747.407941
+note 14= 2835.084095
+note 15= 2898.044999
+note 16= 2951.317942
+note 17= 2982.512193
+note 18= 3017.487807
+note 19= 3048.682058
+note 20= 3101.955001
+note 21= 3164.915905
+note 22= 3252.592059
+note 23= 3284.358713
+note 24= 3368.825906
+note 25= 3434.995772
+note 26= 3600.000000
+note 27= 3765.004228
+note 28= 3831.174094
+note 29= 3915.641287
+note 30= 3947.407941
+note 31= 4035.084095
+note 32= 4098.044999
+note 33= 4151.317942
+note 34= 4182.512193
+note 35= 4217.487807
+note 36= 4248.682058
+note 37= 4301.955001
+note 38= 4364.915905
+note 39= 4452.592059
+note 40= 4484.358713
+note 41= 4568.825906
+note 42= 4634.995772
+note 43= 4800.000000
+note 44= 4965.004228
+note 45= 5031.174094
+note 46= 5115.641287
+note 47= 5147.407941
+note 48= 5235.084095
+note 49= 5298.044999
+note 50= 5351.317942
+note 51= 5382.512193
+note 52= 5417.487807
+note 53= 5448.682058
+note 54= 5501.955001
+note 55= 5564.915905
+note 56= 5652.592059
+note 57= 5684.358713
+note 58= 5768.825906
+note 59= 5834.995772
+note 60= 6000.000000
+note 61= 6165.004228
+note 62= 6231.174094
+note 63= 6315.641287
+note 64= 6347.407941
+note 65= 6435.084095
+note 66= 6498.044999
+note 67= 6551.317942
+note 68= 6582.512193
+note 69= 6617.487807
+note 70= 6648.682058
+note 71= 6701.955001
+note 72= 6764.915905
+note 73= 6852.592059
+note 74= 6884.358713
+note 75= 6968.825906
+note 76= 7034.995772
+note 77= 7200.000000
+note 78= 7365.004228
+note 79= 7431.174094
+note 80= 7515.641287
+note 81= 7547.407941
+note 82= 7635.084095
+note 83= 7698.044999
+note 84= 7751.317942
+note 85= 7782.512193
+note 86= 7817.487807
+note 87= 7848.682058
+note 88= 7901.955001
+note 89= 7964.915905
+note 90= 8052.592059
+note 91= 8084.358713
+note 92= 8168.825906
+note 93= 8234.995772
+note 94= 8400.000000
+note 95= 8565.004228
+note 96= 8631.174094
+note 97= 8715.641287
+note 98= 8747.407941
+note 99= 8835.084095
+note 100= 8898.044999
+note 101= 8951.317942
+note 102= 8982.512193
+note 103= 9017.487807
+note 104= 9048.682058
+note 105= 9101.955001
+note 106= 9164.915905
+note 107= 9252.592059
+note 108= 9284.358713
+note 109= 9368.825906
+note 110= 9434.995772
+note 111= 9600.000000
+note 112= 9765.004228
+note 113= 9831.174094
+note 114= 9915.641287
+note 115= 9947.407941
+note 116= 10035.084095
+note 117= 10098.044999
+note 118= 10151.317942
+note 119= 10182.512193
+note 120= 10217.487807
+note 121= 10248.682058
+note 122= 10301.955001
+note 123= 10364.915905
+note 124= 10452.592059
+note 125= 10484.358713
+note 126= 10568.825906
+note 127= 10634.995772
+
+[Functional Tuning]
+note 1="#=0 * 11/10"
+note 2="#=0 * 8/7"
+note 3="#=0 * 6/5"
+note 4="#=0 * 11/9"
+note 5="#=0 * 9/7"
+note 6="#=0 * 4/3"
+note 7="#=0 * 11/8"
+note 8="#=0 * 7/5"
+note 9="#=0 * 10/7"
+note 10="#=0 * 16/11"
+note 11="#=0 * 3/2"
+note 12="#=0 * 14/9"
+note 13="#=0 * 18/11"
+note 14="#=0 * 5/3"
+note 15="#=0 * 7/4"
+note 16="#=0 * 20/11"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

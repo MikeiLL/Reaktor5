@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Peppermint 17-note thirdtone set for Persian dastgah-ha
+;
+; VAZ Plus section
+[Tuning]
+note 0=1766
+note 1=1825
+note 2=1904
+note 3=1974
+note 4=2033
+note 5=2112
+note 6=2192
+note 7=2262
+note 8=2320
+note 9=2400
+note 10=2470
+note 11=2529
+note 12=2608
+note 13=2688
+note 14=2758
+note 15=2816
+note 16=2896
+note 17=2966
+note 18=3025
+note 19=3104
+note 20=3174
+note 21=3233
+note 22=3312
+note 23=3392
+note 24=3462
+note 25=3520
+note 26=3600
+note 27=3670
+note 28=3729
+note 29=3808
+note 30=3888
+note 31=3958
+note 32=4016
+note 33=4096
+note 34=4166
+note 35=4225
+note 36=4304
+note 37=4374
+note 38=4433
+note 39=4512
+note 40=4592
+note 41=4662
+note 42=4720
+note 43=4800
+note 44=4870
+note 45=4929
+note 46=5008
+note 47=5088
+note 48=5158
+note 49=5216
+note 50=5296
+note 51=5366
+note 52=5425
+note 53=5504
+note 54=5574
+note 55=5633
+note 56=5712
+note 57=5792
+note 58=5862
+note 59=5920
+note 60=6000
+note 61=6070
+note 62=6129
+note 63=6208
+note 64=6288
+note 65=6358
+note 66=6416
+note 67=6496
+note 68=6566
+note 69=6625
+note 70=6704
+note 71=6774
+note 72=6833
+note 73=6912
+note 74=6992
+note 75=7062
+note 76=7120
+note 77=7200
+note 78=7270
+note 79=7329
+note 80=7408
+note 81=7488
+note 82=7558
+note 83=7616
+note 84=7696
+note 85=7766
+note 86=7825
+note 87=7904
+note 88=7974
+note 89=8033
+note 90=8112
+note 91=8192
+note 92=8262
+note 93=8320
+note 94=8400
+note 95=8470
+note 96=8529
+note 97=8608
+note 98=8688
+note 99=8758
+note 100=8816
+note 101=8896
+note 102=8966
+note 103=9025
+note 104=9104
+note 105=9174
+note 106=9233
+note 107=9312
+note 108=9392
+note 109=9462
+note 110=9520
+note 111=9600
+note 112=9670
+note 113=9729
+note 114=9808
+note 115=9888
+note 116=9958
+note 117=10016
+note 118=10096
+note 119=10166
+note 120=10225
+note 121=10304
+note 122=10374
+note 123=10433
+note 124=10512
+note 125=10592
+note 126=10662
+note 127=10720
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schulter_shur17.tun"
+ID= "ID_schulter_shur17.tun"
+Filename= "schulter_shur17.scl"
+Description= "Peppermint 17-note thirdtone set for Persian dastgah-ha"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1765.893950
+note 1= 1824.573640
+note 2= 1904.095610
+note 3= 1974.085160
+note 4= 2032.764850
+note 5= 2112.286820
+note 6= 2191.808790
+note 7= 2261.798340
+note 8= 2320.478030
+note 9= 2400.000000
+note 10= 2469.989550
+note 11= 2528.669240
+note 12= 2608.191210
+note 13= 2687.713180
+note 14= 2757.702730
+note 15= 2816.382430
+note 16= 2895.904390
+note 17= 2965.893950
+note 18= 3024.573640
+note 19= 3104.095610
+note 20= 3174.085160
+note 21= 3232.764850
+note 22= 3312.286820
+note 23= 3391.808790
+note 24= 3461.798340
+note 25= 3520.478030
+note 26= 3600.000000
+note 27= 3669.989550
+note 28= 3728.669240
+note 29= 3808.191210
+note 30= 3887.713180
+note 31= 3957.702730
+note 32= 4016.382430
+note 33= 4095.904390
+note 34= 4165.893950
+note 35= 4224.573640
+note 36= 4304.095610
+note 37= 4374.085160
+note 38= 4432.764850
+note 39= 4512.286820
+note 40= 4591.808790
+note 41= 4661.798340
+note 42= 4720.478030
+note 43= 4800.000000
+note 44= 4869.989550
+note 45= 4928.669240
+note 46= 5008.191210
+note 47= 5087.713180
+note 48= 5157.702730
+note 49= 5216.382430
+note 50= 5295.904390
+note 51= 5365.893950
+note 52= 5424.573640
+note 53= 5504.095610
+note 54= 5574.085160
+note 55= 5632.764850
+note 56= 5712.286820
+note 57= 5791.808790
+note 58= 5861.798340
+note 59= 5920.478030
+note 60= 6000.000000
+note 61= 6069.989550
+note 62= 6128.669240
+note 63= 6208.191210
+note 64= 6287.713180
+note 65= 6357.702730
+note 66= 6416.382430
+note 67= 6495.904390
+note 68= 6565.893950
+note 69= 6624.573640
+note 70= 6704.095610
+note 71= 6774.085160
+note 72= 6832.764850
+note 73= 6912.286820
+note 74= 6991.808790
+note 75= 7061.798340
+note 76= 7120.478030
+note 77= 7200.000000
+note 78= 7269.989550
+note 79= 7328.669240
+note 80= 7408.191210
+note 81= 7487.713180
+note 82= 7557.702730
+note 83= 7616.382430
+note 84= 7695.904390
+note 85= 7765.893950
+note 86= 7824.573640
+note 87= 7904.095610
+note 88= 7974.085160
+note 89= 8032.764850
+note 90= 8112.286820
+note 91= 8191.808790
+note 92= 8261.798340
+note 93= 8320.478030
+note 94= 8400.000000
+note 95= 8469.989550
+note 96= 8528.669240
+note 97= 8608.191210
+note 98= 8687.713180
+note 99= 8757.702730
+note 100= 8816.382430
+note 101= 8895.904390
+note 102= 8965.893950
+note 103= 9024.573640
+note 104= 9104.095610
+note 105= 9174.085160
+note 106= 9232.764850
+note 107= 9312.286820
+note 108= 9391.808790
+note 109= 9461.798340
+note 110= 9520.478030
+note 111= 9600.000000
+note 112= 9669.989550
+note 113= 9728.669240
+note 114= 9808.191210
+note 115= 9887.713180
+note 116= 9957.702730
+note 117= 10016.382430
+note 118= 10095.904390
+note 119= 10165.893950
+note 120= 10224.573640
+note 121= 10304.095610
+note 122= 10374.085160
+note 123= 10432.764850
+note 124= 10512.286820
+note 125= 10591.808790
+note 126= 10661.798340
+note 127= 10720.478030
+
+[Functional Tuning]
+note 1="#=0 % 69.989550"
+note 2="#=0 % 128.669240"
+note 3="#=0 % 208.191210"
+note 4="#=0 % 287.713180"
+note 5="#=0 % 357.702730"
+note 6="#=0 % 416.382430"
+note 7="#=0 % 495.904390"
+note 8="#=0 % 565.893950"
+note 9="#=0 % 624.573640"
+note 10="#=0 % 704.095610"
+note 11="#=0 % 774.085160"
+note 12="#=0 % 832.764850"
+note 13="#=0 % 912.286820"
+note 14="#=0 % 991.808790"
+note 15="#=0 % 1061.798340"
+note 16="#=0 % 1120.478030"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

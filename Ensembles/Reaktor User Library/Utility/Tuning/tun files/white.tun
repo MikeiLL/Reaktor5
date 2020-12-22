@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Justin White's 22-tone scale based on Al-Farabi's tetrachord
+;
+; VAZ Plus section
+[Tuning]
+note 0=2786
+note 1=2808
+note 2=2871
+note 3=2898
+note 4=2990
+note 5=3075
+note 6=3102
+note 7=3165
+note 8=3194
+note 9=3284
+note 10=3306
+note 11=3369
+note 12=3396
+note 13=3488
+note 14=3510
+note 15=3573
+note 16=3600
+note 17=3692
+note 18=3777
+note 19=3804
+note 20=3867
+note 21=3896
+note 22=3986
+note 23=4008
+note 24=4071
+note 25=4098
+note 26=4190
+note 27=4275
+note 28=4302
+note 29=4365
+note 30=4394
+note 31=4484
+note 32=4506
+note 33=4569
+note 34=4596
+note 35=4688
+note 36=4710
+note 37=4773
+note 38=4800
+note 39=4892
+note 40=4977
+note 41=5004
+note 42=5067
+note 43=5096
+note 44=5186
+note 45=5208
+note 46=5271
+note 47=5298
+note 48=5390
+note 49=5475
+note 50=5502
+note 51=5565
+note 52=5594
+note 53=5684
+note 54=5706
+note 55=5769
+note 56=5796
+note 57=5888
+note 58=5910
+note 59=5973
+note 60=6000
+note 61=6092
+note 62=6177
+note 63=6204
+note 64=6267
+note 65=6296
+note 66=6386
+note 67=6408
+note 68=6471
+note 69=6498
+note 70=6590
+note 71=6675
+note 72=6702
+note 73=6765
+note 74=6794
+note 75=6884
+note 76=6906
+note 77=6969
+note 78=6996
+note 79=7088
+note 80=7110
+note 81=7173
+note 82=7200
+note 83=7292
+note 84=7377
+note 85=7404
+note 86=7467
+note 87=7496
+note 88=7586
+note 89=7608
+note 90=7671
+note 91=7698
+note 92=7790
+note 93=7875
+note 94=7902
+note 95=7965
+note 96=7994
+note 97=8084
+note 98=8106
+note 99=8169
+note 100=8196
+note 101=8288
+note 102=8310
+note 103=8373
+note 104=8400
+note 105=8492
+note 106=8577
+note 107=8604
+note 108=8667
+note 109=8696
+note 110=8786
+note 111=8808
+note 112=8871
+note 113=8898
+note 114=8990
+note 115=9075
+note 116=9102
+note 117=9165
+note 118=9194
+note 119=9284
+note 120=9306
+note 121=9369
+note 122=9396
+note 123=9488
+note 124=9510
+note 125=9573
+note 126=9600
+note 127=9692
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "white.tun"
+ID= "ID_white.tun"
+Filename= "white.scl"
+Description= "Justin White's 22-tone scale based on Al-Farabi's tetrachord"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2786.313714
+note 1= 2807.820003
+note 2= 2870.780907
+note 3= 2898.044999
+note 4= 2990.223716
+note 5= 3074.690909
+note 6= 3101.955001
+note 7= 3164.915905
+note 8= 3194.133717
+note 9= 3284.358713
+note 10= 3305.865003
+note 11= 3368.825906
+note 12= 3396.089998
+note 13= 3488.268715
+note 14= 3509.775004
+note 15= 3572.735908
+note 16= 3600.000000
+note 17= 3692.178716
+note 18= 3776.645910
+note 19= 3803.910002
+note 20= 3866.870906
+note 21= 3896.088718
+note 22= 3986.313714
+note 23= 4007.820003
+note 24= 4070.780907
+note 25= 4098.044999
+note 26= 4190.223716
+note 27= 4274.690909
+note 28= 4301.955001
+note 29= 4364.915905
+note 30= 4394.133717
+note 31= 4484.358713
+note 32= 4505.865003
+note 33= 4568.825906
+note 34= 4596.089998
+note 35= 4688.268715
+note 36= 4709.775004
+note 37= 4772.735908
+note 38= 4800.000000
+note 39= 4892.178716
+note 40= 4976.645910
+note 41= 5003.910002
+note 42= 5066.870906
+note 43= 5096.088718
+note 44= 5186.313714
+note 45= 5207.820003
+note 46= 5270.780907
+note 47= 5298.044999
+note 48= 5390.223716
+note 49= 5474.690909
+note 50= 5501.955001
+note 51= 5564.915905
+note 52= 5594.133717
+note 53= 5684.358713
+note 54= 5705.865003
+note 55= 5768.825906
+note 56= 5796.089998
+note 57= 5888.268715
+note 58= 5909.775004
+note 59= 5972.735908
+note 60= 6000.000000
+note 61= 6092.178716
+note 62= 6176.645910
+note 63= 6203.910002
+note 64= 6266.870906
+note 65= 6296.088718
+note 66= 6386.313714
+note 67= 6407.820003
+note 68= 6470.780907
+note 69= 6498.044999
+note 70= 6590.223716
+note 71= 6674.690909
+note 72= 6701.955001
+note 73= 6764.915905
+note 74= 6794.133717
+note 75= 6884.358713
+note 76= 6905.865003
+note 77= 6968.825906
+note 78= 6996.089998
+note 79= 7088.268715
+note 80= 7109.775004
+note 81= 7172.735908
+note 82= 7200.000000
+note 83= 7292.178716
+note 84= 7376.645910
+note 85= 7403.910002
+note 86= 7466.870906
+note 87= 7496.088718
+note 88= 7586.313714
+note 89= 7607.820003
+note 90= 7670.780907
+note 91= 7698.044999
+note 92= 7790.223716
+note 93= 7874.690909
+note 94= 7901.955001
+note 95= 7964.915905
+note 96= 7994.133717
+note 97= 8084.358713
+note 98= 8105.865003
+note 99= 8168.825906
+note 100= 8196.089998
+note 101= 8288.268715
+note 102= 8309.775004
+note 103= 8372.735908
+note 104= 8400.000000
+note 105= 8492.178716
+note 106= 8576.645910
+note 107= 8603.910002
+note 108= 8666.870906
+note 109= 8696.088718
+note 110= 8786.313714
+note 111= 8807.820003
+note 112= 8870.780907
+note 113= 8898.044999
+note 114= 8990.223716
+note 115= 9074.690909
+note 116= 9101.955001
+note 117= 9164.915905
+note 118= 9194.133717
+note 119= 9284.358713
+note 120= 9305.865003
+note 121= 9368.825906
+note 122= 9396.089998
+note 123= 9488.268715
+note 124= 9509.775004
+note 125= 9572.735908
+note 126= 9600.000000
+note 127= 9692.178716
+
+[Functional Tuning]
+note 1="#=0 * 135/128"
+note 2="#=0 * 567/512"
+note 3="#=0 * 9/8"
+note 4="#=0 * 7/6"
+note 5="#=0 * 1215/1024"
+note 6="#=0 * 5/4"
+note 7="#=0 * 81/64"
+note 8="#=0 * 21/16"
+note 9="#=0 * 4/3"
+note 10="#=0 * 45/32"
+note 11="#=0 * 189/128"
+note 12="#=0 * 3/2"
+note 13="#=0 * 14/9"
+note 14="#=0 * 405/256"
+note 15="#=0 * 5/3"
+note 16="#=0 * 27/16"
+note 17="#=0 * 7/4"
+note 18="#=0 * 16/9"
+note 19="#=0 * 15/8"
+note 20="#=0 * 243/128"
+note 21="#=0 * 63/32"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kraig Grady's dual [5 7 9 11] hexany scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=102
+note 2=182
+note 3=267
+note 4=418
+note 5=537
+note 6=639
+note 7=702
+note 8=821
+note 9=972
+note 10=1057
+note 11=1137
+note 12=1200
+note 13=1302
+note 14=1382
+note 15=1467
+note 16=1618
+note 17=1737
+note 18=1839
+note 19=1902
+note 20=2021
+note 21=2172
+note 22=2257
+note 23=2337
+note 24=2400
+note 25=2502
+note 26=2582
+note 27=2667
+note 28=2818
+note 29=2937
+note 30=3039
+note 31=3102
+note 32=3221
+note 33=3372
+note 34=3457
+note 35=3537
+note 36=3600
+note 37=3702
+note 38=3782
+note 39=3867
+note 40=4018
+note 41=4137
+note 42=4239
+note 43=4302
+note 44=4421
+note 45=4572
+note 46=4657
+note 47=4737
+note 48=4800
+note 49=4902
+note 50=4982
+note 51=5067
+note 52=5218
+note 53=5337
+note 54=5439
+note 55=5502
+note 56=5621
+note 57=5772
+note 58=5857
+note 59=5937
+note 60=6000
+note 61=6102
+note 62=6182
+note 63=6267
+note 64=6418
+note 65=6537
+note 66=6639
+note 67=6702
+note 68=6821
+note 69=6972
+note 70=7057
+note 71=7137
+note 72=7200
+note 73=7302
+note 74=7382
+note 75=7467
+note 76=7618
+note 77=7737
+note 78=7839
+note 79=7902
+note 80=8021
+note 81=8172
+note 82=8257
+note 83=8337
+note 84=8400
+note 85=8502
+note 86=8582
+note 87=8667
+note 88=8818
+note 89=8937
+note 90=9039
+note 91=9102
+note 92=9221
+note 93=9372
+note 94=9457
+note 95=9537
+note 96=9600
+note 97=9702
+note 98=9782
+note 99=9867
+note 100=10018
+note 101=10137
+note 102=10239
+note 103=10302
+note 104=10421
+note 105=10572
+note 106=10657
+note 107=10737
+note 108=10800
+note 109=10902
+note 110=10982
+note 111=11067
+note 112=11218
+note 113=11337
+note 114=11439
+note 115=11502
+note 116=11621
+note 117=11772
+note 118=11857
+note 119=11937
+note 120=12000
+note 121=12102
+note 122=12182
+note 123=12267
+note 124=12418
+note 125=12537
+note 126=12639
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "grady11.tun"
+ID= "ID_grady11.tun"
+Filename= "grady11.scl"
+Description= "Kraig Grady's dual [5 7 9 11] hexany scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 101.866677
+note 2= 182.403712
+note 3= 266.870906
+note 4= 417.507964
+note 5= 536.950772
+note 6= 638.994097
+note 7= 701.955001
+note 8= 821.397809
+note 9= 972.034868
+note 10= 1056.502061
+note 11= 1137.039096
+note 12= 1200.000000
+note 13= 1301.866677
+note 14= 1382.403712
+note 15= 1466.870906
+note 16= 1617.507964
+note 17= 1736.950772
+note 18= 1838.994097
+note 19= 1901.955001
+note 20= 2021.397809
+note 21= 2172.034868
+note 22= 2256.502061
+note 23= 2337.039096
+note 24= 2400.000000
+note 25= 2501.866677
+note 26= 2582.403712
+note 27= 2666.870906
+note 28= 2817.507964
+note 29= 2936.950772
+note 30= 3038.994097
+note 31= 3101.955001
+note 32= 3221.397809
+note 33= 3372.034868
+note 34= 3456.502061
+note 35= 3537.039096
+note 36= 3600.000000
+note 37= 3701.866677
+note 38= 3782.403712
+note 39= 3866.870906
+note 40= 4017.507964
+note 41= 4136.950772
+note 42= 4238.994097
+note 43= 4301.955001
+note 44= 4421.397809
+note 45= 4572.034868
+note 46= 4656.502061
+note 47= 4737.039096
+note 48= 4800.000000
+note 49= 4901.866677
+note 50= 4982.403712
+note 51= 5066.870906
+note 52= 5217.507964
+note 53= 5336.950772
+note 54= 5438.994097
+note 55= 5501.955001
+note 56= 5621.397809
+note 57= 5772.034868
+note 58= 5856.502061
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6101.866677
+note 62= 6182.403712
+note 63= 6266.870906
+note 64= 6417.507964
+note 65= 6536.950772
+note 66= 6638.994097
+note 67= 6701.955001
+note 68= 6821.397809
+note 69= 6972.034868
+note 70= 7056.502061
+note 71= 7137.039096
+note 72= 7200.000000
+note 73= 7301.866677
+note 74= 7382.403712
+note 75= 7466.870906
+note 76= 7617.507964
+note 77= 7736.950772
+note 78= 7838.994097
+note 79= 7901.955001
+note 80= 8021.397809
+note 81= 8172.034868
+note 82= 8256.502061
+note 83= 8337.039096
+note 84= 8400.000000
+note 85= 8501.866677
+note 86= 8582.403712
+note 87= 8666.870906
+note 88= 8817.507964
+note 89= 8936.950772
+note 90= 9038.994097
+note 91= 9101.955001
+note 92= 9221.397809
+note 93= 9372.034868
+note 94= 9456.502061
+note 95= 9537.039096
+note 96= 9600.000000
+note 97= 9701.866677
+note 98= 9782.403712
+note 99= 9866.870906
+note 100= 10017.507964
+note 101= 10136.950772
+note 102= 10238.994097
+note 103= 10301.955001
+note 104= 10421.397809
+note 105= 10572.034868
+note 106= 10656.502061
+note 107= 10737.039096
+note 108= 10800.000000
+note 109= 10901.866677
+note 110= 10982.403712
+note 111= 11066.870906
+note 112= 11217.507964
+note 113= 11336.950772
+note 114= 11438.994097
+note 115= 11501.955001
+note 116= 11621.397809
+note 117= 11772.034868
+note 118= 11856.502061
+note 119= 11937.039096
+note 120= 12000.000000
+note 121= 12101.866677
+note 122= 12182.403712
+note 123= 12266.870906
+note 124= 12417.507964
+note 125= 12536.950772
+note 126= 12638.994097
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 35/33"
+note 2="#=0 * 10/9"
+note 3="#=0 * 7/6"
+note 4="#=0 * 14/11"
+note 5="#=0 * 15/11"
+note 6="#=0 * 81/56"
+note 7="#=0 * 3/2"
+note 8="#=0 * 45/28"
+note 9="#=0 * 135/77"
+note 10="#=0 * 81/44"
+note 11="#=0 * 27/14"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

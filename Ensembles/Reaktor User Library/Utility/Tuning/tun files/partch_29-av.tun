@@ -1,0 +1,311 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 29-tone JI scale from Partch's Adapted Viola 1928-30
+;
+; VAZ Plus section
+[Tuning]
+note 0=3516
+note 1=3547
+note 2=3600
+note 3=3653
+note 4=3684
+note 5=3719
+note 6=3751
+note 7=3782
+note 8=3831
+note 9=3867
+note 10=3916
+note 11=3947
+note 12=3986
+note 13=4035
+note 14=4098
+note 15=4151
+note 16=4183
+note 17=4217
+note 18=4249
+note 19=4302
+note 20=4365
+note 21=4414
+note 22=4453
+note 23=4484
+note 24=4533
+note 25=4569
+note 26=4618
+note 27=4649
+note 28=4681
+note 29=4716
+note 30=4747
+note 31=4800
+note 32=4853
+note 33=4884
+note 34=4919
+note 35=4951
+note 36=4982
+note 37=5031
+note 38=5067
+note 39=5116
+note 40=5147
+note 41=5186
+note 42=5235
+note 43=5298
+note 44=5351
+note 45=5383
+note 46=5417
+note 47=5449
+note 48=5502
+note 49=5565
+note 50=5614
+note 51=5653
+note 52=5684
+note 53=5733
+note 54=5769
+note 55=5818
+note 56=5849
+note 57=5881
+note 58=5916
+note 59=5947
+note 60=6000
+note 61=6053
+note 62=6084
+note 63=6119
+note 64=6151
+note 65=6182
+note 66=6231
+note 67=6267
+note 68=6316
+note 69=6347
+note 70=6386
+note 71=6435
+note 72=6498
+note 73=6551
+note 74=6583
+note 75=6617
+note 76=6649
+note 77=6702
+note 78=6765
+note 79=6814
+note 80=6853
+note 81=6884
+note 82=6933
+note 83=6969
+note 84=7018
+note 85=7049
+note 86=7081
+note 87=7116
+note 88=7147
+note 89=7200
+note 90=7253
+note 91=7284
+note 92=7319
+note 93=7351
+note 94=7382
+note 95=7431
+note 96=7467
+note 97=7516
+note 98=7547
+note 99=7586
+note 100=7635
+note 101=7698
+note 102=7751
+note 103=7783
+note 104=7817
+note 105=7849
+note 106=7902
+note 107=7965
+note 108=8014
+note 109=8053
+note 110=8084
+note 111=8133
+note 112=8169
+note 113=8218
+note 114=8249
+note 115=8281
+note 116=8316
+note 117=8347
+note 118=8400
+note 119=8453
+note 120=8484
+note 121=8519
+note 122=8551
+note 123=8582
+note 124=8631
+note 125=8667
+note 126=8716
+note 127=8747
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "partch_29-av.tun"
+ID= "ID_partch_29-av.tun"
+Filename= "partch_29-av.scl"
+Description= "29-tone JI scale from Partch's Adapted Viola 1928-30"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3515.532807
+note 1= 3546.727057
+note 2= 3600.000000
+note 3= 3653.272943
+note 4= 3684.467193
+note 5= 3719.442808
+note 6= 3750.637059
+note 7= 3782.403712
+note 8= 3831.174094
+note 9= 3866.870906
+note 10= 3915.641287
+note 11= 3947.407941
+note 12= 3986.313714
+note 13= 4035.084095
+note 14= 4098.044999
+note 15= 4151.317942
+note 16= 4182.512193
+note 17= 4217.487807
+note 18= 4248.682058
+note 19= 4301.955001
+note 20= 4364.915905
+note 21= 4413.686286
+note 22= 4452.592059
+note 23= 4484.358713
+note 24= 4533.129094
+note 25= 4568.825906
+note 26= 4617.596288
+note 27= 4649.362941
+note 28= 4680.557192
+note 29= 4715.532807
+note 30= 4746.727057
+note 31= 4800.000000
+note 32= 4853.272943
+note 33= 4884.467193
+note 34= 4919.442808
+note 35= 4950.637059
+note 36= 4982.403712
+note 37= 5031.174094
+note 38= 5066.870906
+note 39= 5115.641287
+note 40= 5147.407941
+note 41= 5186.313714
+note 42= 5235.084095
+note 43= 5298.044999
+note 44= 5351.317942
+note 45= 5382.512193
+note 46= 5417.487807
+note 47= 5448.682058
+note 48= 5501.955001
+note 49= 5564.915905
+note 50= 5613.686286
+note 51= 5652.592059
+note 52= 5684.358713
+note 53= 5733.129094
+note 54= 5768.825906
+note 55= 5817.596288
+note 56= 5849.362941
+note 57= 5880.557192
+note 58= 5915.532807
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6084.467193
+note 63= 6119.442808
+note 64= 6150.637059
+note 65= 6182.403712
+note 66= 6231.174094
+note 67= 6266.870906
+note 68= 6315.641287
+note 69= 6347.407941
+note 70= 6386.313714
+note 71= 6435.084095
+note 72= 6498.044999
+note 73= 6551.317942
+note 74= 6582.512193
+note 75= 6617.487807
+note 76= 6648.682058
+note 77= 6701.955001
+note 78= 6764.915905
+note 79= 6813.686286
+note 80= 6852.592059
+note 81= 6884.358713
+note 82= 6933.129094
+note 83= 6968.825906
+note 84= 7017.596288
+note 85= 7049.362941
+note 86= 7080.557192
+note 87= 7115.532807
+note 88= 7146.727057
+note 89= 7200.000000
+note 90= 7253.272943
+note 91= 7284.467193
+note 92= 7319.442808
+note 93= 7350.637059
+note 94= 7382.403712
+note 95= 7431.174094
+note 96= 7466.870906
+note 97= 7515.641287
+note 98= 7547.407941
+note 99= 7586.313714
+note 100= 7635.084095
+note 101= 7698.044999
+note 102= 7751.317942
+note 103= 7782.512193
+note 104= 7817.487807
+note 105= 7848.682058
+note 106= 7901.955001
+note 107= 7964.915905
+note 108= 8013.686286
+note 109= 8052.592059
+note 110= 8084.358713
+note 111= 8133.129094
+note 112= 8168.825906
+note 113= 8217.596288
+note 114= 8249.362941
+note 115= 8280.557192
+note 116= 8315.532807
+note 117= 8346.727057
+note 118= 8400.000000
+note 119= 8453.272943
+note 120= 8484.467193
+note 121= 8519.442808
+note 122= 8550.637059
+note 123= 8582.403712
+note 124= 8631.174094
+note 125= 8666.870906
+note 126= 8715.641287
+note 127= 8747.407941
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 21/20"
+note 3="#=0 * 15/14"
+note 4="#=0 * 12/11"
+note 5="#=0 * 10/9"
+note 6="#=0 * 8/7"
+note 7="#=0 * 7/6"
+note 8="#=0 * 6/5"
+note 9="#=0 * 11/9"
+note 10="#=0 * 5/4"
+note 11="#=0 * 9/7"
+note 12="#=0 * 4/3"
+note 13="#=0 * 11/8"
+note 14="#=0 * 7/5"
+note 15="#=0 * 10/7"
+note 16="#=0 * 16/11"
+note 17="#=0 * 3/2"
+note 18="#=0 * 14/9"
+note 19="#=0 * 8/5"
+note 20="#=0 * 18/11"
+note 21="#=0 * 5/3"
+note 22="#=0 * 12/7"
+note 23="#=0 * 7/4"
+note 24="#=0 * 9/5"
+note 25="#=0 * 11/6"
+note 26="#=0 * 28/15"
+note 27="#=0 * 40/21"
+note 28="#=0 * 64/33"
+note 29="#>-29 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Keemic (875/864) tempering of 9-limit diamond, POTE tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=2164
+note 1=2196
+note 2=2223
+note 3=2400
+note 4=2577
+note 5=2604
+note 6=2636
+note 7=2662
+note 8=2721
+note 9=2780
+note 10=2840
+note 11=2898
+note 12=2984
+note 13=3016
+note 14=3102
+note 15=3160
+note 16=3220
+note 17=3279
+note 18=3338
+note 19=3364
+note 20=3396
+note 21=3423
+note 22=3600
+note 23=3777
+note 24=3804
+note 25=3836
+note 26=3862
+note 27=3921
+note 28=3980
+note 29=4040
+note 30=4098
+note 31=4184
+note 32=4216
+note 33=4302
+note 34=4360
+note 35=4420
+note 36=4479
+note 37=4538
+note 38=4564
+note 39=4596
+note 40=4623
+note 41=4800
+note 42=4977
+note 43=5004
+note 44=5036
+note 45=5062
+note 46=5121
+note 47=5180
+note 48=5240
+note 49=5298
+note 50=5384
+note 51=5416
+note 52=5502
+note 53=5560
+note 54=5620
+note 55=5679
+note 56=5738
+note 57=5764
+note 58=5796
+note 59=5823
+note 60=6000
+note 61=6177
+note 62=6204
+note 63=6236
+note 64=6262
+note 65=6321
+note 66=6380
+note 67=6440
+note 68=6498
+note 69=6584
+note 70=6616
+note 71=6702
+note 72=6760
+note 73=6820
+note 74=6879
+note 75=6938
+note 76=6964
+note 77=6996
+note 78=7023
+note 79=7200
+note 80=7377
+note 81=7404
+note 82=7436
+note 83=7462
+note 84=7521
+note 85=7580
+note 86=7640
+note 87=7698
+note 88=7784
+note 89=7816
+note 90=7902
+note 91=7960
+note 92=8020
+note 93=8079
+note 94=8138
+note 95=8164
+note 96=8196
+note 97=8223
+note 98=8400
+note 99=8577
+note 100=8604
+note 101=8636
+note 102=8662
+note 103=8721
+note 104=8780
+note 105=8840
+note 106=8898
+note 107=8984
+note 108=9016
+note 109=9102
+note 110=9160
+note 111=9220
+note 112=9279
+note 113=9338
+note 114=9364
+note 115=9396
+note 116=9423
+note 117=9600
+note 118=9777
+note 119=9804
+note 120=9836
+note 121=9862
+note 122=9921
+note 123=9980
+note 124=10040
+note 125=10098
+note 126=10184
+note 127=10216
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "diamond9keemic.tun"
+ID= "ID_diamond9keemic.tun"
+Filename= "diamond9keemic.scl"
+Description= "Keemic (875/864) tempering of 9-limit diamond, POTE tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2164.214640
+note 1= 2196.253470
+note 2= 2223.278150
+note 3= 2400.000000
+note 4= 2576.721850
+note 5= 2603.746530
+note 6= 2635.785360
+note 7= 2662.341370
+note 8= 2721.404880
+note 9= 2780.468390
+note 10= 2839.531890
+note 11= 2898.126730
+note 12= 2983.746250
+note 13= 3016.253750
+note 14= 3101.873270
+note 15= 3160.468110
+note 16= 3219.531610
+note 17= 3278.595120
+note 18= 3337.658630
+note 19= 3364.214640
+note 20= 3396.253470
+note 21= 3423.278150
+note 22= 3600.000000
+note 23= 3776.721850
+note 24= 3803.746530
+note 25= 3835.785360
+note 26= 3862.341370
+note 27= 3921.404880
+note 28= 3980.468390
+note 29= 4039.531890
+note 30= 4098.126730
+note 31= 4183.746250
+note 32= 4216.253750
+note 33= 4301.873270
+note 34= 4360.468110
+note 35= 4419.531610
+note 36= 4478.595120
+note 37= 4537.658630
+note 38= 4564.214640
+note 39= 4596.253470
+note 40= 4623.278150
+note 41= 4800.000000
+note 42= 4976.721850
+note 43= 5003.746530
+note 44= 5035.785360
+note 45= 5062.341370
+note 46= 5121.404880
+note 47= 5180.468390
+note 48= 5239.531890
+note 49= 5298.126730
+note 50= 5383.746250
+note 51= 5416.253750
+note 52= 5501.873270
+note 53= 5560.468110
+note 54= 5619.531610
+note 55= 5678.595120
+note 56= 5737.658630
+note 57= 5764.214640
+note 58= 5796.253470
+note 59= 5823.278150
+note 60= 6000.000000
+note 61= 6176.721850
+note 62= 6203.746530
+note 63= 6235.785360
+note 64= 6262.341370
+note 65= 6321.404880
+note 66= 6380.468390
+note 67= 6439.531890
+note 68= 6498.126730
+note 69= 6583.746250
+note 70= 6616.253750
+note 71= 6701.873270
+note 72= 6760.468110
+note 73= 6819.531610
+note 74= 6878.595120
+note 75= 6937.658630
+note 76= 6964.214640
+note 77= 6996.253470
+note 78= 7023.278150
+note 79= 7200.000000
+note 80= 7376.721850
+note 81= 7403.746530
+note 82= 7435.785360
+note 83= 7462.341370
+note 84= 7521.404880
+note 85= 7580.468390
+note 86= 7639.531890
+note 87= 7698.126730
+note 88= 7783.746250
+note 89= 7816.253750
+note 90= 7901.873270
+note 91= 7960.468110
+note 92= 8019.531610
+note 93= 8078.595120
+note 94= 8137.658630
+note 95= 8164.214640
+note 96= 8196.253470
+note 97= 8223.278150
+note 98= 8400.000000
+note 99= 8576.721850
+note 100= 8603.746530
+note 101= 8635.785360
+note 102= 8662.341370
+note 103= 8721.404880
+note 104= 8780.468390
+note 105= 8839.531890
+note 106= 8898.126730
+note 107= 8983.746250
+note 108= 9016.253750
+note 109= 9101.873270
+note 110= 9160.468110
+note 111= 9219.531610
+note 112= 9278.595120
+note 113= 9337.658630
+note 114= 9364.214640
+note 115= 9396.253470
+note 116= 9423.278150
+note 117= 9600.000000
+note 118= 9776.721850
+note 119= 9803.746530
+note 120= 9835.785360
+note 121= 9862.341370
+note 122= 9921.404880
+note 123= 9980.468390
+note 124= 10039.531890
+note 125= 10098.126730
+note 126= 10183.746250
+note 127= 10216.253750
+
+[Functional Tuning]
+note 1="#=0 % 176.721850"
+note 2="#=0 % 203.746530"
+note 3="#=0 % 235.785360"
+note 4="#=0 % 262.341370"
+note 5="#=0 % 321.404880"
+note 6="#=0 % 380.468390"
+note 7="#=0 % 439.531890"
+note 8="#=0 % 498.126730"
+note 9="#=0 % 583.746250"
+note 10="#=0 % 616.253750"
+note 11="#=0 % 701.873270"
+note 12="#=0 % 760.468110"
+note 13="#=0 % 819.531610"
+note 14="#=0 % 878.595120"
+note 15="#=0 % 937.658630"
+note 16="#=0 % 964.214640"
+note 17="#=0 % 996.253470"
+note 18="#=0 % 1023.278150"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

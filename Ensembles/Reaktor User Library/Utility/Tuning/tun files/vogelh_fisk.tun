@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Modified meantone tuning of Fisk organ in Memorial Church at Stanford
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=80
+note 2=195
+note 3=310
+note 4=389
+note 5=503
+note 6=584
+note 7=697
+note 8=777
+note 9=892
+note 10=1006
+note 11=1086
+note 12=1200
+note 13=1280
+note 14=1395
+note 15=1510
+note 16=1589
+note 17=1703
+note 18=1784
+note 19=1897
+note 20=1977
+note 21=2092
+note 22=2206
+note 23=2286
+note 24=2400
+note 25=2480
+note 26=2595
+note 27=2710
+note 28=2789
+note 29=2903
+note 30=2984
+note 31=3097
+note 32=3177
+note 33=3292
+note 34=3406
+note 35=3486
+note 36=3600
+note 37=3680
+note 38=3795
+note 39=3910
+note 40=3989
+note 41=4103
+note 42=4184
+note 43=4297
+note 44=4377
+note 45=4492
+note 46=4606
+note 47=4686
+note 48=4800
+note 49=4880
+note 50=4995
+note 51=5110
+note 52=5189
+note 53=5303
+note 54=5384
+note 55=5497
+note 56=5577
+note 57=5692
+note 58=5806
+note 59=5886
+note 60=6000
+note 61=6080
+note 62=6195
+note 63=6310
+note 64=6389
+note 65=6503
+note 66=6584
+note 67=6697
+note 68=6777
+note 69=6892
+note 70=7006
+note 71=7086
+note 72=7200
+note 73=7280
+note 74=7395
+note 75=7510
+note 76=7589
+note 77=7703
+note 78=7784
+note 79=7897
+note 80=7977
+note 81=8092
+note 82=8206
+note 83=8286
+note 84=8400
+note 85=8480
+note 86=8595
+note 87=8710
+note 88=8789
+note 89=8903
+note 90=8984
+note 91=9097
+note 92=9177
+note 93=9292
+note 94=9406
+note 95=9486
+note 96=9600
+note 97=9680
+note 98=9795
+note 99=9910
+note 100=9989
+note 101=10103
+note 102=10184
+note 103=10297
+note 104=10377
+note 105=10492
+note 106=10606
+note 107=10686
+note 108=10800
+note 109=10880
+note 110=10995
+note 111=11110
+note 112=11189
+note 113=11303
+note 114=11384
+note 115=11497
+note 116=11577
+note 117=11692
+note 118=11806
+note 119=11886
+note 120=12000
+note 121=12080
+note 122=12195
+note 123=12310
+note 124=12389
+note 125=12503
+note 126=12584
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vogelh_fisk.tun"
+ID= "ID_vogelh_fisk.tun"
+Filename= "vogelh_fisk.scl"
+Description= "Modified meantone tuning of Fisk organ in Memorial Church at Stanford"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 80.124160
+note 2= 194.526000
+note 3= 309.579500
+note 4= 389.052000
+note 5= 502.737000
+note 6= 583.545410
+note 7= 697.263000
+note 8= 776.702910
+note 9= 891.789000
+note 10= 1006.158250
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1280.124160
+note 14= 1394.526000
+note 15= 1509.579500
+note 16= 1589.052000
+note 17= 1702.737000
+note 18= 1783.545410
+note 19= 1897.263000
+note 20= 1976.702910
+note 21= 2091.789000
+note 22= 2206.158250
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2480.124160
+note 26= 2594.526000
+note 27= 2709.579500
+note 28= 2789.052000
+note 29= 2902.737000
+note 30= 2983.545410
+note 31= 3097.263000
+note 32= 3176.702910
+note 33= 3291.789000
+note 34= 3406.158250
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3680.124160
+note 38= 3794.526000
+note 39= 3909.579500
+note 40= 3989.052000
+note 41= 4102.737000
+note 42= 4183.545410
+note 43= 4297.263000
+note 44= 4376.702910
+note 45= 4491.789000
+note 46= 4606.158250
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4880.124160
+note 50= 4994.526000
+note 51= 5109.579500
+note 52= 5189.052000
+note 53= 5302.737000
+note 54= 5383.545410
+note 55= 5497.263000
+note 56= 5576.702910
+note 57= 5691.789000
+note 58= 5806.158250
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6080.124160
+note 62= 6194.526000
+note 63= 6309.579500
+note 64= 6389.052000
+note 65= 6502.737000
+note 66= 6583.545410
+note 67= 6697.263000
+note 68= 6776.702910
+note 69= 6891.789000
+note 70= 7006.158250
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7280.124160
+note 74= 7394.526000
+note 75= 7509.579500
+note 76= 7589.052000
+note 77= 7702.737000
+note 78= 7783.545410
+note 79= 7897.263000
+note 80= 7976.702910
+note 81= 8091.789000
+note 82= 8206.158250
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8480.124160
+note 86= 8594.526000
+note 87= 8709.579500
+note 88= 8789.052000
+note 89= 8902.737000
+note 90= 8983.545410
+note 91= 9097.263000
+note 92= 9176.702910
+note 93= 9291.789000
+note 94= 9406.158250
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9680.124160
+note 98= 9794.526000
+note 99= 9909.579500
+note 100= 9989.052000
+note 101= 10102.737000
+note 102= 10183.545410
+note 103= 10297.263000
+note 104= 10376.702910
+note 105= 10491.789000
+note 106= 10606.158250
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10880.124160
+note 110= 10994.526000
+note 111= 11109.579500
+note 112= 11189.052000
+note 113= 11302.737000
+note 114= 11383.545410
+note 115= 11497.263000
+note 116= 11576.702910
+note 117= 11691.789000
+note 118= 11806.158250
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12080.124160
+note 122= 12194.526000
+note 123= 12309.579500
+note 124= 12389.052000
+note 125= 12502.737000
+note 126= 12583.545410
+note 127= 12697.263000
+
+[Functional Tuning]
+note 1="#=0 % 80.124160"
+note 2="#=0 % 194.526000"
+note 3="#=0 % 309.579500"
+note 4="#=0 % 389.052000"
+note 5="#=0 % 502.737000"
+note 6="#=0 % 583.545410"
+note 7="#=0 % 697.263000"
+note 8="#=0 % 776.702910"
+note 9="#=0 % 891.789000"
+note 10="#=0 % 1006.158250"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

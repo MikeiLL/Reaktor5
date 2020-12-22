@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 6/31 generator supermajor seconds tripentatonic scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1239
+note 2=1394
+note 3=1432
+note 4=1471
+note 5=1626
+note 6=1665
+note 7=1703
+note 8=1897
+note 9=1935
+note 10=1974
+note 11=2129
+note 12=2168
+note 13=2206
+note 14=2361
+note 15=2400
+note 16=2439
+note 17=2594
+note 18=2632
+note 19=2671
+note 20=2826
+note 21=2865
+note 22=2903
+note 23=3097
+note 24=3135
+note 25=3174
+note 26=3329
+note 27=3368
+note 28=3406
+note 29=3561
+note 30=3600
+note 31=3639
+note 32=3794
+note 33=3832
+note 34=3871
+note 35=4026
+note 36=4065
+note 37=4103
+note 38=4297
+note 39=4335
+note 40=4374
+note 41=4529
+note 42=4568
+note 43=4606
+note 44=4761
+note 45=4800
+note 46=4839
+note 47=4994
+note 48=5032
+note 49=5071
+note 50=5226
+note 51=5265
+note 52=5303
+note 53=5497
+note 54=5535
+note 55=5574
+note 56=5729
+note 57=5768
+note 58=5806
+note 59=5961
+note 60=6000
+note 61=6039
+note 62=6194
+note 63=6232
+note 64=6271
+note 65=6426
+note 66=6465
+note 67=6503
+note 68=6697
+note 69=6735
+note 70=6774
+note 71=6929
+note 72=6968
+note 73=7006
+note 74=7161
+note 75=7200
+note 76=7239
+note 77=7394
+note 78=7432
+note 79=7471
+note 80=7626
+note 81=7665
+note 82=7703
+note 83=7897
+note 84=7935
+note 85=7974
+note 86=8129
+note 87=8168
+note 88=8206
+note 89=8361
+note 90=8400
+note 91=8439
+note 92=8594
+note 93=8632
+note 94=8671
+note 95=8826
+note 96=8865
+note 97=8903
+note 98=9097
+note 99=9135
+note 100=9174
+note 101=9329
+note 102=9368
+note 103=9406
+note 104=9561
+note 105=9600
+note 106=9639
+note 107=9794
+note 108=9832
+note 109=9871
+note 110=10026
+note 111=10065
+note 112=10103
+note 113=10297
+note 114=10335
+note 115=10374
+note 116=10529
+note 117=10568
+note 118=10606
+note 119=10761
+note 120=10800
+note 121=10839
+note 122=10994
+note 123=11032
+note 124=11071
+note 125=11226
+note 126=11265
+note 127=11303
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_tr31.tun"
+ID= "ID_smithgw_tr31.tun"
+Filename= "smithgw_tr31.scl"
+Description= "6/31 generator supermajor seconds tripentatonic scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1238.709680
+note 2= 1393.548390
+note 3= 1432.258060
+note 4= 1470.967740
+note 5= 1625.806450
+note 6= 1664.516130
+note 7= 1703.225810
+note 8= 1896.774190
+note 9= 1935.483870
+note 10= 1974.193550
+note 11= 2129.032260
+note 12= 2167.741940
+note 13= 2206.451610
+note 14= 2361.290320
+note 15= 2400.000000
+note 16= 2438.709680
+note 17= 2593.548390
+note 18= 2632.258060
+note 19= 2670.967740
+note 20= 2825.806450
+note 21= 2864.516130
+note 22= 2903.225810
+note 23= 3096.774190
+note 24= 3135.483870
+note 25= 3174.193550
+note 26= 3329.032260
+note 27= 3367.741940
+note 28= 3406.451610
+note 29= 3561.290320
+note 30= 3600.000000
+note 31= 3638.709680
+note 32= 3793.548390
+note 33= 3832.258060
+note 34= 3870.967740
+note 35= 4025.806450
+note 36= 4064.516130
+note 37= 4103.225810
+note 38= 4296.774190
+note 39= 4335.483870
+note 40= 4374.193550
+note 41= 4529.032260
+note 42= 4567.741940
+note 43= 4606.451610
+note 44= 4761.290320
+note 45= 4800.000000
+note 46= 4838.709680
+note 47= 4993.548390
+note 48= 5032.258060
+note 49= 5070.967740
+note 50= 5225.806450
+note 51= 5264.516130
+note 52= 5303.225810
+note 53= 5496.774190
+note 54= 5535.483870
+note 55= 5574.193550
+note 56= 5729.032260
+note 57= 5767.741940
+note 58= 5806.451610
+note 59= 5961.290320
+note 60= 6000.000000
+note 61= 6038.709680
+note 62= 6193.548390
+note 63= 6232.258060
+note 64= 6270.967740
+note 65= 6425.806450
+note 66= 6464.516130
+note 67= 6503.225810
+note 68= 6696.774190
+note 69= 6735.483870
+note 70= 6774.193550
+note 71= 6929.032260
+note 72= 6967.741940
+note 73= 7006.451610
+note 74= 7161.290320
+note 75= 7200.000000
+note 76= 7238.709680
+note 77= 7393.548390
+note 78= 7432.258060
+note 79= 7470.967740
+note 80= 7625.806450
+note 81= 7664.516130
+note 82= 7703.225810
+note 83= 7896.774190
+note 84= 7935.483870
+note 85= 7974.193550
+note 86= 8129.032260
+note 87= 8167.741940
+note 88= 8206.451610
+note 89= 8361.290320
+note 90= 8400.000000
+note 91= 8438.709680
+note 92= 8593.548390
+note 93= 8632.258060
+note 94= 8670.967740
+note 95= 8825.806450
+note 96= 8864.516130
+note 97= 8903.225810
+note 98= 9096.774190
+note 99= 9135.483870
+note 100= 9174.193550
+note 101= 9329.032260
+note 102= 9367.741940
+note 103= 9406.451610
+note 104= 9561.290320
+note 105= 9600.000000
+note 106= 9638.709680
+note 107= 9793.548390
+note 108= 9832.258060
+note 109= 9870.967740
+note 110= 10025.806450
+note 111= 10064.516130
+note 112= 10103.225810
+note 113= 10296.774190
+note 114= 10335.483870
+note 115= 10374.193550
+note 116= 10529.032260
+note 117= 10567.741940
+note 118= 10606.451610
+note 119= 10761.290320
+note 120= 10800.000000
+note 121= 10838.709680
+note 122= 10993.548390
+note 123= 11032.258060
+note 124= 11070.967740
+note 125= 11225.806450
+note 126= 11264.516130
+note 127= 11303.225810
+
+[Functional Tuning]
+note 1="#=0 % 38.709680"
+note 2="#=0 % 193.548390"
+note 3="#=0 % 232.258060"
+note 4="#=0 % 270.967740"
+note 5="#=0 % 425.806450"
+note 6="#=0 % 464.516130"
+note 7="#=0 % 503.225810"
+note 8="#=0 % 696.774190"
+note 9="#=0 % 735.483870"
+note 10="#=0 % 774.193550"
+note 11="#=0 % 929.032260"
+note 12="#=0 % 967.741940"
+note 13="#=0 % 1006.451610"
+note 14="#=0 % 1161.290320"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

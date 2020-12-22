@@ -1,0 +1,317 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; The Semantic Scale, from Alain Daniélou: "Sémantique Musicale" (1967)
+;
+; VAZ Plus section
+[Tuning]
+note 0=3965
+note 1=3986
+note 2=4008
+note 3=4078
+note 4=4098
+note 5=4120
+note 6=4169
+note 7=4190
+note 8=4210
+note 9=4280
+note 10=4302
+note 11=4323
+note 12=4373
+note 13=4392
+note 14=4414
+note 15=4463
+note 16=4484
+note 17=4506
+note 18=4577
+note 19=4596
+note 20=4618
+note 21=4667
+note 22=4688
+note 23=4710
+note 24=4778
+note 25=4800
+note 26=4871
+note 27=4890
+note 28=4912
+note 29=4982
+note 30=5004
+note 31=5023
+note 32=5075
+note 33=5094
+note 34=5116
+note 35=5165
+note 36=5186
+note 37=5208
+note 38=5278
+note 39=5298
+note 40=5320
+note 41=5369
+note 42=5390
+note 43=5410
+note 44=5480
+note 45=5502
+note 46=5523
+note 47=5573
+note 48=5592
+note 49=5614
+note 50=5663
+note 51=5684
+note 52=5706
+note 53=5777
+note 54=5796
+note 55=5818
+note 56=5867
+note 57=5888
+note 58=5910
+note 59=5978
+note 60=6000
+note 61=6071
+note 62=6090
+note 63=6112
+note 64=6182
+note 65=6204
+note 66=6223
+note 67=6275
+note 68=6294
+note 69=6316
+note 70=6365
+note 71=6386
+note 72=6408
+note 73=6478
+note 74=6498
+note 75=6520
+note 76=6569
+note 77=6590
+note 78=6610
+note 79=6680
+note 80=6702
+note 81=6723
+note 82=6773
+note 83=6792
+note 84=6814
+note 85=6863
+note 86=6884
+note 87=6906
+note 88=6977
+note 89=6996
+note 90=7018
+note 91=7067
+note 92=7088
+note 93=7110
+note 94=7178
+note 95=7200
+note 96=7271
+note 97=7290
+note 98=7312
+note 99=7382
+note 100=7404
+note 101=7423
+note 102=7475
+note 103=7494
+note 104=7516
+note 105=7565
+note 106=7586
+note 107=7608
+note 108=7678
+note 109=7698
+note 110=7720
+note 111=7769
+note 112=7790
+note 113=7810
+note 114=7880
+note 115=7902
+note 116=7923
+note 117=7973
+note 118=7992
+note 119=8014
+note 120=8063
+note 121=8084
+note 122=8106
+note 123=8177
+note 124=8196
+note 125=8218
+note 126=8267
+note 127=8288
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dan_semantic.tun"
+ID= "ID_dan_semantic.tun"
+Filename= "dan_semantic.scl"
+Description= "The Semantic Scale, from Alain Daniélou: "Sémantique Musicale" (1967)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3964.807424
+note 1= 3986.313714
+note 2= 4007.820003
+note 3= 4078.492430
+note 4= 4098.044999
+note 5= 4119.551289
+note 6= 4168.717426
+note 7= 4190.223716
+note 8= 4209.776284
+note 9= 4280.448711
+note 10= 4301.955001
+note 11= 4323.461290
+note 12= 4372.627428
+note 13= 4392.179997
+note 14= 4413.686286
+note 15= 4462.852423
+note 16= 4484.358713
+note 17= 4505.865003
+note 18= 4576.537429
+note 19= 4596.089998
+note 20= 4617.596288
+note 21= 4666.762425
+note 22= 4688.268715
+note 23= 4709.775004
+note 24= 4778.493710
+note 25= 4800.000000
+note 26= 4870.672427
+note 27= 4890.224996
+note 28= 4911.731285
+note 29= 4982.403712
+note 30= 5003.910002
+note 31= 5023.462571
+note 32= 5074.582429
+note 33= 5094.134997
+note 34= 5115.641287
+note 35= 5164.807424
+note 36= 5186.313714
+note 37= 5207.820003
+note 38= 5278.492430
+note 39= 5298.044999
+note 40= 5319.551289
+note 41= 5368.717426
+note 42= 5390.223716
+note 43= 5409.776284
+note 44= 5480.448711
+note 45= 5501.955001
+note 46= 5523.461290
+note 47= 5572.627428
+note 48= 5592.179997
+note 49= 5613.686286
+note 50= 5662.852423
+note 51= 5684.358713
+note 52= 5705.865003
+note 53= 5776.537429
+note 54= 5796.089998
+note 55= 5817.596288
+note 56= 5866.762425
+note 57= 5888.268715
+note 58= 5909.775004
+note 59= 5978.493710
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6090.224996
+note 63= 6111.731285
+note 64= 6182.403712
+note 65= 6203.910002
+note 66= 6223.462571
+note 67= 6274.582429
+note 68= 6294.134997
+note 69= 6315.641287
+note 70= 6364.807424
+note 71= 6386.313714
+note 72= 6407.820003
+note 73= 6478.492430
+note 74= 6498.044999
+note 75= 6519.551289
+note 76= 6568.717426
+note 77= 6590.223716
+note 78= 6609.776284
+note 79= 6680.448711
+note 80= 6701.955001
+note 81= 6723.461290
+note 82= 6772.627428
+note 83= 6792.179997
+note 84= 6813.686286
+note 85= 6862.852423
+note 86= 6884.358713
+note 87= 6905.865003
+note 88= 6976.537429
+note 89= 6996.089998
+note 90= 7017.596288
+note 91= 7066.762425
+note 92= 7088.268715
+note 93= 7109.775004
+note 94= 7178.493710
+note 95= 7200.000000
+note 96= 7270.672427
+note 97= 7290.224996
+note 98= 7311.731285
+note 99= 7382.403712
+note 100= 7403.910002
+note 101= 7423.462571
+note 102= 7474.582429
+note 103= 7494.134997
+note 104= 7515.641287
+note 105= 7564.807424
+note 106= 7586.313714
+note 107= 7607.820003
+note 108= 7678.492430
+note 109= 7698.044999
+note 110= 7719.551289
+note 111= 7768.717426
+note 112= 7790.223716
+note 113= 7809.776284
+note 114= 7880.448711
+note 115= 7901.955001
+note 116= 7923.461290
+note 117= 7972.627428
+note 118= 7992.179997
+note 119= 8013.686286
+note 120= 8062.852423
+note 121= 8084.358713
+note 122= 8105.865003
+note 123= 8176.537429
+note 124= 8196.089998
+note 125= 8217.596288
+note 126= 8266.762425
+note 127= 8288.268715
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 256/243"
+note 3="#=0 * 16/15"
+note 4="#=0 * 10/9"
+note 5="#=0 * 9/8"
+note 6="#=0 * 256/225"
+note 7="#=0 * 75/64"
+note 8="#=0 * 32/27"
+note 9="#=0 * 6/5"
+note 10="#=0 * 100/81"
+note 11="#=0 * 5/4"
+note 12="#=0 * 81/64"
+note 13="#=0 * 675/512"
+note 14="#=0 * 4/3"
+note 15="#=0 * 27/20"
+note 16="#=0 * 25/18"
+note 17="#=0 * 45/32"
+note 18="#=0 * 64/45"
+note 19="#=0 * 40/27"
+note 20="#=0 * 3/2"
+note 21="#=0 * 243/160"
+note 22="#=0 * 25/16"
+note 23="#=0 * 128/81"
+note 24="#=0 * 8/5"
+note 25="#=0 * 400/243"
+note 26="#=0 * 5/3"
+note 27="#=0 * 27/16"
+note 28="#=0 * 225/128"
+note 29="#=0 * 16/9"
+note 30="#=0 * 9/5"
+note 31="#=0 * 50/27"
+note 32="#=0 * 15/8"
+note 33="#=0 * 243/128"
+note 34="#=0 * 160/81"
+note 35="#>-35 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

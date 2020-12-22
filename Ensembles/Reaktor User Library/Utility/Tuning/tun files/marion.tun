@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; scale with two different ET step sizes
+;
+; VAZ Plus section
+[Tuning]
+note 0=2151
+note 1=2234
+note 2=2317
+note 3=2400
+note 4=2454
+note 5=2508
+note 6=2562
+note 7=2616
+note 8=2670
+note 9=2724
+note 10=2778
+note 11=2832
+note 12=2886
+note 13=2940
+note 14=2994
+note 15=3048
+note 16=3102
+note 17=3185
+note 18=3268
+note 19=3351
+note 20=3434
+note 21=3517
+note 22=3600
+note 23=3654
+note 24=3708
+note 25=3762
+note 26=3816
+note 27=3870
+note 28=3924
+note 29=3978
+note 30=4032
+note 31=4086
+note 32=4140
+note 33=4194
+note 34=4248
+note 35=4302
+note 36=4385
+note 37=4468
+note 38=4551
+note 39=4634
+note 40=4717
+note 41=4800
+note 42=4854
+note 43=4908
+note 44=4962
+note 45=5016
+note 46=5070
+note 47=5124
+note 48=5178
+note 49=5232
+note 50=5286
+note 51=5340
+note 52=5394
+note 53=5448
+note 54=5502
+note 55=5585
+note 56=5668
+note 57=5751
+note 58=5834
+note 59=5917
+note 60=6000
+note 61=6054
+note 62=6108
+note 63=6162
+note 64=6216
+note 65=6270
+note 66=6324
+note 67=6378
+note 68=6432
+note 69=6486
+note 70=6540
+note 71=6594
+note 72=6648
+note 73=6702
+note 74=6785
+note 75=6868
+note 76=6951
+note 77=7034
+note 78=7117
+note 79=7200
+note 80=7254
+note 81=7308
+note 82=7362
+note 83=7416
+note 84=7470
+note 85=7524
+note 86=7578
+note 87=7632
+note 88=7686
+note 89=7740
+note 90=7794
+note 91=7848
+note 92=7902
+note 93=7985
+note 94=8068
+note 95=8151
+note 96=8234
+note 97=8317
+note 98=8400
+note 99=8454
+note 100=8508
+note 101=8562
+note 102=8616
+note 103=8670
+note 104=8724
+note 105=8778
+note 106=8832
+note 107=8886
+note 108=8940
+note 109=8994
+note 110=9048
+note 111=9102
+note 112=9185
+note 113=9268
+note 114=9351
+note 115=9434
+note 116=9517
+note 117=9600
+note 118=9654
+note 119=9708
+note 120=9762
+note 121=9816
+note 122=9870
+note 123=9924
+note 124=9978
+note 125=10032
+note 126=10086
+note 127=10140
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "marion.tun"
+ID= "ID_marion.tun"
+Filename= "marion.scl"
+Description= "scale with two different ET step sizes"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2150.978000
+note 1= 2233.985000
+note 2= 2316.993000
+note 3= 2400.000000
+note 4= 2453.996000
+note 5= 2507.993000
+note 6= 2561.990000
+note 7= 2615.986000
+note 8= 2669.983000
+note 9= 2723.979000
+note 10= 2777.976000
+note 11= 2831.972000
+note 12= 2885.969000
+note 13= 2939.965000
+note 14= 2993.962000
+note 15= 3047.959000
+note 16= 3101.955001
+note 17= 3184.963000
+note 18= 3267.970000
+note 19= 3350.978000
+note 20= 3433.985000
+note 21= 3516.993000
+note 22= 3600.000000
+note 23= 3653.996000
+note 24= 3707.993000
+note 25= 3761.990000
+note 26= 3815.986000
+note 27= 3869.983000
+note 28= 3923.979000
+note 29= 3977.976000
+note 30= 4031.972000
+note 31= 4085.969000
+note 32= 4139.965000
+note 33= 4193.962000
+note 34= 4247.959000
+note 35= 4301.955001
+note 36= 4384.963000
+note 37= 4467.970000
+note 38= 4550.978000
+note 39= 4633.985000
+note 40= 4716.993000
+note 41= 4800.000000
+note 42= 4853.996000
+note 43= 4907.993000
+note 44= 4961.990000
+note 45= 5015.986000
+note 46= 5069.983000
+note 47= 5123.979000
+note 48= 5177.976000
+note 49= 5231.972000
+note 50= 5285.969000
+note 51= 5339.965000
+note 52= 5393.962000
+note 53= 5447.959000
+note 54= 5501.955001
+note 55= 5584.963000
+note 56= 5667.970000
+note 57= 5750.978000
+note 58= 5833.985000
+note 59= 5916.993000
+note 60= 6000.000000
+note 61= 6053.996000
+note 62= 6107.993000
+note 63= 6161.990000
+note 64= 6215.986000
+note 65= 6269.983000
+note 66= 6323.979000
+note 67= 6377.976000
+note 68= 6431.972000
+note 69= 6485.969000
+note 70= 6539.965000
+note 71= 6593.962000
+note 72= 6647.959000
+note 73= 6701.955001
+note 74= 6784.963000
+note 75= 6867.970000
+note 76= 6950.978000
+note 77= 7033.985000
+note 78= 7116.993000
+note 79= 7200.000000
+note 80= 7253.996000
+note 81= 7307.993000
+note 82= 7361.990000
+note 83= 7415.986000
+note 84= 7469.983000
+note 85= 7523.979000
+note 86= 7577.976000
+note 87= 7631.972000
+note 88= 7685.969000
+note 89= 7739.965000
+note 90= 7793.962000
+note 91= 7847.959000
+note 92= 7901.955001
+note 93= 7984.963000
+note 94= 8067.970000
+note 95= 8150.978000
+note 96= 8233.985000
+note 97= 8316.993000
+note 98= 8400.000000
+note 99= 8453.996000
+note 100= 8507.993000
+note 101= 8561.990000
+note 102= 8615.986000
+note 103= 8669.983000
+note 104= 8723.979000
+note 105= 8777.976000
+note 106= 8831.972000
+note 107= 8885.969000
+note 108= 8939.965000
+note 109= 8993.962000
+note 110= 9047.959000
+note 111= 9101.955001
+note 112= 9184.963000
+note 113= 9267.970000
+note 114= 9350.978000
+note 115= 9433.985000
+note 116= 9516.993000
+note 117= 9600.000000
+note 118= 9653.996000
+note 119= 9707.993000
+note 120= 9761.990000
+note 121= 9815.986000
+note 122= 9869.983000
+note 123= 9923.979000
+note 124= 9977.976000
+note 125= 10031.972000
+note 126= 10085.969000
+note 127= 10139.965000
+
+[Functional Tuning]
+note 1="#=0 % 53.996000"
+note 2="#=0 % 107.993000"
+note 3="#=0 % 161.990000"
+note 4="#=0 % 215.986000"
+note 5="#=0 % 269.983000"
+note 6="#=0 % 323.979000"
+note 7="#=0 % 377.976000"
+note 8="#=0 % 431.972000"
+note 9="#=0 % 485.969000"
+note 10="#=0 % 539.965000"
+note 11="#=0 % 593.962000"
+note 12="#=0 % 647.959000"
+note 13="#=0 * 3/2"
+note 14="#=0 % 784.963000"
+note 15="#=0 % 867.970000"
+note 16="#=0 % 950.978000"
+note 17="#=0 % 1033.985000"
+note 18="#=0 % 1116.993000"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

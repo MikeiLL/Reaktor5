@@ -1,0 +1,311 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Third power of 4:5:7 mirroring with 3136/3125 intervals removed
+;
+; VAZ Plus section
+[Tuning]
+note 0=3524
+note 1=3559
+note 2=3600
+note 3=3641
+note 4=3676
+note 5=3720
+note 6=3755
+note 7=3796
+note 8=3831
+note 9=3866
+note 10=3951
+note 11=3986
+note 12=4027
+note 13=4062
+note 14=4106
+note 15=4141
+note 16=4183
+note 17=4217
+note 18=4259
+note 19=4294
+note 20=4338
+note 21=4373
+note 22=4414
+note 23=4449
+note 24=4534
+note 25=4569
+note 26=4604
+note 27=4645
+note 28=4680
+note 29=4724
+note 30=4759
+note 31=4800
+note 32=4841
+note 33=4876
+note 34=4920
+note 35=4955
+note 36=4996
+note 37=5031
+note 38=5066
+note 39=5151
+note 40=5186
+note 41=5227
+note 42=5262
+note 43=5306
+note 44=5341
+note 45=5383
+note 46=5417
+note 47=5459
+note 48=5494
+note 49=5538
+note 50=5573
+note 51=5614
+note 52=5649
+note 53=5734
+note 54=5769
+note 55=5804
+note 56=5845
+note 57=5880
+note 58=5924
+note 59=5959
+note 60=6000
+note 61=6041
+note 62=6076
+note 63=6120
+note 64=6155
+note 65=6196
+note 66=6231
+note 67=6266
+note 68=6351
+note 69=6386
+note 70=6427
+note 71=6462
+note 72=6506
+note 73=6541
+note 74=6583
+note 75=6617
+note 76=6659
+note 77=6694
+note 78=6738
+note 79=6773
+note 80=6814
+note 81=6849
+note 82=6934
+note 83=6969
+note 84=7004
+note 85=7045
+note 86=7080
+note 87=7124
+note 88=7159
+note 89=7200
+note 90=7241
+note 91=7276
+note 92=7320
+note 93=7355
+note 94=7396
+note 95=7431
+note 96=7466
+note 97=7551
+note 98=7586
+note 99=7627
+note 100=7662
+note 101=7706
+note 102=7741
+note 103=7783
+note 104=7817
+note 105=7859
+note 106=7894
+note 107=7938
+note 108=7973
+note 109=8014
+note 110=8049
+note 111=8134
+note 112=8169
+note 113=8204
+note 114=8245
+note 115=8280
+note 116=8324
+note 117=8359
+note 118=8400
+note 119=8441
+note 120=8476
+note 121=8520
+note 122=8555
+note 123=8596
+note 124=8631
+note 125=8666
+note 126=8751
+note 127=8786
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kring4p3.tun"
+ID= "ID_kring4p3.tun"
+Filename= "kring4p3.scl"
+Description= "Third power of 4:5:7 mirroring with 3136/3125 intervals removed"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3523.965527
+note 1= 3558.941142
+note 2= 3600.000000
+note 3= 3641.058858
+note 4= 3676.034473
+note 5= 3720.164006
+note 6= 3755.139620
+note 7= 3796.198479
+note 8= 3831.174094
+note 9= 3866.149708
+note 10= 3951.338099
+note 11= 3986.313714
+note 12= 4027.372572
+note 13= 4062.348187
+note 14= 4106.477719
+note 15= 4141.453334
+note 16= 4182.512193
+note 17= 4217.487807
+note 18= 4258.546666
+note 19= 4293.522281
+note 20= 4337.651813
+note 21= 4372.627428
+note 22= 4413.686286
+note 23= 4448.661901
+note 24= 4533.850292
+note 25= 4568.825906
+note 26= 4603.801521
+note 27= 4644.860380
+note 28= 4679.835994
+note 29= 4723.965527
+note 30= 4758.941142
+note 31= 4800.000000
+note 32= 4841.058858
+note 33= 4876.034473
+note 34= 4920.164006
+note 35= 4955.139620
+note 36= 4996.198479
+note 37= 5031.174094
+note 38= 5066.149708
+note 39= 5151.338099
+note 40= 5186.313714
+note 41= 5227.372572
+note 42= 5262.348187
+note 43= 5306.477719
+note 44= 5341.453334
+note 45= 5382.512193
+note 46= 5417.487807
+note 47= 5458.546666
+note 48= 5493.522281
+note 49= 5537.651813
+note 50= 5572.627428
+note 51= 5613.686286
+note 52= 5648.661901
+note 53= 5733.850292
+note 54= 5768.825906
+note 55= 5803.801521
+note 56= 5844.860380
+note 57= 5879.835994
+note 58= 5923.965527
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6041.058858
+note 62= 6076.034473
+note 63= 6120.164006
+note 64= 6155.139620
+note 65= 6196.198479
+note 66= 6231.174094
+note 67= 6266.149708
+note 68= 6351.338099
+note 69= 6386.313714
+note 70= 6427.372572
+note 71= 6462.348187
+note 72= 6506.477719
+note 73= 6541.453334
+note 74= 6582.512193
+note 75= 6617.487807
+note 76= 6658.546666
+note 77= 6693.522281
+note 78= 6737.651813
+note 79= 6772.627428
+note 80= 6813.686286
+note 81= 6848.661901
+note 82= 6933.850292
+note 83= 6968.825906
+note 84= 7003.801521
+note 85= 7044.860380
+note 86= 7079.835994
+note 87= 7123.965527
+note 88= 7158.941142
+note 89= 7200.000000
+note 90= 7241.058858
+note 91= 7276.034473
+note 92= 7320.164006
+note 93= 7355.139620
+note 94= 7396.198479
+note 95= 7431.174094
+note 96= 7466.149708
+note 97= 7551.338099
+note 98= 7586.313714
+note 99= 7627.372572
+note 100= 7662.348187
+note 101= 7706.477719
+note 102= 7741.453334
+note 103= 7782.512193
+note 104= 7817.487807
+note 105= 7858.546666
+note 106= 7893.522281
+note 107= 7937.651813
+note 108= 7972.627428
+note 109= 8013.686286
+note 110= 8048.661901
+note 111= 8133.850292
+note 112= 8168.825906
+note 113= 8203.801521
+note 114= 8244.860380
+note 115= 8279.835994
+note 116= 8323.965527
+note 117= 8358.941142
+note 118= 8400.000000
+note 119= 8441.058858
+note 120= 8476.034473
+note 121= 8520.164006
+note 122= 8555.139620
+note 123= 8596.198479
+note 124= 8631.174094
+note 125= 8666.149708
+note 126= 8751.338099
+note 127= 8786.313714
+
+[Functional Tuning]
+note 1="#=0 * 128/125"
+note 2="#=0 * 256/245"
+note 3="#=0 * 343/320"
+note 4="#=0 * 35/32"
+note 5="#=0 * 28/25"
+note 6="#=0 * 8/7"
+note 7="#=0 * 400/343"
+note 8="#=0 * 49/40"
+note 9="#=0 * 5/4"
+note 10="#=0 * 32/25"
+note 11="#=0 * 64/49"
+note 12="#=0 * 343/256"
+note 13="#=0 * 175/128"
+note 14="#=0 * 7/5"
+note 15="#=0 * 10/7"
+note 16="#=0 * 256/175"
+note 17="#=0 * 512/343"
+note 18="#=0 * 49/32"
+note 19="#=0 * 25/16"
+note 20="#=0 * 8/5"
+note 21="#=0 * 80/49"
+note 22="#=0 * 343/200"
+note 23="#=0 * 7/4"
+note 24="#=0 * 25/14"
+note 25="#=0 * 64/35"
+note 26="#=0 * 640/343"
+note 27="#=0 * 245/128"
+note 28="#=0 * 125/64"
+note 29="#>-29 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

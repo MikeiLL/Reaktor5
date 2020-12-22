@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Paul Erlich's 'Shrutar' tuning tempered by Dave Keenan, TL 29-12-2000
+;
+; VAZ Plus section
+[Tuning]
+note 0=2716
+note 1=2786
+note 2=2840
+note 3=2898
+note 4=2947
+note 5=3000
+note 6=3053
+note 7=3102
+note 8=3160
+note 9=3214
+note 10=3284
+note 11=3333
+note 12=3396
+note 13=3445
+note 14=3493
+note 15=3546
+note 16=3600
+note 17=3653
+note 18=3707
+note 19=3755
+note 20=3804
+note 21=3867
+note 22=3916
+note 23=3986
+note 24=4040
+note 25=4098
+note 26=4147
+note 27=4200
+note 28=4253
+note 29=4302
+note 30=4360
+note 31=4414
+note 32=4484
+note 33=4533
+note 34=4596
+note 35=4645
+note 36=4693
+note 37=4746
+note 38=4800
+note 39=4853
+note 40=4907
+note 41=4955
+note 42=5004
+note 43=5067
+note 44=5116
+note 45=5186
+note 46=5240
+note 47=5298
+note 48=5347
+note 49=5400
+note 50=5453
+note 51=5502
+note 52=5560
+note 53=5614
+note 54=5684
+note 55=5733
+note 56=5796
+note 57=5845
+note 58=5893
+note 59=5946
+note 60=6000
+note 61=6053
+note 62=6107
+note 63=6155
+note 64=6204
+note 65=6267
+note 66=6316
+note 67=6386
+note 68=6440
+note 69=6498
+note 70=6547
+note 71=6600
+note 72=6653
+note 73=6702
+note 74=6760
+note 75=6814
+note 76=6884
+note 77=6933
+note 78=6996
+note 79=7045
+note 80=7093
+note 81=7146
+note 82=7200
+note 83=7253
+note 84=7307
+note 85=7355
+note 86=7404
+note 87=7467
+note 88=7516
+note 89=7586
+note 90=7640
+note 91=7698
+note 92=7747
+note 93=7800
+note 94=7853
+note 95=7902
+note 96=7960
+note 97=8014
+note 98=8084
+note 99=8133
+note 100=8196
+note 101=8245
+note 102=8293
+note 103=8346
+note 104=8400
+note 105=8453
+note 106=8507
+note 107=8555
+note 108=8604
+note 109=8667
+note 110=8716
+note 111=8786
+note 112=8840
+note 113=8898
+note 114=8947
+note 115=9000
+note 116=9053
+note 117=9102
+note 118=9160
+note 119=9214
+note 120=9284
+note 121=9333
+note 122=9396
+note 123=9445
+note 124=9493
+note 125=9546
+note 126=9600
+note 127=9653
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "shrutart.tun"
+ID= "ID_shrutart.tun"
+Filename= "shrutart.scl"
+Description= "Paul Erlich's 'Shrutar' tuning tempered by Dave Keenan, TL 29-12-2000"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2715.600000
+note 1= 2786.300000
+note 2= 2839.800000
+note 3= 2898.000000
+note 4= 2946.800000
+note 5= 3000.000000
+note 6= 3053.200000
+note 7= 3102.000000
+note 8= 3160.200000
+note 9= 3213.700000
+note 10= 3284.400000
+note 11= 3333.100000
+note 12= 3396.100000
+note 13= 3444.900000
+note 14= 3493.200000
+note 15= 3546.500000
+note 16= 3600.000000
+note 17= 3653.500000
+note 18= 3706.800000
+note 19= 3755.100000
+note 20= 3803.900000
+note 21= 3866.900000
+note 22= 3915.600000
+note 23= 3986.300000
+note 24= 4039.800000
+note 25= 4098.000000
+note 26= 4146.800000
+note 27= 4200.000000
+note 28= 4253.200000
+note 29= 4302.000000
+note 30= 4360.200000
+note 31= 4413.700000
+note 32= 4484.400000
+note 33= 4533.100000
+note 34= 4596.100000
+note 35= 4644.900000
+note 36= 4693.200000
+note 37= 4746.500000
+note 38= 4800.000000
+note 39= 4853.500000
+note 40= 4906.800000
+note 41= 4955.100000
+note 42= 5003.900000
+note 43= 5066.900000
+note 44= 5115.600000
+note 45= 5186.300000
+note 46= 5239.800000
+note 47= 5298.000000
+note 48= 5346.800000
+note 49= 5400.000000
+note 50= 5453.200000
+note 51= 5502.000000
+note 52= 5560.200000
+note 53= 5613.700000
+note 54= 5684.400000
+note 55= 5733.100000
+note 56= 5796.100000
+note 57= 5844.900000
+note 58= 5893.200000
+note 59= 5946.500000
+note 60= 6000.000000
+note 61= 6053.500000
+note 62= 6106.800000
+note 63= 6155.100000
+note 64= 6203.900000
+note 65= 6266.900000
+note 66= 6315.600000
+note 67= 6386.300000
+note 68= 6439.800000
+note 69= 6498.000000
+note 70= 6546.800000
+note 71= 6600.000000
+note 72= 6653.200000
+note 73= 6702.000000
+note 74= 6760.200000
+note 75= 6813.700000
+note 76= 6884.400000
+note 77= 6933.100000
+note 78= 6996.100000
+note 79= 7044.900000
+note 80= 7093.200000
+note 81= 7146.500000
+note 82= 7200.000000
+note 83= 7253.500000
+note 84= 7306.800000
+note 85= 7355.100000
+note 86= 7403.900000
+note 87= 7466.900000
+note 88= 7515.600000
+note 89= 7586.300000
+note 90= 7639.800000
+note 91= 7698.000000
+note 92= 7746.800000
+note 93= 7800.000000
+note 94= 7853.200000
+note 95= 7902.000000
+note 96= 7960.200000
+note 97= 8013.700000
+note 98= 8084.400000
+note 99= 8133.100000
+note 100= 8196.100000
+note 101= 8244.900000
+note 102= 8293.200000
+note 103= 8346.500000
+note 104= 8400.000000
+note 105= 8453.500000
+note 106= 8506.800000
+note 107= 8555.100000
+note 108= 8603.900000
+note 109= 8666.900000
+note 110= 8715.600000
+note 111= 8786.300000
+note 112= 8839.800000
+note 113= 8898.000000
+note 114= 8946.800000
+note 115= 9000.000000
+note 116= 9053.200000
+note 117= 9102.000000
+note 118= 9160.200000
+note 119= 9213.700000
+note 120= 9284.400000
+note 121= 9333.100000
+note 122= 9396.100000
+note 123= 9444.900000
+note 124= 9493.200000
+note 125= 9546.500000
+note 126= 9600.000000
+note 127= 9653.500000
+
+[Functional Tuning]
+note 1="#=0 % 53.500000"
+note 2="#=0 % 106.800000"
+note 3="#=0 % 155.100000"
+note 4="#=0 % 203.900000"
+note 5="#=0 % 266.900000"
+note 6="#=0 % 315.600000"
+note 7="#=0 % 386.300000"
+note 8="#=0 % 439.800000"
+note 9="#=0 % 498.000000"
+note 10="#=0 % 546.800000"
+note 11="#=0 % 600.000000"
+note 12="#=0 % 653.200000"
+note 13="#=0 % 702.000000"
+note 14="#=0 % 760.200000"
+note 15="#=0 % 813.700000"
+note 16="#=0 % 884.400000"
+note 17="#=0 % 933.100000"
+note 18="#=0 % 996.100000"
+note 19="#=0 % 1044.900000"
+note 20="#=0 % 1093.200000"
+note 21="#=0 % 1146.500000"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

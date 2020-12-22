@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 21 out of 72-tET Pyth. scale "Miracle/Blackjack", Keenan & Erlich, TL 2-5-2001
+;
+; VAZ Plus section
+[Tuning]
+note 0=2550
+note 1=2633
+note 2=2667
+note 3=2750
+note 4=2783
+note 5=2867
+note 6=2900
+note 7=2983
+note 8=3017
+note 9=3100
+note 10=3133
+note 11=3217
+note 12=3250
+note 13=3333
+note 14=3367
+note 15=3450
+note 16=3483
+note 17=3567
+note 18=3600
+note 19=3633
+note 20=3717
+note 21=3750
+note 22=3833
+note 23=3867
+note 24=3950
+note 25=3983
+note 26=4067
+note 27=4100
+note 28=4183
+note 29=4217
+note 30=4300
+note 31=4333
+note 32=4417
+note 33=4450
+note 34=4533
+note 35=4567
+note 36=4650
+note 37=4683
+note 38=4767
+note 39=4800
+note 40=4833
+note 41=4917
+note 42=4950
+note 43=5033
+note 44=5067
+note 45=5150
+note 46=5183
+note 47=5267
+note 48=5300
+note 49=5383
+note 50=5417
+note 51=5500
+note 52=5533
+note 53=5617
+note 54=5650
+note 55=5733
+note 56=5767
+note 57=5850
+note 58=5883
+note 59=5967
+note 60=6000
+note 61=6033
+note 62=6117
+note 63=6150
+note 64=6233
+note 65=6267
+note 66=6350
+note 67=6383
+note 68=6467
+note 69=6500
+note 70=6583
+note 71=6617
+note 72=6700
+note 73=6733
+note 74=6817
+note 75=6850
+note 76=6933
+note 77=6967
+note 78=7050
+note 79=7083
+note 80=7167
+note 81=7200
+note 82=7233
+note 83=7317
+note 84=7350
+note 85=7433
+note 86=7467
+note 87=7550
+note 88=7583
+note 89=7667
+note 90=7700
+note 91=7783
+note 92=7817
+note 93=7900
+note 94=7933
+note 95=8017
+note 96=8050
+note 97=8133
+note 98=8167
+note 99=8250
+note 100=8283
+note 101=8367
+note 102=8400
+note 103=8433
+note 104=8517
+note 105=8550
+note 106=8633
+note 107=8667
+note 108=8750
+note 109=8783
+note 110=8867
+note 111=8900
+note 112=8983
+note 113=9017
+note 114=9100
+note 115=9133
+note 116=9217
+note 117=9250
+note 118=9333
+note 119=9367
+note 120=9450
+note 121=9483
+note 122=9567
+note 123=9600
+note 124=9633
+note 125=9717
+note 126=9750
+note 127=9833
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miracle1.tun"
+ID= "ID_miracle1.tun"
+Filename= "miracle1.scl"
+Description= "21 out of 72-tET Pyth. scale "Miracle/Blackjack", Keenan & Erlich, TL 2-5-2001"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2550.000000
+note 1= 2633.333330
+note 2= 2666.666670
+note 3= 2750.000000
+note 4= 2783.333330
+note 5= 2866.666670
+note 6= 2900.000000
+note 7= 2983.333330
+note 8= 3016.666670
+note 9= 3100.000000
+note 10= 3133.333330
+note 11= 3216.666670
+note 12= 3250.000000
+note 13= 3333.333330
+note 14= 3366.666670
+note 15= 3450.000000
+note 16= 3483.333330
+note 17= 3566.666670
+note 18= 3600.000000
+note 19= 3633.333330
+note 20= 3716.666670
+note 21= 3750.000000
+note 22= 3833.333330
+note 23= 3866.666670
+note 24= 3950.000000
+note 25= 3983.333330
+note 26= 4066.666670
+note 27= 4100.000000
+note 28= 4183.333330
+note 29= 4216.666670
+note 30= 4300.000000
+note 31= 4333.333330
+note 32= 4416.666670
+note 33= 4450.000000
+note 34= 4533.333330
+note 35= 4566.666670
+note 36= 4650.000000
+note 37= 4683.333330
+note 38= 4766.666670
+note 39= 4800.000000
+note 40= 4833.333330
+note 41= 4916.666670
+note 42= 4950.000000
+note 43= 5033.333330
+note 44= 5066.666670
+note 45= 5150.000000
+note 46= 5183.333330
+note 47= 5266.666670
+note 48= 5300.000000
+note 49= 5383.333330
+note 50= 5416.666670
+note 51= 5500.000000
+note 52= 5533.333330
+note 53= 5616.666670
+note 54= 5650.000000
+note 55= 5733.333330
+note 56= 5766.666670
+note 57= 5850.000000
+note 58= 5883.333330
+note 59= 5966.666670
+note 60= 6000.000000
+note 61= 6033.333330
+note 62= 6116.666670
+note 63= 6150.000000
+note 64= 6233.333330
+note 65= 6266.666670
+note 66= 6350.000000
+note 67= 6383.333330
+note 68= 6466.666670
+note 69= 6500.000000
+note 70= 6583.333330
+note 71= 6616.666670
+note 72= 6700.000000
+note 73= 6733.333330
+note 74= 6816.666670
+note 75= 6850.000000
+note 76= 6933.333330
+note 77= 6966.666670
+note 78= 7050.000000
+note 79= 7083.333330
+note 80= 7166.666670
+note 81= 7200.000000
+note 82= 7233.333330
+note 83= 7316.666670
+note 84= 7350.000000
+note 85= 7433.333330
+note 86= 7466.666670
+note 87= 7550.000000
+note 88= 7583.333330
+note 89= 7666.666670
+note 90= 7700.000000
+note 91= 7783.333330
+note 92= 7816.666670
+note 93= 7900.000000
+note 94= 7933.333330
+note 95= 8016.666670
+note 96= 8050.000000
+note 97= 8133.333330
+note 98= 8166.666670
+note 99= 8250.000000
+note 100= 8283.333330
+note 101= 8366.666670
+note 102= 8400.000000
+note 103= 8433.333330
+note 104= 8516.666670
+note 105= 8550.000000
+note 106= 8633.333330
+note 107= 8666.666670
+note 108= 8750.000000
+note 109= 8783.333330
+note 110= 8866.666670
+note 111= 8900.000000
+note 112= 8983.333330
+note 113= 9016.666670
+note 114= 9100.000000
+note 115= 9133.333330
+note 116= 9216.666670
+note 117= 9250.000000
+note 118= 9333.333330
+note 119= 9366.666670
+note 120= 9450.000000
+note 121= 9483.333330
+note 122= 9566.666670
+note 123= 9600.000000
+note 124= 9633.333330
+note 125= 9716.666670
+note 126= 9750.000000
+note 127= 9833.333330
+
+[Functional Tuning]
+note 1="#=0 % 33.333330"
+note 2="#=0 % 116.666670"
+note 3="#=0 % 150.000000"
+note 4="#=0 % 233.333330"
+note 5="#=0 % 266.666670"
+note 6="#=0 % 350.000000"
+note 7="#=0 % 383.333330"
+note 8="#=0 % 466.666670"
+note 9="#=0 % 500.000000"
+note 10="#=0 % 583.333330"
+note 11="#=0 % 616.666670"
+note 12="#=0 % 700.000000"
+note 13="#=0 % 733.333330"
+note 14="#=0 % 816.666670"
+note 15="#=0 % 850.000000"
+note 16="#=0 % 933.333330"
+note 17="#=0 % 966.666670"
+note 18="#=0 % 1050.000000"
+note 19="#=0 % 1083.333330"
+note 20="#=0 % 1166.666670"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Herman Miller, "Starling" scale, alternative version TL 25-11-99
+;
+; VAZ Plus section
+[Tuning]
+note 0=-10
+note 1=67
+note 2=178
+note 3=302
+note 4=378
+note 5=490
+note 6=567
+note 7=690
+note 8=802
+note 9=878
+note 10=955
+note 11=1067
+note 12=1192
+note 13=1269
+note 14=1380
+note 15=1504
+note 16=1580
+note 17=1692
+note 18=1769
+note 19=1892
+note 20=2004
+note 21=2080
+note 22=2157
+note 23=2269
+note 24=2394
+note 25=2471
+note 26=2582
+note 27=2706
+note 28=2782
+note 29=2894
+note 30=2971
+note 31=3094
+note 32=3206
+note 33=3282
+note 34=3359
+note 35=3471
+note 36=3596
+note 37=3673
+note 38=3784
+note 39=3908
+note 40=3984
+note 41=4096
+note 42=4173
+note 43=4296
+note 44=4408
+note 45=4484
+note 46=4561
+note 47=4673
+note 48=4798
+note 49=4875
+note 50=4986
+note 51=5110
+note 52=5186
+note 53=5298
+note 54=5375
+note 55=5498
+note 56=5610
+note 57=5686
+note 58=5763
+note 59=5875
+note 60=6000
+note 61=6077
+note 62=6188
+note 63=6312
+note 64=6388
+note 65=6500
+note 66=6577
+note 67=6700
+note 68=6812
+note 69=6888
+note 70=6965
+note 71=7077
+note 72=7202
+note 73=7279
+note 74=7390
+note 75=7514
+note 76=7590
+note 77=7702
+note 78=7779
+note 79=7902
+note 80=8014
+note 81=8090
+note 82=8167
+note 83=8279
+note 84=8404
+note 85=8481
+note 86=8592
+note 87=8716
+note 88=8792
+note 89=8904
+note 90=8981
+note 91=9104
+note 92=9216
+note 93=9292
+note 94=9369
+note 95=9481
+note 96=9606
+note 97=9683
+note 98=9794
+note 99=9918
+note 100=9994
+note 101=10106
+note 102=10183
+note 103=10306
+note 104=10418
+note 105=10494
+note 106=10571
+note 107=10683
+note 108=10808
+note 109=10885
+note 110=10996
+note 111=11120
+note 112=11196
+note 113=11308
+note 114=11385
+note 115=11508
+note 116=11620
+note 117=11696
+note 118=11773
+note 119=11885
+note 120=12010
+note 121=12087
+note 122=12198
+note 123=12322
+note 124=12398
+note 125=12510
+note 126=12587
+note 127=12710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miller_12a.tun"
+ID= "ID_miller_12a.tun"
+Filename= "miller_12a.scl"
+Description= "Herman Miller, "Starling" scale, alternative version TL 25-11-99"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-10.000000
+note 1= 66.600000
+note 2= 178.300000
+note 3= 301.700000
+note 4= 378.300000
+note 5= 490.000000
+note 6= 566.600000
+note 7= 690.000000
+note 8= 801.700000
+note 9= 878.300000
+note 10= 954.900000
+note 11= 1066.600000
+note 12= 1192.000000
+note 13= 1268.600000
+note 14= 1380.300000
+note 15= 1503.700000
+note 16= 1580.300000
+note 17= 1692.000000
+note 18= 1768.600000
+note 19= 1892.000000
+note 20= 2003.700000
+note 21= 2080.300000
+note 22= 2156.900000
+note 23= 2268.600000
+note 24= 2394.000000
+note 25= 2470.600000
+note 26= 2582.300000
+note 27= 2705.700000
+note 28= 2782.300000
+note 29= 2894.000000
+note 30= 2970.600000
+note 31= 3094.000000
+note 32= 3205.700000
+note 33= 3282.300000
+note 34= 3358.900000
+note 35= 3470.600000
+note 36= 3596.000000
+note 37= 3672.600000
+note 38= 3784.300000
+note 39= 3907.700000
+note 40= 3984.300000
+note 41= 4096.000000
+note 42= 4172.600000
+note 43= 4296.000000
+note 44= 4407.700000
+note 45= 4484.300000
+note 46= 4560.900000
+note 47= 4672.600000
+note 48= 4798.000000
+note 49= 4874.600000
+note 50= 4986.300000
+note 51= 5109.700000
+note 52= 5186.300000
+note 53= 5298.000000
+note 54= 5374.600000
+note 55= 5498.000000
+note 56= 5609.700000
+note 57= 5686.300000
+note 58= 5762.900000
+note 59= 5874.600000
+note 60= 6000.000000
+note 61= 6076.600000
+note 62= 6188.300000
+note 63= 6311.700000
+note 64= 6388.300000
+note 65= 6500.000000
+note 66= 6576.600000
+note 67= 6700.000000
+note 68= 6811.700000
+note 69= 6888.300000
+note 70= 6964.900000
+note 71= 7076.600000
+note 72= 7202.000000
+note 73= 7278.600000
+note 74= 7390.300000
+note 75= 7513.700000
+note 76= 7590.300000
+note 77= 7702.000000
+note 78= 7778.600000
+note 79= 7902.000000
+note 80= 8013.700000
+note 81= 8090.300000
+note 82= 8166.900000
+note 83= 8278.600000
+note 84= 8404.000000
+note 85= 8480.600000
+note 86= 8592.300000
+note 87= 8715.700000
+note 88= 8792.300000
+note 89= 8904.000000
+note 90= 8980.600000
+note 91= 9104.000000
+note 92= 9215.700000
+note 93= 9292.300000
+note 94= 9368.900000
+note 95= 9480.600000
+note 96= 9606.000000
+note 97= 9682.600000
+note 98= 9794.300000
+note 99= 9917.700000
+note 100= 9994.300000
+note 101= 10106.000000
+note 102= 10182.600000
+note 103= 10306.000000
+note 104= 10417.700000
+note 105= 10494.300000
+note 106= 10570.900000
+note 107= 10682.600000
+note 108= 10808.000000
+note 109= 10884.600000
+note 110= 10996.300000
+note 111= 11119.700000
+note 112= 11196.300000
+note 113= 11308.000000
+note 114= 11384.600000
+note 115= 11508.000000
+note 116= 11619.700000
+note 117= 11696.300000
+note 118= 11772.900000
+note 119= 11884.600000
+note 120= 12010.000000
+note 121= 12086.600000
+note 122= 12198.300000
+note 123= 12321.700000
+note 124= 12398.300000
+note 125= 12510.000000
+note 126= 12586.600000
+note 127= 12710.000000
+
+[Functional Tuning]
+note 1="#=0 % 76.600000"
+note 2="#=0 % 188.300000"
+note 3="#=0 % 311.700000"
+note 4="#=0 % 388.300000"
+note 5="#=0 % 500.000000"
+note 6="#=0 % 576.600000"
+note 7="#=0 % 700.000000"
+note 8="#=0 % 811.700000"
+note 9="#=0 % 888.300000"
+note 10="#=0 % 964.900000"
+note 11="#=0 % 1076.600000"
+note 12="#>-12 % 1202.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

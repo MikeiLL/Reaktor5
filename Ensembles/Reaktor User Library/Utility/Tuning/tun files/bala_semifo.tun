@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Burkinabe typical semifourth pentatonic bala feast scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=452
+note 2=212
+note 3=710
+note 4=446
+note 5=454
+note 6=950
+note 7=710
+note 8=1200
+note 9=944
+note 10=952
+note 11=1412
+note 12=1200
+note 13=1652
+note 14=1412
+note 15=1910
+note 16=1646
+note 17=1654
+note 18=2150
+note 19=1910
+note 20=2400
+note 21=2144
+note 22=2152
+note 23=2612
+note 24=2400
+note 25=2852
+note 26=2612
+note 27=3110
+note 28=2846
+note 29=2854
+note 30=3350
+note 31=3110
+note 32=3600
+note 33=3344
+note 34=3352
+note 35=3812
+note 36=3600
+note 37=4052
+note 38=3812
+note 39=4310
+note 40=4046
+note 41=4054
+note 42=4550
+note 43=4310
+note 44=4800
+note 45=4544
+note 46=4552
+note 47=5012
+note 48=4800
+note 49=5252
+note 50=5012
+note 51=5510
+note 52=5246
+note 53=5254
+note 54=5750
+note 55=5510
+note 56=6000
+note 57=5744
+note 58=5752
+note 59=6212
+note 60=6000
+note 61=6452
+note 62=6212
+note 63=6710
+note 64=6446
+note 65=6454
+note 66=6950
+note 67=6710
+note 68=7200
+note 69=6944
+note 70=6952
+note 71=7412
+note 72=7200
+note 73=7652
+note 74=7412
+note 75=7910
+note 76=7646
+note 77=7654
+note 78=8150
+note 79=7910
+note 80=8400
+note 81=8144
+note 82=8152
+note 83=8612
+note 84=8400
+note 85=8852
+note 86=8612
+note 87=9110
+note 88=8846
+note 89=8854
+note 90=9350
+note 91=9110
+note 92=9600
+note 93=9344
+note 94=9352
+note 95=9812
+note 96=9600
+note 97=10052
+note 98=9812
+note 99=10310
+note 100=10046
+note 101=10054
+note 102=10550
+note 103=10310
+note 104=10800
+note 105=10544
+note 106=10552
+note 107=11012
+note 108=10800
+note 109=11252
+note 110=11012
+note 111=11510
+note 112=11246
+note 113=11254
+note 114=11750
+note 115=11510
+note 116=12000
+note 117=11744
+note 118=11752
+note 119=12212
+note 120=12000
+note 121=12452
+note 122=12212
+note 123=12710
+note 124=12446
+note 125=12454
+note 126=12950
+note 127=12710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bala_semifo.tun"
+ID= "ID_bala_semifo.tun"
+Filename= "bala_semifo.scl"
+Description= "Burkinabe typical semifourth pentatonic bala feast scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 451.651055
+note 2= 212.253315
+note 3= 710.298314
+note 4= 445.870635
+note 5= 454.213948
+note 6= 949.696054
+note 7= 710.298314
+note 8= 1200.000000
+note 9= 943.915634
+note 10= 952.258947
+note 11= 1412.253315
+note 12= 1200.000000
+note 13= 1651.651055
+note 14= 1412.253315
+note 15= 1910.298314
+note 16= 1645.870635
+note 17= 1654.213948
+note 18= 2149.696054
+note 19= 1910.298314
+note 20= 2400.000000
+note 21= 2143.915634
+note 22= 2152.258947
+note 23= 2612.253315
+note 24= 2400.000000
+note 25= 2851.651055
+note 26= 2612.253315
+note 27= 3110.298314
+note 28= 2845.870635
+note 29= 2854.213948
+note 30= 3349.696054
+note 31= 3110.298314
+note 32= 3600.000000
+note 33= 3343.915634
+note 34= 3352.258947
+note 35= 3812.253315
+note 36= 3600.000000
+note 37= 4051.651055
+note 38= 3812.253315
+note 39= 4310.298314
+note 40= 4045.870635
+note 41= 4054.213948
+note 42= 4549.696054
+note 43= 4310.298314
+note 44= 4800.000000
+note 45= 4543.915634
+note 46= 4552.258947
+note 47= 5012.253315
+note 48= 4800.000000
+note 49= 5251.651055
+note 50= 5012.253315
+note 51= 5510.298314
+note 52= 5245.870635
+note 53= 5254.213948
+note 54= 5749.696054
+note 55= 5510.298314
+note 56= 6000.000000
+note 57= 5743.915634
+note 58= 5752.258947
+note 59= 6212.253315
+note 60= 6000.000000
+note 61= 6451.651055
+note 62= 6212.253315
+note 63= 6710.298314
+note 64= 6445.870635
+note 65= 6454.213948
+note 66= 6949.696054
+note 67= 6710.298314
+note 68= 7200.000000
+note 69= 6943.915634
+note 70= 6952.258947
+note 71= 7412.253315
+note 72= 7200.000000
+note 73= 7651.651055
+note 74= 7412.253315
+note 75= 7910.298314
+note 76= 7645.870635
+note 77= 7654.213948
+note 78= 8149.696054
+note 79= 7910.298314
+note 80= 8400.000000
+note 81= 8143.915634
+note 82= 8152.258947
+note 83= 8612.253315
+note 84= 8400.000000
+note 85= 8851.651055
+note 86= 8612.253315
+note 87= 9110.298314
+note 88= 8845.870635
+note 89= 8854.213948
+note 90= 9349.696054
+note 91= 9110.298314
+note 92= 9600.000000
+note 93= 9343.915634
+note 94= 9352.258947
+note 95= 9812.253315
+note 96= 9600.000000
+note 97= 10051.651055
+note 98= 9812.253315
+note 99= 10310.298314
+note 100= 10045.870635
+note 101= 10054.213948
+note 102= 10549.696054
+note 103= 10310.298314
+note 104= 10800.000000
+note 105= 10543.915634
+note 106= 10552.258947
+note 107= 11012.253315
+note 108= 10800.000000
+note 109= 11251.651055
+note 110= 11012.253315
+note 111= 11510.298314
+note 112= 11245.870635
+note 113= 11254.213948
+note 114= 11749.696054
+note 115= 11510.298314
+note 116= 12000.000000
+note 117= 11743.915634
+note 118= 11752.258947
+note 119= 12212.253315
+note 120= 12000.000000
+note 121= 12451.651055
+note 122= 12212.253315
+note 123= 12710.298314
+note 124= 12445.870635
+note 125= 12454.213948
+note 126= 12949.696054
+note 127= 12710.298314
+
+[Functional Tuning]
+note 1="#=0 * 135/104"
+note 2="#=0 * 26/23"
+note 3="#=0 * 104/69"
+note 4="#=0 * 207/160"
+note 5="#=0 * 13/10"
+note 6="#=0 * 45/26"
+note 7="#=0 * 104/69"
+note 8="#=0 * 2/1"
+note 9="#=0 * 69/40"
+note 10="#=0 * 26/15"
+note 11="#=0 * 52/23"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Danny Wier, ClownTone (2003)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=182
+note 3=267
+note 4=347
+note 5=498
+note 6=603
+note 7=702
+note 8=796
+note 9=884
+note 10=969
+note 11=1049
+note 12=1200
+note 13=1294
+note 14=1382
+note 15=1467
+note 16=1547
+note 17=1698
+note 18=1803
+note 19=1902
+note 20=1996
+note 21=2084
+note 22=2169
+note 23=2249
+note 24=2400
+note 25=2494
+note 26=2582
+note 27=2667
+note 28=2747
+note 29=2898
+note 30=3003
+note 31=3102
+note 32=3196
+note 33=3284
+note 34=3369
+note 35=3449
+note 36=3600
+note 37=3694
+note 38=3782
+note 39=3867
+note 40=3947
+note 41=4098
+note 42=4203
+note 43=4302
+note 44=4396
+note 45=4484
+note 46=4569
+note 47=4649
+note 48=4800
+note 49=4894
+note 50=4982
+note 51=5067
+note 52=5147
+note 53=5298
+note 54=5403
+note 55=5502
+note 56=5596
+note 57=5684
+note 58=5769
+note 59=5849
+note 60=6000
+note 61=6094
+note 62=6182
+note 63=6267
+note 64=6347
+note 65=6498
+note 66=6603
+note 67=6702
+note 68=6796
+note 69=6884
+note 70=6969
+note 71=7049
+note 72=7200
+note 73=7294
+note 74=7382
+note 75=7467
+note 76=7547
+note 77=7698
+note 78=7803
+note 79=7902
+note 80=7996
+note 81=8084
+note 82=8169
+note 83=8249
+note 84=8400
+note 85=8494
+note 86=8582
+note 87=8667
+note 88=8747
+note 89=8898
+note 90=9003
+note 91=9102
+note 92=9196
+note 93=9284
+note 94=9369
+note 95=9449
+note 96=9600
+note 97=9694
+note 98=9782
+note 99=9867
+note 100=9947
+note 101=10098
+note 102=10203
+note 103=10302
+note 104=10396
+note 105=10484
+note 106=10569
+note 107=10649
+note 108=10800
+note 109=10894
+note 110=10982
+note 111=11067
+note 112=11147
+note 113=11298
+note 114=11403
+note 115=11502
+note 116=11596
+note 117=11684
+note 118=11769
+note 119=11849
+note 120=12000
+note 121=12094
+note 122=12182
+note 123=12267
+note 124=12347
+note 125=12498
+note 126=12603
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wier_cl.tun"
+ID= "ID_wier_cl.tun"
+Filename= "wier_cl.scl"
+Description= "Danny Wier, ClownTone (2003)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 93.603014
+note 2= 182.403712
+note 3= 266.870906
+note 4= 347.407941
+note 5= 498.044999
+note 6= 603.000409
+note 7= 701.955001
+note 8= 795.558015
+note 9= 884.358713
+note 10= 968.825906
+note 11= 1049.362941
+note 12= 1200.000000
+note 13= 1293.603014
+note 14= 1382.403712
+note 15= 1466.870906
+note 16= 1547.407941
+note 17= 1698.044999
+note 18= 1803.000409
+note 19= 1901.955001
+note 20= 1995.558015
+note 21= 2084.358713
+note 22= 2168.825906
+note 23= 2249.362941
+note 24= 2400.000000
+note 25= 2493.603014
+note 26= 2582.403712
+note 27= 2666.870906
+note 28= 2747.407941
+note 29= 2898.044999
+note 30= 3003.000409
+note 31= 3101.955001
+note 32= 3195.558015
+note 33= 3284.358713
+note 34= 3368.825906
+note 35= 3449.362941
+note 36= 3600.000000
+note 37= 3693.603014
+note 38= 3782.403712
+note 39= 3866.870906
+note 40= 3947.407941
+note 41= 4098.044999
+note 42= 4203.000409
+note 43= 4301.955001
+note 44= 4395.558015
+note 45= 4484.358713
+note 46= 4568.825906
+note 47= 4649.362941
+note 48= 4800.000000
+note 49= 4893.603014
+note 50= 4982.403712
+note 51= 5066.870906
+note 52= 5147.407941
+note 53= 5298.044999
+note 54= 5403.000409
+note 55= 5501.955001
+note 56= 5595.558015
+note 57= 5684.358713
+note 58= 5768.825906
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6093.603014
+note 62= 6182.403712
+note 63= 6266.870906
+note 64= 6347.407941
+note 65= 6498.044999
+note 66= 6603.000409
+note 67= 6701.955001
+note 68= 6795.558015
+note 69= 6884.358713
+note 70= 6968.825906
+note 71= 7049.362941
+note 72= 7200.000000
+note 73= 7293.603014
+note 74= 7382.403712
+note 75= 7466.870906
+note 76= 7547.407941
+note 77= 7698.044999
+note 78= 7803.000409
+note 79= 7901.955001
+note 80= 7995.558015
+note 81= 8084.358713
+note 82= 8168.825906
+note 83= 8249.362941
+note 84= 8400.000000
+note 85= 8493.603014
+note 86= 8582.403712
+note 87= 8666.870906
+note 88= 8747.407941
+note 89= 8898.044999
+note 90= 9003.000409
+note 91= 9101.955001
+note 92= 9195.558015
+note 93= 9284.358713
+note 94= 9368.825906
+note 95= 9449.362941
+note 96= 9600.000000
+note 97= 9693.603014
+note 98= 9782.403712
+note 99= 9866.870906
+note 100= 9947.407941
+note 101= 10098.044999
+note 102= 10203.000409
+note 103= 10301.955001
+note 104= 10395.558015
+note 105= 10484.358713
+note 106= 10568.825906
+note 107= 10649.362941
+note 108= 10800.000000
+note 109= 10893.603014
+note 110= 10982.403712
+note 111= 11066.870906
+note 112= 11147.407941
+note 113= 11298.044999
+note 114= 11403.000409
+note 115= 11501.955001
+note 116= 11595.558015
+note 117= 11684.358713
+note 118= 11768.825906
+note 119= 11849.362941
+note 120= 12000.000000
+note 121= 12093.603014
+note 122= 12182.403712
+note 123= 12266.870906
+note 124= 12347.407941
+note 125= 12498.044999
+note 126= 12603.000409
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 19/18"
+note 2="#=0 * 10/9"
+note 3="#=0 * 7/6"
+note 4="#=0 * 11/9"
+note 5="#=0 * 4/3"
+note 6="#=0 * 17/12"
+note 7="#=0 * 3/2"
+note 8="#=0 * 19/12"
+note 9="#=0 * 5/3"
+note 10="#=0 * 7/4"
+note 11="#=0 * 11/6"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

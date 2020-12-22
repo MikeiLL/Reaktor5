@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 15 circulating notes of porcupine (sort of nusecond in the far keys)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1267
+note 2=1361
+note 3=1428
+note 4=1519
+note 5=1590
+note 6=1677
+note 7=1752
+note 8=1835
+note 9=1914
+note 10=1993
+note 11=2076
+note 12=2151
+note 13=2238
+note 14=2309
+note 15=2400
+note 16=2467
+note 17=2561
+note 18=2628
+note 19=2719
+note 20=2790
+note 21=2877
+note 22=2952
+note 23=3035
+note 24=3114
+note 25=3193
+note 26=3276
+note 27=3351
+note 28=3438
+note 29=3509
+note 30=3600
+note 31=3667
+note 32=3761
+note 33=3828
+note 34=3919
+note 35=3990
+note 36=4077
+note 37=4152
+note 38=4235
+note 39=4314
+note 40=4393
+note 41=4476
+note 42=4551
+note 43=4638
+note 44=4709
+note 45=4800
+note 46=4867
+note 47=4961
+note 48=5028
+note 49=5119
+note 50=5190
+note 51=5277
+note 52=5352
+note 53=5435
+note 54=5514
+note 55=5593
+note 56=5676
+note 57=5751
+note 58=5838
+note 59=5909
+note 60=6000
+note 61=6067
+note 62=6161
+note 63=6228
+note 64=6319
+note 65=6390
+note 66=6477
+note 67=6552
+note 68=6635
+note 69=6714
+note 70=6793
+note 71=6876
+note 72=6951
+note 73=7038
+note 74=7109
+note 75=7200
+note 76=7267
+note 77=7361
+note 78=7428
+note 79=7519
+note 80=7590
+note 81=7677
+note 82=7752
+note 83=7835
+note 84=7914
+note 85=7993
+note 86=8076
+note 87=8151
+note 88=8238
+note 89=8309
+note 90=8400
+note 91=8467
+note 92=8561
+note 93=8628
+note 94=8719
+note 95=8790
+note 96=8877
+note 97=8952
+note 98=9035
+note 99=9114
+note 100=9193
+note 101=9276
+note 102=9351
+note 103=9438
+note 104=9509
+note 105=9600
+note 106=9667
+note 107=9761
+note 108=9828
+note 109=9919
+note 110=9990
+note 111=10077
+note 112=10152
+note 113=10235
+note 114=10314
+note 115=10393
+note 116=10476
+note 117=10551
+note 118=10638
+note 119=10709
+note 120=10800
+note 121=10867
+note 122=10961
+note 123=11028
+note 124=11119
+note 125=11190
+note 126=11277
+note 127=11352
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pepper_meantone-killer.tun"
+ID= "ID_pepper_meantone-killer.tun"
+Filename= "pepper_meantone-killer.scl"
+Description= "15 circulating notes of porcupine (sort of nusecond in the far keys)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1267.000000
+note 2= 1361.000000
+note 3= 1428.000000
+note 4= 1519.000000
+note 5= 1590.000000
+note 6= 1677.000000
+note 7= 1752.000000
+note 8= 1835.000000
+note 9= 1914.000000
+note 10= 1993.000000
+note 11= 2076.000000
+note 12= 2151.000000
+note 13= 2238.000000
+note 14= 2309.000000
+note 15= 2400.000000
+note 16= 2467.000000
+note 17= 2561.000000
+note 18= 2628.000000
+note 19= 2719.000000
+note 20= 2790.000000
+note 21= 2877.000000
+note 22= 2952.000000
+note 23= 3035.000000
+note 24= 3114.000000
+note 25= 3193.000000
+note 26= 3276.000000
+note 27= 3351.000000
+note 28= 3438.000000
+note 29= 3509.000000
+note 30= 3600.000000
+note 31= 3667.000000
+note 32= 3761.000000
+note 33= 3828.000000
+note 34= 3919.000000
+note 35= 3990.000000
+note 36= 4077.000000
+note 37= 4152.000000
+note 38= 4235.000000
+note 39= 4314.000000
+note 40= 4393.000000
+note 41= 4476.000000
+note 42= 4551.000000
+note 43= 4638.000000
+note 44= 4709.000000
+note 45= 4800.000000
+note 46= 4867.000000
+note 47= 4961.000000
+note 48= 5028.000000
+note 49= 5119.000000
+note 50= 5190.000000
+note 51= 5277.000000
+note 52= 5352.000000
+note 53= 5435.000000
+note 54= 5514.000000
+note 55= 5593.000000
+note 56= 5676.000000
+note 57= 5751.000000
+note 58= 5838.000000
+note 59= 5909.000000
+note 60= 6000.000000
+note 61= 6067.000000
+note 62= 6161.000000
+note 63= 6228.000000
+note 64= 6319.000000
+note 65= 6390.000000
+note 66= 6477.000000
+note 67= 6552.000000
+note 68= 6635.000000
+note 69= 6714.000000
+note 70= 6793.000000
+note 71= 6876.000000
+note 72= 6951.000000
+note 73= 7038.000000
+note 74= 7109.000000
+note 75= 7200.000000
+note 76= 7267.000000
+note 77= 7361.000000
+note 78= 7428.000000
+note 79= 7519.000000
+note 80= 7590.000000
+note 81= 7677.000000
+note 82= 7752.000000
+note 83= 7835.000000
+note 84= 7914.000000
+note 85= 7993.000000
+note 86= 8076.000000
+note 87= 8151.000000
+note 88= 8238.000000
+note 89= 8309.000000
+note 90= 8400.000000
+note 91= 8467.000000
+note 92= 8561.000000
+note 93= 8628.000000
+note 94= 8719.000000
+note 95= 8790.000000
+note 96= 8877.000000
+note 97= 8952.000000
+note 98= 9035.000000
+note 99= 9114.000000
+note 100= 9193.000000
+note 101= 9276.000000
+note 102= 9351.000000
+note 103= 9438.000000
+note 104= 9509.000000
+note 105= 9600.000000
+note 106= 9667.000000
+note 107= 9761.000000
+note 108= 9828.000000
+note 109= 9919.000000
+note 110= 9990.000000
+note 111= 10077.000000
+note 112= 10152.000000
+note 113= 10235.000000
+note 114= 10314.000000
+note 115= 10393.000000
+note 116= 10476.000000
+note 117= 10551.000000
+note 118= 10638.000000
+note 119= 10709.000000
+note 120= 10800.000000
+note 121= 10867.000000
+note 122= 10961.000000
+note 123= 11028.000000
+note 124= 11119.000000
+note 125= 11190.000000
+note 126= 11277.000000
+note 127= 11352.000000
+
+[Functional Tuning]
+note 1="#=0 % 67.000000"
+note 2="#=0 % 161.000000"
+note 3="#=0 % 228.000000"
+note 4="#=0 % 319.000000"
+note 5="#=0 % 390.000000"
+note 6="#=0 % 477.000000"
+note 7="#=0 % 552.000000"
+note 8="#=0 % 635.000000"
+note 9="#=0 % 714.000000"
+note 10="#=0 % 793.000000"
+note 11="#=0 % 876.000000"
+note 12="#=0 % 951.000000"
+note 13="#=0 % 1038.000000"
+note 14="#=0 % 1109.000000"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

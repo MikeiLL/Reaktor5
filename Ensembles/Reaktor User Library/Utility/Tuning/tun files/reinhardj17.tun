@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Johnny Reinhard's Harmonic-17 tuning for "Tresspass", 1998
+;
+; VAZ Plus section
+[Tuning]
+note 0=1646
+note 1=1664
+note 2=1797
+note 3=1936
+note 4=1954
+note 5=2064
+note 6=2119
+note 7=2240
+note 8=2295
+note 9=2400
+note 10=2499
+note 11=2505
+note 12=2560
+note 13=2593
+note 14=2617
+note 15=2681
+note 16=2736
+note 17=2846
+note 18=2864
+note 19=2997
+note 20=3136
+note 21=3154
+note 22=3264
+note 23=3319
+note 24=3440
+note 25=3495
+note 26=3600
+note 27=3699
+note 28=3705
+note 29=3760
+note 30=3793
+note 31=3817
+note 32=3881
+note 33=3936
+note 34=4046
+note 35=4064
+note 36=4197
+note 37=4336
+note 38=4354
+note 39=4464
+note 40=4519
+note 41=4640
+note 42=4695
+note 43=4800
+note 44=4899
+note 45=4905
+note 46=4960
+note 47=4993
+note 48=5017
+note 49=5081
+note 50=5136
+note 51=5246
+note 52=5264
+note 53=5397
+note 54=5536
+note 55=5554
+note 56=5664
+note 57=5719
+note 58=5840
+note 59=5895
+note 60=6000
+note 61=6099
+note 62=6105
+note 63=6160
+note 64=6193
+note 65=6217
+note 66=6281
+note 67=6336
+note 68=6446
+note 69=6464
+note 70=6597
+note 71=6736
+note 72=6754
+note 73=6864
+note 74=6919
+note 75=7040
+note 76=7095
+note 77=7200
+note 78=7299
+note 79=7305
+note 80=7360
+note 81=7393
+note 82=7417
+note 83=7481
+note 84=7536
+note 85=7646
+note 86=7664
+note 87=7797
+note 88=7936
+note 89=7954
+note 90=8064
+note 91=8119
+note 92=8240
+note 93=8295
+note 94=8400
+note 95=8499
+note 96=8505
+note 97=8560
+note 98=8593
+note 99=8617
+note 100=8681
+note 101=8736
+note 102=8846
+note 103=8864
+note 104=8997
+note 105=9136
+note 106=9154
+note 107=9264
+note 108=9319
+note 109=9440
+note 110=9495
+note 111=9600
+note 112=9699
+note 113=9705
+note 114=9760
+note 115=9793
+note 116=9817
+note 117=9881
+note 118=9936
+note 119=10046
+note 120=10064
+note 121=10197
+note 122=10336
+note 123=10354
+note 124=10464
+note 125=10519
+note 126=10640
+note 127=10695
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "reinhardj17.tun"
+ID= "ID_reinhardj17.tun"
+Filename= "reinhardj17.scl"
+Description= "Johnny Reinhard's Harmonic-17 tuning for "Tresspass", 1998"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1646.362533
+note 1= 1664.427748
+note 2= 1796.999591
+note 3= 1935.572252
+note 4= 1953.637467
+note 5= 2063.870497
+note 6= 2118.641696
+note 7= 2240.080163
+note 8= 2295.044590
+note 9= 2400.000000
+note 10= 2498.954592
+note 11= 2504.955410
+note 12= 2559.919837
+note 13= 2592.557607
+note 14= 2616.686695
+note 15= 2681.358304
+note 16= 2736.129503
+note 17= 2846.362533
+note 18= 2864.427748
+note 19= 2996.999591
+note 20= 3135.572252
+note 21= 3153.637467
+note 22= 3263.870497
+note 23= 3318.641696
+note 24= 3440.080163
+note 25= 3495.044590
+note 26= 3600.000000
+note 27= 3698.954592
+note 28= 3704.955410
+note 29= 3759.919837
+note 30= 3792.557607
+note 31= 3816.686695
+note 32= 3881.358304
+note 33= 3936.129503
+note 34= 4046.362533
+note 35= 4064.427748
+note 36= 4196.999591
+note 37= 4335.572252
+note 38= 4353.637467
+note 39= 4463.870497
+note 40= 4518.641696
+note 41= 4640.080163
+note 42= 4695.044590
+note 43= 4800.000000
+note 44= 4898.954592
+note 45= 4904.955410
+note 46= 4959.919837
+note 47= 4992.557607
+note 48= 5016.686695
+note 49= 5081.358304
+note 50= 5136.129503
+note 51= 5246.362533
+note 52= 5264.427748
+note 53= 5396.999591
+note 54= 5535.572252
+note 55= 5553.637467
+note 56= 5663.870497
+note 57= 5718.641696
+note 58= 5840.080163
+note 59= 5895.044590
+note 60= 6000.000000
+note 61= 6098.954592
+note 62= 6104.955410
+note 63= 6159.919837
+note 64= 6192.557607
+note 65= 6216.686695
+note 66= 6281.358304
+note 67= 6336.129503
+note 68= 6446.362533
+note 69= 6464.427748
+note 70= 6596.999591
+note 71= 6735.572252
+note 72= 6753.637467
+note 73= 6863.870497
+note 74= 6918.641696
+note 75= 7040.080163
+note 76= 7095.044590
+note 77= 7200.000000
+note 78= 7298.954592
+note 79= 7304.955410
+note 80= 7359.919837
+note 81= 7392.557607
+note 82= 7416.686695
+note 83= 7481.358304
+note 84= 7536.129503
+note 85= 7646.362533
+note 86= 7664.427748
+note 87= 7796.999591
+note 88= 7935.572252
+note 89= 7953.637467
+note 90= 8063.870497
+note 91= 8118.641696
+note 92= 8240.080163
+note 93= 8295.044590
+note 94= 8400.000000
+note 95= 8498.954592
+note 96= 8504.955410
+note 97= 8559.919837
+note 98= 8592.557607
+note 99= 8616.686695
+note 100= 8681.358304
+note 101= 8736.129503
+note 102= 8846.362533
+note 103= 8864.427748
+note 104= 8996.999591
+note 105= 9135.572252
+note 106= 9153.637467
+note 107= 9263.870497
+note 108= 9318.641696
+note 109= 9440.080163
+note 110= 9495.044590
+note 111= 9600.000000
+note 112= 9698.954592
+note 113= 9704.955410
+note 114= 9759.919837
+note 115= 9792.557607
+note 116= 9816.686695
+note 117= 9881.358304
+note 118= 9936.129503
+note 119= 10046.362533
+note 120= 10064.427748
+note 121= 10196.999591
+note 122= 10335.572252
+note 123= 10353.637467
+note 124= 10463.870497
+note 125= 10518.641696
+note 126= 10640.080163
+note 127= 10695.044590
+
+[Functional Tuning]
+note 1="#=0 * 18/17"
+note 2="#=0 * 17/16"
+note 3="#=0 * 34/31"
+note 4="#=0 * 19/17"
+note 5="#=0 * 17/15"
+note 6="#=0 * 20/17"
+note 7="#=0 * 17/14"
+note 8="#=0 * 22/17"
+note 9="#=0 * 17/13"
+note 10="#=0 * 24/17"
+note 11="#=0 * 26/17"
+note 12="#=0 * 17/11"
+note 13="#=0 * 28/17"
+note 14="#=0 * 17/10"
+note 15="#=0 * 31/17"
+note 16="#=0 * 32/17"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

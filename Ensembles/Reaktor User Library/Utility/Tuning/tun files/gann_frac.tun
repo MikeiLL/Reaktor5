@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kyle Gann, scale from Fractured Paradise, 1/1=B
+;
+; VAZ Plus section
+[Tuning]
+note 0=1488
+note 1=1516
+note 2=1698
+note 3=1720
+note 4=1783
+note 5=1902
+note 6=1923
+note 7=1986
+note 8=2014
+note 9=2035
+note 10=2169
+note 11=2218
+note 12=2400
+note 13=2422
+note 14=2604
+note 15=2667
+note 16=2688
+note 17=2716
+note 18=2898
+note 19=2920
+note 20=2983
+note 21=3102
+note 22=3123
+note 23=3186
+note 24=3214
+note 25=3235
+note 26=3369
+note 27=3418
+note 28=3600
+note 29=3622
+note 30=3804
+note 31=3867
+note 32=3888
+note 33=3916
+note 34=4098
+note 35=4120
+note 36=4183
+note 37=4302
+note 38=4323
+note 39=4386
+note 40=4414
+note 41=4435
+note 42=4569
+note 43=4618
+note 44=4800
+note 45=4822
+note 46=5004
+note 47=5067
+note 48=5088
+note 49=5116
+note 50=5298
+note 51=5320
+note 52=5383
+note 53=5502
+note 54=5523
+note 55=5586
+note 56=5614
+note 57=5635
+note 58=5769
+note 59=5818
+note 60=6000
+note 61=6022
+note 62=6204
+note 63=6267
+note 64=6288
+note 65=6316
+note 66=6498
+note 67=6520
+note 68=6583
+note 69=6702
+note 70=6723
+note 71=6786
+note 72=6814
+note 73=6835
+note 74=6969
+note 75=7018
+note 76=7200
+note 77=7222
+note 78=7404
+note 79=7467
+note 80=7488
+note 81=7516
+note 82=7698
+note 83=7720
+note 84=7783
+note 85=7902
+note 86=7923
+note 87=7986
+note 88=8014
+note 89=8035
+note 90=8169
+note 91=8218
+note 92=8400
+note 93=8422
+note 94=8604
+note 95=8667
+note 96=8688
+note 97=8716
+note 98=8898
+note 99=8920
+note 100=8983
+note 101=9102
+note 102=9123
+note 103=9186
+note 104=9214
+note 105=9235
+note 106=9369
+note 107=9418
+note 108=9600
+note 109=9622
+note 110=9804
+note 111=9867
+note 112=9888
+note 113=9916
+note 114=10098
+note 115=10120
+note 116=10183
+note 117=10302
+note 118=10323
+note 119=10386
+note 120=10414
+note 121=10435
+note 122=10569
+note 123=10618
+note 124=10800
+note 125=10822
+note 126=11004
+note 127=11067
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "gann_frac.tun"
+ID= "ID_gann_frac.tun"
+Filename= "gann_frac.scl"
+Description= "Kyle Gann, scale from Fractured Paradise, 1/1=B"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1488.377195
+note 1= 1515.641287
+note 2= 1698.044999
+note 3= 1719.551289
+note 4= 1782.512193
+note 5= 1901.955001
+note 6= 1923.461290
+note 7= 1986.422194
+note 8= 2013.686286
+note 9= 2035.192576
+note 10= 2168.825906
+note 11= 2217.596288
+note 12= 2400.000000
+note 13= 2421.506290
+note 14= 2603.910002
+note 15= 2666.870906
+note 16= 2688.377195
+note 17= 2715.641287
+note 18= 2898.044999
+note 19= 2919.551289
+note 20= 2982.512193
+note 21= 3101.955001
+note 22= 3123.461290
+note 23= 3186.422194
+note 24= 3213.686286
+note 25= 3235.192576
+note 26= 3368.825906
+note 27= 3417.596288
+note 28= 3600.000000
+note 29= 3621.506290
+note 30= 3803.910002
+note 31= 3866.870906
+note 32= 3888.377195
+note 33= 3915.641287
+note 34= 4098.044999
+note 35= 4119.551289
+note 36= 4182.512193
+note 37= 4301.955001
+note 38= 4323.461290
+note 39= 4386.422194
+note 40= 4413.686286
+note 41= 4435.192576
+note 42= 4568.825906
+note 43= 4617.596288
+note 44= 4800.000000
+note 45= 4821.506290
+note 46= 5003.910002
+note 47= 5066.870906
+note 48= 5088.377195
+note 49= 5115.641287
+note 50= 5298.044999
+note 51= 5319.551289
+note 52= 5382.512193
+note 53= 5501.955001
+note 54= 5523.461290
+note 55= 5586.422194
+note 56= 5613.686286
+note 57= 5635.192576
+note 58= 5768.825906
+note 59= 5817.596288
+note 60= 6000.000000
+note 61= 6021.506290
+note 62= 6203.910002
+note 63= 6266.870906
+note 64= 6288.377195
+note 65= 6315.641287
+note 66= 6498.044999
+note 67= 6519.551289
+note 68= 6582.512193
+note 69= 6701.955001
+note 70= 6723.461290
+note 71= 6786.422194
+note 72= 6813.686286
+note 73= 6835.192576
+note 74= 6968.825906
+note 75= 7017.596288
+note 76= 7200.000000
+note 77= 7221.506290
+note 78= 7403.910002
+note 79= 7466.870906
+note 80= 7488.377195
+note 81= 7515.641287
+note 82= 7698.044999
+note 83= 7719.551289
+note 84= 7782.512193
+note 85= 7901.955001
+note 86= 7923.461290
+note 87= 7986.422194
+note 88= 8013.686286
+note 89= 8035.192576
+note 90= 8168.825906
+note 91= 8217.596288
+note 92= 8400.000000
+note 93= 8421.506290
+note 94= 8603.910002
+note 95= 8666.870906
+note 96= 8688.377195
+note 97= 8715.641287
+note 98= 8898.044999
+note 99= 8919.551289
+note 100= 8982.512193
+note 101= 9101.955001
+note 102= 9123.461290
+note 103= 9186.422194
+note 104= 9213.686286
+note 105= 9235.192576
+note 106= 9368.825906
+note 107= 9417.596288
+note 108= 9600.000000
+note 109= 9621.506290
+note 110= 9803.910002
+note 111= 9866.870906
+note 112= 9888.377195
+note 113= 9915.641287
+note 114= 10098.044999
+note 115= 10119.551289
+note 116= 10182.512193
+note 117= 10301.955001
+note 118= 10323.461290
+note 119= 10386.422194
+note 120= 10413.686286
+note 121= 10435.192576
+note 122= 10568.825906
+note 123= 10617.596288
+note 124= 10800.000000
+note 125= 10821.506290
+note 126= 11003.910002
+note 127= 11066.870906
+
+[Functional Tuning]
+note 1="#=0 * 81/80"
+note 2="#=0 * 9/8"
+note 3="#=0 * 7/6"
+note 4="#=0 * 189/160"
+note 5="#=0 * 6/5"
+note 6="#=0 * 4/3"
+note 7="#=0 * 27/20"
+note 8="#=0 * 7/5"
+note 9="#=0 * 3/2"
+note 10="#=0 * 243/160"
+note 11="#=0 * 63/40"
+note 12="#=0 * 8/5"
+note 13="#=0 * 81/50"
+note 14="#=0 * 7/4"
+note 15="#=0 * 9/5"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

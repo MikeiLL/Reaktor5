@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Claas Douwes recommendation of 24/23 and 15/14 steps for clavichord (1699)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=74
+note 2=193
+note 3=313
+note 4=386
+note 5=506
+note 6=579
+note 7=699
+note 8=772
+note 9=887
+note 10=1007
+note 11=1081
+note 12=1200
+note 13=1274
+note 14=1393
+note 15=1513
+note 16=1586
+note 17=1706
+note 18=1779
+note 19=1899
+note 20=1972
+note 21=2087
+note 22=2207
+note 23=2281
+note 24=2400
+note 25=2474
+note 26=2593
+note 27=2713
+note 28=2786
+note 29=2906
+note 30=2979
+note 31=3099
+note 32=3172
+note 33=3287
+note 34=3407
+note 35=3481
+note 36=3600
+note 37=3674
+note 38=3793
+note 39=3913
+note 40=3986
+note 41=4106
+note 42=4179
+note 43=4299
+note 44=4372
+note 45=4487
+note 46=4607
+note 47=4681
+note 48=4800
+note 49=4874
+note 50=4993
+note 51=5113
+note 52=5186
+note 53=5306
+note 54=5379
+note 55=5499
+note 56=5572
+note 57=5687
+note 58=5807
+note 59=5881
+note 60=6000
+note 61=6074
+note 62=6193
+note 63=6313
+note 64=6386
+note 65=6506
+note 66=6579
+note 67=6699
+note 68=6772
+note 69=6887
+note 70=7007
+note 71=7081
+note 72=7200
+note 73=7274
+note 74=7393
+note 75=7513
+note 76=7586
+note 77=7706
+note 78=7779
+note 79=7899
+note 80=7972
+note 81=8087
+note 82=8207
+note 83=8281
+note 84=8400
+note 85=8474
+note 86=8593
+note 87=8713
+note 88=8786
+note 89=8906
+note 90=8979
+note 91=9099
+note 92=9172
+note 93=9287
+note 94=9407
+note 95=9481
+note 96=9600
+note 97=9674
+note 98=9793
+note 99=9913
+note 100=9986
+note 101=10106
+note 102=10179
+note 103=10299
+note 104=10372
+note 105=10487
+note 106=10607
+note 107=10681
+note 108=10800
+note 109=10874
+note 110=10993
+note 111=11113
+note 112=11186
+note 113=11306
+note 114=11379
+note 115=11499
+note 116=11572
+note 117=11687
+note 118=11807
+note 119=11881
+note 120=12000
+note 121=12074
+note 122=12193
+note 123=12313
+note 124=12386
+note 125=12506
+note 126=12579
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "douwes.tun"
+ID= "ID_douwes.tun"
+Filename= "douwes.scl"
+Description= "Claas Douwes recommendation of 24/23 and 15/14 steps for clavichord (1699)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 73.680654
+note 2= 193.123462
+note 3= 312.566270
+note 4= 386.246920
+note 5= 505.689730
+note 6= 579.370390
+note 7= 698.813190
+note 8= 772.493850
+note 9= 887.433730
+note 10= 1006.876538
+note 11= 1080.557192
+note 12= 1200.000000
+note 13= 1273.680654
+note 14= 1393.123462
+note 15= 1512.566270
+note 16= 1586.246920
+note 17= 1705.689730
+note 18= 1779.370390
+note 19= 1898.813190
+note 20= 1972.493850
+note 21= 2087.433730
+note 22= 2206.876538
+note 23= 2280.557192
+note 24= 2400.000000
+note 25= 2473.680654
+note 26= 2593.123462
+note 27= 2712.566270
+note 28= 2786.246920
+note 29= 2905.689730
+note 30= 2979.370390
+note 31= 3098.813190
+note 32= 3172.493850
+note 33= 3287.433730
+note 34= 3406.876538
+note 35= 3480.557192
+note 36= 3600.000000
+note 37= 3673.680654
+note 38= 3793.123462
+note 39= 3912.566270
+note 40= 3986.246920
+note 41= 4105.689730
+note 42= 4179.370390
+note 43= 4298.813190
+note 44= 4372.493850
+note 45= 4487.433730
+note 46= 4606.876538
+note 47= 4680.557192
+note 48= 4800.000000
+note 49= 4873.680654
+note 50= 4993.123462
+note 51= 5112.566270
+note 52= 5186.246920
+note 53= 5305.689730
+note 54= 5379.370390
+note 55= 5498.813190
+note 56= 5572.493850
+note 57= 5687.433730
+note 58= 5806.876538
+note 59= 5880.557192
+note 60= 6000.000000
+note 61= 6073.680654
+note 62= 6193.123462
+note 63= 6312.566270
+note 64= 6386.246920
+note 65= 6505.689730
+note 66= 6579.370390
+note 67= 6698.813190
+note 68= 6772.493850
+note 69= 6887.433730
+note 70= 7006.876538
+note 71= 7080.557192
+note 72= 7200.000000
+note 73= 7273.680654
+note 74= 7393.123462
+note 75= 7512.566270
+note 76= 7586.246920
+note 77= 7705.689730
+note 78= 7779.370390
+note 79= 7898.813190
+note 80= 7972.493850
+note 81= 8087.433730
+note 82= 8206.876538
+note 83= 8280.557192
+note 84= 8400.000000
+note 85= 8473.680654
+note 86= 8593.123462
+note 87= 8712.566270
+note 88= 8786.246920
+note 89= 8905.689730
+note 90= 8979.370390
+note 91= 9098.813190
+note 92= 9172.493850
+note 93= 9287.433730
+note 94= 9406.876538
+note 95= 9480.557192
+note 96= 9600.000000
+note 97= 9673.680654
+note 98= 9793.123462
+note 99= 9912.566270
+note 100= 9986.246920
+note 101= 10105.689730
+note 102= 10179.370390
+note 103= 10298.813190
+note 104= 10372.493850
+note 105= 10487.433730
+note 106= 10606.876538
+note 107= 10680.557192
+note 108= 10800.000000
+note 109= 10873.680654
+note 110= 10993.123462
+note 111= 11112.566270
+note 112= 11186.246920
+note 113= 11305.689730
+note 114= 11379.370390
+note 115= 11498.813190
+note 116= 11572.493850
+note 117= 11687.433730
+note 118= 11806.876538
+note 119= 11880.557192
+note 120= 12000.000000
+note 121= 12073.680654
+note 122= 12193.123462
+note 123= 12312.566270
+note 124= 12386.246920
+note 125= 12505.689730
+note 126= 12579.370390
+note 127= 12698.813190
+
+[Functional Tuning]
+note 1="#=0 * 24/23"
+note 2="#=0 * 180/161"
+note 3="#=0 * 1350/1127"
+note 4="#=0 % 386.246920"
+note 5="#=0 % 505.689730"
+note 6="#=0 % 579.370390"
+note 7="#=0 % 698.813190"
+note 8="#=0 % 772.493850"
+note 9="#=0 * 1127/675"
+note 10="#=0 * 161/90"
+note 11="#=0 * 28/15"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

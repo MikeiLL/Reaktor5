@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Partch's Indian Chromatic, Exposition of Monophony, 1933.
+;
+; VAZ Plus section
+[Tuning]
+note 0=2716
+note 1=2786
+note 2=2835
+note 3=2898
+note 4=2951
+note 5=2983
+note 6=3063
+note 7=3102
+note 8=3165
+note 9=3182
+note 10=3253
+note 11=3306
+note 12=3369
+note 13=3435
+note 14=3488
+note 15=3547
+note 16=3600
+note 17=3653
+note 18=3705
+note 19=3751
+note 20=3804
+note 21=3867
+note 22=3916
+note 23=3986
+note 24=4035
+note 25=4098
+note 26=4151
+note 27=4183
+note 28=4263
+note 29=4302
+note 30=4365
+note 31=4382
+note 32=4453
+note 33=4506
+note 34=4569
+note 35=4635
+note 36=4688
+note 37=4747
+note 38=4800
+note 39=4853
+note 40=4905
+note 41=4951
+note 42=5004
+note 43=5067
+note 44=5116
+note 45=5186
+note 46=5235
+note 47=5298
+note 48=5351
+note 49=5383
+note 50=5463
+note 51=5502
+note 52=5565
+note 53=5582
+note 54=5653
+note 55=5706
+note 56=5769
+note 57=5835
+note 58=5888
+note 59=5947
+note 60=6000
+note 61=6053
+note 62=6105
+note 63=6151
+note 64=6204
+note 65=6267
+note 66=6316
+note 67=6386
+note 68=6435
+note 69=6498
+note 70=6551
+note 71=6583
+note 72=6663
+note 73=6702
+note 74=6765
+note 75=6782
+note 76=6853
+note 77=6906
+note 78=6969
+note 79=7035
+note 80=7088
+note 81=7147
+note 82=7200
+note 83=7253
+note 84=7305
+note 85=7351
+note 86=7404
+note 87=7467
+note 88=7516
+note 89=7586
+note 90=7635
+note 91=7698
+note 92=7751
+note 93=7783
+note 94=7863
+note 95=7902
+note 96=7965
+note 97=7982
+note 98=8053
+note 99=8106
+note 100=8169
+note 101=8235
+note 102=8288
+note 103=8347
+note 104=8400
+note 105=8453
+note 106=8505
+note 107=8551
+note 108=8604
+note 109=8667
+note 110=8716
+note 111=8786
+note 112=8835
+note 113=8898
+note 114=8951
+note 115=8983
+note 116=9063
+note 117=9102
+note 118=9165
+note 119=9182
+note 120=9253
+note 121=9306
+note 122=9369
+note 123=9435
+note 124=9488
+note 125=9547
+note 126=9600
+note 127=9653
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "partch-indian.tun"
+ID= "ID_partch-indian.tun"
+Filename= "partch-indian.scl"
+Description= "Partch's Indian Chromatic, Exposition of Monophony, 1933."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2715.641287
+note 1= 2786.313714
+note 2= 2835.084095
+note 3= 2898.044999
+note 4= 2951.317942
+note 5= 2982.512193
+note 6= 3063.049228
+note 7= 3101.955001
+note 8= 3164.915905
+note 9= 3182.492036
+note 10= 3252.592059
+note 11= 3305.865003
+note 12= 3368.825906
+note 13= 3434.995772
+note 14= 3488.268715
+note 15= 3546.727057
+note 16= 3600.000000
+note 17= 3653.272943
+note 18= 3704.955410
+note 19= 3750.637059
+note 20= 3803.910002
+note 21= 3866.870906
+note 22= 3915.641287
+note 23= 3986.313714
+note 24= 4035.084095
+note 25= 4098.044999
+note 26= 4151.317942
+note 27= 4182.512193
+note 28= 4263.049228
+note 29= 4301.955001
+note 30= 4364.915905
+note 31= 4382.492036
+note 32= 4452.592059
+note 33= 4505.865003
+note 34= 4568.825906
+note 35= 4634.995772
+note 36= 4688.268715
+note 37= 4746.727057
+note 38= 4800.000000
+note 39= 4853.272943
+note 40= 4904.955410
+note 41= 4950.637059
+note 42= 5003.910002
+note 43= 5066.870906
+note 44= 5115.641287
+note 45= 5186.313714
+note 46= 5235.084095
+note 47= 5298.044999
+note 48= 5351.317942
+note 49= 5382.512193
+note 50= 5463.049228
+note 51= 5501.955001
+note 52= 5564.915905
+note 53= 5582.492036
+note 54= 5652.592059
+note 55= 5705.865003
+note 56= 5768.825906
+note 57= 5834.995772
+note 58= 5888.268715
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6104.955410
+note 63= 6150.637059
+note 64= 6203.910002
+note 65= 6266.870906
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6435.084095
+note 69= 6498.044999
+note 70= 6551.317942
+note 71= 6582.512193
+note 72= 6663.049228
+note 73= 6701.955001
+note 74= 6764.915905
+note 75= 6782.492036
+note 76= 6852.592059
+note 77= 6905.865003
+note 78= 6968.825906
+note 79= 7034.995772
+note 80= 7088.268715
+note 81= 7146.727057
+note 82= 7200.000000
+note 83= 7253.272943
+note 84= 7304.955410
+note 85= 7350.637059
+note 86= 7403.910002
+note 87= 7466.870906
+note 88= 7515.641287
+note 89= 7586.313714
+note 90= 7635.084095
+note 91= 7698.044999
+note 92= 7751.317942
+note 93= 7782.512193
+note 94= 7863.049228
+note 95= 7901.955001
+note 96= 7964.915905
+note 97= 7982.492036
+note 98= 8052.592059
+note 99= 8105.865003
+note 100= 8168.825906
+note 101= 8234.995772
+note 102= 8288.268715
+note 103= 8346.727057
+note 104= 8400.000000
+note 105= 8453.272943
+note 106= 8504.955410
+note 107= 8550.637059
+note 108= 8603.910002
+note 109= 8666.870906
+note 110= 8715.641287
+note 111= 8786.313714
+note 112= 8835.084095
+note 113= 8898.044999
+note 114= 8951.317942
+note 115= 8982.512193
+note 116= 9063.049228
+note 117= 9101.955001
+note 118= 9164.915905
+note 119= 9182.492036
+note 120= 9252.592059
+note 121= 9305.865003
+note 122= 9368.825906
+note 123= 9434.995772
+note 124= 9488.268715
+note 125= 9546.727057
+note 126= 9600.000000
+note 127= 9653.272943
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 17/16"
+note 3="#=0 * 12/11"
+note 4="#=0 * 9/8"
+note 5="#=0 * 7/6"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 9/7"
+note 9="#=0 * 4/3"
+note 10="#=0 * 11/8"
+note 11="#=0 * 7/5"
+note 12="#=0 * 22/15"
+note 13="#=0 * 3/2"
+note 14="#=0 * 14/9"
+note 15="#=0 * 11/7"
+note 16="#=0 * 18/11"
+note 17="#=0 * 27/16"
+note 18="#=0 * 7/4"
+note 19="#=0 * 20/11"
+note 20="#=0 * 15/8"
+note 21="#=0 * 64/33"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

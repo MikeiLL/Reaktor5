@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; George Secor's Victorian rational well-temperament (based on Ellis #2)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=197
+note 3=297
+note 4=392
+note 5=499
+note 6=594
+note 7=700
+note 8=796
+note 9=895
+note 10=998
+note 11=1092
+note 12=1200
+note 13=1295
+note 14=1397
+note 15=1497
+note 16=1592
+note 17=1699
+note 18=1794
+note 19=1900
+note 20=1996
+note 21=2095
+note 22=2198
+note 23=2292
+note 24=2400
+note 25=2495
+note 26=2597
+note 27=2697
+note 28=2792
+note 29=2899
+note 30=2994
+note 31=3100
+note 32=3196
+note 33=3295
+note 34=3398
+note 35=3492
+note 36=3600
+note 37=3695
+note 38=3797
+note 39=3897
+note 40=3992
+note 41=4099
+note 42=4194
+note 43=4300
+note 44=4396
+note 45=4495
+note 46=4598
+note 47=4692
+note 48=4800
+note 49=4895
+note 50=4997
+note 51=5097
+note 52=5192
+note 53=5299
+note 54=5394
+note 55=5500
+note 56=5596
+note 57=5695
+note 58=5798
+note 59=5892
+note 60=6000
+note 61=6095
+note 62=6197
+note 63=6297
+note 64=6392
+note 65=6499
+note 66=6594
+note 67=6700
+note 68=6796
+note 69=6895
+note 70=6998
+note 71=7092
+note 72=7200
+note 73=7295
+note 74=7397
+note 75=7497
+note 76=7592
+note 77=7699
+note 78=7794
+note 79=7900
+note 80=7996
+note 81=8095
+note 82=8198
+note 83=8292
+note 84=8400
+note 85=8495
+note 86=8597
+note 87=8697
+note 88=8792
+note 89=8899
+note 90=8994
+note 91=9100
+note 92=9196
+note 93=9295
+note 94=9398
+note 95=9492
+note 96=9600
+note 97=9695
+note 98=9797
+note 99=9897
+note 100=9992
+note 101=10099
+note 102=10194
+note 103=10300
+note 104=10396
+note 105=10495
+note 106=10598
+note 107=10692
+note 108=10800
+note 109=10895
+note 110=10997
+note 111=11097
+note 112=11192
+note 113=11299
+note 114=11394
+note 115=11500
+note 116=11596
+note 117=11695
+note 118=11798
+note 119=11892
+note 120=12000
+note 121=12095
+note 122=12197
+note 123=12297
+note 124=12392
+note 125=12499
+note 126=12594
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "secor_vrwt.tun"
+ID= "ID_secor_vrwt.tun"
+Filename= "secor_vrwt.scl"
+Description= "George Secor's Victorian rational well-temperament (based on Ellis #2)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.662197
+note 2= 197.008536
+note 3= 296.829782
+note 4= 392.055789
+note 5= 499.079979
+note 6= 593.557856
+note 7= 700.036736
+note 8= 795.608467
+note 9= 894.680775
+note 10= 997.976217
+note 11= 1092.311419
+note 12= 1200.000000
+note 13= 1294.662197
+note 14= 1397.008536
+note 15= 1496.829782
+note 16= 1592.055789
+note 17= 1699.079979
+note 18= 1793.557856
+note 19= 1900.036736
+note 20= 1995.608467
+note 21= 2094.680775
+note 22= 2197.976217
+note 23= 2292.311419
+note 24= 2400.000000
+note 25= 2494.662197
+note 26= 2597.008536
+note 27= 2696.829782
+note 28= 2792.055789
+note 29= 2899.079979
+note 30= 2993.557856
+note 31= 3100.036736
+note 32= 3195.608467
+note 33= 3294.680775
+note 34= 3397.976217
+note 35= 3492.311419
+note 36= 3600.000000
+note 37= 3694.662197
+note 38= 3797.008536
+note 39= 3896.829782
+note 40= 3992.055789
+note 41= 4099.079979
+note 42= 4193.557856
+note 43= 4300.036736
+note 44= 4395.608467
+note 45= 4494.680775
+note 46= 4597.976217
+note 47= 4692.311419
+note 48= 4800.000000
+note 49= 4894.662197
+note 50= 4997.008536
+note 51= 5096.829782
+note 52= 5192.055789
+note 53= 5299.079979
+note 54= 5393.557856
+note 55= 5500.036736
+note 56= 5595.608467
+note 57= 5694.680775
+note 58= 5797.976217
+note 59= 5892.311419
+note 60= 6000.000000
+note 61= 6094.662197
+note 62= 6197.008536
+note 63= 6296.829782
+note 64= 6392.055789
+note 65= 6499.079979
+note 66= 6593.557856
+note 67= 6700.036736
+note 68= 6795.608467
+note 69= 6894.680775
+note 70= 6997.976217
+note 71= 7092.311419
+note 72= 7200.000000
+note 73= 7294.662197
+note 74= 7397.008536
+note 75= 7496.829782
+note 76= 7592.055789
+note 77= 7699.079979
+note 78= 7793.557856
+note 79= 7900.036736
+note 80= 7995.608467
+note 81= 8094.680775
+note 82= 8197.976217
+note 83= 8292.311419
+note 84= 8400.000000
+note 85= 8494.662197
+note 86= 8597.008536
+note 87= 8696.829782
+note 88= 8792.055789
+note 89= 8899.079979
+note 90= 8993.557856
+note 91= 9100.036736
+note 92= 9195.608467
+note 93= 9294.680775
+note 94= 9397.976217
+note 95= 9492.311419
+note 96= 9600.000000
+note 97= 9694.662197
+note 98= 9797.008536
+note 99= 9896.829782
+note 100= 9992.055789
+note 101= 10099.079979
+note 102= 10193.557856
+note 103= 10300.036736
+note 104= 10395.608467
+note 105= 10494.680775
+note 106= 10597.976217
+note 107= 10692.311419
+note 108= 10800.000000
+note 109= 10894.662197
+note 110= 10997.008536
+note 111= 11096.829782
+note 112= 11192.055789
+note 113= 11299.079979
+note 114= 11393.557856
+note 115= 11500.036736
+note 116= 11595.608467
+note 117= 11694.680775
+note 118= 11797.976217
+note 119= 11892.311419
+note 120= 12000.000000
+note 121= 12094.662197
+note 122= 12197.008536
+note 123= 12296.829782
+note 124= 12392.055789
+note 125= 12499.079979
+note 126= 12593.557856
+note 127= 12700.036736
+
+[Functional Tuning]
+note 1="#=0 * 545/516"
+note 2="#=0 * 6071/5418"
+note 3="#=0 * 707447/595980"
+note 4="#=0 * 755/602"
+note 5="#=0 * 30118/22575"
+note 6="#=0 * 30535/21672"
+note 7="#=0 * 451/301"
+note 8="#=0 * 34315/21672"
+note 9="#=0 * 1514/903"
+note 10="#=0 * 2755/1548"
+note 11="#=0 * 20365/10836"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

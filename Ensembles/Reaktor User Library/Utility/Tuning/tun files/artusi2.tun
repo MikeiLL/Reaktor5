@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Artusi's tuning no. 2. 1/6-comma meantone with mean semitones
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=98
+note 2=197
+note 3=295
+note 4=393
+note 5=502
+note 6=600
+note 7=698
+note 8=797
+note 9=895
+note 10=993
+note 11=1092
+note 12=1200
+note 13=1298
+note 14=1397
+note 15=1495
+note 16=1593
+note 17=1702
+note 18=1800
+note 19=1898
+note 20=1997
+note 21=2095
+note 22=2193
+note 23=2292
+note 24=2400
+note 25=2498
+note 26=2597
+note 27=2695
+note 28=2793
+note 29=2902
+note 30=3000
+note 31=3098
+note 32=3197
+note 33=3295
+note 34=3393
+note 35=3492
+note 36=3600
+note 37=3698
+note 38=3797
+note 39=3895
+note 40=3993
+note 41=4102
+note 42=4200
+note 43=4298
+note 44=4397
+note 45=4495
+note 46=4593
+note 47=4692
+note 48=4800
+note 49=4898
+note 50=4997
+note 51=5095
+note 52=5193
+note 53=5302
+note 54=5400
+note 55=5498
+note 56=5597
+note 57=5695
+note 58=5793
+note 59=5892
+note 60=6000
+note 61=6098
+note 62=6197
+note 63=6295
+note 64=6393
+note 65=6502
+note 66=6600
+note 67=6698
+note 68=6797
+note 69=6895
+note 70=6993
+note 71=7092
+note 72=7200
+note 73=7298
+note 74=7397
+note 75=7495
+note 76=7593
+note 77=7702
+note 78=7800
+note 79=7898
+note 80=7997
+note 81=8095
+note 82=8193
+note 83=8292
+note 84=8400
+note 85=8498
+note 86=8597
+note 87=8695
+note 88=8793
+note 89=8902
+note 90=9000
+note 91=9098
+note 92=9197
+note 93=9295
+note 94=9393
+note 95=9492
+note 96=9600
+note 97=9698
+note 98=9797
+note 99=9895
+note 100=9993
+note 101=10102
+note 102=10200
+note 103=10298
+note 104=10397
+note 105=10495
+note 106=10593
+note 107=10692
+note 108=10800
+note 109=10898
+note 110=10997
+note 111=11095
+note 112=11193
+note 113=11302
+note 114=11400
+note 115=11498
+note 116=11597
+note 117=11695
+note 118=11793
+note 119=11892
+note 120=12000
+note 121=12098
+note 122=12197
+note 123=12295
+note 124=12393
+note 125=12502
+note 126=12600
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "artusi2.tun"
+ID= "ID_artusi2.tun"
+Filename= "artusi2.scl"
+Description= "Artusi's tuning no. 2. 1/6-comma meantone with mean semitones"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.370500
+note 2= 196.741000
+note 3= 295.111500
+note 4= 393.482000
+note 5= 501.629000
+note 6= 600.000000
+note 7= 698.371000
+note 8= 796.741500
+note 9= 895.112000
+note 10= 993.482500
+note 11= 1091.853000
+note 12= 1200.000000
+note 13= 1298.370500
+note 14= 1396.741000
+note 15= 1495.111500
+note 16= 1593.482000
+note 17= 1701.629000
+note 18= 1800.000000
+note 19= 1898.371000
+note 20= 1996.741500
+note 21= 2095.112000
+note 22= 2193.482500
+note 23= 2291.853000
+note 24= 2400.000000
+note 25= 2498.370500
+note 26= 2596.741000
+note 27= 2695.111500
+note 28= 2793.482000
+note 29= 2901.629000
+note 30= 3000.000000
+note 31= 3098.371000
+note 32= 3196.741500
+note 33= 3295.112000
+note 34= 3393.482500
+note 35= 3491.853000
+note 36= 3600.000000
+note 37= 3698.370500
+note 38= 3796.741000
+note 39= 3895.111500
+note 40= 3993.482000
+note 41= 4101.629000
+note 42= 4200.000000
+note 43= 4298.371000
+note 44= 4396.741500
+note 45= 4495.112000
+note 46= 4593.482500
+note 47= 4691.853000
+note 48= 4800.000000
+note 49= 4898.370500
+note 50= 4996.741000
+note 51= 5095.111500
+note 52= 5193.482000
+note 53= 5301.629000
+note 54= 5400.000000
+note 55= 5498.371000
+note 56= 5596.741500
+note 57= 5695.112000
+note 58= 5793.482500
+note 59= 5891.853000
+note 60= 6000.000000
+note 61= 6098.370500
+note 62= 6196.741000
+note 63= 6295.111500
+note 64= 6393.482000
+note 65= 6501.629000
+note 66= 6600.000000
+note 67= 6698.371000
+note 68= 6796.741500
+note 69= 6895.112000
+note 70= 6993.482500
+note 71= 7091.853000
+note 72= 7200.000000
+note 73= 7298.370500
+note 74= 7396.741000
+note 75= 7495.111500
+note 76= 7593.482000
+note 77= 7701.629000
+note 78= 7800.000000
+note 79= 7898.371000
+note 80= 7996.741500
+note 81= 8095.112000
+note 82= 8193.482500
+note 83= 8291.853000
+note 84= 8400.000000
+note 85= 8498.370500
+note 86= 8596.741000
+note 87= 8695.111500
+note 88= 8793.482000
+note 89= 8901.629000
+note 90= 9000.000000
+note 91= 9098.371000
+note 92= 9196.741500
+note 93= 9295.112000
+note 94= 9393.482500
+note 95= 9491.853000
+note 96= 9600.000000
+note 97= 9698.370500
+note 98= 9796.741000
+note 99= 9895.111500
+note 100= 9993.482000
+note 101= 10101.629000
+note 102= 10200.000000
+note 103= 10298.371000
+note 104= 10396.741500
+note 105= 10495.112000
+note 106= 10593.482500
+note 107= 10691.853000
+note 108= 10800.000000
+note 109= 10898.370500
+note 110= 10996.741000
+note 111= 11095.111500
+note 112= 11193.482000
+note 113= 11301.629000
+note 114= 11400.000000
+note 115= 11498.371000
+note 116= 11596.741500
+note 117= 11695.112000
+note 118= 11793.482500
+note 119= 11891.853000
+note 120= 12000.000000
+note 121= 12098.370500
+note 122= 12196.741000
+note 123= 12295.111500
+note 124= 12393.482000
+note 125= 12501.629000
+note 126= 12600.000000
+note 127= 12698.371000
+
+[Functional Tuning]
+note 1="#=0 % 98.370500"
+note 2="#=0 % 196.741000"
+note 3="#=0 % 295.111500"
+note 4="#=0 % 393.482000"
+note 5="#=0 % 501.629000"
+note 6="#=0 % 600.000000"
+note 7="#=0 % 698.371000"
+note 8="#=0 % 796.741500"
+note 9="#=0 % 895.112000"
+note 10="#=0 % 993.482500"
+note 11="#=0 % 1091.853000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

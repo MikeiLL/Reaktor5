@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bohlen-Pierce-Stearn temperament. Highest 7-limit error 8.4 cents, 2001
+;
+; VAZ Plus section
+[Tuning]
+note 0=-723
+note 1=-675
+note 2=-543
+note 3=-412
+note 4=-280
+note 5=-232
+note 6=-101
+note 7=31
+note 8=163
+note 9=294
+note 10=342
+note 11=474
+note 12=605
+note 13=737
+note 14=785
+note 15=916
+note 16=1048
+note 17=1179
+note 18=1227
+note 19=1359
+note 20=1490
+note 21=1622
+note 22=1670
+note 23=1801
+note 24=1933
+note 25=2065
+note 26=2196
+note 27=2244
+note 28=2376
+note 29=2507
+note 30=2639
+note 31=2687
+note 32=2818
+note 33=2950
+note 34=3081
+note 35=3129
+note 36=3261
+note 37=3392
+note 38=3524
+note 39=3572
+note 40=3703
+note 41=3835
+note 42=3966
+note 43=4098
+note 44=4146
+note 45=4278
+note 46=4409
+note 47=4541
+note 48=4589
+note 49=4720
+note 50=4852
+note 51=4983
+note 52=5031
+note 53=5163
+note 54=5294
+note 55=5426
+note 56=5474
+note 57=5605
+note 58=5737
+note 59=5868
+note 60=6000
+note 61=6048
+note 62=6179
+note 63=6311
+note 64=6443
+note 65=6491
+note 66=6622
+note 67=6754
+note 68=6885
+note 69=6933
+note 70=7065
+note 71=7196
+note 72=7328
+note 73=7376
+note 74=7507
+note 75=7639
+note 76=7770
+note 77=7902
+note 78=7950
+note 79=8081
+note 80=8213
+note 81=8345
+note 82=8392
+note 83=8524
+note 84=8656
+note 85=8787
+note 86=8835
+note 87=8967
+note 88=9098
+note 89=9230
+note 90=9278
+note 91=9409
+note 92=9541
+note 93=9672
+note 94=9804
+note 95=9852
+note 96=9983
+note 97=10115
+note 98=10247
+note 99=10294
+note 100=10426
+note 101=10558
+note 102=10689
+note 103=10737
+note 104=10869
+note 105=11000
+note 106=11132
+note 107=11180
+note 108=11311
+note 109=11443
+note 110=11574
+note 111=11706
+note 112=11754
+note 113=11885
+note 114=12017
+note 115=12148
+note 116=12196
+note 117=12328
+note 118=12460
+note 119=12591
+note 120=12639
+note 121=12771
+note 122=12902
+note 123=13034
+note 124=13082
+note 125=13213
+note 126=13345
+note 127=13476
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bps_temp17.tun"
+ID= "ID_bps_temp17.tun"
+Filename= "bps_temp17.scl"
+Description= "Bohlen-Pierce-Stearn temperament. Highest 7-limit error 8.4 cents, 2001"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-722.620003
+note 1=-674.685003
+note 2=-543.130003
+note 3=-411.575003
+note 4=-280.020003
+note 5=-232.085003
+note 6=-100.530003
+note 7= 31.024997
+note 8= 162.579997
+note 9= 294.134997
+note 10= 342.069997
+note 11= 473.624997
+note 12= 605.179997
+note 13= 736.734997
+note 14= 784.669997
+note 15= 916.224997
+note 16= 1047.779997
+note 17= 1179.334997
+note 18= 1227.269997
+note 19= 1358.824997
+note 20= 1490.379997
+note 21= 1621.934997
+note 22= 1669.869997
+note 23= 1801.424997
+note 24= 1932.979997
+note 25= 2064.534997
+note 26= 2196.089998
+note 27= 2244.024998
+note 28= 2375.579998
+note 29= 2507.134998
+note 30= 2638.689998
+note 31= 2686.624998
+note 32= 2818.179998
+note 33= 2949.734998
+note 34= 3081.289998
+note 35= 3129.224998
+note 36= 3260.779998
+note 37= 3392.334998
+note 38= 3523.889998
+note 39= 3571.824998
+note 40= 3703.379998
+note 41= 3834.934998
+note 42= 3966.489998
+note 43= 4098.044999
+note 44= 4145.979999
+note 45= 4277.534999
+note 46= 4409.089999
+note 47= 4540.644999
+note 48= 4588.579999
+note 49= 4720.134999
+note 50= 4851.689999
+note 51= 4983.244999
+note 52= 5031.179999
+note 53= 5162.734999
+note 54= 5294.289999
+note 55= 5425.844999
+note 56= 5473.779999
+note 57= 5605.334999
+note 58= 5736.889999
+note 59= 5868.444999
+note 60= 6000.000000
+note 61= 6047.935000
+note 62= 6179.490000
+note 63= 6311.045000
+note 64= 6442.600000
+note 65= 6490.535000
+note 66= 6622.090000
+note 67= 6753.645000
+note 68= 6885.200000
+note 69= 6933.135000
+note 70= 7064.690000
+note 71= 7196.245000
+note 72= 7327.800000
+note 73= 7375.735000
+note 74= 7507.290000
+note 75= 7638.845000
+note 76= 7770.400000
+note 77= 7901.955001
+note 78= 7949.890001
+note 79= 8081.445001
+note 80= 8213.000001
+note 81= 8344.555001
+note 82= 8392.490001
+note 83= 8524.045001
+note 84= 8655.600001
+note 85= 8787.155001
+note 86= 8835.090001
+note 87= 8966.645001
+note 88= 9098.200001
+note 89= 9229.755001
+note 90= 9277.690001
+note 91= 9409.245001
+note 92= 9540.800001
+note 93= 9672.355001
+note 94= 9803.910002
+note 95= 9851.845002
+note 96= 9983.400002
+note 97= 10114.955002
+note 98= 10246.510002
+note 99= 10294.445002
+note 100= 10426.000002
+note 101= 10557.555002
+note 102= 10689.110002
+note 103= 10737.045002
+note 104= 10868.600002
+note 105= 11000.155002
+note 106= 11131.710002
+note 107= 11179.645002
+note 108= 11311.200002
+note 109= 11442.755002
+note 110= 11574.310002
+note 111= 11705.865003
+note 112= 11753.800003
+note 113= 11885.355003
+note 114= 12016.910003
+note 115= 12148.465003
+note 116= 12196.400003
+note 117= 12327.955003
+note 118= 12459.510003
+note 119= 12591.065003
+note 120= 12639.000003
+note 121= 12770.555003
+note 122= 12902.110003
+note 123= 13033.665003
+note 124= 13081.600003
+note 125= 13213.155003
+note 126= 13344.710003
+note 127= 13476.265003
+
+[Functional Tuning]
+note 1="#=0 % 47.935000"
+note 2="#=0 % 179.490000"
+note 3="#=0 % 311.045000"
+note 4="#=0 % 442.600000"
+note 5="#=0 % 490.535000"
+note 6="#=0 % 622.090000"
+note 7="#=0 % 753.645000"
+note 8="#=0 % 885.200000"
+note 9="#=0 % 933.135000"
+note 10="#=0 % 1064.690000"
+note 11="#=0 % 1196.245000"
+note 12="#=0 % 1327.800000"
+note 13="#=0 % 1375.735000"
+note 14="#=0 % 1507.290000"
+note 15="#=0 % 1638.845000"
+note 16="#=0 % 1770.400000"
+note 17="#>-17 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

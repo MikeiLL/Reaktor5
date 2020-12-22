@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Temperament with differential coherence 19-16=3 (Melkis recurrent sequence), Jacques Dudon
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=106
+note 2=202
+note 3=297
+note 4=404
+note 5=499
+note 6=605
+note 7=701
+note 8=807
+note 9=903
+note 10=998
+note 11=1104
+note 12=1200
+note 13=1306
+note 14=1402
+note 15=1497
+note 16=1604
+note 17=1699
+note 18=1805
+note 19=1901
+note 20=2007
+note 21=2103
+note 22=2198
+note 23=2304
+note 24=2400
+note 25=2506
+note 26=2602
+note 27=2697
+note 28=2804
+note 29=2899
+note 30=3005
+note 31=3101
+note 32=3207
+note 33=3303
+note 34=3398
+note 35=3504
+note 36=3600
+note 37=3706
+note 38=3802
+note 39=3897
+note 40=4004
+note 41=4099
+note 42=4205
+note 43=4301
+note 44=4407
+note 45=4503
+note 46=4598
+note 47=4704
+note 48=4800
+note 49=4906
+note 50=5002
+note 51=5097
+note 52=5204
+note 53=5299
+note 54=5405
+note 55=5501
+note 56=5607
+note 57=5703
+note 58=5798
+note 59=5904
+note 60=6000
+note 61=6106
+note 62=6202
+note 63=6297
+note 64=6404
+note 65=6499
+note 66=6605
+note 67=6701
+note 68=6807
+note 69=6903
+note 70=6998
+note 71=7104
+note 72=7200
+note 73=7306
+note 74=7402
+note 75=7497
+note 76=7604
+note 77=7699
+note 78=7805
+note 79=7901
+note 80=8007
+note 81=8103
+note 82=8198
+note 83=8304
+note 84=8400
+note 85=8506
+note 86=8602
+note 87=8697
+note 88=8804
+note 89=8899
+note 90=9005
+note 91=9101
+note 92=9207
+note 93=9303
+note 94=9398
+note 95=9504
+note 96=9600
+note 97=9706
+note 98=9802
+note 99=9897
+note 100=10004
+note 101=10099
+note 102=10205
+note 103=10301
+note 104=10407
+note 105=10503
+note 106=10598
+note 107=10704
+note 108=10800
+note 109=10906
+note 110=11002
+note 111=11097
+note 112=11204
+note 113=11299
+note 114=11405
+note 115=11501
+note 116=11607
+note 117=11703
+note 118=11798
+note 119=11904
+note 120=12000
+note 121=12106
+note 122=12202
+note 123=12297
+note 124=12404
+note 125=12499
+note 126=12605
+note 127=12701
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_melkis.tun"
+ID= "ID_dudon_melkis.tun"
+Filename= "dudon_melkis.scl"
+Description= "Temperament with differential coherence 19-16=3 (Melkis recurrent sequence), Jacques Dudon"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 106.196970
+note 2= 201.770560
+note 3= 297.344160
+note 4= 403.541120
+note 5= 499.114720
+note 6= 605.311690
+note 7= 700.885280
+note 8= 807.082250
+note 9= 902.655840
+note 10= 998.229440
+note 11= 1104.426410
+note 12= 1200.000000
+note 13= 1306.196970
+note 14= 1401.770560
+note 15= 1497.344160
+note 16= 1603.541120
+note 17= 1699.114720
+note 18= 1805.311690
+note 19= 1900.885280
+note 20= 2007.082250
+note 21= 2102.655840
+note 22= 2198.229440
+note 23= 2304.426410
+note 24= 2400.000000
+note 25= 2506.196970
+note 26= 2601.770560
+note 27= 2697.344160
+note 28= 2803.541120
+note 29= 2899.114720
+note 30= 3005.311690
+note 31= 3100.885280
+note 32= 3207.082250
+note 33= 3302.655840
+note 34= 3398.229440
+note 35= 3504.426410
+note 36= 3600.000000
+note 37= 3706.196970
+note 38= 3801.770560
+note 39= 3897.344160
+note 40= 4003.541120
+note 41= 4099.114720
+note 42= 4205.311690
+note 43= 4300.885280
+note 44= 4407.082250
+note 45= 4502.655840
+note 46= 4598.229440
+note 47= 4704.426410
+note 48= 4800.000000
+note 49= 4906.196970
+note 50= 5001.770560
+note 51= 5097.344160
+note 52= 5203.541120
+note 53= 5299.114720
+note 54= 5405.311690
+note 55= 5500.885280
+note 56= 5607.082250
+note 57= 5702.655840
+note 58= 5798.229440
+note 59= 5904.426410
+note 60= 6000.000000
+note 61= 6106.196970
+note 62= 6201.770560
+note 63= 6297.344160
+note 64= 6403.541120
+note 65= 6499.114720
+note 66= 6605.311690
+note 67= 6700.885280
+note 68= 6807.082250
+note 69= 6902.655840
+note 70= 6998.229440
+note 71= 7104.426410
+note 72= 7200.000000
+note 73= 7306.196970
+note 74= 7401.770560
+note 75= 7497.344160
+note 76= 7603.541120
+note 77= 7699.114720
+note 78= 7805.311690
+note 79= 7900.885280
+note 80= 8007.082250
+note 81= 8102.655840
+note 82= 8198.229440
+note 83= 8304.426410
+note 84= 8400.000000
+note 85= 8506.196970
+note 86= 8601.770560
+note 87= 8697.344160
+note 88= 8803.541120
+note 89= 8899.114720
+note 90= 9005.311690
+note 91= 9100.885280
+note 92= 9207.082250
+note 93= 9302.655840
+note 94= 9398.229440
+note 95= 9504.426410
+note 96= 9600.000000
+note 97= 9706.196970
+note 98= 9801.770560
+note 99= 9897.344160
+note 100= 10003.541120
+note 101= 10099.114720
+note 102= 10205.311690
+note 103= 10300.885280
+note 104= 10407.082250
+note 105= 10502.655840
+note 106= 10598.229440
+note 107= 10704.426410
+note 108= 10800.000000
+note 109= 10906.196970
+note 110= 11001.770560
+note 111= 11097.344160
+note 112= 11203.541120
+note 113= 11299.114720
+note 114= 11405.311690
+note 115= 11500.885280
+note 116= 11607.082250
+note 117= 11702.655840
+note 118= 11798.229440
+note 119= 11904.426410
+note 120= 12000.000000
+note 121= 12106.196970
+note 122= 12201.770560
+note 123= 12297.344160
+note 124= 12403.541120
+note 125= 12499.114720
+note 126= 12605.311690
+note 127= 12700.885280
+
+[Functional Tuning]
+note 1="#=0 % 106.196970"
+note 2="#=0 % 201.770560"
+note 3="#=0 % 297.344160"
+note 4="#=0 % 403.541120"
+note 5="#=0 % 499.114720"
+note 6="#=0 % 605.311690"
+note 7="#=0 % 700.885280"
+note 8="#=0 % 807.082250"
+note 9="#=0 % 902.655840"
+note 10="#=0 % 998.229440"
+note 11="#=0 % 1104.426410"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

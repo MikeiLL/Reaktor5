@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Blueji tempered in 13-limit POTE-tuned cataclysmic
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=113
+note 2=204
+note 3=317
+note 4=385
+note 5=498
+note 6=590
+note 7=702
+note 8=815
+note 9=883
+note 10=1019
+note 11=1087
+note 12=1200
+note 13=1313
+note 14=1404
+note 15=1517
+note 16=1585
+note 17=1698
+note 18=1790
+note 19=1902
+note 20=2015
+note 21=2083
+note 22=2219
+note 23=2287
+note 24=2400
+note 25=2513
+note 26=2604
+note 27=2717
+note 28=2785
+note 29=2898
+note 30=2990
+note 31=3102
+note 32=3215
+note 33=3283
+note 34=3419
+note 35=3487
+note 36=3600
+note 37=3713
+note 38=3804
+note 39=3917
+note 40=3985
+note 41=4098
+note 42=4190
+note 43=4302
+note 44=4415
+note 45=4483
+note 46=4619
+note 47=4687
+note 48=4800
+note 49=4913
+note 50=5004
+note 51=5117
+note 52=5185
+note 53=5298
+note 54=5390
+note 55=5502
+note 56=5615
+note 57=5683
+note 58=5819
+note 59=5887
+note 60=6000
+note 61=6113
+note 62=6204
+note 63=6317
+note 64=6385
+note 65=6498
+note 66=6590
+note 67=6702
+note 68=6815
+note 69=6883
+note 70=7019
+note 71=7087
+note 72=7200
+note 73=7313
+note 74=7404
+note 75=7517
+note 76=7585
+note 77=7698
+note 78=7790
+note 79=7902
+note 80=8015
+note 81=8083
+note 82=8219
+note 83=8287
+note 84=8400
+note 85=8513
+note 86=8604
+note 87=8717
+note 88=8785
+note 89=8898
+note 90=8990
+note 91=9102
+note 92=9215
+note 93=9283
+note 94=9419
+note 95=9487
+note 96=9600
+note 97=9713
+note 98=9804
+note 99=9917
+note 100=9985
+note 101=10098
+note 102=10190
+note 103=10302
+note 104=10415
+note 105=10483
+note 106=10619
+note 107=10687
+note 108=10800
+note 109=10913
+note 110=11004
+note 111=11117
+note 112=11185
+note 113=11298
+note 114=11390
+note 115=11502
+note 116=11615
+note 117=11683
+note 118=11819
+note 119=11887
+note 120=12000
+note 121=12113
+note 122=12204
+note 123=12317
+note 124=12385
+note 125=12498
+note 126=12590
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "blueji-cataclysmic.tun"
+ID= "ID_blueji-cataclysmic.tun"
+Filename= "blueji-cataclysmic.scl"
+Description= "Blueji tempered in 13-limit POTE-tuned cataclysmic"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 112.603470
+note 2= 204.432580
+note 3= 317.036050
+note 4= 385.180240
+note 5= 497.783710
+note 6= 589.612820
+note 7= 702.216290
+note 8= 814.819760
+note 9= 882.963950
+note 10= 1019.252340
+note 11= 1087.396530
+note 12= 1200.000000
+note 13= 1312.603470
+note 14= 1404.432580
+note 15= 1517.036050
+note 16= 1585.180240
+note 17= 1697.783710
+note 18= 1789.612820
+note 19= 1902.216290
+note 20= 2014.819760
+note 21= 2082.963950
+note 22= 2219.252340
+note 23= 2287.396530
+note 24= 2400.000000
+note 25= 2512.603470
+note 26= 2604.432580
+note 27= 2717.036050
+note 28= 2785.180240
+note 29= 2897.783710
+note 30= 2989.612820
+note 31= 3102.216290
+note 32= 3214.819760
+note 33= 3282.963950
+note 34= 3419.252340
+note 35= 3487.396530
+note 36= 3600.000000
+note 37= 3712.603470
+note 38= 3804.432580
+note 39= 3917.036050
+note 40= 3985.180240
+note 41= 4097.783710
+note 42= 4189.612820
+note 43= 4302.216290
+note 44= 4414.819760
+note 45= 4482.963950
+note 46= 4619.252340
+note 47= 4687.396530
+note 48= 4800.000000
+note 49= 4912.603470
+note 50= 5004.432580
+note 51= 5117.036050
+note 52= 5185.180240
+note 53= 5297.783710
+note 54= 5389.612820
+note 55= 5502.216290
+note 56= 5614.819760
+note 57= 5682.963950
+note 58= 5819.252340
+note 59= 5887.396530
+note 60= 6000.000000
+note 61= 6112.603470
+note 62= 6204.432580
+note 63= 6317.036050
+note 64= 6385.180240
+note 65= 6497.783710
+note 66= 6589.612820
+note 67= 6702.216290
+note 68= 6814.819760
+note 69= 6882.963950
+note 70= 7019.252340
+note 71= 7087.396530
+note 72= 7200.000000
+note 73= 7312.603470
+note 74= 7404.432580
+note 75= 7517.036050
+note 76= 7585.180240
+note 77= 7697.783710
+note 78= 7789.612820
+note 79= 7902.216290
+note 80= 8014.819760
+note 81= 8082.963950
+note 82= 8219.252340
+note 83= 8287.396530
+note 84= 8400.000000
+note 85= 8512.603470
+note 86= 8604.432580
+note 87= 8717.036050
+note 88= 8785.180240
+note 89= 8897.783710
+note 90= 8989.612820
+note 91= 9102.216290
+note 92= 9214.819760
+note 93= 9282.963950
+note 94= 9419.252340
+note 95= 9487.396530
+note 96= 9600.000000
+note 97= 9712.603470
+note 98= 9804.432580
+note 99= 9917.036050
+note 100= 9985.180240
+note 101= 10097.783710
+note 102= 10189.612820
+note 103= 10302.216290
+note 104= 10414.819760
+note 105= 10482.963950
+note 106= 10619.252340
+note 107= 10687.396530
+note 108= 10800.000000
+note 109= 10912.603470
+note 110= 11004.432580
+note 111= 11117.036050
+note 112= 11185.180240
+note 113= 11297.783710
+note 114= 11389.612820
+note 115= 11502.216290
+note 116= 11614.819760
+note 117= 11682.963950
+note 118= 11819.252340
+note 119= 11887.396530
+note 120= 12000.000000
+note 121= 12112.603470
+note 122= 12204.432580
+note 123= 12317.036050
+note 124= 12385.180240
+note 125= 12497.783710
+note 126= 12589.612820
+note 127= 12702.216290
+
+[Functional Tuning]
+note 1="#=0 % 112.603470"
+note 2="#=0 % 204.432580"
+note 3="#=0 % 317.036050"
+note 4="#=0 % 385.180240"
+note 5="#=0 % 497.783710"
+note 6="#=0 % 589.612820"
+note 7="#=0 % 702.216290"
+note 8="#=0 % 814.819760"
+note 9="#=0 % 882.963950"
+note 10="#=0 % 1019.252340"
+note 11="#=0 % 1087.396530"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

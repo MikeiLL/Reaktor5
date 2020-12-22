@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Eq-diff ribbon extension of Superpyth, made of two Tapek sequences
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=122
+note 2=221
+note 3=391
+note 4=441
+note 5=490
+note 6=612
+note 7=710
+note 8=881
+note 9=931
+note 10=980
+note 11=1102
+note 12=1200
+note 13=1322
+note 14=1421
+note 15=1591
+note 16=1641
+note 17=1690
+note 18=1812
+note 19=1910
+note 20=2081
+note 21=2131
+note 22=2180
+note 23=2302
+note 24=2400
+note 25=2522
+note 26=2621
+note 27=2791
+note 28=2841
+note 29=2890
+note 30=3012
+note 31=3110
+note 32=3281
+note 33=3331
+note 34=3380
+note 35=3502
+note 36=3600
+note 37=3722
+note 38=3821
+note 39=3991
+note 40=4041
+note 41=4090
+note 42=4212
+note 43=4310
+note 44=4481
+note 45=4531
+note 46=4580
+note 47=4702
+note 48=4800
+note 49=4922
+note 50=5021
+note 51=5191
+note 52=5241
+note 53=5290
+note 54=5412
+note 55=5510
+note 56=5681
+note 57=5731
+note 58=5780
+note 59=5902
+note 60=6000
+note 61=6122
+note 62=6221
+note 63=6391
+note 64=6441
+note 65=6490
+note 66=6612
+note 67=6710
+note 68=6881
+note 69=6931
+note 70=6980
+note 71=7102
+note 72=7200
+note 73=7322
+note 74=7421
+note 75=7591
+note 76=7641
+note 77=7690
+note 78=7812
+note 79=7910
+note 80=8081
+note 81=8131
+note 82=8180
+note 83=8302
+note 84=8400
+note 85=8522
+note 86=8621
+note 87=8791
+note 88=8841
+note 89=8890
+note 90=9012
+note 91=9110
+note 92=9281
+note 93=9331
+note 94=9380
+note 95=9502
+note 96=9600
+note 97=9722
+note 98=9821
+note 99=9991
+note 100=10041
+note 101=10090
+note 102=10212
+note 103=10310
+note 104=10481
+note 105=10531
+note 106=10580
+note 107=10702
+note 108=10800
+note 109=10922
+note 110=11021
+note 111=11191
+note 112=11241
+note 113=11290
+note 114=11412
+note 115=11510
+note 116=11681
+note 117=11731
+note 118=11780
+note 119=11902
+note 120=12000
+note 121=12122
+note 122=12221
+note 123=12391
+note 124=12441
+note 125=12490
+note 126=12612
+note 127=12710
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "tapek-ribbon.tun"
+ID= "ID_tapek-ribbon.tun"
+Filename= "tapek-ribbon.scl"
+Description= "Eq-diff ribbon extension of Superpyth, made of two Tapek sequences"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 122.089210
+note 2= 220.556611
+note 3= 391.324525
+note 4= 441.055973
+note 5= 489.792591
+note 6= 611.833255
+note 7= 710.298314
+note 8= 881.062469
+note 9= 930.775275
+note 10= 979.545656
+note 11= 1101.598783
+note 12= 1200.000000
+note 13= 1322.089210
+note 14= 1420.556611
+note 15= 1591.324525
+note 16= 1641.055973
+note 17= 1689.792591
+note 18= 1811.833255
+note 19= 1910.298314
+note 20= 2081.062469
+note 21= 2130.775275
+note 22= 2179.545656
+note 23= 2301.598783
+note 24= 2400.000000
+note 25= 2522.089210
+note 26= 2620.556611
+note 27= 2791.324525
+note 28= 2841.055973
+note 29= 2889.792591
+note 30= 3011.833255
+note 31= 3110.298314
+note 32= 3281.062469
+note 33= 3330.775275
+note 34= 3379.545656
+note 35= 3501.598783
+note 36= 3600.000000
+note 37= 3722.089210
+note 38= 3820.556611
+note 39= 3991.324525
+note 40= 4041.055973
+note 41= 4089.792591
+note 42= 4211.833255
+note 43= 4310.298314
+note 44= 4481.062469
+note 45= 4530.775275
+note 46= 4579.545656
+note 47= 4701.598783
+note 48= 4800.000000
+note 49= 4922.089210
+note 50= 5020.556611
+note 51= 5191.324525
+note 52= 5241.055973
+note 53= 5289.792591
+note 54= 5411.833255
+note 55= 5510.298314
+note 56= 5681.062469
+note 57= 5730.775275
+note 58= 5779.545656
+note 59= 5901.598783
+note 60= 6000.000000
+note 61= 6122.089210
+note 62= 6220.556611
+note 63= 6391.324525
+note 64= 6441.055973
+note 65= 6489.792591
+note 66= 6611.833255
+note 67= 6710.298314
+note 68= 6881.062469
+note 69= 6930.775275
+note 70= 6979.545656
+note 71= 7101.598783
+note 72= 7200.000000
+note 73= 7322.089210
+note 74= 7420.556611
+note 75= 7591.324525
+note 76= 7641.055973
+note 77= 7689.792591
+note 78= 7811.833255
+note 79= 7910.298314
+note 80= 8081.062469
+note 81= 8130.775275
+note 82= 8179.545656
+note 83= 8301.598783
+note 84= 8400.000000
+note 85= 8522.089210
+note 86= 8620.556611
+note 87= 8791.324525
+note 88= 8841.055973
+note 89= 8889.792591
+note 90= 9011.833255
+note 91= 9110.298314
+note 92= 9281.062469
+note 93= 9330.775275
+note 94= 9379.545656
+note 95= 9501.598783
+note 96= 9600.000000
+note 97= 9722.089210
+note 98= 9820.556611
+note 99= 9991.324525
+note 100= 10041.055973
+note 101= 10089.792591
+note 102= 10211.833255
+note 103= 10310.298314
+note 104= 10481.062469
+note 105= 10530.775275
+note 106= 10579.545656
+note 107= 10701.598783
+note 108= 10800.000000
+note 109= 10922.089210
+note 110= 11020.556611
+note 111= 11191.324525
+note 112= 11241.055973
+note 113= 11289.792591
+note 114= 11411.833255
+note 115= 11510.298314
+note 116= 11681.062469
+note 117= 11730.775275
+note 118= 11779.545656
+note 119= 11901.598783
+note 120= 12000.000000
+note 121= 12122.089210
+note 122= 12220.556611
+note 123= 12391.324525
+note 124= 12441.055973
+note 125= 12489.792591
+note 126= 12611.833255
+note 127= 12710.298314
+
+[Functional Tuning]
+note 1="#=0 * 1777/1656"
+note 2="#=0 * 209/184"
+note 3="#=0 * 173/138"
+note 4="#=0 * 4273/3312"
+note 5="#=0 * 1465/1104"
+note 6="#=0 * 131/92"
+note 7="#=0 * 104/69"
+note 8="#=0 * 3673/2208"
+note 9="#=0 * 315/184"
+note 10="#=0 * 81/46"
+note 11="#=0 * 1043/552"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

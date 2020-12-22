@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Kristian Wegschneider, Bach-temperament after "H.C. Snerha" (2003). A=416 Hz.
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=92
+note 2=193
+note 3=296
+note 4=388
+note 5=500
+note 6=590
+note 7=697
+note 8=794
+note 9=891
+note 10=998
+note 11=1088
+note 12=1200
+note 13=1292
+note 14=1393
+note 15=1496
+note 16=1588
+note 17=1700
+note 18=1790
+note 19=1897
+note 20=1994
+note 21=2091
+note 22=2198
+note 23=2288
+note 24=2400
+note 25=2492
+note 26=2593
+note 27=2696
+note 28=2788
+note 29=2900
+note 30=2990
+note 31=3097
+note 32=3194
+note 33=3291
+note 34=3398
+note 35=3488
+note 36=3600
+note 37=3692
+note 38=3793
+note 39=3896
+note 40=3988
+note 41=4100
+note 42=4190
+note 43=4297
+note 44=4394
+note 45=4491
+note 46=4598
+note 47=4688
+note 48=4800
+note 49=4892
+note 50=4993
+note 51=5096
+note 52=5188
+note 53=5300
+note 54=5390
+note 55=5497
+note 56=5594
+note 57=5691
+note 58=5798
+note 59=5888
+note 60=6000
+note 61=6092
+note 62=6193
+note 63=6296
+note 64=6388
+note 65=6500
+note 66=6590
+note 67=6697
+note 68=6794
+note 69=6891
+note 70=6998
+note 71=7088
+note 72=7200
+note 73=7292
+note 74=7393
+note 75=7496
+note 76=7588
+note 77=7700
+note 78=7790
+note 79=7897
+note 80=7994
+note 81=8091
+note 82=8198
+note 83=8288
+note 84=8400
+note 85=8492
+note 86=8593
+note 87=8696
+note 88=8788
+note 89=8900
+note 90=8990
+note 91=9097
+note 92=9194
+note 93=9291
+note 94=9398
+note 95=9488
+note 96=9600
+note 97=9692
+note 98=9793
+note 99=9896
+note 100=9988
+note 101=10100
+note 102=10190
+note 103=10297
+note 104=10394
+note 105=10491
+note 106=10598
+note 107=10688
+note 108=10800
+note 109=10892
+note 110=10993
+note 111=11096
+note 112=11188
+note 113=11300
+note 114=11390
+note 115=11497
+note 116=11594
+note 117=11691
+note 118=11798
+note 119=11888
+note 120=12000
+note 121=12092
+note 122=12193
+note 123=12296
+note 124=12388
+note 125=12500
+note 126=12590
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wegschneider.tun"
+ID= "ID_wegschneider.tun"
+Filename= "wegschneider.scl"
+Description= "Kristian Wegschneider, Bach-temperament after "H.C. Snerha" (2003). A=416 Hz."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 92.039630
+note 2= 192.814120
+note 3= 296.222000
+note 4= 388.400980
+note 5= 500.132000
+note 6= 590.084630
+note 7= 697.308040
+note 8= 793.994630
+note 9= 890.612480
+note 10= 998.177000
+note 11= 1088.129630
+note 12= 1200.000000
+note 13= 1292.039630
+note 14= 1392.814120
+note 15= 1496.222000
+note 16= 1588.400980
+note 17= 1700.132000
+note 18= 1790.084630
+note 19= 1897.308040
+note 20= 1993.994630
+note 21= 2090.612480
+note 22= 2198.177000
+note 23= 2288.129630
+note 24= 2400.000000
+note 25= 2492.039630
+note 26= 2592.814120
+note 27= 2696.222000
+note 28= 2788.400980
+note 29= 2900.132000
+note 30= 2990.084630
+note 31= 3097.308040
+note 32= 3193.994630
+note 33= 3290.612480
+note 34= 3398.177000
+note 35= 3488.129630
+note 36= 3600.000000
+note 37= 3692.039630
+note 38= 3792.814120
+note 39= 3896.222000
+note 40= 3988.400980
+note 41= 4100.132000
+note 42= 4190.084630
+note 43= 4297.308040
+note 44= 4393.994630
+note 45= 4490.612480
+note 46= 4598.177000
+note 47= 4688.129630
+note 48= 4800.000000
+note 49= 4892.039630
+note 50= 4992.814120
+note 51= 5096.222000
+note 52= 5188.400980
+note 53= 5300.132000
+note 54= 5390.084630
+note 55= 5497.308040
+note 56= 5593.994630
+note 57= 5690.612480
+note 58= 5798.177000
+note 59= 5888.129630
+note 60= 6000.000000
+note 61= 6092.039630
+note 62= 6192.814120
+note 63= 6296.222000
+note 64= 6388.400980
+note 65= 6500.132000
+note 66= 6590.084630
+note 67= 6697.308040
+note 68= 6793.994630
+note 69= 6890.612480
+note 70= 6998.177000
+note 71= 7088.129630
+note 72= 7200.000000
+note 73= 7292.039630
+note 74= 7392.814120
+note 75= 7496.222000
+note 76= 7588.400980
+note 77= 7700.132000
+note 78= 7790.084630
+note 79= 7897.308040
+note 80= 7993.994630
+note 81= 8090.612480
+note 82= 8198.177000
+note 83= 8288.129630
+note 84= 8400.000000
+note 85= 8492.039630
+note 86= 8592.814120
+note 87= 8696.222000
+note 88= 8788.400980
+note 89= 8900.132000
+note 90= 8990.084630
+note 91= 9097.308040
+note 92= 9193.994630
+note 93= 9290.612480
+note 94= 9398.177000
+note 95= 9488.129630
+note 96= 9600.000000
+note 97= 9692.039630
+note 98= 9792.814120
+note 99= 9896.222000
+note 100= 9988.400980
+note 101= 10100.132000
+note 102= 10190.084630
+note 103= 10297.308040
+note 104= 10393.994630
+note 105= 10490.612480
+note 106= 10598.177000
+note 107= 10688.129630
+note 108= 10800.000000
+note 109= 10892.039630
+note 110= 10992.814120
+note 111= 11096.222000
+note 112= 11188.400980
+note 113= 11300.132000
+note 114= 11390.084630
+note 115= 11497.308040
+note 116= 11593.994630
+note 117= 11690.612480
+note 118= 11798.177000
+note 119= 11888.129630
+note 120= 12000.000000
+note 121= 12092.039630
+note 122= 12192.814120
+note 123= 12296.222000
+note 124= 12388.400980
+note 125= 12500.132000
+note 126= 12590.084630
+note 127= 12697.308040
+
+[Functional Tuning]
+note 1="#=0 % 92.039630"
+note 2="#=0 % 192.814120"
+note 3="#=0 % 296.222000"
+note 4="#=0 % 388.400980"
+note 5="#=0 % 500.132000"
+note 6="#=0 % 590.084630"
+note 7="#=0 % 697.308040"
+note 8="#=0 % 793.994630"
+note 9="#=0 % 890.612480"
+note 10="#=0 % 998.177000"
+note 11="#=0 % 1088.129630"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

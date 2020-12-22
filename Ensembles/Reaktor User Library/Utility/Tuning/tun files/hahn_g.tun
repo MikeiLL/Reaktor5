@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; fourth of sqrt(2)-1 octave "recursive" meantone, Paul Hahn
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=121
+note 2=206
+note 3=291
+note 4=412
+note 5=497
+note 6=618
+note 7=703
+note 8=824
+note 9=909
+note 10=994
+note 11=1115
+note 12=1200
+note 13=1321
+note 14=1406
+note 15=1491
+note 16=1612
+note 17=1697
+note 18=1818
+note 19=1903
+note 20=2024
+note 21=2109
+note 22=2194
+note 23=2315
+note 24=2400
+note 25=2521
+note 26=2606
+note 27=2691
+note 28=2812
+note 29=2897
+note 30=3018
+note 31=3103
+note 32=3224
+note 33=3309
+note 34=3394
+note 35=3515
+note 36=3600
+note 37=3721
+note 38=3806
+note 39=3891
+note 40=4012
+note 41=4097
+note 42=4218
+note 43=4303
+note 44=4424
+note 45=4509
+note 46=4594
+note 47=4715
+note 48=4800
+note 49=4921
+note 50=5006
+note 51=5091
+note 52=5212
+note 53=5297
+note 54=5418
+note 55=5503
+note 56=5624
+note 57=5709
+note 58=5794
+note 59=5915
+note 60=6000
+note 61=6121
+note 62=6206
+note 63=6291
+note 64=6412
+note 65=6497
+note 66=6618
+note 67=6703
+note 68=6824
+note 69=6909
+note 70=6994
+note 71=7115
+note 72=7200
+note 73=7321
+note 74=7406
+note 75=7491
+note 76=7612
+note 77=7697
+note 78=7818
+note 79=7903
+note 80=8024
+note 81=8109
+note 82=8194
+note 83=8315
+note 84=8400
+note 85=8521
+note 86=8606
+note 87=8691
+note 88=8812
+note 89=8897
+note 90=9018
+note 91=9103
+note 92=9224
+note 93=9309
+note 94=9394
+note 95=9515
+note 96=9600
+note 97=9721
+note 98=9806
+note 99=9891
+note 100=10012
+note 101=10097
+note 102=10218
+note 103=10303
+note 104=10424
+note 105=10509
+note 106=10594
+note 107=10715
+note 108=10800
+note 109=10921
+note 110=11006
+note 111=11091
+note 112=11212
+note 113=11297
+note 114=11418
+note 115=11503
+note 116=11624
+note 117=11709
+note 118=11794
+note 119=11915
+note 120=12000
+note 121=12121
+note 122=12206
+note 123=12291
+note 124=12412
+note 125=12497
+note 126=12618
+note 127=12703
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hahn_g.tun"
+ID= "ID_hahn_g.tun"
+Filename= "hahn_g.scl"
+Description= "fourth of sqrt(2)-1 octave "recursive" meantone, Paul Hahn"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 120.608000
+note 2= 205.888000
+note 3= 291.168000
+note 4= 411.776000
+note 5= 497.056000
+note 6= 617.664000
+note 7= 702.944000
+note 8= 823.552000
+note 9= 908.832000
+note 10= 994.112000
+note 11= 1114.720000
+note 12= 1200.000000
+note 13= 1320.608000
+note 14= 1405.888000
+note 15= 1491.168000
+note 16= 1611.776000
+note 17= 1697.056000
+note 18= 1817.664000
+note 19= 1902.944000
+note 20= 2023.552000
+note 21= 2108.832000
+note 22= 2194.112000
+note 23= 2314.720000
+note 24= 2400.000000
+note 25= 2520.608000
+note 26= 2605.888000
+note 27= 2691.168000
+note 28= 2811.776000
+note 29= 2897.056000
+note 30= 3017.664000
+note 31= 3102.944000
+note 32= 3223.552000
+note 33= 3308.832000
+note 34= 3394.112000
+note 35= 3514.720000
+note 36= 3600.000000
+note 37= 3720.608000
+note 38= 3805.888000
+note 39= 3891.168000
+note 40= 4011.776000
+note 41= 4097.056000
+note 42= 4217.664000
+note 43= 4302.944000
+note 44= 4423.552000
+note 45= 4508.832000
+note 46= 4594.112000
+note 47= 4714.720000
+note 48= 4800.000000
+note 49= 4920.608000
+note 50= 5005.888000
+note 51= 5091.168000
+note 52= 5211.776000
+note 53= 5297.056000
+note 54= 5417.664000
+note 55= 5502.944000
+note 56= 5623.552000
+note 57= 5708.832000
+note 58= 5794.112000
+note 59= 5914.720000
+note 60= 6000.000000
+note 61= 6120.608000
+note 62= 6205.888000
+note 63= 6291.168000
+note 64= 6411.776000
+note 65= 6497.056000
+note 66= 6617.664000
+note 67= 6702.944000
+note 68= 6823.552000
+note 69= 6908.832000
+note 70= 6994.112000
+note 71= 7114.720000
+note 72= 7200.000000
+note 73= 7320.608000
+note 74= 7405.888000
+note 75= 7491.168000
+note 76= 7611.776000
+note 77= 7697.056000
+note 78= 7817.664000
+note 79= 7902.944000
+note 80= 8023.552000
+note 81= 8108.832000
+note 82= 8194.112000
+note 83= 8314.720000
+note 84= 8400.000000
+note 85= 8520.608000
+note 86= 8605.888000
+note 87= 8691.168000
+note 88= 8811.776000
+note 89= 8897.056000
+note 90= 9017.664000
+note 91= 9102.944000
+note 92= 9223.552000
+note 93= 9308.832000
+note 94= 9394.112000
+note 95= 9514.720000
+note 96= 9600.000000
+note 97= 9720.608000
+note 98= 9805.888000
+note 99= 9891.168000
+note 100= 10011.776000
+note 101= 10097.056000
+note 102= 10217.664000
+note 103= 10302.944000
+note 104= 10423.552000
+note 105= 10508.832000
+note 106= 10594.112000
+note 107= 10714.720000
+note 108= 10800.000000
+note 109= 10920.608000
+note 110= 11005.888000
+note 111= 11091.168000
+note 112= 11211.776000
+note 113= 11297.056000
+note 114= 11417.664000
+note 115= 11502.944000
+note 116= 11623.552000
+note 117= 11708.832000
+note 118= 11794.112000
+note 119= 11914.720000
+note 120= 12000.000000
+note 121= 12120.608000
+note 122= 12205.888000
+note 123= 12291.168000
+note 124= 12411.776000
+note 125= 12497.056000
+note 126= 12617.664000
+note 127= 12702.944000
+
+[Functional Tuning]
+note 1="#=0 % 120.608000"
+note 2="#=0 % 205.888000"
+note 3="#=0 % 291.168000"
+note 4="#=0 % 411.776000"
+note 5="#=0 % 497.056000"
+note 6="#=0 % 617.664000"
+note 7="#=0 % 702.944000"
+note 8="#=0 % 823.552000"
+note 9="#=0 % 908.832000"
+note 10="#=0 % 994.112000"
+note 11="#=0 % 1114.720000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

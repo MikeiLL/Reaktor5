@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jacky Ligon, 23-limit non-octave scale (2001)
+;
+; VAZ Plus section
+[Tuning]
+note 0=411
+note 1=504
+note 2=540
+note 3=708
+note 4=820
+note 5=932
+note 6=1100
+note 7=1136
+note 8=1229
+note 9=1318
+note 10=1402
+note 11=1483
+note 12=1560
+note 13=1637
+note 14=1717
+note 15=1802
+note 16=1891
+note 17=1984
+note 18=2020
+note 19=2188
+note 20=2300
+note 21=2412
+note 22=2580
+note 23=2616
+note 24=2709
+note 25=2798
+note 26=2882
+note 27=2963
+note 28=3040
+note 29=3117
+note 30=3197
+note 31=3282
+note 32=3371
+note 33=3464
+note 34=3500
+note 35=3668
+note 36=3780
+note 37=3892
+note 38=4060
+note 39=4096
+note 40=4189
+note 41=4278
+note 42=4362
+note 43=4443
+note 44=4520
+note 45=4597
+note 46=4677
+note 47=4762
+note 48=4851
+note 49=4944
+note 50=4980
+note 51=5148
+note 52=5260
+note 53=5372
+note 54=5540
+note 55=5576
+note 56=5669
+note 57=5758
+note 58=5843
+note 59=5923
+note 60=6000
+note 61=6077
+note 62=6157
+note 63=6242
+note 64=6331
+note 65=6424
+note 66=6460
+note 67=6628
+note 68=6740
+note 69=6852
+note 70=7020
+note 71=7056
+note 72=7149
+note 73=7238
+note 74=7323
+note 75=7403
+note 76=7480
+note 77=7557
+note 78=7638
+note 79=7722
+note 80=7811
+note 81=7904
+note 82=7940
+note 83=8108
+note 84=8220
+note 85=8332
+note 86=8500
+note 87=8536
+note 88=8629
+note 89=8718
+note 90=8803
+note 91=8883
+note 92=8960
+note 93=9037
+note 94=9118
+note 95=9202
+note 96=9291
+note 97=9384
+note 98=9420
+note 99=9588
+note 100=9700
+note 101=9812
+note 102=9980
+note 103=10016
+note 104=10109
+note 105=10198
+note 106=10283
+note 107=10363
+note 108=10440
+note 109=10517
+note 110=10598
+note 111=10682
+note 112=10771
+note 113=10864
+note 114=10900
+note 115=11068
+note 116=11180
+note 117=11292
+note 118=11460
+note 119=11496
+note 120=11589
+note 121=11678
+note 122=11763
+note 123=11843
+note 124=11920
+note 125=11997
+note 126=12078
+note 127=12162
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ligon3.tun"
+ID= "ID_ligon3.tun"
+Filename= "ligon3.scl"
+Description= "Jacky Ligon, 23-limit non-octave scale (2001)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 410.716271
+note 1= 504.319285
+note 2= 539.949307
+note 3= 708.229287
+note 4= 819.960572
+note 5= 931.691858
+note 6= 1099.971837
+note 7= 1135.601859
+note 8= 1229.204874
+note 9= 1318.005571
+note 10= 1402.472765
+note 11= 1483.009800
+note 12= 1559.966205
+note 13= 1636.922610
+note 14= 1717.459645
+note 15= 1801.926838
+note 16= 1890.727536
+note 17= 1984.330550
+note 18= 2019.960572
+note 19= 2188.240552
+note 20= 2299.971837
+note 21= 2411.703123
+note 22= 2579.983102
+note 23= 2615.613124
+note 24= 2709.216139
+note 25= 2798.016836
+note 26= 2882.484030
+note 27= 2963.021065
+note 28= 3039.977470
+note 29= 3116.933875
+note 30= 3197.470910
+note 31= 3281.938103
+note 32= 3370.738801
+note 33= 3464.341815
+note 34= 3499.971837
+note 35= 3668.251817
+note 36= 3779.983102
+note 37= 3891.714388
+note 38= 4059.994367
+note 39= 4095.624389
+note 40= 4189.227404
+note 41= 4278.028102
+note 42= 4362.495295
+note 43= 4443.032330
+note 44= 4519.988735
+note 45= 4596.945140
+note 46= 4677.482175
+note 47= 4761.949368
+note 48= 4850.750066
+note 49= 4944.353080
+note 50= 4979.983102
+note 51= 5148.263082
+note 52= 5259.994367
+note 53= 5371.725653
+note 54= 5540.005633
+note 55= 5575.635654
+note 56= 5669.238669
+note 57= 5758.039367
+note 58= 5842.506560
+note 59= 5923.043595
+note 60= 6000.000000
+note 61= 6076.956405
+note 62= 6157.493440
+note 63= 6241.960633
+note 64= 6330.761331
+note 65= 6424.364346
+note 66= 6459.994367
+note 67= 6628.274347
+note 68= 6740.005633
+note 69= 6851.736918
+note 70= 7020.016898
+note 71= 7055.646920
+note 72= 7149.249934
+note 73= 7238.050632
+note 74= 7322.517825
+note 75= 7403.054860
+note 76= 7480.011265
+note 77= 7556.967670
+note 78= 7637.504705
+note 79= 7721.971898
+note 80= 7810.772596
+note 81= 7904.375611
+note 82= 7940.005633
+note 83= 8108.285612
+note 84= 8220.016898
+note 85= 8331.748183
+note 86= 8500.028163
+note 87= 8535.658185
+note 88= 8629.261199
+note 89= 8718.061897
+note 90= 8802.529090
+note 91= 8883.066125
+note 92= 8960.022530
+note 93= 9036.978935
+note 94= 9117.515970
+note 95= 9201.983164
+note 96= 9290.783861
+note 97= 9384.386876
+note 98= 9420.016898
+note 99= 9588.296877
+note 100= 9700.028163
+note 101= 9811.759448
+note 102= 9980.039428
+note 103= 10015.669450
+note 104= 10109.272464
+note 105= 10198.073162
+note 106= 10282.540355
+note 107= 10363.077390
+note 108= 10440.033795
+note 109= 10516.990200
+note 110= 10597.527235
+note 111= 10681.994429
+note 112= 10770.795126
+note 113= 10864.398141
+note 114= 10900.028163
+note 115= 11068.308142
+note 116= 11180.039428
+note 117= 11291.770713
+note 118= 11460.050693
+note 119= 11495.680715
+note 120= 11589.283729
+note 121= 11678.084427
+note 122= 11762.551620
+note 123= 11843.088655
+note 124= 11920.045060
+note 125= 11997.001465
+note 126= 12077.538500
+note 127= 12162.005694
+
+[Functional Tuning]
+note 1="#=0 * 23/22"
+note 2="#=0 * 23/21"
+note 3="#=0 * 23/20"
+note 4="#=0 * 23/19"
+note 5="#=0 * 23/18"
+note 6="#=0 * 30/23"
+note 7="#=0 * 23/16"
+note 8="#=0 * 23/15"
+note 9="#=0 * 368/225"
+note 10="#=0 * 12167/6750"
+note 11="#=0 * 46/25"
+note 12="#=0 * 437/225"
+note 13="#=0 * 92/45"
+note 14="#=0 * 161/75"
+note 15="#=0 * 506/225"
+note 16="#>-16 * 529/225 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

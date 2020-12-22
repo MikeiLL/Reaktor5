@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jon Lyle Smith, 5-limit JI scale, MMM 21-3-2006
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=71
+note 2=204
+note 3=275
+note 4=408
+note 5=478
+note 6=569
+note 7=702
+note 8=773
+note 9=906
+note 10=977
+note 11=1110
+note 12=1200
+note 13=1271
+note 14=1404
+note 15=1475
+note 16=1608
+note 17=1678
+note 18=1769
+note 19=1902
+note 20=1973
+note 21=2106
+note 22=2177
+note 23=2310
+note 24=2400
+note 25=2471
+note 26=2604
+note 27=2675
+note 28=2808
+note 29=2878
+note 30=2969
+note 31=3102
+note 32=3173
+note 33=3306
+note 34=3377
+note 35=3510
+note 36=3600
+note 37=3671
+note 38=3804
+note 39=3875
+note 40=4008
+note 41=4078
+note 42=4169
+note 43=4302
+note 44=4373
+note 45=4506
+note 46=4577
+note 47=4710
+note 48=4800
+note 49=4871
+note 50=5004
+note 51=5075
+note 52=5208
+note 53=5278
+note 54=5369
+note 55=5502
+note 56=5573
+note 57=5706
+note 58=5777
+note 59=5910
+note 60=6000
+note 61=6071
+note 62=6204
+note 63=6275
+note 64=6408
+note 65=6478
+note 66=6569
+note 67=6702
+note 68=6773
+note 69=6906
+note 70=6977
+note 71=7110
+note 72=7200
+note 73=7271
+note 74=7404
+note 75=7475
+note 76=7608
+note 77=7678
+note 78=7769
+note 79=7902
+note 80=7973
+note 81=8106
+note 82=8177
+note 83=8310
+note 84=8400
+note 85=8471
+note 86=8604
+note 87=8675
+note 88=8808
+note 89=8878
+note 90=8969
+note 91=9102
+note 92=9173
+note 93=9306
+note 94=9377
+note 95=9510
+note 96=9600
+note 97=9671
+note 98=9804
+note 99=9875
+note 100=10008
+note 101=10078
+note 102=10169
+note 103=10302
+note 104=10373
+note 105=10506
+note 106=10577
+note 107=10710
+note 108=10800
+note 109=10871
+note 110=11004
+note 111=11075
+note 112=11208
+note 113=11278
+note 114=11369
+note 115=11502
+note 116=11573
+note 117=11706
+note 118=11777
+note 119=11910
+note 120=12000
+note 121=12071
+note 122=12204
+note 123=12275
+note 124=12408
+note 125=12478
+note 126=12569
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithj12.tun"
+ID= "ID_smithj12.tun"
+Filename= "smithj12.scl"
+Description= "Jon Lyle Smith, 5-limit JI scale, MMM 21-3-2006"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 70.672427
+note 2= 203.910002
+note 3= 274.582429
+note 4= 407.820003
+note 5= 478.492430
+note 6= 568.717426
+note 7= 701.955001
+note 8= 772.627428
+note 9= 905.865003
+note 10= 976.537429
+note 11= 1109.775004
+note 12= 1200.000000
+note 13= 1270.672427
+note 14= 1403.910002
+note 15= 1474.582429
+note 16= 1607.820003
+note 17= 1678.492430
+note 18= 1768.717426
+note 19= 1901.955001
+note 20= 1972.627428
+note 21= 2105.865003
+note 22= 2176.537429
+note 23= 2309.775004
+note 24= 2400.000000
+note 25= 2470.672427
+note 26= 2603.910002
+note 27= 2674.582429
+note 28= 2807.820003
+note 29= 2878.492430
+note 30= 2968.717426
+note 31= 3101.955001
+note 32= 3172.627428
+note 33= 3305.865003
+note 34= 3376.537429
+note 35= 3509.775004
+note 36= 3600.000000
+note 37= 3670.672427
+note 38= 3803.910002
+note 39= 3874.582429
+note 40= 4007.820003
+note 41= 4078.492430
+note 42= 4168.717426
+note 43= 4301.955001
+note 44= 4372.627428
+note 45= 4505.865003
+note 46= 4576.537429
+note 47= 4709.775004
+note 48= 4800.000000
+note 49= 4870.672427
+note 50= 5003.910002
+note 51= 5074.582429
+note 52= 5207.820003
+note 53= 5278.492430
+note 54= 5368.717426
+note 55= 5501.955001
+note 56= 5572.627428
+note 57= 5705.865003
+note 58= 5776.537429
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6203.910002
+note 63= 6274.582429
+note 64= 6407.820003
+note 65= 6478.492430
+note 66= 6568.717426
+note 67= 6701.955001
+note 68= 6772.627428
+note 69= 6905.865003
+note 70= 6976.537429
+note 71= 7109.775004
+note 72= 7200.000000
+note 73= 7270.672427
+note 74= 7403.910002
+note 75= 7474.582429
+note 76= 7607.820003
+note 77= 7678.492430
+note 78= 7768.717426
+note 79= 7901.955001
+note 80= 7972.627428
+note 81= 8105.865003
+note 82= 8176.537429
+note 83= 8309.775004
+note 84= 8400.000000
+note 85= 8470.672427
+note 86= 8603.910002
+note 87= 8674.582429
+note 88= 8807.820003
+note 89= 8878.492430
+note 90= 8968.717426
+note 91= 9101.955001
+note 92= 9172.627428
+note 93= 9305.865003
+note 94= 9376.537429
+note 95= 9509.775004
+note 96= 9600.000000
+note 97= 9670.672427
+note 98= 9803.910002
+note 99= 9874.582429
+note 100= 10007.820003
+note 101= 10078.492430
+note 102= 10168.717426
+note 103= 10301.955001
+note 104= 10372.627428
+note 105= 10505.865003
+note 106= 10576.537429
+note 107= 10709.775004
+note 108= 10800.000000
+note 109= 10870.672427
+note 110= 11003.910002
+note 111= 11074.582429
+note 112= 11207.820003
+note 113= 11278.492430
+note 114= 11368.717426
+note 115= 11501.955001
+note 116= 11572.627428
+note 117= 11705.865003
+note 118= 11776.537429
+note 119= 11909.775004
+note 120= 12000.000000
+note 121= 12070.672427
+note 122= 12203.910002
+note 123= 12274.582429
+note 124= 12407.820003
+note 125= 12478.492430
+note 126= 12568.717426
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 9/8"
+note 3="#=0 * 75/64"
+note 4="#=0 * 81/64"
+note 5="#=0 * 675/512"
+note 6="#=0 * 25/18"
+note 7="#=0 * 3/2"
+note 8="#=0 * 25/16"
+note 9="#=0 * 27/16"
+note 10="#=0 * 225/128"
+note 11="#=0 * 243/128"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

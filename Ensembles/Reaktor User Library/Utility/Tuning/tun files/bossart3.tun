@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Victor Ferdinand Bossart (dritte Anweisung) organ temperament (1740?)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=93
+note 2=198
+note 3=306
+note 4=390
+note 5=504
+note 6=591
+note 7=699
+note 8=797
+note 9=894
+note 10=1005
+note 11=1089
+note 12=1200
+note 13=1293
+note 14=1398
+note 15=1506
+note 16=1590
+note 17=1704
+note 18=1791
+note 19=1899
+note 20=1997
+note 21=2094
+note 22=2205
+note 23=2289
+note 24=2400
+note 25=2493
+note 26=2598
+note 27=2706
+note 28=2790
+note 29=2904
+note 30=2991
+note 31=3099
+note 32=3197
+note 33=3294
+note 34=3405
+note 35=3489
+note 36=3600
+note 37=3693
+note 38=3798
+note 39=3906
+note 40=3990
+note 41=4104
+note 42=4191
+note 43=4299
+note 44=4397
+note 45=4494
+note 46=4605
+note 47=4689
+note 48=4800
+note 49=4893
+note 50=4998
+note 51=5106
+note 52=5190
+note 53=5304
+note 54=5391
+note 55=5499
+note 56=5597
+note 57=5694
+note 58=5805
+note 59=5889
+note 60=6000
+note 61=6093
+note 62=6198
+note 63=6306
+note 64=6390
+note 65=6504
+note 66=6591
+note 67=6699
+note 68=6797
+note 69=6894
+note 70=7005
+note 71=7089
+note 72=7200
+note 73=7293
+note 74=7398
+note 75=7506
+note 76=7590
+note 77=7704
+note 78=7791
+note 79=7899
+note 80=7997
+note 81=8094
+note 82=8205
+note 83=8289
+note 84=8400
+note 85=8493
+note 86=8598
+note 87=8706
+note 88=8790
+note 89=8904
+note 90=8991
+note 91=9099
+note 92=9197
+note 93=9294
+note 94=9405
+note 95=9489
+note 96=9600
+note 97=9693
+note 98=9798
+note 99=9906
+note 100=9990
+note 101=10104
+note 102=10191
+note 103=10299
+note 104=10397
+note 105=10494
+note 106=10605
+note 107=10689
+note 108=10800
+note 109=10893
+note 110=10998
+note 111=11106
+note 112=11190
+note 113=11304
+note 114=11391
+note 115=11499
+note 116=11597
+note 117=11694
+note 118=11805
+note 119=11889
+note 120=12000
+note 121=12093
+note 122=12198
+note 123=12306
+note 124=12390
+note 125=12504
+note 126=12591
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bossart3.tun"
+ID= "ID_bossart3.tun"
+Filename= "bossart3.scl"
+Description= "Victor Ferdinand Bossart (dritte Anweisung) organ temperament (1740?)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 93.157500
+note 2= 198.045000
+note 3= 305.865000
+note 4= 390.225000
+note 5= 503.910000
+note 6= 591.202500
+note 7= 699.022500
+note 8= 797.067500
+note 9= 894.135000
+note 10= 1004.887500
+note 11= 1089.247500
+note 12= 1200.000000
+note 13= 1293.157500
+note 14= 1398.045000
+note 15= 1505.865000
+note 16= 1590.225000
+note 17= 1703.910000
+note 18= 1791.202500
+note 19= 1899.022500
+note 20= 1997.067500
+note 21= 2094.135000
+note 22= 2204.887500
+note 23= 2289.247500
+note 24= 2400.000000
+note 25= 2493.157500
+note 26= 2598.045000
+note 27= 2705.865000
+note 28= 2790.225000
+note 29= 2903.910000
+note 30= 2991.202500
+note 31= 3099.022500
+note 32= 3197.067500
+note 33= 3294.135000
+note 34= 3404.887500
+note 35= 3489.247500
+note 36= 3600.000000
+note 37= 3693.157500
+note 38= 3798.045000
+note 39= 3905.865000
+note 40= 3990.225000
+note 41= 4103.910000
+note 42= 4191.202500
+note 43= 4299.022500
+note 44= 4397.067500
+note 45= 4494.135000
+note 46= 4604.887500
+note 47= 4689.247500
+note 48= 4800.000000
+note 49= 4893.157500
+note 50= 4998.045000
+note 51= 5105.865000
+note 52= 5190.225000
+note 53= 5303.910000
+note 54= 5391.202500
+note 55= 5499.022500
+note 56= 5597.067500
+note 57= 5694.135000
+note 58= 5804.887500
+note 59= 5889.247500
+note 60= 6000.000000
+note 61= 6093.157500
+note 62= 6198.045000
+note 63= 6305.865000
+note 64= 6390.225000
+note 65= 6503.910000
+note 66= 6591.202500
+note 67= 6699.022500
+note 68= 6797.067500
+note 69= 6894.135000
+note 70= 7004.887500
+note 71= 7089.247500
+note 72= 7200.000000
+note 73= 7293.157500
+note 74= 7398.045000
+note 75= 7505.865000
+note 76= 7590.225000
+note 77= 7703.910000
+note 78= 7791.202500
+note 79= 7899.022500
+note 80= 7997.067500
+note 81= 8094.135000
+note 82= 8204.887500
+note 83= 8289.247500
+note 84= 8400.000000
+note 85= 8493.157500
+note 86= 8598.045000
+note 87= 8705.865000
+note 88= 8790.225000
+note 89= 8903.910000
+note 90= 8991.202500
+note 91= 9099.022500
+note 92= 9197.067500
+note 93= 9294.135000
+note 94= 9404.887500
+note 95= 9489.247500
+note 96= 9600.000000
+note 97= 9693.157500
+note 98= 9798.045000
+note 99= 9905.865000
+note 100= 9990.225000
+note 101= 10103.910000
+note 102= 10191.202500
+note 103= 10299.022500
+note 104= 10397.067500
+note 105= 10494.135000
+note 106= 10604.887500
+note 107= 10689.247500
+note 108= 10800.000000
+note 109= 10893.157500
+note 110= 10998.045000
+note 111= 11105.865000
+note 112= 11190.225000
+note 113= 11303.910000
+note 114= 11391.202500
+note 115= 11499.022500
+note 116= 11597.067500
+note 117= 11694.135000
+note 118= 11804.887500
+note 119= 11889.247500
+note 120= 12000.000000
+note 121= 12093.157500
+note 122= 12198.045000
+note 123= 12305.865000
+note 124= 12390.225000
+note 125= 12503.910000
+note 126= 12591.202500
+note 127= 12699.022500
+
+[Functional Tuning]
+note 1="#=0 % 93.157500"
+note 2="#=0 % 198.045000"
+note 3="#=0 % 305.865000"
+note 4="#=0 % 390.225000"
+note 5="#=0 % 503.910000"
+note 6="#=0 % 591.202500"
+note 7="#=0 % 699.022500"
+note 8="#=0 % 797.067500"
+note 9="#=0 % 894.135000"
+note 10="#=0 % 1004.887500"
+note 11="#=0 % 1089.247500"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

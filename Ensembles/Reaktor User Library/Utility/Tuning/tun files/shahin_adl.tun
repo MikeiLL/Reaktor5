@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mohajeri Shahin, arithmetic division of length temperament, TL 14-12-2006
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=97
+note 2=196
+note 3=296
+note 4=396
+note 5=498
+note 6=599
+note 7=701
+note 8=803
+note 9=905
+note 10=1005
+note 11=1104
+note 12=1200
+note 13=1297
+note 14=1396
+note 15=1496
+note 16=1596
+note 17=1698
+note 18=1799
+note 19=1901
+note 20=2003
+note 21=2105
+note 22=2205
+note 23=2304
+note 24=2400
+note 25=2497
+note 26=2596
+note 27=2696
+note 28=2796
+note 29=2898
+note 30=2999
+note 31=3101
+note 32=3203
+note 33=3305
+note 34=3405
+note 35=3504
+note 36=3600
+note 37=3697
+note 38=3796
+note 39=3896
+note 40=3996
+note 41=4098
+note 42=4199
+note 43=4301
+note 44=4403
+note 45=4505
+note 46=4605
+note 47=4704
+note 48=4800
+note 49=4897
+note 50=4996
+note 51=5096
+note 52=5196
+note 53=5298
+note 54=5399
+note 55=5501
+note 56=5603
+note 57=5705
+note 58=5805
+note 59=5904
+note 60=6000
+note 61=6097
+note 62=6196
+note 63=6296
+note 64=6396
+note 65=6498
+note 66=6599
+note 67=6701
+note 68=6803
+note 69=6905
+note 70=7005
+note 71=7104
+note 72=7200
+note 73=7297
+note 74=7396
+note 75=7496
+note 76=7596
+note 77=7698
+note 78=7799
+note 79=7901
+note 80=8003
+note 81=8105
+note 82=8205
+note 83=8304
+note 84=8400
+note 85=8497
+note 86=8596
+note 87=8696
+note 88=8796
+note 89=8898
+note 90=8999
+note 91=9101
+note 92=9203
+note 93=9305
+note 94=9405
+note 95=9504
+note 96=9600
+note 97=9697
+note 98=9796
+note 99=9896
+note 100=9996
+note 101=10098
+note 102=10199
+note 103=10301
+note 104=10403
+note 105=10505
+note 106=10605
+note 107=10704
+note 108=10800
+note 109=10897
+note 110=10996
+note 111=11096
+note 112=11196
+note 113=11298
+note 114=11399
+note 115=11501
+note 116=11603
+note 117=11705
+note 118=11805
+note 119=11904
+note 120=12000
+note 121=12097
+note 122=12196
+note 123=12296
+note 124=12396
+note 125=12498
+note 126=12599
+note 127=12701
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "shahin_adl.tun"
+ID= "ID_shahin_adl.tun"
+Filename= "shahin_adl.scl"
+Description= "Mohajeri Shahin, arithmetic division of length temperament, TL 14-12-2006"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 97.387008
+note 2= 195.980252
+note 3= 295.655887
+note 4= 396.257466
+note 5= 497.590391
+note 6= 599.415746
+note 7= 701.443575
+note 8= 803.325748
+note 9= 904.648648
+note 10= 1004.926064
+note 11= 1103.592836
+note 12= 1200.000000
+note 13= 1297.387008
+note 14= 1395.980252
+note 15= 1495.655887
+note 16= 1596.257466
+note 17= 1697.590391
+note 18= 1799.415746
+note 19= 1901.443575
+note 20= 2003.325748
+note 21= 2104.648648
+note 22= 2204.926064
+note 23= 2303.592836
+note 24= 2400.000000
+note 25= 2497.387008
+note 26= 2595.980252
+note 27= 2695.655887
+note 28= 2796.257466
+note 29= 2897.590391
+note 30= 2999.415746
+note 31= 3101.443575
+note 32= 3203.325748
+note 33= 3304.648648
+note 34= 3404.926064
+note 35= 3503.592836
+note 36= 3600.000000
+note 37= 3697.387008
+note 38= 3795.980252
+note 39= 3895.655887
+note 40= 3996.257466
+note 41= 4097.590391
+note 42= 4199.415746
+note 43= 4301.443575
+note 44= 4403.325748
+note 45= 4504.648648
+note 46= 4604.926064
+note 47= 4703.592836
+note 48= 4800.000000
+note 49= 4897.387008
+note 50= 4995.980252
+note 51= 5095.655887
+note 52= 5196.257466
+note 53= 5297.590391
+note 54= 5399.415746
+note 55= 5501.443575
+note 56= 5603.325748
+note 57= 5704.648648
+note 58= 5804.926064
+note 59= 5903.592836
+note 60= 6000.000000
+note 61= 6097.387008
+note 62= 6195.980252
+note 63= 6295.655887
+note 64= 6396.257466
+note 65= 6497.590391
+note 66= 6599.415746
+note 67= 6701.443575
+note 68= 6803.325748
+note 69= 6904.648648
+note 70= 7004.926064
+note 71= 7103.592836
+note 72= 7200.000000
+note 73= 7297.387008
+note 74= 7395.980252
+note 75= 7495.655887
+note 76= 7596.257466
+note 77= 7697.590391
+note 78= 7799.415746
+note 79= 7901.443575
+note 80= 8003.325748
+note 81= 8104.648648
+note 82= 8204.926064
+note 83= 8303.592836
+note 84= 8400.000000
+note 85= 8497.387008
+note 86= 8595.980252
+note 87= 8695.655887
+note 88= 8796.257466
+note 89= 8897.590391
+note 90= 8999.415746
+note 91= 9101.443575
+note 92= 9203.325748
+note 93= 9304.648648
+note 94= 9404.926064
+note 95= 9503.592836
+note 96= 9600.000000
+note 97= 9697.387008
+note 98= 9795.980252
+note 99= 9895.655887
+note 100= 9996.257466
+note 101= 10097.590391
+note 102= 10199.415746
+note 103= 10301.443575
+note 104= 10403.325748
+note 105= 10504.648648
+note 106= 10604.926064
+note 107= 10703.592836
+note 108= 10800.000000
+note 109= 10897.387008
+note 110= 10995.980252
+note 111= 11095.655887
+note 112= 11196.257466
+note 113= 11297.590391
+note 114= 11399.415746
+note 115= 11501.443575
+note 116= 11603.325748
+note 117= 11704.648648
+note 118= 11804.926064
+note 119= 11903.592836
+note 120= 12000.000000
+note 121= 12097.387008
+note 122= 12195.980252
+note 123= 12295.655887
+note 124= 12396.257466
+note 125= 12497.590391
+note 126= 12599.415746
+note 127= 12701.443575
+
+[Functional Tuning]
+note 1="#=0 * 10000/9453"
+note 2="#=0 * 8250/7367"
+note 3="#=0 * 110000/92731"
+note 4="#=0 * 13750/10937"
+note 5="#=0 * 66000/49513"
+note 6="#=0 * 6875/4863"
+note 7="#=0 * 22000/14671"
+note 8="#=0 * 20625/12968"
+note 9="#=0 * 110000/65231"
+note 10="#=0 * 2750/1539"
+note 11="#=0 * 30000/15859"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

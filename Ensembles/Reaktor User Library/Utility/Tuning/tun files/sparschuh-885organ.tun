@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Andreas Sparschuh, for neobaroque pipe-organs with fusing 3rds C-E, G-B & F-A (2009)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=89
+note 2=195
+note 3=297
+note 4=387
+note 5=503
+note 6=587
+note 7=699
+note 8=792
+note 9=891
+note 10=1001
+note 11=1086
+note 12=1200
+note 13=1289
+note 14=1395
+note 15=1497
+note 16=1587
+note 17=1703
+note 18=1787
+note 19=1899
+note 20=1992
+note 21=2091
+note 22=2201
+note 23=2286
+note 24=2400
+note 25=2489
+note 26=2595
+note 27=2697
+note 28=2787
+note 29=2903
+note 30=2987
+note 31=3099
+note 32=3192
+note 33=3291
+note 34=3401
+note 35=3486
+note 36=3600
+note 37=3689
+note 38=3795
+note 39=3897
+note 40=3987
+note 41=4103
+note 42=4187
+note 43=4299
+note 44=4392
+note 45=4491
+note 46=4601
+note 47=4686
+note 48=4800
+note 49=4889
+note 50=4995
+note 51=5097
+note 52=5187
+note 53=5303
+note 54=5387
+note 55=5499
+note 56=5592
+note 57=5691
+note 58=5801
+note 59=5886
+note 60=6000
+note 61=6089
+note 62=6195
+note 63=6297
+note 64=6387
+note 65=6503
+note 66=6587
+note 67=6699
+note 68=6792
+note 69=6891
+note 70=7001
+note 71=7086
+note 72=7200
+note 73=7289
+note 74=7395
+note 75=7497
+note 76=7587
+note 77=7703
+note 78=7787
+note 79=7899
+note 80=7992
+note 81=8091
+note 82=8201
+note 83=8286
+note 84=8400
+note 85=8489
+note 86=8595
+note 87=8697
+note 88=8787
+note 89=8903
+note 90=8987
+note 91=9099
+note 92=9192
+note 93=9291
+note 94=9401
+note 95=9486
+note 96=9600
+note 97=9689
+note 98=9795
+note 99=9897
+note 100=9987
+note 101=10103
+note 102=10187
+note 103=10299
+note 104=10392
+note 105=10491
+note 106=10601
+note 107=10686
+note 108=10800
+note 109=10889
+note 110=10995
+note 111=11097
+note 112=11187
+note 113=11303
+note 114=11387
+note 115=11499
+note 116=11592
+note 117=11691
+note 118=11801
+note 119=11886
+note 120=12000
+note 121=12089
+note 122=12195
+note 123=12297
+note 124=12387
+note 125=12503
+note 126=12587
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sparschuh-885organ.tun"
+ID= "ID_sparschuh-885organ.tun"
+Filename= "sparschuh-885organ.scl"
+Description= "Andreas Sparschuh, for neobaroque pipe-organs with fusing 3rds C-E, G-B & F-A (2009)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 89.291526
+note 2= 194.795344
+note 3= 296.996204
+note 4= 386.968121
+note 5= 503.354911
+note 6= 586.947964
+note 7= 698.679250
+note 8= 792.282264
+note 9= 890.891679
+note 10= 1000.788058
+note 11= 1085.867103
+note 12= 1200.000000
+note 13= 1289.291526
+note 14= 1394.795344
+note 15= 1496.996204
+note 16= 1586.968121
+note 17= 1703.354911
+note 18= 1786.947964
+note 19= 1898.679250
+note 20= 1992.282264
+note 21= 2090.891679
+note 22= 2200.788058
+note 23= 2285.867103
+note 24= 2400.000000
+note 25= 2489.291526
+note 26= 2594.795344
+note 27= 2696.996204
+note 28= 2786.968121
+note 29= 2903.354911
+note 30= 2986.947964
+note 31= 3098.679250
+note 32= 3192.282264
+note 33= 3290.891679
+note 34= 3400.788058
+note 35= 3485.867103
+note 36= 3600.000000
+note 37= 3689.291526
+note 38= 3794.795344
+note 39= 3896.996204
+note 40= 3986.968121
+note 41= 4103.354911
+note 42= 4186.947964
+note 43= 4298.679250
+note 44= 4392.282264
+note 45= 4490.891679
+note 46= 4600.788058
+note 47= 4685.867103
+note 48= 4800.000000
+note 49= 4889.291526
+note 50= 4994.795344
+note 51= 5096.996204
+note 52= 5186.968121
+note 53= 5303.354911
+note 54= 5386.947964
+note 55= 5498.679250
+note 56= 5592.282264
+note 57= 5690.891679
+note 58= 5800.788058
+note 59= 5885.867103
+note 60= 6000.000000
+note 61= 6089.291526
+note 62= 6194.795344
+note 63= 6296.996204
+note 64= 6386.968121
+note 65= 6503.354911
+note 66= 6586.947964
+note 67= 6698.679250
+note 68= 6792.282264
+note 69= 6890.891679
+note 70= 7000.788058
+note 71= 7085.867103
+note 72= 7200.000000
+note 73= 7289.291526
+note 74= 7394.795344
+note 75= 7496.996204
+note 76= 7586.968121
+note 77= 7703.354911
+note 78= 7786.947964
+note 79= 7898.679250
+note 80= 7992.282264
+note 81= 8090.891679
+note 82= 8200.788058
+note 83= 8285.867103
+note 84= 8400.000000
+note 85= 8489.291526
+note 86= 8594.795344
+note 87= 8696.996204
+note 88= 8786.968121
+note 89= 8903.354911
+note 90= 8986.947964
+note 91= 9098.679250
+note 92= 9192.282264
+note 93= 9290.891679
+note 94= 9400.788058
+note 95= 9485.867103
+note 96= 9600.000000
+note 97= 9689.291526
+note 98= 9794.795344
+note 99= 9896.996204
+note 100= 9986.968121
+note 101= 10103.354911
+note 102= 10186.947964
+note 103= 10298.679250
+note 104= 10392.282264
+note 105= 10490.891679
+note 106= 10600.788058
+note 107= 10685.867103
+note 108= 10800.000000
+note 109= 10889.291526
+note 110= 10994.795344
+note 111= 11096.996204
+note 112= 11186.968121
+note 113= 11303.354911
+note 114= 11386.947964
+note 115= 11498.679250
+note 116= 11592.282264
+note 117= 11690.891679
+note 118= 11800.788058
+note 119= 11885.867103
+note 120= 12000.000000
+note 121= 12089.291526
+note 122= 12194.795344
+note 123= 12296.996204
+note 124= 12386.968121
+note 125= 12503.354911
+note 126= 12586.947964
+note 127= 12698.679250
+
+[Functional Tuning]
+note 1="#=0 * 557/529"
+note 2="#=0 * 592/529"
+note 3="#=0 * 628/529"
+note 4="#=0 * 1323/1058"
+note 5="#=0 * 1415/1058"
+note 6="#=0 * 1485/1058"
+note 7="#=0 * 792/529"
+note 8="#=0 * 836/529"
+note 9="#=0 * 885/529"
+note 10="#=0 * 41/23"
+note 11="#=0 * 1981/1058"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

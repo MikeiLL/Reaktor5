@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sparschuh's 2007 interpretation of J.S. Bach's WTC loops @ 440 cps
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=91
+note 2=194
+note 3=295
+note 4=387
+note 5=498
+note 6=590
+note 7=701
+note 8=793
+note 9=886
+note 10=997
+note 11=1088
+note 12=1200
+note 13=1291
+note 14=1394
+note 15=1495
+note 16=1587
+note 17=1698
+note 18=1790
+note 19=1901
+note 20=1993
+note 21=2086
+note 22=2197
+note 23=2288
+note 24=2400
+note 25=2491
+note 26=2594
+note 27=2695
+note 28=2787
+note 29=2898
+note 30=2990
+note 31=3101
+note 32=3193
+note 33=3286
+note 34=3397
+note 35=3488
+note 36=3600
+note 37=3691
+note 38=3794
+note 39=3895
+note 40=3987
+note 41=4098
+note 42=4190
+note 43=4301
+note 44=4393
+note 45=4486
+note 46=4597
+note 47=4688
+note 48=4800
+note 49=4891
+note 50=4994
+note 51=5095
+note 52=5187
+note 53=5298
+note 54=5390
+note 55=5501
+note 56=5593
+note 57=5686
+note 58=5797
+note 59=5888
+note 60=6000
+note 61=6091
+note 62=6194
+note 63=6295
+note 64=6387
+note 65=6498
+note 66=6590
+note 67=6701
+note 68=6793
+note 69=6886
+note 70=6997
+note 71=7088
+note 72=7200
+note 73=7291
+note 74=7394
+note 75=7495
+note 76=7587
+note 77=7698
+note 78=7790
+note 79=7901
+note 80=7993
+note 81=8086
+note 82=8197
+note 83=8288
+note 84=8400
+note 85=8491
+note 86=8594
+note 87=8695
+note 88=8787
+note 89=8898
+note 90=8990
+note 91=9101
+note 92=9193
+note 93=9286
+note 94=9397
+note 95=9488
+note 96=9600
+note 97=9691
+note 98=9794
+note 99=9895
+note 100=9987
+note 101=10098
+note 102=10190
+note 103=10301
+note 104=10393
+note 105=10486
+note 106=10597
+note 107=10688
+note 108=10800
+note 109=10891
+note 110=10994
+note 111=11095
+note 112=11187
+note 113=11298
+note 114=11390
+note 115=11501
+note 116=11593
+note 117=11686
+note 118=11797
+note 119=11888
+note 120=12000
+note 121=12091
+note 122=12194
+note 123=12295
+note 124=12387
+note 125=12498
+note 126=12590
+note 127=12701
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sparschuh-jsbloops440.tun"
+ID= "ID_sparschuh-jsbloops440.tun"
+Filename= "sparschuh-jsbloops440.scl"
+Description= "Sparschuh's 2007 interpretation of J.S. Bach's WTC loops @ 440 cps"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 91.096547
+note 2= 193.852633
+note 3= 295.006549
+note 4= 386.641879
+note 5= 498.455196
+note 6= 589.530719
+note 7= 701.407921
+note 8= 793.051548
+note 9= 885.998916
+note 10= 996.961550
+note 11= 1088.159313
+note 12= 1200.000000
+note 13= 1291.096547
+note 14= 1393.852633
+note 15= 1495.006549
+note 16= 1586.641879
+note 17= 1698.455196
+note 18= 1789.530719
+note 19= 1901.407921
+note 20= 1993.051548
+note 21= 2085.998916
+note 22= 2196.961550
+note 23= 2288.159313
+note 24= 2400.000000
+note 25= 2491.096547
+note 26= 2593.852633
+note 27= 2695.006549
+note 28= 2786.641879
+note 29= 2898.455196
+note 30= 2989.530719
+note 31= 3101.407921
+note 32= 3193.051548
+note 33= 3285.998916
+note 34= 3396.961550
+note 35= 3488.159313
+note 36= 3600.000000
+note 37= 3691.096547
+note 38= 3793.852633
+note 39= 3895.006549
+note 40= 3986.641879
+note 41= 4098.455196
+note 42= 4189.530719
+note 43= 4301.407921
+note 44= 4393.051548
+note 45= 4485.998916
+note 46= 4596.961550
+note 47= 4688.159313
+note 48= 4800.000000
+note 49= 4891.096547
+note 50= 4993.852633
+note 51= 5095.006549
+note 52= 5186.641879
+note 53= 5298.455196
+note 54= 5389.530719
+note 55= 5501.407921
+note 56= 5593.051548
+note 57= 5685.998916
+note 58= 5796.961550
+note 59= 5888.159313
+note 60= 6000.000000
+note 61= 6091.096547
+note 62= 6193.852633
+note 63= 6295.006549
+note 64= 6386.641879
+note 65= 6498.455196
+note 66= 6589.530719
+note 67= 6701.407921
+note 68= 6793.051548
+note 69= 6885.998916
+note 70= 6996.961550
+note 71= 7088.159313
+note 72= 7200.000000
+note 73= 7291.096547
+note 74= 7393.852633
+note 75= 7495.006549
+note 76= 7586.641879
+note 77= 7698.455196
+note 78= 7789.530719
+note 79= 7901.407921
+note 80= 7993.051548
+note 81= 8085.998916
+note 82= 8196.961550
+note 83= 8288.159313
+note 84= 8400.000000
+note 85= 8491.096547
+note 86= 8593.852633
+note 87= 8695.006549
+note 88= 8786.641879
+note 89= 8898.455196
+note 90= 8989.530719
+note 91= 9101.407921
+note 92= 9193.051548
+note 93= 9285.998916
+note 94= 9396.961550
+note 95= 9488.159313
+note 96= 9600.000000
+note 97= 9691.096547
+note 98= 9793.852633
+note 99= 9895.006549
+note 100= 9986.641879
+note 101= 10098.455196
+note 102= 10189.530719
+note 103= 10301.407921
+note 104= 10393.051548
+note 105= 10485.998916
+note 106= 10596.961550
+note 107= 10688.159313
+note 108= 10800.000000
+note 109= 10891.096547
+note 110= 10993.852633
+note 111= 11095.006549
+note 112= 11186.641879
+note 113= 11298.455196
+note 114= 11389.530719
+note 115= 11501.407921
+note 116= 11593.051548
+note 117= 11685.998916
+note 118= 11796.961550
+note 119= 11888.159313
+note 120= 12000.000000
+note 121= 12091.096547
+note 122= 12193.852633
+note 123= 12295.006549
+note 124= 12386.641879
+note 125= 12498.455196
+note 126= 12589.530719
+note 127= 12701.407921
+
+[Functional Tuning]
+note 1="#=0 * 1112/1055"
+note 2="#=0 * 236/211"
+note 3="#=0 * 1251/1055"
+note 4="#=0 * 1319/1055"
+note 5="#=0 * 1407/1055"
+note 6="#=0 * 1483/1055"
+note 7="#=0 * 1582/1055"
+note 8="#=0 * 1668/1055"
+note 9="#=0 * 352/211"
+note 10="#=0 * 3753/2110"
+note 11="#=0 * 1978/1055"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

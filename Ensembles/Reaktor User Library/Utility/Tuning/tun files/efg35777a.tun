@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Genus [35777] with comma discarded which disappears in 31-tET
+;
+; VAZ Plus section
+[Tuning]
+note 0=933
+note 1=969
+note 2=1088
+note 3=1124
+note 4=1200
+note 5=1319
+note 6=1355
+note 7=1431
+note 8=1586
+note 9=1671
+note 10=1817
+note 11=1902
+note 12=1938
+note 13=2057
+note 14=2133
+note 15=2169
+note 16=2288
+note 17=2324
+note 18=2400
+note 19=2519
+note 20=2555
+note 21=2631
+note 22=2786
+note 23=2871
+note 24=3017
+note 25=3102
+note 26=3138
+note 27=3257
+note 28=3333
+note 29=3369
+note 30=3488
+note 31=3524
+note 32=3600
+note 33=3719
+note 34=3755
+note 35=3831
+note 36=3986
+note 37=4071
+note 38=4217
+note 39=4302
+note 40=4338
+note 41=4457
+note 42=4533
+note 43=4569
+note 44=4688
+note 45=4724
+note 46=4800
+note 47=4919
+note 48=4955
+note 49=5031
+note 50=5186
+note 51=5271
+note 52=5417
+note 53=5502
+note 54=5538
+note 55=5657
+note 56=5733
+note 57=5769
+note 58=5888
+note 59=5924
+note 60=6000
+note 61=6119
+note 62=6155
+note 63=6231
+note 64=6386
+note 65=6471
+note 66=6617
+note 67=6702
+note 68=6738
+note 69=6857
+note 70=6933
+note 71=6969
+note 72=7088
+note 73=7124
+note 74=7200
+note 75=7319
+note 76=7355
+note 77=7431
+note 78=7586
+note 79=7671
+note 80=7817
+note 81=7902
+note 82=7938
+note 83=8057
+note 84=8133
+note 85=8169
+note 86=8288
+note 87=8324
+note 88=8400
+note 89=8519
+note 90=8555
+note 91=8631
+note 92=8786
+note 93=8871
+note 94=9017
+note 95=9102
+note 96=9138
+note 97=9257
+note 98=9333
+note 99=9369
+note 100=9488
+note 101=9524
+note 102=9600
+note 103=9719
+note 104=9755
+note 105=9831
+note 106=9986
+note 107=10071
+note 108=10217
+note 109=10302
+note 110=10338
+note 111=10457
+note 112=10533
+note 113=10569
+note 114=10688
+note 115=10724
+note 116=10800
+note 117=10919
+note 118=10955
+note 119=11031
+note 120=11186
+note 121=11271
+note 122=11417
+note 123=11502
+note 124=11538
+note 125=11657
+note 126=11733
+note 127=11769
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "efg35777a.tun"
+ID= "ID_efg35777a.tun"
+Filename= "efg35777a.scl"
+Description= "Genus [35777] with comma discarded which disappears in 31-tET"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 933.129094
+note 1= 968.825906
+note 2= 1088.268715
+note 3= 1123.965527
+note 4= 1200.000000
+note 5= 1319.442808
+note 6= 1355.139620
+note 7= 1431.174094
+note 8= 1586.313714
+note 9= 1670.780907
+note 10= 1817.487807
+note 11= 1901.955001
+note 12= 1937.651813
+note 13= 2057.094621
+note 14= 2133.129094
+note 15= 2168.825906
+note 16= 2288.268715
+note 17= 2323.965527
+note 18= 2400.000000
+note 19= 2519.442808
+note 20= 2555.139620
+note 21= 2631.174094
+note 22= 2786.313714
+note 23= 2870.780907
+note 24= 3017.487807
+note 25= 3101.955001
+note 26= 3137.651813
+note 27= 3257.094621
+note 28= 3333.129094
+note 29= 3368.825906
+note 30= 3488.268715
+note 31= 3523.965527
+note 32= 3600.000000
+note 33= 3719.442808
+note 34= 3755.139620
+note 35= 3831.174094
+note 36= 3986.313714
+note 37= 4070.780907
+note 38= 4217.487807
+note 39= 4301.955001
+note 40= 4337.651813
+note 41= 4457.094621
+note 42= 4533.129094
+note 43= 4568.825906
+note 44= 4688.268715
+note 45= 4723.965527
+note 46= 4800.000000
+note 47= 4919.442808
+note 48= 4955.139620
+note 49= 5031.174094
+note 50= 5186.313714
+note 51= 5270.780907
+note 52= 5417.487807
+note 53= 5501.955001
+note 54= 5537.651813
+note 55= 5657.094621
+note 56= 5733.129094
+note 57= 5768.825906
+note 58= 5888.268715
+note 59= 5923.965527
+note 60= 6000.000000
+note 61= 6119.442808
+note 62= 6155.139620
+note 63= 6231.174094
+note 64= 6386.313714
+note 65= 6470.780907
+note 66= 6617.487807
+note 67= 6701.955001
+note 68= 6737.651813
+note 69= 6857.094621
+note 70= 6933.129094
+note 71= 6968.825906
+note 72= 7088.268715
+note 73= 7123.965527
+note 74= 7200.000000
+note 75= 7319.442808
+note 76= 7355.139620
+note 77= 7431.174094
+note 78= 7586.313714
+note 79= 7670.780907
+note 80= 7817.487807
+note 81= 7901.955001
+note 82= 7937.651813
+note 83= 8057.094621
+note 84= 8133.129094
+note 85= 8168.825906
+note 86= 8288.268715
+note 87= 8323.965527
+note 88= 8400.000000
+note 89= 8519.442808
+note 90= 8555.139620
+note 91= 8631.174094
+note 92= 8786.313714
+note 93= 8870.780907
+note 94= 9017.487807
+note 95= 9101.955001
+note 96= 9137.651813
+note 97= 9257.094621
+note 98= 9333.129094
+note 99= 9368.825906
+note 100= 9488.268715
+note 101= 9523.965527
+note 102= 9600.000000
+note 103= 9719.442808
+note 104= 9755.139620
+note 105= 9831.174094
+note 106= 9986.313714
+note 107= 10070.780907
+note 108= 10217.487807
+note 109= 10301.955001
+note 110= 10337.651813
+note 111= 10457.094621
+note 112= 10533.129094
+note 113= 10568.825906
+note 114= 10688.268715
+note 115= 10723.965527
+note 116= 10800.000000
+note 117= 10919.442808
+note 118= 10955.139620
+note 119= 11031.174094
+note 120= 11186.313714
+note 121= 11270.780907
+note 122= 11417.487807
+note 123= 11501.955001
+note 124= 11537.651813
+note 125= 11657.094621
+note 126= 11733.129094
+note 127= 11768.825906
+
+[Functional Tuning]
+note 1="#=0 * 15/14"
+note 2="#=0 * 35/32"
+note 3="#=0 * 8/7"
+note 4="#=0 * 5/4"
+note 5="#=0 * 21/16"
+note 6="#=0 * 10/7"
+note 7="#=0 * 3/2"
+note 8="#=0 * 49/32"
+note 9="#=0 * 105/64"
+note 10="#=0 * 12/7"
+note 11="#=0 * 7/4"
+note 12="#=0 * 15/8"
+note 13="#=0 * 245/128"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

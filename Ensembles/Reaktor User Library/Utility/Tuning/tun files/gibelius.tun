@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Otto Gibelius, Propositiones Mathematico-musicae, 1666, p.35
+;
+; VAZ Plus section
+[Tuning]
+note 0=814
+note 1=884
+note 2=1018
+note 3=1088
+note 4=1200
+note 5=1271
+note 6=1404
+note 7=1475
+note 8=1516
+note 9=1586
+note 10=1698
+note 11=1769
+note 12=1902
+note 13=1973
+note 14=2014
+note 15=2084
+note 16=2218
+note 17=2288
+note 18=2400
+note 19=2471
+note 20=2604
+note 21=2675
+note 22=2716
+note 23=2786
+note 24=2898
+note 25=2969
+note 26=3102
+note 27=3173
+note 28=3214
+note 29=3284
+note 30=3418
+note 31=3488
+note 32=3600
+note 33=3671
+note 34=3804
+note 35=3875
+note 36=3916
+note 37=3986
+note 38=4098
+note 39=4169
+note 40=4302
+note 41=4373
+note 42=4414
+note 43=4484
+note 44=4618
+note 45=4688
+note 46=4800
+note 47=4871
+note 48=5004
+note 49=5075
+note 50=5116
+note 51=5186
+note 52=5298
+note 53=5369
+note 54=5502
+note 55=5573
+note 56=5614
+note 57=5684
+note 58=5818
+note 59=5888
+note 60=6000
+note 61=6071
+note 62=6204
+note 63=6275
+note 64=6316
+note 65=6386
+note 66=6498
+note 67=6569
+note 68=6702
+note 69=6773
+note 70=6814
+note 71=6884
+note 72=7018
+note 73=7088
+note 74=7200
+note 75=7271
+note 76=7404
+note 77=7475
+note 78=7516
+note 79=7586
+note 80=7698
+note 81=7769
+note 82=7902
+note 83=7973
+note 84=8014
+note 85=8084
+note 86=8218
+note 87=8288
+note 88=8400
+note 89=8471
+note 90=8604
+note 91=8675
+note 92=8716
+note 93=8786
+note 94=8898
+note 95=8969
+note 96=9102
+note 97=9173
+note 98=9214
+note 99=9284
+note 100=9418
+note 101=9488
+note 102=9600
+note 103=9671
+note 104=9804
+note 105=9875
+note 106=9916
+note 107=9986
+note 108=10098
+note 109=10169
+note 110=10302
+note 111=10373
+note 112=10414
+note 113=10484
+note 114=10618
+note 115=10688
+note 116=10800
+note 117=10871
+note 118=11004
+note 119=11075
+note 120=11116
+note 121=11186
+note 122=11298
+note 123=11369
+note 124=11502
+note 125=11573
+note 126=11614
+note 127=11684
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "gibelius.tun"
+ID= "ID_gibelius.tun"
+Filename= "gibelius.scl"
+Description= "Otto Gibelius, Propositiones Mathematico-musicae, 1666, p.35"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 813.686286
+note 1= 884.358713
+note 2= 1017.596288
+note 3= 1088.268715
+note 4= 1200.000000
+note 5= 1270.672427
+note 6= 1403.910002
+note 7= 1474.582429
+note 8= 1515.641287
+note 9= 1586.313714
+note 10= 1698.044999
+note 11= 1768.717426
+note 12= 1901.955001
+note 13= 1972.627428
+note 14= 2013.686286
+note 15= 2084.358713
+note 16= 2217.596288
+note 17= 2288.268715
+note 18= 2400.000000
+note 19= 2470.672427
+note 20= 2603.910002
+note 21= 2674.582429
+note 22= 2715.641287
+note 23= 2786.313714
+note 24= 2898.044999
+note 25= 2968.717426
+note 26= 3101.955001
+note 27= 3172.627428
+note 28= 3213.686286
+note 29= 3284.358713
+note 30= 3417.596288
+note 31= 3488.268715
+note 32= 3600.000000
+note 33= 3670.672427
+note 34= 3803.910002
+note 35= 3874.582429
+note 36= 3915.641287
+note 37= 3986.313714
+note 38= 4098.044999
+note 39= 4168.717426
+note 40= 4301.955001
+note 41= 4372.627428
+note 42= 4413.686286
+note 43= 4484.358713
+note 44= 4617.596288
+note 45= 4688.268715
+note 46= 4800.000000
+note 47= 4870.672427
+note 48= 5003.910002
+note 49= 5074.582429
+note 50= 5115.641287
+note 51= 5186.313714
+note 52= 5298.044999
+note 53= 5368.717426
+note 54= 5501.955001
+note 55= 5572.627428
+note 56= 5613.686286
+note 57= 5684.358713
+note 58= 5817.596288
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6203.910002
+note 63= 6274.582429
+note 64= 6315.641287
+note 65= 6386.313714
+note 66= 6498.044999
+note 67= 6568.717426
+note 68= 6701.955001
+note 69= 6772.627428
+note 70= 6813.686286
+note 71= 6884.358713
+note 72= 7017.596288
+note 73= 7088.268715
+note 74= 7200.000000
+note 75= 7270.672427
+note 76= 7403.910002
+note 77= 7474.582429
+note 78= 7515.641287
+note 79= 7586.313714
+note 80= 7698.044999
+note 81= 7768.717426
+note 82= 7901.955001
+note 83= 7972.627428
+note 84= 8013.686286
+note 85= 8084.358713
+note 86= 8217.596288
+note 87= 8288.268715
+note 88= 8400.000000
+note 89= 8470.672427
+note 90= 8603.910002
+note 91= 8674.582429
+note 92= 8715.641287
+note 93= 8786.313714
+note 94= 8898.044999
+note 95= 8968.717426
+note 96= 9101.955001
+note 97= 9172.627428
+note 98= 9213.686286
+note 99= 9284.358713
+note 100= 9417.596288
+note 101= 9488.268715
+note 102= 9600.000000
+note 103= 9670.672427
+note 104= 9803.910002
+note 105= 9874.582429
+note 106= 9915.641287
+note 107= 9986.313714
+note 108= 10098.044999
+note 109= 10168.717426
+note 110= 10301.955001
+note 111= 10372.627428
+note 112= 10413.686286
+note 113= 10484.358713
+note 114= 10617.596288
+note 115= 10688.268715
+note 116= 10800.000000
+note 117= 10870.672427
+note 118= 11003.910002
+note 119= 11074.582429
+note 120= 11115.641287
+note 121= 11186.313714
+note 122= 11298.044999
+note 123= 11368.717426
+note 124= 11501.955001
+note 125= 11572.627428
+note 126= 11613.686286
+note 127= 11684.358713
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 9/8"
+note 3="#=0 * 75/64"
+note 4="#=0 * 6/5"
+note 5="#=0 * 5/4"
+note 6="#=0 * 4/3"
+note 7="#=0 * 25/18"
+note 8="#=0 * 3/2"
+note 9="#=0 * 25/16"
+note 10="#=0 * 8/5"
+note 11="#=0 * 5/3"
+note 12="#=0 * 9/5"
+note 13="#=0 * 15/8"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

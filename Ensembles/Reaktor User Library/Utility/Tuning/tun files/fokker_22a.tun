@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Fokker's 22-tone periodicity block of 2048/2025 & 2109375/2097152 = semicomma
+;
+; VAZ Plus section
+[Tuning]
+note 0=2716
+note 1=2786
+note 2=2827
+note 3=2898
+note 4=2939
+note 5=2990
+note 6=3061
+note 7=3102
+note 8=3173
+note 9=3214
+note 10=3265
+note 11=3325
+note 12=3377
+note 13=3437
+note 14=3488
+note 15=3529
+note 16=3600
+note 17=3651
+note 18=3712
+note 19=3763
+note 20=3823
+note 21=3875
+note 22=3916
+note 23=3986
+note 24=4027
+note 25=4098
+note 26=4139
+note 27=4190
+note 28=4261
+note 29=4302
+note 30=4373
+note 31=4414
+note 32=4465
+note 33=4525
+note 34=4577
+note 35=4637
+note 36=4688
+note 37=4729
+note 38=4800
+note 39=4851
+note 40=4912
+note 41=4963
+note 42=5023
+note 43=5075
+note 44=5116
+note 45=5186
+note 46=5227
+note 47=5298
+note 48=5339
+note 49=5390
+note 50=5461
+note 51=5502
+note 52=5573
+note 53=5614
+note 54=5665
+note 55=5725
+note 56=5777
+note 57=5837
+note 58=5888
+note 59=5929
+note 60=6000
+note 61=6051
+note 62=6112
+note 63=6163
+note 64=6223
+note 65=6275
+note 66=6316
+note 67=6386
+note 68=6427
+note 69=6498
+note 70=6539
+note 71=6590
+note 72=6661
+note 73=6702
+note 74=6773
+note 75=6814
+note 76=6865
+note 77=6925
+note 78=6977
+note 79=7037
+note 80=7088
+note 81=7129
+note 82=7200
+note 83=7251
+note 84=7312
+note 85=7363
+note 86=7423
+note 87=7475
+note 88=7516
+note 89=7586
+note 90=7627
+note 91=7698
+note 92=7739
+note 93=7790
+note 94=7861
+note 95=7902
+note 96=7973
+note 97=8014
+note 98=8065
+note 99=8125
+note 100=8177
+note 101=8237
+note 102=8288
+note 103=8329
+note 104=8400
+note 105=8451
+note 106=8512
+note 107=8563
+note 108=8623
+note 109=8675
+note 110=8716
+note 111=8786
+note 112=8827
+note 113=8898
+note 114=8939
+note 115=8990
+note 116=9061
+note 117=9102
+note 118=9173
+note 119=9214
+note 120=9265
+note 121=9325
+note 122=9377
+note 123=9437
+note 124=9488
+note 125=9529
+note 126=9600
+note 127=9651
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fokker_22a.tun"
+ID= "ID_fokker_22a.tun"
+Filename= "fokker_22a.scl"
+Description= "Fokker's 22-tone periodicity block of 2048/2025 & 2109375/2097152 = semicomma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2715.641287
+note 1= 2786.313714
+note 2= 2827.372572
+note 3= 2898.044999
+note 4= 2939.103858
+note 5= 2990.223716
+note 6= 3060.896142
+note 7= 3101.955001
+note 8= 3172.627428
+note 9= 3213.686286
+note 10= 3264.806144
+note 11= 3325.417571
+note 12= 3376.537429
+note 13= 3437.148857
+note 14= 3488.268715
+note 15= 3529.327573
+note 16= 3600.000000
+note 17= 3651.119858
+note 18= 3711.731285
+note 19= 3762.851143
+note 20= 3823.462571
+note 21= 3874.582429
+note 22= 3915.641287
+note 23= 3986.313714
+note 24= 4027.372572
+note 25= 4098.044999
+note 26= 4139.103858
+note 27= 4190.223716
+note 28= 4260.896142
+note 29= 4301.955001
+note 30= 4372.627428
+note 31= 4413.686286
+note 32= 4464.806144
+note 33= 4525.417571
+note 34= 4576.537429
+note 35= 4637.148857
+note 36= 4688.268715
+note 37= 4729.327573
+note 38= 4800.000000
+note 39= 4851.119858
+note 40= 4911.731285
+note 41= 4962.851143
+note 42= 5023.462571
+note 43= 5074.582429
+note 44= 5115.641287
+note 45= 5186.313714
+note 46= 5227.372572
+note 47= 5298.044999
+note 48= 5339.103858
+note 49= 5390.223716
+note 50= 5460.896142
+note 51= 5501.955001
+note 52= 5572.627428
+note 53= 5613.686286
+note 54= 5664.806144
+note 55= 5725.417571
+note 56= 5776.537429
+note 57= 5837.148857
+note 58= 5888.268715
+note 59= 5929.327573
+note 60= 6000.000000
+note 61= 6051.119858
+note 62= 6111.731285
+note 63= 6162.851143
+note 64= 6223.462571
+note 65= 6274.582429
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6427.372572
+note 69= 6498.044999
+note 70= 6539.103858
+note 71= 6590.223716
+note 72= 6660.896142
+note 73= 6701.955001
+note 74= 6772.627428
+note 75= 6813.686286
+note 76= 6864.806144
+note 77= 6925.417571
+note 78= 6976.537429
+note 79= 7037.148857
+note 80= 7088.268715
+note 81= 7129.327573
+note 82= 7200.000000
+note 83= 7251.119858
+note 84= 7311.731285
+note 85= 7362.851143
+note 86= 7423.462571
+note 87= 7474.582429
+note 88= 7515.641287
+note 89= 7586.313714
+note 90= 7627.372572
+note 91= 7698.044999
+note 92= 7739.103858
+note 93= 7790.223716
+note 94= 7860.896142
+note 95= 7901.955001
+note 96= 7972.627428
+note 97= 8013.686286
+note 98= 8064.806144
+note 99= 8125.417571
+note 100= 8176.537429
+note 101= 8237.148857
+note 102= 8288.268715
+note 103= 8329.327573
+note 104= 8400.000000
+note 105= 8451.119858
+note 106= 8511.731285
+note 107= 8562.851143
+note 108= 8623.462571
+note 109= 8674.582429
+note 110= 8715.641287
+note 111= 8786.313714
+note 112= 8827.372572
+note 113= 8898.044999
+note 114= 8939.103858
+note 115= 8990.223716
+note 116= 9060.896142
+note 117= 9101.955001
+note 118= 9172.627428
+note 119= 9213.686286
+note 120= 9264.806144
+note 121= 9325.417571
+note 122= 9376.537429
+note 123= 9437.148857
+note 124= 9488.268715
+note 125= 9529.327573
+note 126= 9600.000000
+note 127= 9651.119858
+
+[Functional Tuning]
+note 1="#=0 * 16875/16384"
+note 2="#=0 * 16/15"
+note 3="#=0 * 1125/1024"
+note 4="#=0 * 256/225"
+note 5="#=0 * 75/64"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 32/25"
+note 9="#=0 * 4/3"
+note 10="#=0 * 512/375"
+note 11="#=0 * 45/32"
+note 12="#=0 * 375/256"
+note 13="#=0 * 3/2"
+note 14="#=0 * 25/16"
+note 15="#=0 * 8/5"
+note 16="#=0 * 3375/2048"
+note 17="#=0 * 128/75"
+note 18="#=0 * 225/128"
+note 19="#=0 * 2048/1125"
+note 20="#=0 * 15/8"
+note 21="#=0 * 48/25"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

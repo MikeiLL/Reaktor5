@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Alexander John Ellis' imitation equal temperament (1875)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=99
+note 2=199
+note 3=299
+note 4=399
+note 5=499
+note 6=600
+note 7=700
+note 8=799
+note 9=899
+note 10=999
+note 11=1100
+note 12=1200
+note 13=1299
+note 14=1399
+note 15=1499
+note 16=1599
+note 17=1699
+note 18=1800
+note 19=1900
+note 20=1999
+note 21=2099
+note 22=2199
+note 23=2300
+note 24=2400
+note 25=2499
+note 26=2599
+note 27=2699
+note 28=2799
+note 29=2899
+note 30=3000
+note 31=3100
+note 32=3199
+note 33=3299
+note 34=3399
+note 35=3500
+note 36=3600
+note 37=3699
+note 38=3799
+note 39=3899
+note 40=3999
+note 41=4099
+note 42=4200
+note 43=4300
+note 44=4399
+note 45=4499
+note 46=4599
+note 47=4700
+note 48=4800
+note 49=4899
+note 50=4999
+note 51=5099
+note 52=5199
+note 53=5299
+note 54=5400
+note 55=5500
+note 56=5599
+note 57=5699
+note 58=5799
+note 59=5900
+note 60=6000
+note 61=6099
+note 62=6199
+note 63=6299
+note 64=6399
+note 65=6499
+note 66=6600
+note 67=6700
+note 68=6799
+note 69=6899
+note 70=6999
+note 71=7100
+note 72=7200
+note 73=7299
+note 74=7399
+note 75=7499
+note 76=7599
+note 77=7699
+note 78=7800
+note 79=7900
+note 80=7999
+note 81=8099
+note 82=8199
+note 83=8300
+note 84=8400
+note 85=8499
+note 86=8599
+note 87=8699
+note 88=8799
+note 89=8899
+note 90=9000
+note 91=9100
+note 92=9199
+note 93=9299
+note 94=9399
+note 95=9500
+note 96=9600
+note 97=9699
+note 98=9799
+note 99=9899
+note 100=9999
+note 101=10099
+note 102=10200
+note 103=10300
+note 104=10399
+note 105=10499
+note 106=10599
+note 107=10700
+note 108=10800
+note 109=10899
+note 110=10999
+note 111=11099
+note 112=11199
+note 113=11299
+note 114=11400
+note 115=11500
+note 116=11599
+note 117=11699
+note 118=11799
+note 119=11900
+note 120=12000
+note 121=12099
+note 122=12199
+note 123=12299
+note 124=12399
+note 125=12499
+note 126=12600
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ellis.tun"
+ID= "ID_ellis.tun"
+Filename= "ellis.scl"
+Description= "Alexander John Ellis' imitation equal temperament (1875)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 99.484770
+note 2= 199.492880
+note 3= 299.224630
+note 4= 399.467080
+note 5= 499.419380
+note 6= 599.871020
+note 7= 699.747850
+note 8= 799.355950
+note 9= 899.481100
+note 10= 999.323000
+note 11= 1099.669960
+note 12= 1200.000000
+note 13= 1299.484770
+note 14= 1399.492880
+note 15= 1499.224630
+note 16= 1599.467080
+note 17= 1699.419380
+note 18= 1799.871020
+note 19= 1899.747850
+note 20= 1999.355950
+note 21= 2099.481100
+note 22= 2199.323000
+note 23= 2299.669960
+note 24= 2400.000000
+note 25= 2499.484770
+note 26= 2599.492880
+note 27= 2699.224630
+note 28= 2799.467080
+note 29= 2899.419380
+note 30= 2999.871020
+note 31= 3099.747850
+note 32= 3199.355950
+note 33= 3299.481100
+note 34= 3399.323000
+note 35= 3499.669960
+note 36= 3600.000000
+note 37= 3699.484770
+note 38= 3799.492880
+note 39= 3899.224630
+note 40= 3999.467080
+note 41= 4099.419380
+note 42= 4199.871020
+note 43= 4299.747850
+note 44= 4399.355950
+note 45= 4499.481100
+note 46= 4599.323000
+note 47= 4699.669960
+note 48= 4800.000000
+note 49= 4899.484770
+note 50= 4999.492880
+note 51= 5099.224630
+note 52= 5199.467080
+note 53= 5299.419380
+note 54= 5399.871020
+note 55= 5499.747850
+note 56= 5599.355950
+note 57= 5699.481100
+note 58= 5799.323000
+note 59= 5899.669960
+note 60= 6000.000000
+note 61= 6099.484770
+note 62= 6199.492880
+note 63= 6299.224630
+note 64= 6399.467080
+note 65= 6499.419380
+note 66= 6599.871020
+note 67= 6699.747850
+note 68= 6799.355950
+note 69= 6899.481100
+note 70= 6999.323000
+note 71= 7099.669960
+note 72= 7200.000000
+note 73= 7299.484770
+note 74= 7399.492880
+note 75= 7499.224630
+note 76= 7599.467080
+note 77= 7699.419380
+note 78= 7799.871020
+note 79= 7899.747850
+note 80= 7999.355950
+note 81= 8099.481100
+note 82= 8199.323000
+note 83= 8299.669960
+note 84= 8400.000000
+note 85= 8499.484770
+note 86= 8599.492880
+note 87= 8699.224630
+note 88= 8799.467080
+note 89= 8899.419380
+note 90= 8999.871020
+note 91= 9099.747850
+note 92= 9199.355950
+note 93= 9299.481100
+note 94= 9399.323000
+note 95= 9499.669960
+note 96= 9600.000000
+note 97= 9699.484770
+note 98= 9799.492880
+note 99= 9899.224630
+note 100= 9999.467080
+note 101= 10099.419380
+note 102= 10199.871020
+note 103= 10299.747850
+note 104= 10399.355950
+note 105= 10499.481100
+note 106= 10599.323000
+note 107= 10699.669960
+note 108= 10800.000000
+note 109= 10899.484770
+note 110= 10999.492880
+note 111= 11099.224630
+note 112= 11199.467080
+note 113= 11299.419380
+note 114= 11399.871020
+note 115= 11499.747850
+note 116= 11599.355950
+note 117= 11699.481100
+note 118= 11799.323000
+note 119= 11899.669960
+note 120= 12000.000000
+note 121= 12099.484770
+note 122= 12199.492880
+note 123= 12299.224630
+note 124= 12399.467080
+note 125= 12499.419380
+note 126= 12599.871020
+note 127= 12699.747850
+
+[Functional Tuning]
+note 1="#=0 % 99.484770"
+note 2="#=0 % 199.492880"
+note 3="#=0 % 299.224630"
+note 4="#=0 % 399.467080"
+note 5="#=0 % 499.419380"
+note 6="#=0 % 599.871020"
+note 7="#=0 % 699.747850"
+note 8="#=0 % 799.355950"
+note 9="#=0 % 899.481100"
+note 10="#=0 % 999.323000"
+note 11="#=0 % 1099.669960"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

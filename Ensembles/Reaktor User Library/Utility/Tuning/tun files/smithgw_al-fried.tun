@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Fried alaska, with octave-fifth brats of 1 and 2
+;
+; VAZ Plus section
+[Tuning]
+note 0=19
+note 1=117
+note 2=216
+note 3=318
+note 4=416
+note 5=515
+note 6=617
+note 7=716
+note 8=814
+note 9=916
+note 10=1015
+note 11=1113
+note 12=1215
+note 13=1314
+note 14=1413
+note 15=1514
+note 16=1613
+note 17=1712
+note 18=1813
+note 19=1912
+note 20=2011
+note 21=2112
+note 22=2211
+note 23=2310
+note 24=2411
+note 25=2510
+note 26=2609
+note 27=2710
+note 28=2809
+note 29=2908
+note 30=3009
+note 31=3108
+note 32=3207
+note 33=3308
+note 34=3407
+note 35=3506
+note 36=3607
+note 37=3706
+note 38=3805
+note 39=3906
+note 40=4005
+note 41=4104
+note 42=4206
+note 43=4304
+note 44=4403
+note 45=4505
+note 46=4603
+note 47=4702
+note 48=4804
+note 49=4903
+note 50=5001
+note 51=5103
+note 52=5202
+note 53=5301
+note 54=5402
+note 55=5501
+note 56=5600
+note 57=5701
+note 58=5800
+note 59=5899
+note 60=6000
+note 61=6099
+note 62=6198
+note 63=6299
+note 64=6398
+note 65=6497
+note 66=6598
+note 67=6697
+note 68=6796
+note 69=6897
+note 70=6996
+note 71=7095
+note 72=7196
+note 73=7295
+note 74=7394
+note 75=7495
+note 76=7594
+note 77=7693
+note 78=7794
+note 79=7893
+note 80=7992
+note 81=8094
+note 82=8192
+note 83=8291
+note 84=8393
+note 85=8491
+note 86=8590
+note 87=8692
+note 88=8791
+note 89=8889
+note 90=8991
+note 91=9090
+note 92=9188
+note 93=9290
+note 94=9389
+note 95=9488
+note 96=9589
+note 97=9688
+note 98=9787
+note 99=9888
+note 100=9987
+note 101=10086
+note 102=10187
+note 103=10286
+note 104=10385
+note 105=10486
+note 106=10585
+note 107=10684
+note 108=10785
+note 109=10884
+note 110=10983
+note 111=11084
+note 112=11183
+note 113=11282
+note 114=11383
+note 115=11482
+note 116=11581
+note 117=11682
+note 118=11781
+note 119=11880
+note 120=11981
+note 121=12080
+note 122=12179
+note 123=12281
+note 124=12379
+note 125=12478
+note 126=12580
+note 127=12679
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_al-fried.tun"
+ID= "ID_smithgw_al-fried.tun"
+Filename= "smithgw_al-fried.scl"
+Description= "Fried alaska, with octave-fifth brats of 1 and 2"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 18.512650
+note 1= 117.380440
+note 2= 216.248230
+note 3= 317.587020
+note 4= 416.454800
+note 5= 515.322590
+note 6= 616.661380
+note 7= 715.529170
+note 8= 814.396960
+note 9= 915.735750
+note 10= 1014.603540
+note 11= 1113.471320
+note 12= 1214.810120
+note 13= 1313.677910
+note 14= 1412.545700
+note 15= 1513.884490
+note 16= 1612.752270
+note 17= 1711.620060
+note 18= 1812.958850
+note 19= 1911.826640
+note 20= 2010.694430
+note 21= 2112.033220
+note 22= 2210.901010
+note 23= 2309.768790
+note 24= 2411.107590
+note 25= 2509.975380
+note 26= 2608.843170
+note 27= 2710.181960
+note 28= 2809.049740
+note 29= 2907.917530
+note 30= 3009.256320
+note 31= 3108.124110
+note 32= 3206.991900
+note 33= 3308.330690
+note 34= 3407.198480
+note 35= 3506.066260
+note 36= 3607.405060
+note 37= 3706.272850
+note 38= 3805.140640
+note 39= 3906.479430
+note 40= 4005.347210
+note 41= 4104.215000
+note 42= 4205.553790
+note 43= 4304.421580
+note 44= 4403.289370
+note 45= 4504.628160
+note 46= 4603.495950
+note 47= 4702.363730
+note 48= 4803.702530
+note 49= 4902.570320
+note 50= 5001.438110
+note 51= 5102.776900
+note 52= 5201.644680
+note 53= 5300.512470
+note 54= 5401.851260
+note 55= 5500.719050
+note 56= 5599.586840
+note 57= 5700.925630
+note 58= 5799.793420
+note 59= 5898.661200
+note 60= 6000.000000
+note 61= 6098.867790
+note 62= 6197.735580
+note 63= 6299.074370
+note 64= 6397.942150
+note 65= 6496.809940
+note 66= 6598.148730
+note 67= 6697.016520
+note 68= 6795.884310
+note 69= 6897.223100
+note 70= 6996.090890
+note 71= 7094.958670
+note 72= 7196.297470
+note 73= 7295.165260
+note 74= 7394.033050
+note 75= 7495.371840
+note 76= 7594.239620
+note 77= 7693.107410
+note 78= 7794.446200
+note 79= 7893.313990
+note 80= 7992.181780
+note 81= 8093.520570
+note 82= 8192.388360
+note 83= 8291.256140
+note 84= 8392.594940
+note 85= 8491.462730
+note 86= 8590.330520
+note 87= 8691.669310
+note 88= 8790.537090
+note 89= 8889.404880
+note 90= 8990.743670
+note 91= 9089.611460
+note 92= 9188.479250
+note 93= 9289.818040
+note 94= 9388.685830
+note 95= 9487.553610
+note 96= 9588.892410
+note 97= 9687.760200
+note 98= 9786.627990
+note 99= 9887.966780
+note 100= 9986.834560
+note 101= 10085.702350
+note 102= 10187.041140
+note 103= 10285.908930
+note 104= 10384.776720
+note 105= 10486.115510
+note 106= 10584.983300
+note 107= 10683.851080
+note 108= 10785.189880
+note 109= 10884.057670
+note 110= 10982.925460
+note 111= 11084.264250
+note 112= 11183.132030
+note 113= 11281.999820
+note 114= 11383.338610
+note 115= 11482.206400
+note 116= 11581.074190
+note 117= 11682.412980
+note 118= 11781.280770
+note 119= 11880.148550
+note 120= 11981.487350
+note 121= 12080.355140
+note 122= 12179.222930
+note 123= 12280.561720
+note 124= 12379.429500
+note 125= 12478.297290
+note 126= 12579.636080
+note 127= 12678.503870
+
+[Functional Tuning]
+note 1="#=0 % 98.867790"
+note 2="#=0 % 197.735580"
+note 3="#=0 % 299.074370"
+note 4="#=0 % 397.942150"
+note 5="#=0 % 496.809940"
+note 6="#=0 % 598.148730"
+note 7="#=0 % 697.016520"
+note 8="#=0 % 795.884310"
+note 9="#=0 % 897.223100"
+note 10="#=0 % 996.090890"
+note 11="#=0 % 1094.958670"
+note 12="#>-12 % 1196.297470 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rameau dieses, see Pierre-Yves Asselin in "Musique et temperament"
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=76
+note 2=193
+note 3=286
+note 4=386
+note 5=498
+note 6=579
+note 7=697
+note 8=775
+note 9=890
+note 10=993
+note 11=1083
+note 12=1200
+note 13=1276
+note 14=1393
+note 15=1486
+note 16=1586
+note 17=1698
+note 18=1779
+note 19=1897
+note 20=1975
+note 21=2090
+note 22=2193
+note 23=2283
+note 24=2400
+note 25=2476
+note 26=2593
+note 27=2686
+note 28=2786
+note 29=2898
+note 30=2979
+note 31=3097
+note 32=3175
+note 33=3290
+note 34=3393
+note 35=3483
+note 36=3600
+note 37=3676
+note 38=3793
+note 39=3886
+note 40=3986
+note 41=4098
+note 42=4179
+note 43=4297
+note 44=4375
+note 45=4490
+note 46=4593
+note 47=4683
+note 48=4800
+note 49=4876
+note 50=4993
+note 51=5086
+note 52=5186
+note 53=5298
+note 54=5379
+note 55=5497
+note 56=5575
+note 57=5690
+note 58=5793
+note 59=5883
+note 60=6000
+note 61=6076
+note 62=6193
+note 63=6286
+note 64=6386
+note 65=6498
+note 66=6579
+note 67=6697
+note 68=6775
+note 69=6890
+note 70=6993
+note 71=7083
+note 72=7200
+note 73=7276
+note 74=7393
+note 75=7486
+note 76=7586
+note 77=7698
+note 78=7779
+note 79=7897
+note 80=7975
+note 81=8090
+note 82=8193
+note 83=8283
+note 84=8400
+note 85=8476
+note 86=8593
+note 87=8686
+note 88=8786
+note 89=8898
+note 90=8979
+note 91=9097
+note 92=9175
+note 93=9290
+note 94=9393
+note 95=9483
+note 96=9600
+note 97=9676
+note 98=9793
+note 99=9886
+note 100=9986
+note 101=10098
+note 102=10179
+note 103=10297
+note 104=10375
+note 105=10490
+note 106=10593
+note 107=10683
+note 108=10800
+note 109=10876
+note 110=10993
+note 111=11086
+note 112=11186
+note 113=11298
+note 114=11379
+note 115=11497
+note 116=11575
+note 117=11690
+note 118=11793
+note 119=11883
+note 120=12000
+note 121=12076
+note 122=12193
+note 123=12286
+note 124=12386
+note 125=12498
+note 126=12579
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "rameau-sharp.tun"
+ID= "ID_rameau-sharp.tun"
+Filename= "rameau-sharp.scl"
+Description= "Rameau dieses, see Pierre-Yves Asselin in "Musique et temperament""
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 76.049000
+note 2= 193.157000
+note 3= 285.600000
+note 4= 386.313714
+note 5= 498.044999
+note 6= 579.471000
+note 7= 696.578000
+note 8= 775.316000
+note 9= 889.735000
+note 10= 993.200000
+note 11= 1082.892000
+note 12= 1200.000000
+note 13= 1276.049000
+note 14= 1393.157000
+note 15= 1485.600000
+note 16= 1586.313714
+note 17= 1698.044999
+note 18= 1779.471000
+note 19= 1896.578000
+note 20= 1975.316000
+note 21= 2089.735000
+note 22= 2193.200000
+note 23= 2282.892000
+note 24= 2400.000000
+note 25= 2476.049000
+note 26= 2593.157000
+note 27= 2685.600000
+note 28= 2786.313714
+note 29= 2898.044999
+note 30= 2979.471000
+note 31= 3096.578000
+note 32= 3175.316000
+note 33= 3289.735000
+note 34= 3393.200000
+note 35= 3482.892000
+note 36= 3600.000000
+note 37= 3676.049000
+note 38= 3793.157000
+note 39= 3885.600000
+note 40= 3986.313714
+note 41= 4098.044999
+note 42= 4179.471000
+note 43= 4296.578000
+note 44= 4375.316000
+note 45= 4489.735000
+note 46= 4593.200000
+note 47= 4682.892000
+note 48= 4800.000000
+note 49= 4876.049000
+note 50= 4993.157000
+note 51= 5085.600000
+note 52= 5186.313714
+note 53= 5298.044999
+note 54= 5379.471000
+note 55= 5496.578000
+note 56= 5575.316000
+note 57= 5689.735000
+note 58= 5793.200000
+note 59= 5882.892000
+note 60= 6000.000000
+note 61= 6076.049000
+note 62= 6193.157000
+note 63= 6285.600000
+note 64= 6386.313714
+note 65= 6498.044999
+note 66= 6579.471000
+note 67= 6696.578000
+note 68= 6775.316000
+note 69= 6889.735000
+note 70= 6993.200000
+note 71= 7082.892000
+note 72= 7200.000000
+note 73= 7276.049000
+note 74= 7393.157000
+note 75= 7485.600000
+note 76= 7586.313714
+note 77= 7698.044999
+note 78= 7779.471000
+note 79= 7896.578000
+note 80= 7975.316000
+note 81= 8089.735000
+note 82= 8193.200000
+note 83= 8282.892000
+note 84= 8400.000000
+note 85= 8476.049000
+note 86= 8593.157000
+note 87= 8685.600000
+note 88= 8786.313714
+note 89= 8898.044999
+note 90= 8979.471000
+note 91= 9096.578000
+note 92= 9175.316000
+note 93= 9289.735000
+note 94= 9393.200000
+note 95= 9482.892000
+note 96= 9600.000000
+note 97= 9676.049000
+note 98= 9793.157000
+note 99= 9885.600000
+note 100= 9986.313714
+note 101= 10098.044999
+note 102= 10179.471000
+note 103= 10296.578000
+note 104= 10375.316000
+note 105= 10489.735000
+note 106= 10593.200000
+note 107= 10682.892000
+note 108= 10800.000000
+note 109= 10876.049000
+note 110= 10993.157000
+note 111= 11085.600000
+note 112= 11186.313714
+note 113= 11298.044999
+note 114= 11379.471000
+note 115= 11496.578000
+note 116= 11575.316000
+note 117= 11689.735000
+note 118= 11793.200000
+note 119= 11882.892000
+note 120= 12000.000000
+note 121= 12076.049000
+note 122= 12193.157000
+note 123= 12285.600000
+note 124= 12386.313714
+note 125= 12498.044999
+note 126= 12579.471000
+note 127= 12696.578000
+
+[Functional Tuning]
+note 1="#=0 % 76.049000"
+note 2="#=0 % 193.157000"
+note 3="#=0 % 285.600000"
+note 4="#=0 * 5/4"
+note 5="#=0 * 4/3"
+note 6="#=0 % 579.471000"
+note 7="#=0 % 696.578000"
+note 8="#=0 % 775.316000"
+note 9="#=0 % 889.735000"
+note 10="#=0 % 993.200000"
+note 11="#=0 % 1082.892000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Marpurg's temperament D, 1/12 and 1/6 Pyth. comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=98
+note 2=198
+note 3=300
+note 4=398
+note 5=498
+note 6=600
+note 7=698
+note 8=798
+note 9=900
+note 10=998
+note 11=1098
+note 12=1200
+note 13=1298
+note 14=1398
+note 15=1500
+note 16=1598
+note 17=1698
+note 18=1800
+note 19=1898
+note 20=1998
+note 21=2100
+note 22=2198
+note 23=2298
+note 24=2400
+note 25=2498
+note 26=2598
+note 27=2700
+note 28=2798
+note 29=2898
+note 30=3000
+note 31=3098
+note 32=3198
+note 33=3300
+note 34=3398
+note 35=3498
+note 36=3600
+note 37=3698
+note 38=3798
+note 39=3900
+note 40=3998
+note 41=4098
+note 42=4200
+note 43=4298
+note 44=4398
+note 45=4500
+note 46=4598
+note 47=4698
+note 48=4800
+note 49=4898
+note 50=4998
+note 51=5100
+note 52=5198
+note 53=5298
+note 54=5400
+note 55=5498
+note 56=5598
+note 57=5700
+note 58=5798
+note 59=5898
+note 60=6000
+note 61=6098
+note 62=6198
+note 63=6300
+note 64=6398
+note 65=6498
+note 66=6600
+note 67=6698
+note 68=6798
+note 69=6900
+note 70=6998
+note 71=7098
+note 72=7200
+note 73=7298
+note 74=7398
+note 75=7500
+note 76=7598
+note 77=7698
+note 78=7800
+note 79=7898
+note 80=7998
+note 81=8100
+note 82=8198
+note 83=8298
+note 84=8400
+note 85=8498
+note 86=8598
+note 87=8700
+note 88=8798
+note 89=8898
+note 90=9000
+note 91=9098
+note 92=9198
+note 93=9300
+note 94=9398
+note 95=9498
+note 96=9600
+note 97=9698
+note 98=9798
+note 99=9900
+note 100=9998
+note 101=10098
+note 102=10200
+note 103=10298
+note 104=10398
+note 105=10500
+note 106=10598
+note 107=10698
+note 108=10800
+note 109=10898
+note 110=10998
+note 111=11100
+note 112=11198
+note 113=11298
+note 114=11400
+note 115=11498
+note 116=11598
+note 117=11700
+note 118=11798
+note 119=11898
+note 120=12000
+note 121=12098
+note 122=12198
+note 123=12300
+note 124=12398
+note 125=12498
+note 126=12600
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "marpurg-d.tun"
+ID= "ID_marpurg-d.tun"
+Filename= "marpurg-d.scl"
+Description= "Marpurg's temperament D, 1/12 and 1/6 Pyth. comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.045000
+note 2= 198.045000
+note 3= 300.000000
+note 4= 398.045000
+note 5= 498.044999
+note 6= 600.000000
+note 7= 698.045000
+note 8= 798.045000
+note 9= 900.000000
+note 10= 998.045000
+note 11= 1098.045000
+note 12= 1200.000000
+note 13= 1298.045000
+note 14= 1398.045000
+note 15= 1500.000000
+note 16= 1598.045000
+note 17= 1698.044999
+note 18= 1800.000000
+note 19= 1898.045000
+note 20= 1998.045000
+note 21= 2100.000000
+note 22= 2198.045000
+note 23= 2298.045000
+note 24= 2400.000000
+note 25= 2498.045000
+note 26= 2598.045000
+note 27= 2700.000000
+note 28= 2798.045000
+note 29= 2898.044999
+note 30= 3000.000000
+note 31= 3098.045000
+note 32= 3198.045000
+note 33= 3300.000000
+note 34= 3398.045000
+note 35= 3498.045000
+note 36= 3600.000000
+note 37= 3698.045000
+note 38= 3798.045000
+note 39= 3900.000000
+note 40= 3998.045000
+note 41= 4098.044999
+note 42= 4200.000000
+note 43= 4298.045000
+note 44= 4398.045000
+note 45= 4500.000000
+note 46= 4598.045000
+note 47= 4698.045000
+note 48= 4800.000000
+note 49= 4898.045000
+note 50= 4998.045000
+note 51= 5100.000000
+note 52= 5198.045000
+note 53= 5298.044999
+note 54= 5400.000000
+note 55= 5498.045000
+note 56= 5598.045000
+note 57= 5700.000000
+note 58= 5798.045000
+note 59= 5898.045000
+note 60= 6000.000000
+note 61= 6098.045000
+note 62= 6198.045000
+note 63= 6300.000000
+note 64= 6398.045000
+note 65= 6498.044999
+note 66= 6600.000000
+note 67= 6698.045000
+note 68= 6798.045000
+note 69= 6900.000000
+note 70= 6998.045000
+note 71= 7098.045000
+note 72= 7200.000000
+note 73= 7298.045000
+note 74= 7398.045000
+note 75= 7500.000000
+note 76= 7598.045000
+note 77= 7698.044999
+note 78= 7800.000000
+note 79= 7898.045000
+note 80= 7998.045000
+note 81= 8100.000000
+note 82= 8198.045000
+note 83= 8298.045000
+note 84= 8400.000000
+note 85= 8498.045000
+note 86= 8598.045000
+note 87= 8700.000000
+note 88= 8798.045000
+note 89= 8898.044999
+note 90= 9000.000000
+note 91= 9098.045000
+note 92= 9198.045000
+note 93= 9300.000000
+note 94= 9398.045000
+note 95= 9498.045000
+note 96= 9600.000000
+note 97= 9698.045000
+note 98= 9798.045000
+note 99= 9900.000000
+note 100= 9998.045000
+note 101= 10098.044999
+note 102= 10200.000000
+note 103= 10298.045000
+note 104= 10398.045000
+note 105= 10500.000000
+note 106= 10598.045000
+note 107= 10698.045000
+note 108= 10800.000000
+note 109= 10898.045000
+note 110= 10998.045000
+note 111= 11100.000000
+note 112= 11198.045000
+note 113= 11298.044999
+note 114= 11400.000000
+note 115= 11498.045000
+note 116= 11598.045000
+note 117= 11700.000000
+note 118= 11798.045000
+note 119= 11898.045000
+note 120= 12000.000000
+note 121= 12098.045000
+note 122= 12198.045000
+note 123= 12300.000000
+note 124= 12398.045000
+note 125= 12498.044999
+note 126= 12600.000000
+note 127= 12698.045000
+
+[Functional Tuning]
+note 1="#=0 % 98.045000"
+note 2="#=0 % 198.045000"
+note 3="#=0 % 300.000000"
+note 4="#=0 % 398.045000"
+note 5="#=0 * 4/3"
+note 6="#=0 % 600.000000"
+note 7="#=0 % 698.045000"
+note 8="#=0 % 798.045000"
+note 9="#=0 % 900.000000"
+note 10="#=0 % 998.045000"
+note 11="#=0 % 1098.045000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

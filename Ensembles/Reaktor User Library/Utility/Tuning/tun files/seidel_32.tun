@@ -1,0 +1,314 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Dave Seidel, Base 9:7:4 Symmetry, scale for Passacaglia and Fugue State (2005)
+;
+; VAZ Plus section
+[Tuning]
+note 0=3647
+note 1=3679
+note 2=3686
+note 3=3699
+note 4=3705
+note 5=3718
+note 6=3736
+note 7=3743
+note 8=3749
+note 9=3761
+note 10=3774
+note 11=3780
+note 12=3804
+note 13=4569
+note 14=4584
+note 15=4592
+note 16=4607
+note 17=4630
+note 18=4637
+note 19=4659
+note 20=4674
+note 21=4681
+note 22=4695
+note 23=4717
+note 24=4745
+note 25=4766
+note 26=4773
+note 27=4786
+note 28=4800
+note 29=4807
+note 30=4833
+note 31=4840
+note 32=4847
+note 33=4879
+note 34=4886
+note 35=4899
+note 36=4905
+note 37=4918
+note 38=4936
+note 39=4943
+note 40=4949
+note 41=4961
+note 42=4974
+note 43=4980
+note 44=5004
+note 45=5769
+note 46=5784
+note 47=5792
+note 48=5807
+note 49=5830
+note 50=5837
+note 51=5859
+note 52=5874
+note 53=5881
+note 54=5895
+note 55=5917
+note 56=5945
+note 57=5966
+note 58=5973
+note 59=5986
+note 60=6000
+note 61=6007
+note 62=6033
+note 63=6040
+note 64=6047
+note 65=6079
+note 66=6086
+note 67=6099
+note 68=6105
+note 69=6118
+note 70=6136
+note 71=6143
+note 72=6149
+note 73=6161
+note 74=6174
+note 75=6180
+note 76=6204
+note 77=6969
+note 78=6984
+note 79=6992
+note 80=7007
+note 81=7030
+note 82=7037
+note 83=7059
+note 84=7074
+note 85=7081
+note 86=7095
+note 87=7117
+note 88=7145
+note 89=7166
+note 90=7173
+note 91=7186
+note 92=7200
+note 93=7207
+note 94=7233
+note 95=7240
+note 96=7247
+note 97=7279
+note 98=7286
+note 99=7299
+note 100=7305
+note 101=7318
+note 102=7336
+note 103=7343
+note 104=7349
+note 105=7361
+note 106=7374
+note 107=7380
+note 108=7404
+note 109=8169
+note 110=8184
+note 111=8192
+note 112=8207
+note 113=8230
+note 114=8237
+note 115=8259
+note 116=8274
+note 117=8281
+note 118=8295
+note 119=8317
+note 120=8345
+note 121=8366
+note 122=8373
+note 123=8386
+note 124=8400
+note 125=8407
+note 126=8433
+note 127=8440
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "seidel_32.tun"
+ID= "ID_seidel_32.tun"
+Filename= "seidel_32.scl"
+Description= "Dave Seidel, Base 9:7:4 Symmetry, scale for Passacaglia and Fugue State (2005)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3646.702787
+note 1= 3679.307029
+note 2= 3685.754835
+note 3= 3698.578850
+note 4= 3704.955410
+note 5= 3717.638500
+note 6= 3736.490599
+note 7= 3742.729287
+note 8= 3748.945574
+note 9= 3761.311584
+note 10= 3773.589891
+note 11= 3779.696543
+note 12= 3803.910002
+note 13= 4568.825906
+note 14= 4584.214755
+note 15= 4591.858185
+note 16= 4607.044546
+note 17= 4629.577194
+note 18= 4637.023374
+note 19= 4659.171659
+note 20= 4673.781316
+note 21= 4681.040170
+note 22= 4695.467203
+note 23= 4716.884805
+note 24= 4745.035572
+note 25= 4765.852265
+note 26= 4772.735908
+note 27= 4786.421624
+note 28= 4800.000000
+note 29= 4806.749459
+note 30= 4833.487196
+note 31= 4840.107602
+note 32= 4846.702787
+note 33= 4879.307029
+note 34= 4885.754835
+note 35= 4898.578850
+note 36= 4904.955410
+note 37= 4917.638500
+note 38= 4936.490599
+note 39= 4942.729287
+note 40= 4948.945574
+note 41= 4961.311584
+note 42= 4973.589891
+note 43= 4979.696543
+note 44= 5003.910002
+note 45= 5768.825906
+note 46= 5784.214755
+note 47= 5791.858185
+note 48= 5807.044546
+note 49= 5829.577194
+note 50= 5837.023374
+note 51= 5859.171659
+note 52= 5873.781316
+note 53= 5881.040170
+note 54= 5895.467203
+note 55= 5916.884805
+note 56= 5945.035572
+note 57= 5965.852265
+note 58= 5972.735908
+note 59= 5986.421624
+note 60= 6000.000000
+note 61= 6006.749459
+note 62= 6033.487196
+note 63= 6040.107602
+note 64= 6046.702787
+note 65= 6079.307029
+note 66= 6085.754835
+note 67= 6098.578850
+note 68= 6104.955410
+note 69= 6117.638500
+note 70= 6136.490599
+note 71= 6142.729287
+note 72= 6148.945574
+note 73= 6161.311584
+note 74= 6173.589891
+note 75= 6179.696543
+note 76= 6203.910002
+note 77= 6968.825906
+note 78= 6984.214755
+note 79= 6991.858185
+note 80= 7007.044546
+note 81= 7029.577194
+note 82= 7037.023374
+note 83= 7059.171659
+note 84= 7073.781316
+note 85= 7081.040170
+note 86= 7095.467203
+note 87= 7116.884805
+note 88= 7145.035572
+note 89= 7165.852265
+note 90= 7172.735908
+note 91= 7186.421624
+note 92= 7200.000000
+note 93= 7206.749459
+note 94= 7233.487196
+note 95= 7240.107602
+note 96= 7246.702787
+note 97= 7279.307029
+note 98= 7285.754835
+note 99= 7298.578850
+note 100= 7304.955410
+note 101= 7317.638500
+note 102= 7336.490599
+note 103= 7342.729287
+note 104= 7348.945574
+note 105= 7361.311584
+note 106= 7373.589891
+note 107= 7379.696543
+note 108= 7403.910002
+note 109= 8168.825906
+note 110= 8184.214755
+note 111= 8191.858185
+note 112= 8207.044546
+note 113= 8229.577194
+note 114= 8237.023374
+note 115= 8259.171659
+note 116= 8273.781316
+note 117= 8281.040170
+note 118= 8295.467203
+note 119= 8316.884805
+note 120= 8345.035572
+note 121= 8365.852265
+note 122= 8372.735908
+note 123= 8386.421624
+note 124= 8400.000000
+note 125= 8406.749459
+note 126= 8433.487196
+note 127= 8440.107602
+
+[Functional Tuning]
+note 1="#=0 * 257/256"
+note 2="#=0 * 261/256"
+note 3="#=0 * 131/128"
+note 4="#=0 * 263/256"
+note 5="#=0 * 67/64"
+note 6="#=0 * 269/256"
+note 7="#=0 * 271/256"
+note 8="#=0 * 17/16"
+note 9="#=0 * 137/128"
+note 10="#=0 * 277/256"
+note 11="#=0 * 139/128"
+note 12="#=0 * 279/256"
+note 13="#=0 * 281/256"
+note 14="#=0 * 283/256"
+note 15="#=0 * 71/64"
+note 16="#=0 * 9/8"
+note 17="#=0 * 7/4"
+note 18="#=0 * 113/64"
+note 19="#=0 * 227/128"
+note 20="#=0 * 229/128"
+note 21="#=0 * 29/16"
+note 22="#=0 * 233/128"
+note 23="#=0 * 59/32"
+note 24="#=0 * 119/64"
+note 25="#=0 * 239/128"
+note 26="#=0 * 241/128"
+note 27="#=0 * 61/32"
+note 28="#=0 * 31/16"
+note 29="#=0 * 251/128"
+note 30="#=0 * 63/32"
+note 31="#=0 * 127/64"
+note 32="#>-32 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Herman Miller, 7-limit (slightly tempered) "reflections" scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=63
+note 2=204
+note 3=267
+note 4=384
+note 5=498
+note 6=583
+note 7=702
+note 8=765
+note 9=884
+note 10=969
+note 11=1083
+note 12=1200
+note 13=1263
+note 14=1404
+note 15=1467
+note 16=1584
+note 17=1698
+note 18=1783
+note 19=1902
+note 20=1965
+note 21=2084
+note 22=2169
+note 23=2283
+note 24=2400
+note 25=2463
+note 26=2604
+note 27=2667
+note 28=2784
+note 29=2898
+note 30=2983
+note 31=3102
+note 32=3165
+note 33=3284
+note 34=3369
+note 35=3483
+note 36=3600
+note 37=3663
+note 38=3804
+note 39=3867
+note 40=3984
+note 41=4098
+note 42=4183
+note 43=4302
+note 44=4365
+note 45=4484
+note 46=4569
+note 47=4683
+note 48=4800
+note 49=4863
+note 50=5004
+note 51=5067
+note 52=5184
+note 53=5298
+note 54=5383
+note 55=5502
+note 56=5565
+note 57=5684
+note 58=5769
+note 59=5883
+note 60=6000
+note 61=6063
+note 62=6204
+note 63=6267
+note 64=6384
+note 65=6498
+note 66=6583
+note 67=6702
+note 68=6765
+note 69=6884
+note 70=6969
+note 71=7083
+note 72=7200
+note 73=7263
+note 74=7404
+note 75=7467
+note 76=7584
+note 77=7698
+note 78=7783
+note 79=7902
+note 80=7965
+note 81=8084
+note 82=8169
+note 83=8283
+note 84=8400
+note 85=8463
+note 86=8604
+note 87=8667
+note 88=8784
+note 89=8898
+note 90=8983
+note 91=9102
+note 92=9165
+note 93=9284
+note 94=9369
+note 95=9483
+note 96=9600
+note 97=9663
+note 98=9804
+note 99=9867
+note 100=9984
+note 101=10098
+note 102=10183
+note 103=10302
+note 104=10365
+note 105=10484
+note 106=10569
+note 107=10683
+note 108=10800
+note 109=10863
+note 110=11004
+note 111=11067
+note 112=11184
+note 113=11298
+note 114=11383
+note 115=11502
+note 116=11565
+note 117=11684
+note 118=11769
+note 119=11883
+note 120=12000
+note 121=12063
+note 122=12204
+note 123=12267
+note 124=12384
+note 125=12498
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miller_reflections.tun"
+ID= "ID_miller_reflections.tun"
+Filename= "miller_reflections.scl"
+Description= "Herman Miller, 7-limit (slightly tempered) "reflections" scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 62.960904
+note 2= 203.910002
+note 3= 266.870906
+note 4= 383.743000
+note 5= 498.044999
+note 6= 582.512193
+note 7= 701.955001
+note 8= 764.915905
+note 9= 884.358713
+note 10= 968.825906
+note 11= 1083.128000
+note 12= 1200.000000
+note 13= 1262.960904
+note 14= 1403.910002
+note 15= 1466.870906
+note 16= 1583.743000
+note 17= 1698.044999
+note 18= 1782.512193
+note 19= 1901.955001
+note 20= 1964.915905
+note 21= 2084.358713
+note 22= 2168.825906
+note 23= 2283.128000
+note 24= 2400.000000
+note 25= 2462.960904
+note 26= 2603.910002
+note 27= 2666.870906
+note 28= 2783.743000
+note 29= 2898.044999
+note 30= 2982.512193
+note 31= 3101.955001
+note 32= 3164.915905
+note 33= 3284.358713
+note 34= 3368.825906
+note 35= 3483.128000
+note 36= 3600.000000
+note 37= 3662.960904
+note 38= 3803.910002
+note 39= 3866.870906
+note 40= 3983.743000
+note 41= 4098.044999
+note 42= 4182.512193
+note 43= 4301.955001
+note 44= 4364.915905
+note 45= 4484.358713
+note 46= 4568.825906
+note 47= 4683.128000
+note 48= 4800.000000
+note 49= 4862.960904
+note 50= 5003.910002
+note 51= 5066.870906
+note 52= 5183.743000
+note 53= 5298.044999
+note 54= 5382.512193
+note 55= 5501.955001
+note 56= 5564.915905
+note 57= 5684.358713
+note 58= 5768.825906
+note 59= 5883.128000
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6203.910002
+note 63= 6266.870906
+note 64= 6383.743000
+note 65= 6498.044999
+note 66= 6582.512193
+note 67= 6701.955001
+note 68= 6764.915905
+note 69= 6884.358713
+note 70= 6968.825906
+note 71= 7083.128000
+note 72= 7200.000000
+note 73= 7262.960904
+note 74= 7403.910002
+note 75= 7466.870906
+note 76= 7583.743000
+note 77= 7698.044999
+note 78= 7782.512193
+note 79= 7901.955001
+note 80= 7964.915905
+note 81= 8084.358713
+note 82= 8168.825906
+note 83= 8283.128000
+note 84= 8400.000000
+note 85= 8462.960904
+note 86= 8603.910002
+note 87= 8666.870906
+note 88= 8783.743000
+note 89= 8898.044999
+note 90= 8982.512193
+note 91= 9101.955001
+note 92= 9164.915905
+note 93= 9284.358713
+note 94= 9368.825906
+note 95= 9483.128000
+note 96= 9600.000000
+note 97= 9662.960904
+note 98= 9803.910002
+note 99= 9866.870906
+note 100= 9983.743000
+note 101= 10098.044999
+note 102= 10182.512193
+note 103= 10301.955001
+note 104= 10364.915905
+note 105= 10484.358713
+note 106= 10568.825906
+note 107= 10683.128000
+note 108= 10800.000000
+note 109= 10862.960904
+note 110= 11003.910002
+note 111= 11066.870906
+note 112= 11183.743000
+note 113= 11298.044999
+note 114= 11382.512193
+note 115= 11501.955001
+note 116= 11564.915905
+note 117= 11684.358713
+note 118= 11768.825906
+note 119= 11883.128000
+note 120= 12000.000000
+note 121= 12062.960904
+note 122= 12203.910002
+note 123= 12266.870906
+note 124= 12383.743000
+note 125= 12498.044999
+note 126= 12582.512193
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 9/8"
+note 3="#=0 * 7/6"
+note 4="#=0 % 383.743000"
+note 5="#=0 * 4/3"
+note 6="#=0 * 7/5"
+note 7="#=0 * 3/2"
+note 8="#=0 * 14/9"
+note 9="#=0 * 5/3"
+note 10="#=0 * 7/4"
+note 11="#=0 % 1083.128000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

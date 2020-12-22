@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jeff Scott's "just tritone/13" tuning. TL 17-03-2001
+;
+; VAZ Plus section
+[Tuning]
+note 0=-141
+note 1=46
+note 2=143
+note 3=294
+note 4=477
+note 5=525
+note 6=561
+note 7=610
+note 8=792
+note 9=877
+note 10=1059
+note 11=1108
+note 12=1147
+note 13=1178
+note 14=1366
+note 15=1494
+note 16=1633
+note 17=1677
+note 18=1725
+note 19=1761
+note 20=1948
+note 21=2045
+note 22=2196
+note 23=2378
+note 24=2427
+note 25=2463
+note 26=2512
+note 27=2694
+note 28=2779
+note 29=2961
+note 30=3010
+note 31=3049
+note 32=3080
+note 33=3268
+note 34=3396
+note 35=3535
+note 36=3578
+note 37=3627
+note 38=3663
+note 39=3850
+note 40=3947
+note 41=4098
+note 42=4280
+note 43=4329
+note 44=4365
+note 45=4414
+note 46=4596
+note 47=4681
+note 48=4863
+note 49=4912
+note 50=4951
+note 51=4982
+note 52=5170
+note 53=5298
+note 54=5437
+note 55=5480
+note 56=5529
+note 57=5565
+note 58=5752
+note 59=5849
+note 60=6000
+note 61=6182
+note 62=6231
+note 63=6267
+note 64=6316
+note 65=6498
+note 66=6583
+note 67=6765
+note 68=6814
+note 69=6853
+note 70=6884
+note 71=7072
+note 72=7200
+note 73=7339
+note 74=7382
+note 75=7431
+note 76=7467
+note 77=7654
+note 78=7751
+note 79=7902
+note 80=8084
+note 81=8133
+note 82=8169
+note 83=8218
+note 84=8400
+note 85=8484
+note 86=8667
+note 87=8716
+note 88=8755
+note 89=8786
+note 90=8974
+note 91=9102
+note 92=9241
+note 93=9284
+note 94=9333
+note 95=9369
+note 96=9556
+note 97=9653
+note 98=9804
+note 99=9986
+note 100=10035
+note 101=10071
+note 102=10120
+note 103=10302
+note 104=10386
+note 105=10569
+note 106=10618
+note 107=10657
+note 108=10688
+note 109=10876
+note 110=11004
+note 111=11142
+note 112=11186
+note 113=11235
+note 114=11271
+note 115=11458
+note 116=11555
+note 117=11706
+note 118=11888
+note 119=11937
+note 120=11973
+note 121=12022
+note 122=12204
+note 123=12288
+note 124=12471
+note 125=12520
+note 126=12558
+note 127=12590
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "scottj2.tun"
+ID= "ID_scottj2.tun"
+Filename= "scottj2.scl"
+Description= "Jeff Scott's "just tritone/13" tuning. TL 17-03-2001"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-140.949098
+note 1= 46.393944
+note 2= 143.497939
+note 3= 294.134997
+note 4= 476.538710
+note 5= 525.309091
+note 6= 561.005903
+note 7= 609.776284
+note 8= 792.179997
+note 9= 876.647190
+note 10= 1059.050902
+note 11= 1107.821284
+note 12= 1146.727057
+note 13= 1178.493710
+note 14= 1365.836753
+note 15= 1494.134997
+note 16= 1632.707658
+note 17= 1676.538710
+note 18= 1725.309091
+note 19= 1761.005903
+note 20= 1948.348945
+note 21= 2045.452940
+note 22= 2196.089998
+note 23= 2378.493710
+note 24= 2427.264092
+note 25= 2462.960904
+note 26= 2511.731285
+note 27= 2694.134997
+note 28= 2778.602191
+note 29= 2961.005903
+note 30= 3009.776284
+note 31= 3048.682058
+note 32= 3080.448711
+note 33= 3267.791754
+note 34= 3396.089998
+note 35= 3534.662659
+note 36= 3578.493710
+note 37= 3627.264092
+note 38= 3662.960904
+note 39= 3850.303946
+note 40= 3947.407941
+note 41= 4098.044999
+note 42= 4280.448711
+note 43= 4329.219093
+note 44= 4364.915905
+note 45= 4413.686286
+note 46= 4596.089998
+note 47= 4680.557192
+note 48= 4862.960904
+note 49= 4911.731285
+note 50= 4950.637059
+note 51= 4982.403712
+note 52= 5169.746754
+note 53= 5298.044999
+note 54= 5436.617660
+note 55= 5480.448711
+note 56= 5529.219093
+note 57= 5564.915905
+note 58= 5752.258947
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6182.403712
+note 62= 6231.174094
+note 63= 6266.870906
+note 64= 6315.641287
+note 65= 6498.044999
+note 66= 6582.512193
+note 67= 6764.915905
+note 68= 6813.686286
+note 69= 6852.592059
+note 70= 6884.358713
+note 71= 7071.701755
+note 72= 7200.000000
+note 73= 7338.572661
+note 74= 7382.403712
+note 75= 7431.174094
+note 76= 7466.870906
+note 77= 7654.213948
+note 78= 7751.317942
+note 79= 7901.955001
+note 80= 8084.358713
+note 81= 8133.129094
+note 82= 8168.825906
+note 83= 8217.596288
+note 84= 8400.000000
+note 85= 8484.467193
+note 86= 8666.870906
+note 87= 8715.641287
+note 88= 8754.547060
+note 89= 8786.313714
+note 90= 8973.656756
+note 91= 9101.955001
+note 92= 9240.527662
+note 93= 9284.358713
+note 94= 9333.129094
+note 95= 9368.825906
+note 96= 9556.168949
+note 97= 9653.272943
+note 98= 9803.910002
+note 99= 9986.313714
+note 100= 10035.084095
+note 101= 10070.780907
+note 102= 10119.551289
+note 103= 10301.955001
+note 104= 10386.422194
+note 105= 10568.825906
+note 106= 10617.596288
+note 107= 10656.502061
+note 108= 10688.268715
+note 109= 10875.611757
+note 110= 11003.910002
+note 111= 11142.482663
+note 112= 11186.313714
+note 113= 11235.084095
+note 114= 11270.780907
+note 115= 11458.123950
+note 116= 11555.227944
+note 117= 11705.865003
+note 118= 11888.268715
+note 119= 11937.039096
+note 120= 11972.735908
+note 121= 12021.506290
+note 122= 12203.910002
+note 123= 12288.377195
+note 124= 12470.780907
+note 125= 12519.551289
+note 126= 12558.457062
+note 127= 12590.223716
+
+[Functional Tuning]
+note 1="#=0 * 10/9"
+note 2="#=0 * 8/7"
+note 3="#=0 * 7/6"
+note 4="#=0 * 6/5"
+note 5="#=0 * 4/3"
+note 6="#=0 * 7/5"
+note 7="#=0 * 14/9"
+note 8="#=0 * 8/5"
+note 9="#=0 * 18/11"
+note 10="#=0 * 5/3"
+note 11="#=0 * 13/7"
+note 12="#=0 * 2/1"
+note 13="#=0 * 13/6"
+note 14="#=0 * 20/9"
+note 15="#=0 * 16/7"
+note 16="#=0 * 7/3"
+note 17="#=0 * 13/5"
+note 18="#=0 * 11/4"
+note 19="#>-19 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

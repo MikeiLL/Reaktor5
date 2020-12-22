@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Weak Fokker block tweaked from Dwarf(<14 23 36 40|)
+;
+; VAZ Plus section
+[Tuning]
+note 0=884
+note 1=933
+note 2=969
+note 3=1018
+note 4=1200
+note 5=1431
+note 6=1467
+note 7=1516
+note 8=1698
+note 9=1783
+note 10=1902
+note 11=1965
+note 12=2014
+note 13=2049
+note 14=2084
+note 15=2133
+note 16=2169
+note 17=2218
+note 18=2400
+note 19=2631
+note 20=2667
+note 21=2716
+note 22=2898
+note 23=2983
+note 24=3102
+note 25=3165
+note 26=3214
+note 27=3249
+note 28=3284
+note 29=3333
+note 30=3369
+note 31=3418
+note 32=3600
+note 33=3831
+note 34=3867
+note 35=3916
+note 36=4098
+note 37=4183
+note 38=4302
+note 39=4365
+note 40=4414
+note 41=4449
+note 42=4484
+note 43=4533
+note 44=4569
+note 45=4618
+note 46=4800
+note 47=5031
+note 48=5067
+note 49=5116
+note 50=5298
+note 51=5383
+note 52=5502
+note 53=5565
+note 54=5614
+note 55=5649
+note 56=5684
+note 57=5733
+note 58=5769
+note 59=5818
+note 60=6000
+note 61=6231
+note 62=6267
+note 63=6316
+note 64=6498
+note 65=6583
+note 66=6702
+note 67=6765
+note 68=6814
+note 69=6849
+note 70=6884
+note 71=6933
+note 72=6969
+note 73=7018
+note 74=7200
+note 75=7431
+note 76=7467
+note 77=7516
+note 78=7698
+note 79=7783
+note 80=7902
+note 81=7965
+note 82=8014
+note 83=8049
+note 84=8084
+note 85=8133
+note 86=8169
+note 87=8218
+note 88=8400
+note 89=8631
+note 90=8667
+note 91=8716
+note 92=8898
+note 93=8983
+note 94=9102
+note 95=9165
+note 96=9214
+note 97=9249
+note 98=9284
+note 99=9333
+note 100=9369
+note 101=9418
+note 102=9600
+note 103=9831
+note 104=9867
+note 105=9916
+note 106=10098
+note 107=10183
+note 108=10302
+note 109=10365
+note 110=10414
+note 111=10449
+note 112=10484
+note 113=10533
+note 114=10569
+note 115=10618
+note 116=10800
+note 117=11031
+note 118=11067
+note 119=11116
+note 120=11298
+note 121=11383
+note 122=11502
+note 123=11565
+note 124=11614
+note 125=11649
+note 126=11684
+note 127=11733
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dwart14block.tun"
+ID= "ID_dwart14block.tun"
+Filename= "dwart14block.scl"
+Description= "Weak Fokker block tweaked from Dwarf(<14 23 36 40|)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 884.358713
+note 1= 933.129094
+note 2= 968.825906
+note 3= 1017.596288
+note 4= 1200.000000
+note 5= 1431.174094
+note 6= 1466.870906
+note 7= 1515.641287
+note 8= 1698.044999
+note 9= 1782.512193
+note 10= 1901.955001
+note 11= 1964.915905
+note 12= 2013.686286
+note 13= 2049.383098
+note 14= 2084.358713
+note 15= 2133.129094
+note 16= 2168.825906
+note 17= 2217.596288
+note 18= 2400.000000
+note 19= 2631.174094
+note 20= 2666.870906
+note 21= 2715.641287
+note 22= 2898.044999
+note 23= 2982.512193
+note 24= 3101.955001
+note 25= 3164.915905
+note 26= 3213.686286
+note 27= 3249.383098
+note 28= 3284.358713
+note 29= 3333.129094
+note 30= 3368.825906
+note 31= 3417.596288
+note 32= 3600.000000
+note 33= 3831.174094
+note 34= 3866.870906
+note 35= 3915.641287
+note 36= 4098.044999
+note 37= 4182.512193
+note 38= 4301.955001
+note 39= 4364.915905
+note 40= 4413.686286
+note 41= 4449.383098
+note 42= 4484.358713
+note 43= 4533.129094
+note 44= 4568.825906
+note 45= 4617.596288
+note 46= 4800.000000
+note 47= 5031.174094
+note 48= 5066.870906
+note 49= 5115.641287
+note 50= 5298.044999
+note 51= 5382.512193
+note 52= 5501.955001
+note 53= 5564.915905
+note 54= 5613.686286
+note 55= 5649.383098
+note 56= 5684.358713
+note 57= 5733.129094
+note 58= 5768.825906
+note 59= 5817.596288
+note 60= 6000.000000
+note 61= 6231.174094
+note 62= 6266.870906
+note 63= 6315.641287
+note 64= 6498.044999
+note 65= 6582.512193
+note 66= 6701.955001
+note 67= 6764.915905
+note 68= 6813.686286
+note 69= 6849.383098
+note 70= 6884.358713
+note 71= 6933.129094
+note 72= 6968.825906
+note 73= 7017.596288
+note 74= 7200.000000
+note 75= 7431.174094
+note 76= 7466.870906
+note 77= 7515.641287
+note 78= 7698.044999
+note 79= 7782.512193
+note 80= 7901.955001
+note 81= 7964.915905
+note 82= 8013.686286
+note 83= 8049.383098
+note 84= 8084.358713
+note 85= 8133.129094
+note 86= 8168.825906
+note 87= 8217.596288
+note 88= 8400.000000
+note 89= 8631.174094
+note 90= 8666.870906
+note 91= 8715.641287
+note 92= 8898.044999
+note 93= 8982.512193
+note 94= 9101.955001
+note 95= 9164.915905
+note 96= 9213.686286
+note 97= 9249.383098
+note 98= 9284.358713
+note 99= 9333.129094
+note 100= 9368.825906
+note 101= 9417.596288
+note 102= 9600.000000
+note 103= 9831.174094
+note 104= 9866.870906
+note 105= 9915.641287
+note 106= 10098.044999
+note 107= 10182.512193
+note 108= 10301.955001
+note 109= 10364.915905
+note 110= 10413.686286
+note 111= 10449.383098
+note 112= 10484.358713
+note 113= 10533.129094
+note 114= 10568.825906
+note 115= 10617.596288
+note 116= 10800.000000
+note 117= 11031.174094
+note 118= 11066.870906
+note 119= 11115.641287
+note 120= 11298.044999
+note 121= 11382.512193
+note 122= 11501.955001
+note 123= 11564.915905
+note 124= 11613.686286
+note 125= 11649.383098
+note 126= 11684.358713
+note 127= 11733.129094
+
+[Functional Tuning]
+note 1="#=0 * 8/7"
+note 2="#=0 * 7/6"
+note 3="#=0 * 6/5"
+note 4="#=0 * 4/3"
+note 5="#=0 * 7/5"
+note 6="#=0 * 3/2"
+note 7="#=0 * 14/9"
+note 8="#=0 * 8/5"
+note 9="#=0 * 49/30"
+note 10="#=0 * 5/3"
+note 11="#=0 * 12/7"
+note 12="#=0 * 7/4"
+note 13="#=0 * 9/5"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

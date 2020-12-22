@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; A 15-note chord-based detempering of 7-limit porcupine
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1271
+note 2=1355
+note 3=1431
+note 4=1516
+note 5=1586
+note 6=1698
+note 7=1747
+note 8=1853
+note 9=1902
+note 10=2014
+note 11=2084
+note 12=2169
+note 13=2245
+note 14=2329
+note 15=2400
+note 16=2471
+note 17=2555
+note 18=2631
+note 19=2716
+note 20=2786
+note 21=2898
+note 22=2947
+note 23=3053
+note 24=3102
+note 25=3214
+note 26=3284
+note 27=3369
+note 28=3445
+note 29=3529
+note 30=3600
+note 31=3671
+note 32=3755
+note 33=3831
+note 34=3916
+note 35=3986
+note 36=4098
+note 37=4147
+note 38=4253
+note 39=4302
+note 40=4414
+note 41=4484
+note 42=4569
+note 43=4645
+note 44=4729
+note 45=4800
+note 46=4871
+note 47=4955
+note 48=5031
+note 49=5116
+note 50=5186
+note 51=5298
+note 52=5347
+note 53=5453
+note 54=5502
+note 55=5614
+note 56=5684
+note 57=5769
+note 58=5845
+note 59=5929
+note 60=6000
+note 61=6071
+note 62=6155
+note 63=6231
+note 64=6316
+note 65=6386
+note 66=6498
+note 67=6547
+note 68=6653
+note 69=6702
+note 70=6814
+note 71=6884
+note 72=6969
+note 73=7045
+note 74=7129
+note 75=7200
+note 76=7271
+note 77=7355
+note 78=7431
+note 79=7516
+note 80=7586
+note 81=7698
+note 82=7747
+note 83=7853
+note 84=7902
+note 85=8014
+note 86=8084
+note 87=8169
+note 88=8245
+note 89=8329
+note 90=8400
+note 91=8471
+note 92=8555
+note 93=8631
+note 94=8716
+note 95=8786
+note 96=8898
+note 97=8947
+note 98=9053
+note 99=9102
+note 100=9214
+note 101=9284
+note 102=9369
+note 103=9445
+note 104=9529
+note 105=9600
+note 106=9671
+note 107=9755
+note 108=9831
+note 109=9916
+note 110=9986
+note 111=10098
+note 112=10147
+note 113=10253
+note 114=10302
+note 115=10414
+note 116=10484
+note 117=10569
+note 118=10645
+note 119=10729
+note 120=10800
+note 121=10871
+note 122=10955
+note 123=11031
+note 124=11116
+note 125=11186
+note 126=11298
+note 127=11347
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "deporcy.tun"
+ID= "ID_deporcy.tun"
+Filename= "deporcy.scl"
+Description= "A 15-note chord-based detempering of 7-limit porcupine"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1270.672427
+note 2= 1355.139620
+note 3= 1431.174094
+note 4= 1515.641287
+note 5= 1586.313714
+note 6= 1698.044999
+note 7= 1746.815381
+note 8= 1853.184619
+note 9= 1901.955001
+note 10= 2013.686286
+note 11= 2084.358713
+note 12= 2168.825906
+note 13= 2244.860380
+note 14= 2329.327573
+note 15= 2400.000000
+note 16= 2470.672427
+note 17= 2555.139620
+note 18= 2631.174094
+note 19= 2715.641287
+note 20= 2786.313714
+note 21= 2898.044999
+note 22= 2946.815381
+note 23= 3053.184619
+note 24= 3101.955001
+note 25= 3213.686286
+note 26= 3284.358713
+note 27= 3368.825906
+note 28= 3444.860380
+note 29= 3529.327573
+note 30= 3600.000000
+note 31= 3670.672427
+note 32= 3755.139620
+note 33= 3831.174094
+note 34= 3915.641287
+note 35= 3986.313714
+note 36= 4098.044999
+note 37= 4146.815381
+note 38= 4253.184619
+note 39= 4301.955001
+note 40= 4413.686286
+note 41= 4484.358713
+note 42= 4568.825906
+note 43= 4644.860380
+note 44= 4729.327573
+note 45= 4800.000000
+note 46= 4870.672427
+note 47= 4955.139620
+note 48= 5031.174094
+note 49= 5115.641287
+note 50= 5186.313714
+note 51= 5298.044999
+note 52= 5346.815381
+note 53= 5453.184619
+note 54= 5501.955001
+note 55= 5613.686286
+note 56= 5684.358713
+note 57= 5768.825906
+note 58= 5844.860380
+note 59= 5929.327573
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6155.139620
+note 63= 6231.174094
+note 64= 6315.641287
+note 65= 6386.313714
+note 66= 6498.044999
+note 67= 6546.815381
+note 68= 6653.184619
+note 69= 6701.955001
+note 70= 6813.686286
+note 71= 6884.358713
+note 72= 6968.825906
+note 73= 7044.860380
+note 74= 7129.327573
+note 75= 7200.000000
+note 76= 7270.672427
+note 77= 7355.139620
+note 78= 7431.174094
+note 79= 7515.641287
+note 80= 7586.313714
+note 81= 7698.044999
+note 82= 7746.815381
+note 83= 7853.184619
+note 84= 7901.955001
+note 85= 8013.686286
+note 86= 8084.358713
+note 87= 8168.825906
+note 88= 8244.860380
+note 89= 8329.327573
+note 90= 8400.000000
+note 91= 8470.672427
+note 92= 8555.139620
+note 93= 8631.174094
+note 94= 8715.641287
+note 95= 8786.313714
+note 96= 8898.044999
+note 97= 8946.815381
+note 98= 9053.184619
+note 99= 9101.955001
+note 100= 9213.686286
+note 101= 9284.358713
+note 102= 9368.825906
+note 103= 9444.860380
+note 104= 9529.327573
+note 105= 9600.000000
+note 106= 9670.672427
+note 107= 9755.139620
+note 108= 9831.174094
+note 109= 9915.641287
+note 110= 9986.313714
+note 111= 10098.044999
+note 112= 10146.815381
+note 113= 10253.184619
+note 114= 10301.955001
+note 115= 10413.686286
+note 116= 10484.358713
+note 117= 10568.825906
+note 118= 10644.860380
+note 119= 10729.327573
+note 120= 10800.000000
+note 121= 10870.672427
+note 122= 10955.139620
+note 123= 11031.174094
+note 124= 11115.641287
+note 125= 11186.313714
+note 126= 11298.044999
+note 127= 11346.815381
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 35/32"
+note 3="#=0 * 8/7"
+note 4="#=0 * 6/5"
+note 5="#=0 * 5/4"
+note 6="#=0 * 4/3"
+note 7="#=0 * 48/35"
+note 8="#=0 * 35/24"
+note 9="#=0 * 3/2"
+note 10="#=0 * 8/5"
+note 11="#=0 * 5/3"
+note 12="#=0 * 7/4"
+note 13="#=0 * 64/35"
+note 14="#=0 * 48/25"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

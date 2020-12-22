@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Tom Dent's 19berger scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=90
+note 2=194
+note 3=298
+note 4=388
+note 5=499
+note 6=589
+note 7=697
+note 8=794
+note 9=891
+note 10=998
+note 11=1088
+note 12=1200
+note 13=1290
+note 14=1394
+note 15=1498
+note 16=1588
+note 17=1699
+note 18=1789
+note 19=1897
+note 20=1994
+note 21=2091
+note 22=2198
+note 23=2288
+note 24=2400
+note 25=2490
+note 26=2594
+note 27=2698
+note 28=2788
+note 29=2899
+note 30=2989
+note 31=3097
+note 32=3194
+note 33=3291
+note 34=3398
+note 35=3488
+note 36=3600
+note 37=3690
+note 38=3794
+note 39=3898
+note 40=3988
+note 41=4099
+note 42=4189
+note 43=4297
+note 44=4394
+note 45=4491
+note 46=4598
+note 47=4688
+note 48=4800
+note 49=4890
+note 50=4994
+note 51=5098
+note 52=5188
+note 53=5299
+note 54=5389
+note 55=5497
+note 56=5594
+note 57=5691
+note 58=5798
+note 59=5888
+note 60=6000
+note 61=6090
+note 62=6194
+note 63=6298
+note 64=6388
+note 65=6499
+note 66=6589
+note 67=6697
+note 68=6794
+note 69=6891
+note 70=6998
+note 71=7088
+note 72=7200
+note 73=7290
+note 74=7394
+note 75=7498
+note 76=7588
+note 77=7699
+note 78=7789
+note 79=7897
+note 80=7994
+note 81=8091
+note 82=8198
+note 83=8288
+note 84=8400
+note 85=8490
+note 86=8594
+note 87=8698
+note 88=8788
+note 89=8899
+note 90=8989
+note 91=9097
+note 92=9194
+note 93=9291
+note 94=9398
+note 95=9488
+note 96=9600
+note 97=9690
+note 98=9794
+note 99=9898
+note 100=9988
+note 101=10099
+note 102=10189
+note 103=10297
+note 104=10394
+note 105=10491
+note 106=10598
+note 107=10688
+note 108=10800
+note 109=10890
+note 110=10994
+note 111=11098
+note 112=11188
+note 113=11299
+note 114=11389
+note 115=11497
+note 116=11594
+note 117=11691
+note 118=11798
+note 119=11888
+note 120=12000
+note 121=12090
+note 122=12194
+note 123=12298
+note 124=12388
+note 125=12499
+note 126=12589
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dent_berger.tun"
+ID= "ID_dent_berger.tun"
+Filename= "dent_berger.scl"
+Description= "Tom Dent's 19berger scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 90.224996
+note 2= 193.906971
+note 3= 297.513016
+note 4= 387.738012
+note 5= 499.469297
+note 6= 589.246997
+note 7= 696.960710
+note 8= 793.604294
+note 9= 890.758846
+note 10= 998.491298
+note 11= 1088.268715
+note 12= 1200.000000
+note 13= 1290.224996
+note 14= 1393.906971
+note 15= 1497.513016
+note 16= 1587.738012
+note 17= 1699.469297
+note 18= 1789.246997
+note 19= 1896.960710
+note 20= 1993.604294
+note 21= 2090.758846
+note 22= 2198.491298
+note 23= 2288.268715
+note 24= 2400.000000
+note 25= 2490.224996
+note 26= 2593.906971
+note 27= 2697.513016
+note 28= 2787.738012
+note 29= 2899.469297
+note 30= 2989.246997
+note 31= 3096.960710
+note 32= 3193.604294
+note 33= 3290.758846
+note 34= 3398.491298
+note 35= 3488.268715
+note 36= 3600.000000
+note 37= 3690.224996
+note 38= 3793.906971
+note 39= 3897.513016
+note 40= 3987.738012
+note 41= 4099.469297
+note 42= 4189.246997
+note 43= 4296.960710
+note 44= 4393.604294
+note 45= 4490.758846
+note 46= 4598.491298
+note 47= 4688.268715
+note 48= 4800.000000
+note 49= 4890.224996
+note 50= 4993.906971
+note 51= 5097.513016
+note 52= 5187.738012
+note 53= 5299.469297
+note 54= 5389.246997
+note 55= 5496.960710
+note 56= 5593.604294
+note 57= 5690.758846
+note 58= 5798.491298
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6193.906971
+note 63= 6297.513016
+note 64= 6387.738012
+note 65= 6499.469297
+note 66= 6589.246997
+note 67= 6696.960710
+note 68= 6793.604294
+note 69= 6890.758846
+note 70= 6998.491298
+note 71= 7088.268715
+note 72= 7200.000000
+note 73= 7290.224996
+note 74= 7393.906971
+note 75= 7497.513016
+note 76= 7587.738012
+note 77= 7699.469297
+note 78= 7789.246997
+note 79= 7896.960710
+note 80= 7993.604294
+note 81= 8090.758846
+note 82= 8198.491298
+note 83= 8288.268715
+note 84= 8400.000000
+note 85= 8490.224996
+note 86= 8593.906971
+note 87= 8697.513016
+note 88= 8787.738012
+note 89= 8899.469297
+note 90= 8989.246997
+note 91= 9096.960710
+note 92= 9193.604294
+note 93= 9290.758846
+note 94= 9398.491298
+note 95= 9488.268715
+note 96= 9600.000000
+note 97= 9690.224996
+note 98= 9793.906971
+note 99= 9897.513016
+note 100= 9987.738012
+note 101= 10099.469297
+note 102= 10189.246997
+note 103= 10296.960710
+note 104= 10393.604294
+note 105= 10490.758846
+note 106= 10598.491298
+note 107= 10688.268715
+note 108= 10800.000000
+note 109= 10890.224996
+note 110= 10993.906971
+note 111= 11097.513016
+note 112= 11187.738012
+note 113= 11299.469297
+note 114= 11389.246997
+note 115= 11496.960710
+note 116= 11593.604294
+note 117= 11690.758846
+note 118= 11798.491298
+note 119= 11888.268715
+note 120= 12000.000000
+note 121= 12090.224996
+note 122= 12193.906971
+note 123= 12297.513016
+note 124= 12387.738012
+note 125= 12499.469297
+note 126= 12589.246997
+note 127= 12696.960710
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 151/135"
+note 3="#=0 * 19/16"
+note 4="#=0 * 304/243"
+note 5="#=0 * 4864/3645"
+note 6="#=0 * 2215/1576"
+note 7="#=0 * 2423/1620"
+note 8="#=0 * 155648/98415"
+note 9="#=0 * 271/162"
+note 10="#=0 * 8417/4728"
+note 11="#=0 * 15/8"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

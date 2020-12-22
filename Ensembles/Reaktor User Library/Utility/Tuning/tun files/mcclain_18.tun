@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; McClain's 18-tone scale, see page 143 of The Myth of Invariance
+;
+; VAZ Plus section
+[Tuning]
+note 0=1994
+note 1=2106
+note 2=2177
+note 3=2288
+note 4=2310
+note 5=2359
+note 6=2400
+note 7=2492
+note 8=2604
+note 9=2675
+note 10=2745
+note 11=2786
+note 12=2808
+note 13=2878
+note 14=2990
+note 15=3061
+note 16=3102
+note 17=3173
+note 18=3194
+note 19=3306
+note 20=3377
+note 21=3488
+note 22=3510
+note 23=3559
+note 24=3600
+note 25=3692
+note 26=3804
+note 27=3875
+note 28=3945
+note 29=3986
+note 30=4008
+note 31=4078
+note 32=4190
+note 33=4261
+note 34=4302
+note 35=4373
+note 36=4394
+note 37=4506
+note 38=4577
+note 39=4688
+note 40=4710
+note 41=4759
+note 42=4800
+note 43=4892
+note 44=5004
+note 45=5075
+note 46=5145
+note 47=5186
+note 48=5208
+note 49=5278
+note 50=5390
+note 51=5461
+note 52=5502
+note 53=5573
+note 54=5594
+note 55=5706
+note 56=5777
+note 57=5888
+note 58=5910
+note 59=5959
+note 60=6000
+note 61=6092
+note 62=6204
+note 63=6275
+note 64=6345
+note 65=6386
+note 66=6408
+note 67=6478
+note 68=6590
+note 69=6661
+note 70=6702
+note 71=6773
+note 72=6794
+note 73=6906
+note 74=6977
+note 75=7088
+note 76=7110
+note 77=7159
+note 78=7200
+note 79=7292
+note 80=7404
+note 81=7475
+note 82=7545
+note 83=7586
+note 84=7608
+note 85=7678
+note 86=7790
+note 87=7861
+note 88=7902
+note 89=7973
+note 90=7994
+note 91=8106
+note 92=8177
+note 93=8288
+note 94=8310
+note 95=8359
+note 96=8400
+note 97=8492
+note 98=8604
+note 99=8675
+note 100=8745
+note 101=8786
+note 102=8808
+note 103=8878
+note 104=8990
+note 105=9061
+note 106=9102
+note 107=9173
+note 108=9194
+note 109=9306
+note 110=9377
+note 111=9488
+note 112=9510
+note 113=9559
+note 114=9600
+note 115=9692
+note 116=9804
+note 117=9875
+note 118=9945
+note 119=9986
+note 120=10008
+note 121=10078
+note 122=10190
+note 123=10261
+note 124=10302
+note 125=10373
+note 126=10394
+note 127=10506
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mcclain_18.tun"
+ID= "ID_mcclain_18.tun"
+Filename= "mcclain_18.scl"
+Description= "McClain's 18-tone scale, see page 143 of The Myth of Invariance"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1994.133717
+note 1= 2105.865003
+note 2= 2176.537429
+note 3= 2288.268715
+note 4= 2309.775004
+note 5= 2358.941142
+note 6= 2400.000000
+note 7= 2492.178716
+note 8= 2603.910002
+note 9= 2674.582429
+note 10= 2745.254855
+note 11= 2786.313714
+note 12= 2807.820003
+note 13= 2878.492430
+note 14= 2990.223716
+note 15= 3060.896142
+note 16= 3101.955001
+note 17= 3172.627428
+note 18= 3194.133717
+note 19= 3305.865003
+note 20= 3376.537429
+note 21= 3488.268715
+note 22= 3509.775004
+note 23= 3558.941142
+note 24= 3600.000000
+note 25= 3692.178716
+note 26= 3803.910002
+note 27= 3874.582429
+note 28= 3945.254855
+note 29= 3986.313714
+note 30= 4007.820003
+note 31= 4078.492430
+note 32= 4190.223716
+note 33= 4260.896142
+note 34= 4301.955001
+note 35= 4372.627428
+note 36= 4394.133717
+note 37= 4505.865003
+note 38= 4576.537429
+note 39= 4688.268715
+note 40= 4709.775004
+note 41= 4758.941142
+note 42= 4800.000000
+note 43= 4892.178716
+note 44= 5003.910002
+note 45= 5074.582429
+note 46= 5145.254855
+note 47= 5186.313714
+note 48= 5207.820003
+note 49= 5278.492430
+note 50= 5390.223716
+note 51= 5460.896142
+note 52= 5501.955001
+note 53= 5572.627428
+note 54= 5594.133717
+note 55= 5705.865003
+note 56= 5776.537429
+note 57= 5888.268715
+note 58= 5909.775004
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6092.178716
+note 62= 6203.910002
+note 63= 6274.582429
+note 64= 6345.254855
+note 65= 6386.313714
+note 66= 6407.820003
+note 67= 6478.492430
+note 68= 6590.223716
+note 69= 6660.896142
+note 70= 6701.955001
+note 71= 6772.627428
+note 72= 6794.133717
+note 73= 6905.865003
+note 74= 6976.537429
+note 75= 7088.268715
+note 76= 7109.775004
+note 77= 7158.941142
+note 78= 7200.000000
+note 79= 7292.178716
+note 80= 7403.910002
+note 81= 7474.582429
+note 82= 7545.254855
+note 83= 7586.313714
+note 84= 7607.820003
+note 85= 7678.492430
+note 86= 7790.223716
+note 87= 7860.896142
+note 88= 7901.955001
+note 89= 7972.627428
+note 90= 7994.133717
+note 91= 8105.865003
+note 92= 8176.537429
+note 93= 8288.268715
+note 94= 8309.775004
+note 95= 8358.941142
+note 96= 8400.000000
+note 97= 8492.178716
+note 98= 8603.910002
+note 99= 8674.582429
+note 100= 8745.254855
+note 101= 8786.313714
+note 102= 8807.820003
+note 103= 8878.492430
+note 104= 8990.223716
+note 105= 9060.896142
+note 106= 9101.955001
+note 107= 9172.627428
+note 108= 9194.133717
+note 109= 9305.865003
+note 110= 9376.537429
+note 111= 9488.268715
+note 112= 9509.775004
+note 113= 9558.941142
+note 114= 9600.000000
+note 115= 9692.178716
+note 116= 9803.910002
+note 117= 9874.582429
+note 118= 9945.254855
+note 119= 9986.313714
+note 120= 10007.820003
+note 121= 10078.492430
+note 122= 10190.223716
+note 123= 10260.896142
+note 124= 10301.955001
+note 125= 10372.627428
+note 126= 10394.133717
+note 127= 10505.865003
+
+[Functional Tuning]
+note 1="#=0 * 135/128"
+note 2="#=0 * 9/8"
+note 3="#=0 * 75/64"
+note 4="#=0 * 625/512"
+note 5="#=0 * 5/4"
+note 6="#=0 * 81/64"
+note 7="#=0 * 675/512"
+note 8="#=0 * 45/32"
+note 9="#=0 * 375/256"
+note 10="#=0 * 3/2"
+note 11="#=0 * 25/16"
+note 12="#=0 * 405/256"
+note 13="#=0 * 27/16"
+note 14="#=0 * 225/128"
+note 15="#=0 * 15/8"
+note 16="#=0 * 243/128"
+note 17="#=0 * 125/64"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

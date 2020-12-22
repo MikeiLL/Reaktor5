@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Circulating Magic[22] lesfip, 9-limit, 12 cent tolerance, from Paul Erlich erlich5.scl
+;
+; VAZ Plus section
+[Tuning]
+note 0=2723
+note 1=2780
+note 2=2840
+note 3=2897
+note 4=2927
+note 5=2985
+note 6=3043
+note 7=3102
+note 8=3161
+note 9=3220
+note 10=3277
+note 11=3308
+note 12=3364
+note 13=3425
+note 14=3482
+note 15=3542
+note 16=3600
+note 17=3659
+note 18=3702
+note 19=3745
+note 20=3804
+note 21=3863
+note 22=3923
+note 23=3980
+note 24=4040
+note 25=4097
+note 26=4127
+note 27=4185
+note 28=4243
+note 29=4302
+note 30=4361
+note 31=4420
+note 32=4477
+note 33=4508
+note 34=4564
+note 35=4625
+note 36=4682
+note 37=4742
+note 38=4800
+note 39=4859
+note 40=4902
+note 41=4945
+note 42=5004
+note 43=5063
+note 44=5123
+note 45=5180
+note 46=5240
+note 47=5297
+note 48=5327
+note 49=5385
+note 50=5443
+note 51=5502
+note 52=5561
+note 53=5620
+note 54=5677
+note 55=5708
+note 56=5764
+note 57=5825
+note 58=5882
+note 59=5942
+note 60=6000
+note 61=6059
+note 62=6102
+note 63=6145
+note 64=6204
+note 65=6263
+note 66=6323
+note 67=6380
+note 68=6440
+note 69=6497
+note 70=6527
+note 71=6585
+note 72=6643
+note 73=6702
+note 74=6761
+note 75=6820
+note 76=6877
+note 77=6908
+note 78=6964
+note 79=7025
+note 80=7082
+note 81=7142
+note 82=7200
+note 83=7259
+note 84=7302
+note 85=7345
+note 86=7404
+note 87=7463
+note 88=7523
+note 89=7580
+note 90=7640
+note 91=7697
+note 92=7727
+note 93=7785
+note 94=7843
+note 95=7902
+note 96=7961
+note 97=8020
+note 98=8077
+note 99=8108
+note 100=8164
+note 101=8225
+note 102=8282
+note 103=8342
+note 104=8400
+note 105=8459
+note 106=8502
+note 107=8545
+note 108=8604
+note 109=8663
+note 110=8723
+note 111=8780
+note 112=8840
+note 113=8897
+note 114=8927
+note 115=8985
+note 116=9043
+note 117=9102
+note 118=9161
+note 119=9220
+note 120=9277
+note 121=9308
+note 122=9364
+note 123=9425
+note 124=9482
+note 125=9542
+note 126=9600
+note 127=9659
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "paulsmagic.tun"
+ID= "ID_paulsmagic.tun"
+Filename= "paulsmagic.scl"
+Description= "Circulating Magic[22] lesfip, 9-limit, 12 cent tolerance, from Paul Erlich erlich5.scl"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2722.728780
+note 1= 2779.533980
+note 2= 2839.878100
+note 3= 2896.638050
+note 4= 2926.891290
+note 5= 2984.581020
+note 6= 3043.081250
+note 7= 3102.133530
+note 8= 3161.185800
+note 9= 3219.686030
+note 10= 3277.375760
+note 11= 3307.629000
+note 12= 3364.388950
+note 13= 3424.733070
+note 14= 3481.538270
+note 15= 3541.681870
+note 16= 3600.000000
+note 17= 3659.241150
+note 18= 3702.133530
+note 19= 3745.025900
+note 20= 3804.267050
+note 21= 3862.585180
+note 22= 3922.728780
+note 23= 3979.533980
+note 24= 4039.878100
+note 25= 4096.638050
+note 26= 4126.891290
+note 27= 4184.581020
+note 28= 4243.081250
+note 29= 4302.133530
+note 30= 4361.185800
+note 31= 4419.686030
+note 32= 4477.375760
+note 33= 4507.629000
+note 34= 4564.388950
+note 35= 4624.733070
+note 36= 4681.538270
+note 37= 4741.681870
+note 38= 4800.000000
+note 39= 4859.241150
+note 40= 4902.133530
+note 41= 4945.025900
+note 42= 5004.267050
+note 43= 5062.585180
+note 44= 5122.728780
+note 45= 5179.533980
+note 46= 5239.878100
+note 47= 5296.638050
+note 48= 5326.891290
+note 49= 5384.581020
+note 50= 5443.081250
+note 51= 5502.133530
+note 52= 5561.185800
+note 53= 5619.686030
+note 54= 5677.375760
+note 55= 5707.629000
+note 56= 5764.388950
+note 57= 5824.733070
+note 58= 5881.538270
+note 59= 5941.681870
+note 60= 6000.000000
+note 61= 6059.241150
+note 62= 6102.133530
+note 63= 6145.025900
+note 64= 6204.267050
+note 65= 6262.585180
+note 66= 6322.728780
+note 67= 6379.533980
+note 68= 6439.878100
+note 69= 6496.638050
+note 70= 6526.891290
+note 71= 6584.581020
+note 72= 6643.081250
+note 73= 6702.133530
+note 74= 6761.185800
+note 75= 6819.686030
+note 76= 6877.375760
+note 77= 6907.629000
+note 78= 6964.388950
+note 79= 7024.733070
+note 80= 7081.538270
+note 81= 7141.681870
+note 82= 7200.000000
+note 83= 7259.241150
+note 84= 7302.133530
+note 85= 7345.025900
+note 86= 7404.267050
+note 87= 7462.585180
+note 88= 7522.728780
+note 89= 7579.533980
+note 90= 7639.878100
+note 91= 7696.638050
+note 92= 7726.891290
+note 93= 7784.581020
+note 94= 7843.081250
+note 95= 7902.133530
+note 96= 7961.185800
+note 97= 8019.686030
+note 98= 8077.375760
+note 99= 8107.629000
+note 100= 8164.388950
+note 101= 8224.733070
+note 102= 8281.538270
+note 103= 8341.681870
+note 104= 8400.000000
+note 105= 8459.241150
+note 106= 8502.133530
+note 107= 8545.025900
+note 108= 8604.267050
+note 109= 8662.585180
+note 110= 8722.728780
+note 111= 8779.533980
+note 112= 8839.878100
+note 113= 8896.638050
+note 114= 8926.891290
+note 115= 8984.581020
+note 116= 9043.081250
+note 117= 9102.133530
+note 118= 9161.185800
+note 119= 9219.686030
+note 120= 9277.375760
+note 121= 9307.629000
+note 122= 9364.388950
+note 123= 9424.733070
+note 124= 9481.538270
+note 125= 9541.681870
+note 126= 9600.000000
+note 127= 9659.241150
+
+[Functional Tuning]
+note 1="#=0 % 59.241150"
+note 2="#=0 % 102.133530"
+note 3="#=0 % 145.025900"
+note 4="#=0 % 204.267050"
+note 5="#=0 % 262.585180"
+note 6="#=0 % 322.728780"
+note 7="#=0 % 379.533980"
+note 8="#=0 % 439.878100"
+note 9="#=0 % 496.638050"
+note 10="#=0 % 526.891290"
+note 11="#=0 % 584.581020"
+note 12="#=0 % 643.081250"
+note 13="#=0 % 702.133530"
+note 14="#=0 % 761.185800"
+note 15="#=0 % 819.686030"
+note 16="#=0 % 877.375760"
+note 17="#=0 % 907.629000"
+note 18="#=0 % 964.388950"
+note 19="#=0 % 1024.733070"
+note 20="#=0 % 1081.538270"
+note 21="#=0 % 1141.681870"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

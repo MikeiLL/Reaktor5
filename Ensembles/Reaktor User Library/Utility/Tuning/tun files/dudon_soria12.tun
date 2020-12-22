@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 12 from a 17-notes cycle, equal-beating extended fifths (705.5685 c.) sequence
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=137
+note 2=209
+note 3=283
+note 4=420
+note 5=495
+note 6=631
+note 7=703
+note 8=843
+note 9=915
+note 10=974
+note 11=1126
+note 12=1200
+note 13=1337
+note 14=1409
+note 15=1483
+note 16=1620
+note 17=1695
+note 18=1831
+note 19=1903
+note 20=2043
+note 21=2115
+note 22=2174
+note 23=2326
+note 24=2400
+note 25=2537
+note 26=2609
+note 27=2683
+note 28=2820
+note 29=2895
+note 30=3031
+note 31=3103
+note 32=3243
+note 33=3315
+note 34=3374
+note 35=3526
+note 36=3600
+note 37=3737
+note 38=3809
+note 39=3883
+note 40=4020
+note 41=4095
+note 42=4231
+note 43=4303
+note 44=4443
+note 45=4515
+note 46=4574
+note 47=4726
+note 48=4800
+note 49=4937
+note 50=5009
+note 51=5083
+note 52=5220
+note 53=5295
+note 54=5431
+note 55=5503
+note 56=5643
+note 57=5715
+note 58=5774
+note 59=5926
+note 60=6000
+note 61=6137
+note 62=6209
+note 63=6283
+note 64=6420
+note 65=6495
+note 66=6631
+note 67=6703
+note 68=6843
+note 69=6915
+note 70=6974
+note 71=7126
+note 72=7200
+note 73=7337
+note 74=7409
+note 75=7483
+note 76=7620
+note 77=7695
+note 78=7831
+note 79=7903
+note 80=8043
+note 81=8115
+note 82=8174
+note 83=8326
+note 84=8400
+note 85=8537
+note 86=8609
+note 87=8683
+note 88=8820
+note 89=8895
+note 90=9031
+note 91=9103
+note 92=9243
+note 93=9315
+note 94=9374
+note 95=9526
+note 96=9600
+note 97=9737
+note 98=9809
+note 99=9883
+note 100=10020
+note 101=10095
+note 102=10231
+note 103=10303
+note 104=10443
+note 105=10515
+note 106=10574
+note 107=10726
+note 108=10800
+note 109=10937
+note 110=11009
+note 111=11083
+note 112=11220
+note 113=11295
+note 114=11431
+note 115=11503
+note 116=11643
+note 117=11715
+note 118=11774
+note 119=11926
+note 120=12000
+note 121=12137
+note 122=12209
+note 123=12283
+note 124=12420
+note 125=12495
+note 126=12631
+note 127=12703
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_soria12.tun"
+ID= "ID_dudon_soria12.tun"
+Filename= "dudon_soria12.scl"
+Description= "12 from a 17-notes cycle, equal-beating extended fifths (705.5685 c.) sequence"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 137.068940
+note 2= 209.004580
+note 3= 282.640135
+note 4= 420.366800
+note 5= 494.576249
+note 6= 631.499670
+note 7= 702.931720
+note 8= 842.630680
+note 9= 914.959686
+note 10= 974.260622
+note 11= 1125.894514
+note 12= 1200.000000
+note 13= 1337.068940
+note 14= 1409.004580
+note 15= 1482.640135
+note 16= 1620.366800
+note 17= 1694.576249
+note 18= 1831.499670
+note 19= 1902.931720
+note 20= 2042.630680
+note 21= 2114.959686
+note 22= 2174.260622
+note 23= 2325.894514
+note 24= 2400.000000
+note 25= 2537.068940
+note 26= 2609.004580
+note 27= 2682.640135
+note 28= 2820.366800
+note 29= 2894.576249
+note 30= 3031.499670
+note 31= 3102.931720
+note 32= 3242.630680
+note 33= 3314.959686
+note 34= 3374.260622
+note 35= 3525.894514
+note 36= 3600.000000
+note 37= 3737.068940
+note 38= 3809.004580
+note 39= 3882.640135
+note 40= 4020.366800
+note 41= 4094.576249
+note 42= 4231.499670
+note 43= 4302.931720
+note 44= 4442.630680
+note 45= 4514.959686
+note 46= 4574.260622
+note 47= 4725.894514
+note 48= 4800.000000
+note 49= 4937.068940
+note 50= 5009.004580
+note 51= 5082.640135
+note 52= 5220.366800
+note 53= 5294.576249
+note 54= 5431.499670
+note 55= 5502.931720
+note 56= 5642.630680
+note 57= 5714.959686
+note 58= 5774.260622
+note 59= 5925.894514
+note 60= 6000.000000
+note 61= 6137.068940
+note 62= 6209.004580
+note 63= 6282.640135
+note 64= 6420.366800
+note 65= 6494.576249
+note 66= 6631.499670
+note 67= 6702.931720
+note 68= 6842.630680
+note 69= 6914.959686
+note 70= 6974.260622
+note 71= 7125.894514
+note 72= 7200.000000
+note 73= 7337.068940
+note 74= 7409.004580
+note 75= 7482.640135
+note 76= 7620.366800
+note 77= 7694.576249
+note 78= 7831.499670
+note 79= 7902.931720
+note 80= 8042.630680
+note 81= 8114.959686
+note 82= 8174.260622
+note 83= 8325.894514
+note 84= 8400.000000
+note 85= 8537.068940
+note 86= 8609.004580
+note 87= 8682.640135
+note 88= 8820.366800
+note 89= 8894.576249
+note 90= 9031.499670
+note 91= 9102.931720
+note 92= 9242.630680
+note 93= 9314.959686
+note 94= 9374.260622
+note 95= 9525.894514
+note 96= 9600.000000
+note 97= 9737.068940
+note 98= 9809.004580
+note 99= 9882.640135
+note 100= 10020.366800
+note 101= 10094.576249
+note 102= 10231.499670
+note 103= 10302.931720
+note 104= 10442.630680
+note 105= 10514.959686
+note 106= 10574.260622
+note 107= 10725.894514
+note 108= 10800.000000
+note 109= 10937.068940
+note 110= 11009.004580
+note 111= 11082.640135
+note 112= 11220.366800
+note 113= 11294.576249
+note 114= 11431.499670
+note 115= 11502.931720
+note 116= 11642.630680
+note 117= 11714.959686
+note 118= 11774.260622
+note 119= 11925.894514
+note 120= 12000.000000
+note 121= 12137.068940
+note 122= 12209.004580
+note 123= 12282.640135
+note 124= 12420.366800
+note 125= 12494.576249
+note 126= 12631.499670
+note 127= 12702.931720
+
+[Functional Tuning]
+note 1="#=0 * 959/886"
+note 2="#=0 * 15995/14176"
+note 3="#=0 * 8345/7088"
+note 4="#=0 * 2259/1772"
+note 5="#=0 * 37727/28352"
+note 6="#=0 * 638/443"
+note 7="#=0 * 5319/3544"
+note 8="#=0 * 2883/1772"
+note 9="#=0 * 1503/886"
+note 10="#=0 * 12443/7088"
+note 11="#=0 * 6791/3544"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

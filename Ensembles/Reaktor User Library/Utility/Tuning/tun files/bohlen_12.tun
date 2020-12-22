@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 12-tone scale by Bohlen generated from the 4:7:10 triad, Acustica 39/2, 1978
+;
+; VAZ Plus section
+[Tuning]
+note 0=-3510
+note 1=-3345
+note 2=-3194
+note 3=-3050
+note 4=-2892
+note 5=-2727
+note 6=-2541
+note 7=-2390
+note 8=-2225
+note 9=-2068
+note 10=-1923
+note 11=-1758
+note 12=-1608
+note 13=-1443
+note 14=-1292
+note 15=-1148
+note 16=-990
+note 17=-825
+note 18=-639
+note 19=-488
+note 20=-323
+note 21=-166
+note 22=-22
+note 23=143
+note 24=294
+note 25=459
+note 26=610
+note 27=754
+note 28=912
+note 29=1077
+note 30=1263
+note 31=1414
+note 32=1579
+note 33=1736
+note 34=1880
+note 35=2045
+note 36=2196
+note 37=2361
+note 38=2512
+note 39=2656
+note 40=2814
+note 41=2979
+note 42=3165
+note 43=3316
+note 44=3481
+note 45=3638
+note 46=3782
+note 47=3947
+note 48=4098
+note 49=4263
+note 50=4414
+note 51=4558
+note 52=4716
+note 53=4881
+note 54=5067
+note 55=5218
+note 56=5383
+note 57=5540
+note 58=5684
+note 59=5849
+note 60=6000
+note 61=6165
+note 62=6316
+note 63=6460
+note 64=6617
+note 65=6782
+note 66=6969
+note 67=7119
+note 68=7284
+note 69=7442
+note 70=7586
+note 71=7751
+note 72=7902
+note 73=8067
+note 74=8218
+note 75=8362
+note 76=8519
+note 77=8684
+note 78=8871
+note 79=9021
+note 80=9186
+note 81=9344
+note 82=9488
+note 83=9653
+note 84=9804
+note 85=9969
+note 86=10120
+note 87=10264
+note 88=10421
+note 89=10586
+note 90=10773
+note 91=10923
+note 92=11088
+note 93=11246
+note 94=11390
+note 95=11555
+note 96=11706
+note 97=11871
+note 98=12022
+note 99=12166
+note 100=12323
+note 101=12488
+note 102=12675
+note 103=12825
+note 104=12990
+note 105=13148
+note 106=13292
+note 107=13457
+note 108=13608
+note 109=13773
+note 110=13923
+note 111=14068
+note 112=14225
+note 113=14390
+note 114=14577
+note 115=14727
+note 116=14892
+note 117=15050
+note 118=15194
+note 119=15359
+note 120=15510
+note 121=15675
+note 122=15825
+note 123=15970
+note 124=16127
+note 125=16292
+note 126=16479
+note 127=16629
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bohlen_12.tun"
+ID= "ID_bohlen_12.tun"
+Filename= "bohlen_12.scl"
+Description= "12-tone scale by Bohlen generated from the 4:7:10 triad, Acustica 39/2, 1978"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-3509.775004
+note 1=-3344.770776
+note 2=-3194.133717
+note 3=-3049.780637
+note 4=-2892.287197
+note 5=-2727.282968
+note 6=-2540.949098
+note 7=-2390.312039
+note 8=-2225.307811
+note 9=-2067.814371
+note 10=-1923.461290
+note 11=-1758.457062
+note 12=-1607.820003
+note 13=-1442.815775
+note 14=-1292.178716
+note 15=-1147.825636
+note 16=-990.332196
+note 17=-825.327968
+note 18=-638.994097
+note 19=-488.357038
+note 20=-323.352810
+note 21=-165.859370
+note 22=-21.506290
+note 23= 143.497939
+note 24= 294.134997
+note 25= 459.139226
+note 26= 609.776284
+note 27= 754.129365
+note 28= 911.622805
+note 29= 1076.627033
+note 30= 1262.960904
+note 31= 1413.597962
+note 32= 1578.602191
+note 33= 1736.095631
+note 34= 1880.448711
+note 35= 2045.452940
+note 36= 2196.089998
+note 37= 2361.094227
+note 38= 2511.731285
+note 39= 2656.084366
+note 40= 2813.577806
+note 41= 2978.582034
+note 42= 3164.915905
+note 43= 3315.552963
+note 44= 3480.557192
+note 45= 3638.050632
+note 46= 3782.403712
+note 47= 3947.407941
+note 48= 4098.044999
+note 49= 4263.049228
+note 50= 4413.686286
+note 51= 4558.039367
+note 52= 4715.532807
+note 53= 4880.537035
+note 54= 5066.870906
+note 55= 5217.507964
+note 56= 5382.512193
+note 57= 5540.005633
+note 58= 5684.358713
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6165.004228
+note 62= 6315.641287
+note 63= 6459.994367
+note 64= 6617.487807
+note 65= 6782.492036
+note 66= 6968.825906
+note 67= 7119.462965
+note 68= 7284.467193
+note 69= 7441.960633
+note 70= 7586.313714
+note 71= 7751.317942
+note 72= 7901.955001
+note 73= 8066.959229
+note 74= 8217.596288
+note 75= 8361.949368
+note 76= 8519.442808
+note 77= 8684.447037
+note 78= 8870.780907
+note 79= 9021.417966
+note 80= 9186.422194
+note 81= 9343.915634
+note 82= 9488.268715
+note 83= 9653.272943
+note 84= 9803.910002
+note 85= 9968.914230
+note 86= 10119.551289
+note 87= 10263.904369
+note 88= 10421.397809
+note 89= 10586.402038
+note 90= 10772.735908
+note 91= 10923.372967
+note 92= 11088.377195
+note 93= 11245.870635
+note 94= 11390.223716
+note 95= 11555.227944
+note 96= 11705.865003
+note 97= 11870.869231
+note 98= 12021.506290
+note 99= 12165.859370
+note 100= 12323.352810
+note 101= 12488.357038
+note 102= 12674.690909
+note 103= 12825.327968
+note 104= 12990.332196
+note 105= 13147.825636
+note 106= 13292.178716
+note 107= 13457.182945
+note 108= 13607.820003
+note 109= 13772.824232
+note 110= 13923.461290
+note 111= 14067.814371
+note 112= 14225.307811
+note 113= 14390.312039
+note 114= 14576.645910
+note 115= 14727.282968
+note 116= 14892.287197
+note 117= 15049.780637
+note 118= 15194.133717
+note 119= 15359.137946
+note 120= 15509.775004
+note 121= 15674.779233
+note 122= 15825.416291
+note 123= 15969.769372
+note 124= 16127.262812
+note 125= 16292.267040
+note 126= 16478.600911
+note 127= 16629.237969
+
+[Functional Tuning]
+note 1="#=0 * 11/10"
+note 2="#=0 * 6/5"
+note 3="#=0 * 30/23"
+note 4="#=0 * 10/7"
+note 5="#=0 * 11/7"
+note 6="#=0 * 7/4"
+note 7="#=0 * 21/11"
+note 8="#=0 * 21/10"
+note 9="#=0 * 23/10"
+note 10="#=0 * 5/2"
+note 11="#=0 * 11/4"
+note 12="#>-12 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,305 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Pythagorean scale with fifth average from Chinese bamboo tubes
+;
+; VAZ Plus section
+[Tuning]
+note 0=2868
+note 1=2922
+note 2=2970
+note 3=3024
+note 4=3078
+note 5=3126
+note 6=3180
+note 7=3234
+note 8=3282
+note 9=3336
+note 10=3390
+note 11=3444
+note 12=3492
+note 13=3546
+note 14=3600
+note 15=3648
+note 16=3702
+note 17=3756
+note 18=3804
+note 19=3858
+note 20=3912
+note 21=3966
+note 22=4014
+note 23=4068
+note 24=4122
+note 25=4170
+note 26=4224
+note 27=4278
+note 28=4326
+note 29=4380
+note 30=4434
+note 31=4482
+note 32=4536
+note 33=4590
+note 34=4644
+note 35=4692
+note 36=4746
+note 37=4800
+note 38=4848
+note 39=4902
+note 40=4956
+note 41=5004
+note 42=5058
+note 43=5112
+note 44=5166
+note 45=5214
+note 46=5268
+note 47=5322
+note 48=5370
+note 49=5424
+note 50=5478
+note 51=5526
+note 52=5580
+note 53=5634
+note 54=5682
+note 55=5736
+note 56=5790
+note 57=5844
+note 58=5892
+note 59=5946
+note 60=6000
+note 61=6048
+note 62=6102
+note 63=6156
+note 64=6204
+note 65=6258
+note 66=6312
+note 67=6366
+note 68=6414
+note 69=6468
+note 70=6522
+note 71=6570
+note 72=6624
+note 73=6678
+note 74=6726
+note 75=6780
+note 76=6834
+note 77=6882
+note 78=6936
+note 79=6990
+note 80=7044
+note 81=7092
+note 82=7146
+note 83=7200
+note 84=7248
+note 85=7302
+note 86=7356
+note 87=7404
+note 88=7458
+note 89=7512
+note 90=7566
+note 91=7614
+note 92=7668
+note 93=7722
+note 94=7770
+note 95=7824
+note 96=7878
+note 97=7926
+note 98=7980
+note 99=8034
+note 100=8082
+note 101=8136
+note 102=8190
+note 103=8244
+note 104=8292
+note 105=8346
+note 106=8400
+note 107=8448
+note 108=8502
+note 109=8556
+note 110=8604
+note 111=8658
+note 112=8712
+note 113=8766
+note 114=8814
+note 115=8868
+note 116=8922
+note 117=8970
+note 118=9024
+note 119=9078
+note 120=9126
+note 121=9180
+note 122=9234
+note 123=9282
+note 124=9336
+note 125=9390
+note 126=9444
+note 127=9492
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bamboo.tun"
+ID= "ID_bamboo.tun"
+Filename= "bamboo.scl"
+Description= "Pythagorean scale with fifth average from Chinese bamboo tubes"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2868.000000
+note 1= 2922.000000
+note 2= 2970.000000
+note 3= 3024.000000
+note 4= 3078.000000
+note 5= 3126.000000
+note 6= 3180.000000
+note 7= 3234.000000
+note 8= 3282.000000
+note 9= 3336.000000
+note 10= 3390.000000
+note 11= 3444.000000
+note 12= 3492.000000
+note 13= 3546.000000
+note 14= 3600.000000
+note 15= 3648.000000
+note 16= 3702.000000
+note 17= 3756.000000
+note 18= 3804.000000
+note 19= 3858.000000
+note 20= 3912.000000
+note 21= 3966.000000
+note 22= 4014.000000
+note 23= 4068.000000
+note 24= 4122.000000
+note 25= 4170.000000
+note 26= 4224.000000
+note 27= 4278.000000
+note 28= 4326.000000
+note 29= 4380.000000
+note 30= 4434.000000
+note 31= 4482.000000
+note 32= 4536.000000
+note 33= 4590.000000
+note 34= 4644.000000
+note 35= 4692.000000
+note 36= 4746.000000
+note 37= 4800.000000
+note 38= 4848.000000
+note 39= 4902.000000
+note 40= 4956.000000
+note 41= 5004.000000
+note 42= 5058.000000
+note 43= 5112.000000
+note 44= 5166.000000
+note 45= 5214.000000
+note 46= 5268.000000
+note 47= 5322.000000
+note 48= 5370.000000
+note 49= 5424.000000
+note 50= 5478.000000
+note 51= 5526.000000
+note 52= 5580.000000
+note 53= 5634.000000
+note 54= 5682.000000
+note 55= 5736.000000
+note 56= 5790.000000
+note 57= 5844.000000
+note 58= 5892.000000
+note 59= 5946.000000
+note 60= 6000.000000
+note 61= 6048.000000
+note 62= 6102.000000
+note 63= 6156.000000
+note 64= 6204.000000
+note 65= 6258.000000
+note 66= 6312.000000
+note 67= 6366.000000
+note 68= 6414.000000
+note 69= 6468.000000
+note 70= 6522.000000
+note 71= 6570.000000
+note 72= 6624.000000
+note 73= 6678.000000
+note 74= 6726.000000
+note 75= 6780.000000
+note 76= 6834.000000
+note 77= 6882.000000
+note 78= 6936.000000
+note 79= 6990.000000
+note 80= 7044.000000
+note 81= 7092.000000
+note 82= 7146.000000
+note 83= 7200.000000
+note 84= 7248.000000
+note 85= 7302.000000
+note 86= 7356.000000
+note 87= 7404.000000
+note 88= 7458.000000
+note 89= 7512.000000
+note 90= 7566.000000
+note 91= 7614.000000
+note 92= 7668.000000
+note 93= 7722.000000
+note 94= 7770.000000
+note 95= 7824.000000
+note 96= 7878.000000
+note 97= 7926.000000
+note 98= 7980.000000
+note 99= 8034.000000
+note 100= 8082.000000
+note 101= 8136.000000
+note 102= 8190.000000
+note 103= 8244.000000
+note 104= 8292.000000
+note 105= 8346.000000
+note 106= 8400.000000
+note 107= 8448.000000
+note 108= 8502.000000
+note 109= 8556.000000
+note 110= 8604.000000
+note 111= 8658.000000
+note 112= 8712.000000
+note 113= 8766.000000
+note 114= 8814.000000
+note 115= 8868.000000
+note 116= 8922.000000
+note 117= 8970.000000
+note 118= 9024.000000
+note 119= 9078.000000
+note 120= 9126.000000
+note 121= 9180.000000
+note 122= 9234.000000
+note 123= 9282.000000
+note 124= 9336.000000
+note 125= 9390.000000
+note 126= 9444.000000
+note 127= 9492.000000
+
+[Functional Tuning]
+note 1="#=0 % 48.000000"
+note 2="#=0 % 102.000000"
+note 3="#=0 % 156.000000"
+note 4="#=0 % 204.000000"
+note 5="#=0 % 258.000000"
+note 6="#=0 % 312.000000"
+note 7="#=0 % 366.000000"
+note 8="#=0 % 414.000000"
+note 9="#=0 % 468.000000"
+note 10="#=0 % 522.000000"
+note 11="#=0 % 570.000000"
+note 12="#=0 % 624.000000"
+note 13="#=0 % 678.000000"
+note 14="#=0 % 726.000000"
+note 15="#=0 % 780.000000"
+note 16="#=0 % 834.000000"
+note 17="#=0 % 882.000000"
+note 18="#=0 % 936.000000"
+note 19="#=0 % 990.000000"
+note 20="#=0 % 1044.000000"
+note 21="#=0 % 1092.000000"
+note 22="#=0 % 1146.000000"
+note 23="#>-23 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

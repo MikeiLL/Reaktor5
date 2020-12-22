@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Subharmonics 24-12. Phrygian Harmonia-Aliquot 24 (flute tuning)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=74
+note 2=151
+note 3=231
+note 4=316
+note 5=404
+note 6=498
+note 7=597
+note 8=702
+note 9=814
+note 10=933
+note 11=1061
+note 12=1200
+note 13=1274
+note 14=1351
+note 15=1431
+note 16=1516
+note 17=1604
+note 18=1698
+note 19=1797
+note 20=1902
+note 21=2014
+note 22=2133
+note 23=2261
+note 24=2400
+note 25=2474
+note 26=2551
+note 27=2631
+note 28=2716
+note 29=2804
+note 30=2898
+note 31=2997
+note 32=3102
+note 33=3214
+note 34=3333
+note 35=3461
+note 36=3600
+note 37=3674
+note 38=3751
+note 39=3831
+note 40=3916
+note 41=4004
+note 42=4098
+note 43=4197
+note 44=4302
+note 45=4414
+note 46=4533
+note 47=4661
+note 48=4800
+note 49=4874
+note 50=4951
+note 51=5031
+note 52=5116
+note 53=5204
+note 54=5298
+note 55=5397
+note 56=5502
+note 57=5614
+note 58=5733
+note 59=5861
+note 60=6000
+note 61=6074
+note 62=6151
+note 63=6231
+note 64=6316
+note 65=6404
+note 66=6498
+note 67=6597
+note 68=6702
+note 69=6814
+note 70=6933
+note 71=7061
+note 72=7200
+note 73=7274
+note 74=7351
+note 75=7431
+note 76=7516
+note 77=7604
+note 78=7698
+note 79=7797
+note 80=7902
+note 81=8014
+note 82=8133
+note 83=8261
+note 84=8400
+note 85=8474
+note 86=8551
+note 87=8631
+note 88=8716
+note 89=8804
+note 90=8898
+note 91=8997
+note 92=9102
+note 93=9214
+note 94=9333
+note 95=9461
+note 96=9600
+note 97=9674
+note 98=9751
+note 99=9831
+note 100=9916
+note 101=10004
+note 102=10098
+note 103=10197
+note 104=10302
+note 105=10414
+note 106=10533
+note 107=10661
+note 108=10800
+note 109=10874
+note 110=10951
+note 111=11031
+note 112=11116
+note 113=11204
+note 114=11298
+note 115=11397
+note 116=11502
+note 117=11614
+note 118=11733
+note 119=11861
+note 120=12000
+note 121=12074
+note 122=12151
+note 123=12231
+note 124=12316
+note 125=12404
+note 126=12498
+note 127=12597
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sub24-12.tun"
+ID= "ID_sub24-12.tun"
+Filename= "sub24-12.scl"
+Description= "Subharmonics 24-12. Phrygian Harmonia-Aliquot 24 (flute tuning)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 73.680654
+note 2= 150.637059
+note 3= 231.174094
+note 4= 315.641287
+note 5= 404.441985
+note 6= 498.044999
+note 7= 596.999591
+note 8= 701.955001
+note 9= 813.686286
+note 10= 933.129094
+note 11= 1061.427339
+note 12= 1200.000000
+note 13= 1273.680654
+note 14= 1350.637059
+note 15= 1431.174094
+note 16= 1515.641287
+note 17= 1604.441985
+note 18= 1698.044999
+note 19= 1796.999591
+note 20= 1901.955001
+note 21= 2013.686286
+note 22= 2133.129094
+note 23= 2261.427339
+note 24= 2400.000000
+note 25= 2473.680654
+note 26= 2550.637059
+note 27= 2631.174094
+note 28= 2715.641287
+note 29= 2804.441985
+note 30= 2898.044999
+note 31= 2996.999591
+note 32= 3101.955001
+note 33= 3213.686286
+note 34= 3333.129094
+note 35= 3461.427339
+note 36= 3600.000000
+note 37= 3673.680654
+note 38= 3750.637059
+note 39= 3831.174094
+note 40= 3915.641287
+note 41= 4004.441985
+note 42= 4098.044999
+note 43= 4196.999591
+note 44= 4301.955001
+note 45= 4413.686286
+note 46= 4533.129094
+note 47= 4661.427339
+note 48= 4800.000000
+note 49= 4873.680654
+note 50= 4950.637059
+note 51= 5031.174094
+note 52= 5115.641287
+note 53= 5204.441985
+note 54= 5298.044999
+note 55= 5396.999591
+note 56= 5501.955001
+note 57= 5613.686286
+note 58= 5733.129094
+note 59= 5861.427339
+note 60= 6000.000000
+note 61= 6073.680654
+note 62= 6150.637059
+note 63= 6231.174094
+note 64= 6315.641287
+note 65= 6404.441985
+note 66= 6498.044999
+note 67= 6596.999591
+note 68= 6701.955001
+note 69= 6813.686286
+note 70= 6933.129094
+note 71= 7061.427339
+note 72= 7200.000000
+note 73= 7273.680654
+note 74= 7350.637059
+note 75= 7431.174094
+note 76= 7515.641287
+note 77= 7604.441985
+note 78= 7698.044999
+note 79= 7796.999591
+note 80= 7901.955001
+note 81= 8013.686286
+note 82= 8133.129094
+note 83= 8261.427339
+note 84= 8400.000000
+note 85= 8473.680654
+note 86= 8550.637059
+note 87= 8631.174094
+note 88= 8715.641287
+note 89= 8804.441985
+note 90= 8898.044999
+note 91= 8996.999591
+note 92= 9101.955001
+note 93= 9213.686286
+note 94= 9333.129094
+note 95= 9461.427339
+note 96= 9600.000000
+note 97= 9673.680654
+note 98= 9750.637059
+note 99= 9831.174094
+note 100= 9915.641287
+note 101= 10004.441985
+note 102= 10098.044999
+note 103= 10196.999591
+note 104= 10301.955001
+note 105= 10413.686286
+note 106= 10533.129094
+note 107= 10661.427339
+note 108= 10800.000000
+note 109= 10873.680654
+note 110= 10950.637059
+note 111= 11031.174094
+note 112= 11115.641287
+note 113= 11204.441985
+note 114= 11298.044999
+note 115= 11396.999591
+note 116= 11501.955001
+note 117= 11613.686286
+note 118= 11733.129094
+note 119= 11861.427339
+note 120= 12000.000000
+note 121= 12073.680654
+note 122= 12150.637059
+note 123= 12231.174094
+note 124= 12315.641287
+note 125= 12404.441985
+note 126= 12498.044999
+note 127= 12596.999591
+
+[Functional Tuning]
+note 1="#=0 * 24/23"
+note 2="#=0 * 12/11"
+note 3="#=0 * 8/7"
+note 4="#=0 * 6/5"
+note 5="#=0 * 24/19"
+note 6="#=0 * 4/3"
+note 7="#=0 * 24/17"
+note 8="#=0 * 3/2"
+note 9="#=0 * 8/5"
+note 10="#=0 * 12/7"
+note 11="#=0 * 24/13"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

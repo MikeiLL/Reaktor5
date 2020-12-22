@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Al-Farabi's tetrachord division, incl. extra 2187/2048 & 19683/16384
+;
+; VAZ Plus section
+[Tuning]
+note 0=3510
+note 1=3600
+note 2=3609
+note 3=3623
+note 4=3655
+note 5=3678
+note 6=3714
+note 7=3804
+note 8=3813
+note 9=3827
+note 10=3864
+note 11=3918
+note 12=4008
+note 13=4098
+note 14=4107
+note 15=4122
+note 16=4153
+note 17=4176
+note 18=4212
+note 19=4302
+note 20=4311
+note 21=4325
+note 22=4362
+note 23=4416
+note 24=4506
+note 25=4596
+note 26=4605
+note 27=4620
+note 28=4651
+note 29=4674
+note 30=4710
+note 31=4800
+note 32=4809
+note 33=4823
+note 34=4860
+note 35=4914
+note 36=5004
+note 37=5094
+note 38=5103
+note 39=5118
+note 40=5149
+note 41=5172
+note 42=5208
+note 43=5298
+note 44=5307
+note 45=5322
+note 46=5358
+note 47=5412
+note 48=5502
+note 49=5592
+note 50=5601
+note 51=5616
+note 52=5647
+note 53=5670
+note 54=5706
+note 55=5796
+note 56=5805
+note 57=5820
+note 58=5857
+note 59=5910
+note 60=6000
+note 61=6090
+note 62=6099
+note 63=6114
+note 64=6145
+note 65=6168
+note 66=6204
+note 67=6294
+note 68=6303
+note 69=6318
+note 70=6355
+note 71=6408
+note 72=6498
+note 73=6588
+note 74=6597
+note 75=6612
+note 76=6643
+note 77=6666
+note 78=6702
+note 79=6792
+note 80=6801
+note 81=6816
+note 82=6853
+note 83=6906
+note 84=6996
+note 85=7086
+note 86=7095
+note 87=7110
+note 88=7141
+note 89=7164
+note 90=7200
+note 91=7290
+note 92=7299
+note 93=7314
+note 94=7351
+note 95=7404
+note 96=7494
+note 97=7584
+note 98=7593
+note 99=7608
+note 100=7639
+note 101=7662
+note 102=7698
+note 103=7788
+note 104=7797
+note 105=7812
+note 106=7849
+note 107=7902
+note 108=7992
+note 109=8082
+note 110=8091
+note 111=8106
+note 112=8137
+note 113=8160
+note 114=8196
+note 115=8286
+note 116=8295
+note 117=8310
+note 118=8347
+note 119=8400
+note 120=8490
+note 121=8580
+note 122=8589
+note 123=8604
+note 124=8635
+note 125=8658
+note 126=8694
+note 127=8784
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "al-farabi_div2.tun"
+ID= "ID_al-farabi_div2.tun"
+Filename= "al-farabi_div2.scl"
+Description= "Al-Farabi's tetrachord division, incl. extra 2187/2048 & 19683/16384"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3509.775004
+note 1= 3600.000000
+note 2= 3608.729597
+note 3= 3623.460010
+note 4= 3654.592783
+note 5= 3677.988194
+note 6= 3713.685006
+note 7= 3803.910002
+note 8= 3812.639598
+note 9= 3827.370012
+note 10= 3864.322065
+note 11= 3917.595008
+note 12= 4007.820003
+note 13= 4098.044999
+note 14= 4106.774596
+note 15= 4121.505010
+note 16= 4152.637782
+note 17= 4176.033193
+note 18= 4211.730005
+note 19= 4301.955001
+note 20= 4310.684597
+note 21= 4325.415011
+note 22= 4362.367064
+note 23= 4415.640007
+note 24= 4505.865003
+note 25= 4596.089998
+note 26= 4604.819595
+note 27= 4619.550009
+note 28= 4650.682782
+note 29= 4674.078192
+note 30= 4709.775004
+note 31= 4800.000000
+note 32= 4808.729597
+note 33= 4823.460010
+note 34= 4860.412063
+note 35= 4913.685006
+note 36= 5003.910002
+note 37= 5094.134997
+note 38= 5102.864594
+note 39= 5117.595008
+note 40= 5148.727781
+note 41= 5172.123191
+note 42= 5207.820003
+note 43= 5298.044999
+note 44= 5306.774596
+note 45= 5321.505010
+note 46= 5358.457062
+note 47= 5411.730005
+note 48= 5501.955001
+note 49= 5592.179997
+note 50= 5600.909593
+note 51= 5615.640007
+note 52= 5646.772780
+note 53= 5670.168191
+note 54= 5705.865003
+note 55= 5796.089998
+note 56= 5804.819595
+note 57= 5819.550009
+note 58= 5856.502061
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6098.954592
+note 63= 6113.685006
+note 64= 6144.817779
+note 65= 6168.213190
+note 66= 6203.910002
+note 67= 6294.134997
+note 68= 6302.864594
+note 69= 6317.595008
+note 70= 6354.547060
+note 71= 6407.820003
+note 72= 6498.044999
+note 73= 6588.269995
+note 74= 6596.999591
+note 75= 6611.730005
+note 76= 6642.862778
+note 77= 6666.258189
+note 78= 6701.955001
+note 79= 6792.179997
+note 80= 6800.909593
+note 81= 6815.640007
+note 82= 6852.592059
+note 83= 6905.865003
+note 84= 6996.089998
+note 85= 7086.314994
+note 86= 7095.044590
+note 87= 7109.775004
+note 88= 7140.907777
+note 89= 7164.303188
+note 90= 7200.000000
+note 91= 7290.224996
+note 92= 7298.954592
+note 93= 7313.685006
+note 94= 7350.637059
+note 95= 7403.910002
+note 96= 7494.134997
+note 97= 7584.359993
+note 98= 7593.089590
+note 99= 7607.820003
+note 100= 7638.952776
+note 101= 7662.348187
+note 102= 7698.044999
+note 103= 7788.269995
+note 104= 7796.999591
+note 105= 7811.730005
+note 106= 7848.682058
+note 107= 7901.955001
+note 108= 7992.179997
+note 109= 8082.404992
+note 110= 8091.134589
+note 111= 8105.865003
+note 112= 8136.997775
+note 113= 8160.393186
+note 114= 8196.089998
+note 115= 8286.314994
+note 116= 8295.044590
+note 117= 8309.775004
+note 118= 8346.727057
+note 119= 8400.000000
+note 120= 8490.224996
+note 121= 8580.449991
+note 122= 8589.179588
+note 123= 8603.910002
+note 124= 8635.042775
+note 125= 8658.438185
+note 126= 8694.134997
+note 127= 8784.359993
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 18/17"
+note 3="#=0 * 2187/2048"
+note 4="#=0 * 162/149"
+note 5="#=0 * 54/49"
+note 6="#=0 * 9/8"
+note 7="#=0 * 32/27"
+note 8="#=0 * 81/68"
+note 9="#=0 * 19683/16384"
+note 10="#=0 * 27/22"
+note 11="#=0 * 81/64"
+note 12="#>-12 * 4/3 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

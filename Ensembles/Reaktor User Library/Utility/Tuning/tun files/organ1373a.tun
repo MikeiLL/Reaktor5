@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; English organ tuning (1373) with 18:17:16 ficta semitones (Eb-G#)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=99
+note 2=204
+note 3=303
+note 4=408
+note 5=498
+note 6=597
+note 7=702
+note 8=801
+note 9=906
+note 10=996
+note 11=1110
+note 12=1200
+note 13=1299
+note 14=1404
+note 15=1503
+note 16=1608
+note 17=1698
+note 18=1797
+note 19=1902
+note 20=2001
+note 21=2106
+note 22=2196
+note 23=2310
+note 24=2400
+note 25=2499
+note 26=2604
+note 27=2703
+note 28=2808
+note 29=2898
+note 30=2997
+note 31=3102
+note 32=3201
+note 33=3306
+note 34=3396
+note 35=3510
+note 36=3600
+note 37=3699
+note 38=3804
+note 39=3903
+note 40=4008
+note 41=4098
+note 42=4197
+note 43=4302
+note 44=4401
+note 45=4506
+note 46=4596
+note 47=4710
+note 48=4800
+note 49=4899
+note 50=5004
+note 51=5103
+note 52=5208
+note 53=5298
+note 54=5397
+note 55=5502
+note 56=5601
+note 57=5706
+note 58=5796
+note 59=5910
+note 60=6000
+note 61=6099
+note 62=6204
+note 63=6303
+note 64=6408
+note 65=6498
+note 66=6597
+note 67=6702
+note 68=6801
+note 69=6906
+note 70=6996
+note 71=7110
+note 72=7200
+note 73=7299
+note 74=7404
+note 75=7503
+note 76=7608
+note 77=7698
+note 78=7797
+note 79=7902
+note 80=8001
+note 81=8106
+note 82=8196
+note 83=8310
+note 84=8400
+note 85=8499
+note 86=8604
+note 87=8703
+note 88=8808
+note 89=8898
+note 90=8997
+note 91=9102
+note 92=9201
+note 93=9306
+note 94=9396
+note 95=9510
+note 96=9600
+note 97=9699
+note 98=9804
+note 99=9903
+note 100=10008
+note 101=10098
+note 102=10197
+note 103=10302
+note 104=10401
+note 105=10506
+note 106=10596
+note 107=10710
+note 108=10800
+note 109=10899
+note 110=11004
+note 111=11103
+note 112=11208
+note 113=11298
+note 114=11397
+note 115=11502
+note 116=11601
+note 117=11706
+note 118=11796
+note 119=11910
+note 120=12000
+note 121=12099
+note 122=12204
+note 123=12303
+note 124=12408
+note 125=12498
+note 126=12597
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "organ1373a.tun"
+ID= "ID_organ1373a.tun"
+Filename= "organ1373a.scl"
+Description= "English organ tuning (1373) with 18:17:16 ficta semitones (Eb-G#)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.954592
+note 2= 203.910002
+note 3= 302.864594
+note 4= 407.820003
+note 5= 498.044999
+note 6= 596.999591
+note 7= 701.955001
+note 8= 800.909593
+note 9= 905.865003
+note 10= 996.089998
+note 11= 1109.775004
+note 12= 1200.000000
+note 13= 1298.954592
+note 14= 1403.910002
+note 15= 1502.864594
+note 16= 1607.820003
+note 17= 1698.044999
+note 18= 1796.999591
+note 19= 1901.955001
+note 20= 2000.909593
+note 21= 2105.865003
+note 22= 2196.089998
+note 23= 2309.775004
+note 24= 2400.000000
+note 25= 2498.954592
+note 26= 2603.910002
+note 27= 2702.864594
+note 28= 2807.820003
+note 29= 2898.044999
+note 30= 2996.999591
+note 31= 3101.955001
+note 32= 3200.909593
+note 33= 3305.865003
+note 34= 3396.089998
+note 35= 3509.775004
+note 36= 3600.000000
+note 37= 3698.954592
+note 38= 3803.910002
+note 39= 3902.864594
+note 40= 4007.820003
+note 41= 4098.044999
+note 42= 4196.999591
+note 43= 4301.955001
+note 44= 4400.909593
+note 45= 4505.865003
+note 46= 4596.089998
+note 47= 4709.775004
+note 48= 4800.000000
+note 49= 4898.954592
+note 50= 5003.910002
+note 51= 5102.864594
+note 52= 5207.820003
+note 53= 5298.044999
+note 54= 5396.999591
+note 55= 5501.955001
+note 56= 5600.909593
+note 57= 5705.865003
+note 58= 5796.089998
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6098.954592
+note 62= 6203.910002
+note 63= 6302.864594
+note 64= 6407.820003
+note 65= 6498.044999
+note 66= 6596.999591
+note 67= 6701.955001
+note 68= 6800.909593
+note 69= 6905.865003
+note 70= 6996.089998
+note 71= 7109.775004
+note 72= 7200.000000
+note 73= 7298.954592
+note 74= 7403.910002
+note 75= 7502.864594
+note 76= 7607.820003
+note 77= 7698.044999
+note 78= 7796.999591
+note 79= 7901.955001
+note 80= 8000.909593
+note 81= 8105.865003
+note 82= 8196.089998
+note 83= 8309.775004
+note 84= 8400.000000
+note 85= 8498.954592
+note 86= 8603.910002
+note 87= 8702.864594
+note 88= 8807.820003
+note 89= 8898.044999
+note 90= 8996.999591
+note 91= 9101.955001
+note 92= 9200.909593
+note 93= 9305.865003
+note 94= 9396.089998
+note 95= 9509.775004
+note 96= 9600.000000
+note 97= 9698.954592
+note 98= 9803.910002
+note 99= 9902.864594
+note 100= 10007.820003
+note 101= 10098.044999
+note 102= 10196.999591
+note 103= 10301.955001
+note 104= 10400.909593
+note 105= 10505.865003
+note 106= 10596.089998
+note 107= 10709.775004
+note 108= 10800.000000
+note 109= 10898.954592
+note 110= 11003.910002
+note 111= 11102.864594
+note 112= 11207.820003
+note 113= 11298.044999
+note 114= 11396.999591
+note 115= 11501.955001
+note 116= 11600.909593
+note 117= 11705.865003
+note 118= 11796.089998
+note 119= 11909.775004
+note 120= 12000.000000
+note 121= 12098.954592
+note 122= 12203.910002
+note 123= 12302.864594
+note 124= 12407.820003
+note 125= 12498.044999
+note 126= 12596.999591
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 18/17"
+note 2="#=0 * 9/8"
+note 3="#=0 * 81/68"
+note 4="#=0 * 81/64"
+note 5="#=0 * 4/3"
+note 6="#=0 * 24/17"
+note 7="#=0 * 3/2"
+note 8="#=0 * 27/17"
+note 9="#=0 * 27/16"
+note 10="#=0 * 16/9"
+note 11="#=0 * 243/128"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Notes on a baglama from Sivas
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1290
+note 2=1314
+note 3=1380
+note 4=1404
+note 5=1494
+note 6=1518
+note 7=1584
+note 8=1698
+note 9=1878
+note 10=1902
+note 11=1992
+note 12=2082
+note 13=2196
+note 14=2286
+note 15=2400
+note 16=2490
+note 17=2514
+note 18=2580
+note 19=2604
+note 20=2694
+note 21=2718
+note 22=2784
+note 23=2898
+note 24=3078
+note 25=3102
+note 26=3192
+note 27=3282
+note 28=3396
+note 29=3486
+note 30=3600
+note 31=3690
+note 32=3714
+note 33=3780
+note 34=3804
+note 35=3894
+note 36=3918
+note 37=3984
+note 38=4098
+note 39=4278
+note 40=4302
+note 41=4392
+note 42=4482
+note 43=4596
+note 44=4686
+note 45=4800
+note 46=4890
+note 47=4914
+note 48=4980
+note 49=5004
+note 50=5094
+note 51=5118
+note 52=5184
+note 53=5298
+note 54=5478
+note 55=5502
+note 56=5592
+note 57=5682
+note 58=5796
+note 59=5886
+note 60=6000
+note 61=6090
+note 62=6114
+note 63=6180
+note 64=6204
+note 65=6294
+note 66=6318
+note 67=6384
+note 68=6498
+note 69=6678
+note 70=6702
+note 71=6792
+note 72=6882
+note 73=6996
+note 74=7086
+note 75=7200
+note 76=7290
+note 77=7314
+note 78=7380
+note 79=7404
+note 80=7494
+note 81=7518
+note 82=7584
+note 83=7698
+note 84=7878
+note 85=7902
+note 86=7992
+note 87=8082
+note 88=8196
+note 89=8286
+note 90=8400
+note 91=8490
+note 92=8514
+note 93=8580
+note 94=8604
+note 95=8694
+note 96=8718
+note 97=8784
+note 98=8898
+note 99=9078
+note 100=9102
+note 101=9192
+note 102=9282
+note 103=9396
+note 104=9486
+note 105=9600
+note 106=9690
+note 107=9714
+note 108=9780
+note 109=9804
+note 110=9894
+note 111=9918
+note 112=9984
+note 113=10098
+note 114=10278
+note 115=10302
+note 116=10392
+note 117=10482
+note 118=10596
+note 119=10686
+note 120=10800
+note 121=10890
+note 122=10914
+note 123=10980
+note 124=11004
+note 125=11094
+note 126=11118
+note 127=11184
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "turkish_sivas.tun"
+ID= "ID_turkish_sivas.tun"
+Filename= "turkish_sivas.scl"
+Description= "Notes on a baglama from Sivas"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1290.224996
+note 2= 1313.685006
+note 3= 1380.449991
+note 4= 1403.910002
+note 5= 1494.134997
+note 6= 1517.595008
+note 7= 1584.359993
+note 8= 1698.044999
+note 9= 1878.494990
+note 10= 1901.955001
+note 11= 1992.179997
+note 12= 2082.404992
+note 13= 2196.089998
+note 14= 2286.314994
+note 15= 2400.000000
+note 16= 2490.224996
+note 17= 2513.685006
+note 18= 2580.449991
+note 19= 2603.910002
+note 20= 2694.134997
+note 21= 2717.595008
+note 22= 2784.359993
+note 23= 2898.044999
+note 24= 3078.494990
+note 25= 3101.955001
+note 26= 3192.179997
+note 27= 3282.404992
+note 28= 3396.089998
+note 29= 3486.314994
+note 30= 3600.000000
+note 31= 3690.224996
+note 32= 3713.685006
+note 33= 3780.449991
+note 34= 3803.910002
+note 35= 3894.134997
+note 36= 3917.595008
+note 37= 3984.359993
+note 38= 4098.044999
+note 39= 4278.494990
+note 40= 4301.955001
+note 41= 4392.179997
+note 42= 4482.404992
+note 43= 4596.089998
+note 44= 4686.314994
+note 45= 4800.000000
+note 46= 4890.224996
+note 47= 4913.685006
+note 48= 4980.449991
+note 49= 5003.910002
+note 50= 5094.134997
+note 51= 5117.595008
+note 52= 5184.359993
+note 53= 5298.044999
+note 54= 5478.494990
+note 55= 5501.955001
+note 56= 5592.179997
+note 57= 5682.404992
+note 58= 5796.089998
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6113.685006
+note 63= 6180.449991
+note 64= 6203.910002
+note 65= 6294.134997
+note 66= 6317.595008
+note 67= 6384.359993
+note 68= 6498.044999
+note 69= 6678.494990
+note 70= 6701.955001
+note 71= 6792.179997
+note 72= 6882.404992
+note 73= 6996.089998
+note 74= 7086.314994
+note 75= 7200.000000
+note 76= 7290.224996
+note 77= 7313.685006
+note 78= 7380.449991
+note 79= 7403.910002
+note 80= 7494.134997
+note 81= 7517.595008
+note 82= 7584.359993
+note 83= 7698.044999
+note 84= 7878.494990
+note 85= 7901.955001
+note 86= 7992.179997
+note 87= 8082.404992
+note 88= 8196.089998
+note 89= 8286.314994
+note 90= 8400.000000
+note 91= 8490.224996
+note 92= 8513.685006
+note 93= 8580.449991
+note 94= 8603.910002
+note 95= 8694.134997
+note 96= 8717.595008
+note 97= 8784.359993
+note 98= 8898.044999
+note 99= 9078.494990
+note 100= 9101.955001
+note 101= 9192.179997
+note 102= 9282.404992
+note 103= 9396.089998
+note 104= 9486.314994
+note 105= 9600.000000
+note 106= 9690.224996
+note 107= 9713.685006
+note 108= 9780.449991
+note 109= 9803.910002
+note 110= 9894.134997
+note 111= 9917.595008
+note 112= 9984.359993
+note 113= 10098.044999
+note 114= 10278.494990
+note 115= 10301.955001
+note 116= 10392.179997
+note 117= 10482.404992
+note 118= 10596.089998
+note 119= 10686.314994
+note 120= 10800.000000
+note 121= 10890.224996
+note 122= 10913.685006
+note 123= 10980.449991
+note 124= 11003.910002
+note 125= 11094.134997
+note 126= 11117.595008
+note 127= 11184.359993
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 2187/2048"
+note 3="#=0 * 65536/59049"
+note 4="#=0 * 9/8"
+note 5="#=0 * 32/27"
+note 6="#=0 * 19683/16384"
+note 7="#=0 * 8192/6561"
+note 8="#=0 * 4/3"
+note 9="#=0 * 262144/177147"
+note 10="#=0 * 3/2"
+note 11="#=0 * 128/81"
+note 12="#=0 * 32768/19683"
+note 13="#=0 * 16/9"
+note 14="#=0 * 4096/2187"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

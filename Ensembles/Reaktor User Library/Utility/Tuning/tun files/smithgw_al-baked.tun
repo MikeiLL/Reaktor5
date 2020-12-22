@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Baked alaska, with beat ratios of 2 and 3/2
+;
+; VAZ Plus section
+[Tuning]
+note 0=6
+note 1=109
+note 2=207
+note 3=306
+note 4=408
+note 5=507
+note 6=605
+note 7=708
+note 8=807
+note 9=905
+note 10=1008
+note 11=1106
+note 12=1205
+note 13=1307
+note 14=1406
+note 15=1505
+note 16=1607
+note 17=1706
+note 18=1804
+note 19=1907
+note 20=2005
+note 21=2104
+note 22=2207
+note 23=2305
+note 24=2404
+note 25=2506
+note 26=2605
+note 27=2703
+note 28=2806
+note 29=2904
+note 30=3003
+note 31=3106
+note 32=3204
+note 33=3303
+note 34=3405
+note 35=3504
+note 36=3602
+note 37=3705
+note 38=3804
+note 39=3902
+note 40=4005
+note 41=4103
+note 42=4202
+note 43=4304
+note 44=4403
+note 45=4502
+note 46=4604
+note 47=4703
+note 48=4801
+note 49=4904
+note 50=5002
+note 51=5101
+note 52=5203
+note 53=5302
+note 54=5401
+note 55=5503
+note 56=5602
+note 57=5700
+note 58=5803
+note 59=5901
+note 60=6000
+note 61=6103
+note 62=6201
+note 63=6300
+note 64=6402
+note 65=6501
+note 66=6599
+note 67=6702
+note 68=6801
+note 69=6899
+note 70=7002
+note 71=7100
+note 72=7199
+note 73=7301
+note 74=7400
+note 75=7498
+note 76=7601
+note 77=7700
+note 78=7798
+note 79=7901
+note 80=7999
+note 81=8098
+note 82=8200
+note 83=8299
+note 84=8398
+note 85=8500
+note 86=8599
+note 87=8697
+note 88=8800
+note 89=8898
+note 90=8997
+note 91=9100
+note 92=9198
+note 93=9297
+note 94=9399
+note 95=9498
+note 96=9596
+note 97=9699
+note 98=9797
+note 99=9896
+note 100=9999
+note 101=10097
+note 102=10196
+note 103=10298
+note 104=10397
+note 105=10495
+note 106=10598
+note 107=10697
+note 108=10795
+note 109=10898
+note 110=10996
+note 111=11095
+note 112=11197
+note 113=11296
+note 114=11395
+note 115=11497
+note 116=11596
+note 117=11694
+note 118=11797
+note 119=11895
+note 120=11994
+note 121=12096
+note 122=12195
+note 123=12294
+note 124=12396
+note 125=12495
+note 126=12593
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_al-baked.tun"
+ID= "ID_smithgw_al-baked.tun"
+Filename= "smithgw_al-baked.scl"
+Description= "Baked alaska, with beat ratios of 2 and 3/2"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 6.102250
+note 1= 108.667470
+note 2= 207.232300
+note 3= 305.797140
+note 4= 408.362360
+note 5= 506.927190
+note 6= 605.492020
+note 7= 708.057251
+note 8= 806.622080
+note 9= 905.186910
+note 10= 1007.752140
+note 11= 1106.316970
+note 12= 1204.881800
+note 13= 1307.447020
+note 14= 1406.011850
+note 15= 1504.576690
+note 16= 1607.141910
+note 17= 1705.706740
+note 18= 1804.271570
+note 19= 1906.836801
+note 20= 2005.401630
+note 21= 2103.966460
+note 22= 2206.531690
+note 23= 2305.096520
+note 24= 2403.661350
+note 25= 2506.226570
+note 26= 2604.791400
+note 27= 2703.356240
+note 28= 2805.921460
+note 29= 2904.486290
+note 30= 3003.051120
+note 31= 3105.616351
+note 32= 3204.181180
+note 33= 3302.746010
+note 34= 3405.311240
+note 35= 3503.876070
+note 36= 3602.440900
+note 37= 3705.006120
+note 38= 3803.570950
+note 39= 3902.135790
+note 40= 4004.701010
+note 41= 4103.265840
+note 42= 4201.830670
+note 43= 4304.395901
+note 44= 4402.960730
+note 45= 4501.525560
+note 46= 4604.090790
+note 47= 4702.655620
+note 48= 4801.220450
+note 49= 4903.785670
+note 50= 5002.350500
+note 51= 5100.915340
+note 52= 5203.480560
+note 53= 5302.045390
+note 54= 5400.610220
+note 55= 5503.175451
+note 56= 5601.740280
+note 57= 5700.305110
+note 58= 5802.870340
+note 59= 5901.435170
+note 60= 6000.000000
+note 61= 6102.565220
+note 62= 6201.130050
+note 63= 6299.694890
+note 64= 6402.260110
+note 65= 6500.824940
+note 66= 6599.389770
+note 67= 6701.955001
+note 68= 6800.519830
+note 69= 6899.084660
+note 70= 7001.649890
+note 71= 7100.214720
+note 72= 7198.779550
+note 73= 7301.344770
+note 74= 7399.909600
+note 75= 7498.474440
+note 76= 7601.039660
+note 77= 7699.604490
+note 78= 7798.169320
+note 79= 7900.734551
+note 80= 7999.299380
+note 81= 8097.864210
+note 82= 8200.429440
+note 83= 8298.994270
+note 84= 8397.559100
+note 85= 8500.124320
+note 86= 8598.689150
+note 87= 8697.253990
+note 88= 8799.819210
+note 89= 8898.384040
+note 90= 8996.948870
+note 91= 9099.514101
+note 92= 9198.078930
+note 93= 9296.643760
+note 94= 9399.208990
+note 95= 9497.773820
+note 96= 9596.338650
+note 97= 9698.903870
+note 98= 9797.468700
+note 99= 9896.033540
+note 100= 9998.598760
+note 101= 10097.163590
+note 102= 10195.728420
+note 103= 10298.293651
+note 104= 10396.858480
+note 105= 10495.423310
+note 106= 10597.988540
+note 107= 10696.553370
+note 108= 10795.118200
+note 109= 10897.683420
+note 110= 10996.248250
+note 111= 11094.813090
+note 112= 11197.378310
+note 113= 11295.943140
+note 114= 11394.507970
+note 115= 11497.073201
+note 116= 11595.638030
+note 117= 11694.202860
+note 118= 11796.768090
+note 119= 11895.332920
+note 120= 11993.897750
+note 121= 12096.462970
+note 122= 12195.027800
+note 123= 12293.592640
+note 124= 12396.157860
+note 125= 12494.722690
+note 126= 12593.287520
+note 127= 12695.852751
+
+[Functional Tuning]
+note 1="#=0 % 102.565220"
+note 2="#=0 % 201.130050"
+note 3="#=0 % 299.694890"
+note 4="#=0 % 402.260110"
+note 5="#=0 % 500.824940"
+note 6="#=0 % 599.389770"
+note 7="#=0 * 3/2"
+note 8="#=0 % 800.519830"
+note 9="#=0 % 899.084660"
+note 10="#=0 % 1001.649890"
+note 11="#=0 % 1100.214720"
+note 12="#>-12 % 1198.779550 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

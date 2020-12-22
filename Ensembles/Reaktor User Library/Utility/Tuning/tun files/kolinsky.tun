@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mieczyslaw Kolinsky's 7th root of 3/2 (1959), also invented by Augusto Novaro and Serge Cordier (1975)
+;
+; VAZ Plus section
+[Tuning]
+note 0=-17
+note 1=84
+note 2=184
+note 3=284
+note 4=384
+note 5=485
+note 6=585
+note 7=685
+note 8=785
+note 9=886
+note 10=986
+note 11=1086
+note 12=1187
+note 13=1287
+note 14=1387
+note 15=1487
+note 16=1588
+note 17=1688
+note 18=1788
+note 19=1889
+note 20=1989
+note 21=2089
+note 22=2189
+note 23=2290
+note 24=2390
+note 25=2490
+note 26=2591
+note 27=2691
+note 28=2791
+note 29=2891
+note 30=2992
+note 31=3092
+note 32=3192
+note 33=3292
+note 34=3393
+note 35=3493
+note 36=3593
+note 37=3694
+note 38=3794
+note 39=3894
+note 40=3994
+note 41=4095
+note 42=4195
+note 43=4295
+note 44=4396
+note 45=4496
+note 46=4596
+note 47=4696
+note 48=4797
+note 49=4897
+note 50=4997
+note 51=5097
+note 52=5198
+note 53=5298
+note 54=5398
+note 55=5499
+note 56=5599
+note 57=5699
+note 58=5799
+note 59=5900
+note 60=6000
+note 61=6100
+note 62=6201
+note 63=6301
+note 64=6401
+note 65=6501
+note 66=6602
+note 67=6702
+note 68=6802
+note 69=6903
+note 70=7003
+note 71=7103
+note 72=7203
+note 73=7304
+note 74=7404
+note 75=7504
+note 76=7604
+note 77=7705
+note 78=7805
+note 79=7905
+note 80=8006
+note 81=8106
+note 82=8206
+note 83=8306
+note 84=8407
+note 85=8507
+note 86=8607
+note 87=8708
+note 88=8808
+note 89=8908
+note 90=9008
+note 91=9109
+note 92=9209
+note 93=9309
+note 94=9409
+note 95=9510
+note 96=9610
+note 97=9710
+note 98=9811
+note 99=9911
+note 100=10011
+note 101=10111
+note 102=10212
+note 103=10312
+note 104=10412
+note 105=10513
+note 106=10613
+note 107=10713
+note 108=10813
+note 109=10914
+note 110=11014
+note 111=11114
+note 112=11215
+note 113=11315
+note 114=11415
+note 115=11515
+note 116=11616
+note 117=11716
+note 118=11816
+note 119=11916
+note 120=12017
+note 121=12117
+note 122=12217
+note 123=12318
+note 124=12418
+note 125=12518
+note 126=12618
+note 127=12719
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kolinsky.tun"
+ID= "ID_kolinsky.tun"
+Filename= "kolinsky.scl"
+Description= "Mieczyslaw Kolinsky's 7th root of 3/2 (1959), also invented by Augusto Novaro and Serge Cordier (1975)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-16.757150
+note 1= 83.522140
+note 2= 183.801420
+note 3= 284.080710
+note 4= 384.359990
+note 5= 484.639280
+note 6= 584.918570
+note 7= 685.197851
+note 8= 785.477140
+note 9= 885.756420
+note 10= 986.035710
+note 11= 1086.314990
+note 12= 1186.594280
+note 13= 1286.873570
+note 14= 1387.152850
+note 15= 1487.432140
+note 16= 1587.711420
+note 17= 1687.990710
+note 18= 1788.270000
+note 19= 1888.549281
+note 20= 1988.828570
+note 21= 2089.107850
+note 22= 2189.387140
+note 23= 2289.666420
+note 24= 2389.945710
+note 25= 2490.225000
+note 26= 2590.504280
+note 27= 2690.783570
+note 28= 2791.062850
+note 29= 2891.342140
+note 30= 2991.621430
+note 31= 3091.900711
+note 32= 3192.180000
+note 33= 3292.459280
+note 34= 3392.738570
+note 35= 3493.017850
+note 36= 3593.297140
+note 37= 3693.576430
+note 38= 3793.855710
+note 39= 3894.135000
+note 40= 3994.414280
+note 41= 4094.693570
+note 42= 4194.972860
+note 43= 4295.252141
+note 44= 4395.531430
+note 45= 4495.810710
+note 46= 4596.090000
+note 47= 4696.369280
+note 48= 4796.648570
+note 49= 4896.927860
+note 50= 4997.207140
+note 51= 5097.486430
+note 52= 5197.765710
+note 53= 5298.045000
+note 54= 5398.324290
+note 55= 5498.603571
+note 56= 5598.882860
+note 57= 5699.162140
+note 58= 5799.441430
+note 59= 5899.720710
+note 60= 6000.000000
+note 61= 6100.279290
+note 62= 6200.558570
+note 63= 6300.837860
+note 64= 6401.117140
+note 65= 6501.396430
+note 66= 6601.675720
+note 67= 6701.955001
+note 68= 6802.234290
+note 69= 6902.513570
+note 70= 7002.792860
+note 71= 7103.072140
+note 72= 7203.351430
+note 73= 7303.630720
+note 74= 7403.910000
+note 75= 7504.189290
+note 76= 7604.468570
+note 77= 7704.747860
+note 78= 7805.027150
+note 79= 7905.306431
+note 80= 8005.585720
+note 81= 8105.865000
+note 82= 8206.144290
+note 83= 8306.423570
+note 84= 8406.702860
+note 85= 8506.982150
+note 86= 8607.261430
+note 87= 8707.540720
+note 88= 8807.820000
+note 89= 8908.099290
+note 90= 9008.378580
+note 91= 9108.657861
+note 92= 9208.937150
+note 93= 9309.216430
+note 94= 9409.495720
+note 95= 9509.775000
+note 96= 9610.054290
+note 97= 9710.333580
+note 98= 9810.612860
+note 99= 9910.892150
+note 100= 10011.171430
+note 101= 10111.450720
+note 102= 10211.730010
+note 103= 10312.009291
+note 104= 10412.288580
+note 105= 10512.567860
+note 106= 10612.847150
+note 107= 10713.126430
+note 108= 10813.405720
+note 109= 10913.685010
+note 110= 11013.964290
+note 111= 11114.243580
+note 112= 11214.522860
+note 113= 11314.802150
+note 114= 11415.081440
+note 115= 11515.360721
+note 116= 11615.640010
+note 117= 11715.919290
+note 118= 11816.198580
+note 119= 11916.477860
+note 120= 12016.757150
+note 121= 12117.036440
+note 122= 12217.315720
+note 123= 12317.595010
+note 124= 12417.874290
+note 125= 12518.153580
+note 126= 12618.432870
+note 127= 12718.712151
+
+[Functional Tuning]
+note 1="#=0 % 100.279290"
+note 2="#=0 % 200.558570"
+note 3="#=0 % 300.837860"
+note 4="#=0 % 401.117140"
+note 5="#=0 % 501.396430"
+note 6="#=0 % 601.675720"
+note 7="#=0 * 3/2"
+note 8="#=0 % 802.234290"
+note 9="#=0 % 902.513570"
+note 10="#=0 % 1002.792860"
+note 11="#=0 % 1103.072140"
+note 12="#>-12 % 1203.351430 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

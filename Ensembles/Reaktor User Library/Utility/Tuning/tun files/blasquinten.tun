@@ -1,0 +1,305 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Blasquintenzirkel. 23 fifths in 2 oct. C. Sachs, Vergleichende Musikwiss. p. 28
+;
+; VAZ Plus section
+[Tuning]
+note 0=-192
+note 1=-90
+note 2=-36
+note 3=66
+note 4=120
+note 5=222
+note 6=276
+note 7=378
+note 8=432
+note 9=534
+note 10=588
+note 11=744
+note 12=900
+note 13=1056
+note 14=1212
+note 15=1368
+note 16=1524
+note 17=1680
+note 18=1836
+note 19=1890
+note 20=1992
+note 21=2046
+note 22=2148
+note 23=2202
+note 24=2304
+note 25=2358
+note 26=2460
+note 27=2514
+note 28=2616
+note 29=2670
+note 30=2772
+note 31=2826
+note 32=2928
+note 33=2982
+note 34=3138
+note 35=3294
+note 36=3450
+note 37=3606
+note 38=3762
+note 39=3918
+note 40=4074
+note 41=4230
+note 42=4284
+note 43=4386
+note 44=4440
+note 45=4542
+note 46=4596
+note 47=4698
+note 48=4752
+note 49=4854
+note 50=4908
+note 51=5010
+note 52=5064
+note 53=5166
+note 54=5220
+note 55=5322
+note 56=5376
+note 57=5532
+note 58=5688
+note 59=5844
+note 60=6000
+note 61=6156
+note 62=6312
+note 63=6468
+note 64=6624
+note 65=6678
+note 66=6780
+note 67=6834
+note 68=6936
+note 69=6990
+note 70=7092
+note 71=7146
+note 72=7248
+note 73=7302
+note 74=7404
+note 75=7458
+note 76=7560
+note 77=7614
+note 78=7716
+note 79=7770
+note 80=7926
+note 81=8082
+note 82=8238
+note 83=8394
+note 84=8550
+note 85=8706
+note 86=8862
+note 87=9018
+note 88=9072
+note 89=9174
+note 90=9228
+note 91=9330
+note 92=9384
+note 93=9486
+note 94=9540
+note 95=9642
+note 96=9696
+note 97=9798
+note 98=9852
+note 99=9954
+note 100=10008
+note 101=10110
+note 102=10164
+note 103=10320
+note 104=10476
+note 105=10632
+note 106=10788
+note 107=10944
+note 108=11100
+note 109=11256
+note 110=11412
+note 111=11466
+note 112=11568
+note 113=11622
+note 114=11724
+note 115=11778
+note 116=11880
+note 117=11934
+note 118=12036
+note 119=12090
+note 120=12192
+note 121=12246
+note 122=12348
+note 123=12402
+note 124=12504
+note 125=12558
+note 126=12714
+note 127=12870
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "blasquinten.tun"
+ID= "ID_blasquinten.tun"
+Filename= "blasquinten.scl"
+Description= "Blasquintenzirkel. 23 fifths in 2 oct. C. Sachs, Vergleichende Musikwiss. p. 28"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-192.000000
+note 1=-90.000000
+note 2=-36.000000
+note 3= 66.000000
+note 4= 120.000000
+note 5= 222.000000
+note 6= 276.000000
+note 7= 378.000000
+note 8= 432.000000
+note 9= 534.000000
+note 10= 588.000000
+note 11= 744.000000
+note 12= 900.000000
+note 13= 1056.000000
+note 14= 1212.000000
+note 15= 1368.000000
+note 16= 1524.000000
+note 17= 1680.000000
+note 18= 1836.000000
+note 19= 1890.000000
+note 20= 1992.000000
+note 21= 2046.000000
+note 22= 2148.000000
+note 23= 2202.000000
+note 24= 2304.000000
+note 25= 2358.000000
+note 26= 2460.000000
+note 27= 2514.000000
+note 28= 2616.000000
+note 29= 2670.000000
+note 30= 2772.000000
+note 31= 2826.000000
+note 32= 2928.000000
+note 33= 2982.000000
+note 34= 3138.000000
+note 35= 3294.000000
+note 36= 3450.000000
+note 37= 3606.000000
+note 38= 3762.000000
+note 39= 3918.000000
+note 40= 4074.000000
+note 41= 4230.000000
+note 42= 4284.000000
+note 43= 4386.000000
+note 44= 4440.000000
+note 45= 4542.000000
+note 46= 4596.000000
+note 47= 4698.000000
+note 48= 4752.000000
+note 49= 4854.000000
+note 50= 4908.000000
+note 51= 5010.000000
+note 52= 5064.000000
+note 53= 5166.000000
+note 54= 5220.000000
+note 55= 5322.000000
+note 56= 5376.000000
+note 57= 5532.000000
+note 58= 5688.000000
+note 59= 5844.000000
+note 60= 6000.000000
+note 61= 6156.000000
+note 62= 6312.000000
+note 63= 6468.000000
+note 64= 6624.000000
+note 65= 6678.000000
+note 66= 6780.000000
+note 67= 6834.000000
+note 68= 6936.000000
+note 69= 6990.000000
+note 70= 7092.000000
+note 71= 7146.000000
+note 72= 7248.000000
+note 73= 7302.000000
+note 74= 7404.000000
+note 75= 7458.000000
+note 76= 7560.000000
+note 77= 7614.000000
+note 78= 7716.000000
+note 79= 7770.000000
+note 80= 7926.000000
+note 81= 8082.000000
+note 82= 8238.000000
+note 83= 8394.000000
+note 84= 8550.000000
+note 85= 8706.000000
+note 86= 8862.000000
+note 87= 9018.000000
+note 88= 9072.000000
+note 89= 9174.000000
+note 90= 9228.000000
+note 91= 9330.000000
+note 92= 9384.000000
+note 93= 9486.000000
+note 94= 9540.000000
+note 95= 9642.000000
+note 96= 9696.000000
+note 97= 9798.000000
+note 98= 9852.000000
+note 99= 9954.000000
+note 100= 10008.000000
+note 101= 10110.000000
+note 102= 10164.000000
+note 103= 10320.000000
+note 104= 10476.000000
+note 105= 10632.000000
+note 106= 10788.000000
+note 107= 10944.000000
+note 108= 11100.000000
+note 109= 11256.000000
+note 110= 11412.000000
+note 111= 11466.000000
+note 112= 11568.000000
+note 113= 11622.000000
+note 114= 11724.000000
+note 115= 11778.000000
+note 116= 11880.000000
+note 117= 11934.000000
+note 118= 12036.000000
+note 119= 12090.000000
+note 120= 12192.000000
+note 121= 12246.000000
+note 122= 12348.000000
+note 123= 12402.000000
+note 124= 12504.000000
+note 125= 12558.000000
+note 126= 12714.000000
+note 127= 12870.000000
+
+[Functional Tuning]
+note 1="#=0 % 156.000000"
+note 2="#=0 % 312.000000"
+note 3="#=0 % 468.000000"
+note 4="#=0 % 624.000000"
+note 5="#=0 % 678.000000"
+note 6="#=0 % 780.000000"
+note 7="#=0 % 834.000000"
+note 8="#=0 % 936.000000"
+note 9="#=0 % 990.000000"
+note 10="#=0 % 1092.000000"
+note 11="#=0 % 1146.000000"
+note 12="#=0 % 1248.000000"
+note 13="#=0 % 1302.000000"
+note 14="#=0 % 1404.000000"
+note 15="#=0 % 1458.000000"
+note 16="#=0 % 1560.000000"
+note 17="#=0 % 1614.000000"
+note 18="#=0 % 1716.000000"
+note 19="#=0 % 1770.000000"
+note 20="#=0 % 1926.000000"
+note 21="#=0 % 2082.000000"
+note 22="#=0 % 2238.000000"
+note 23="#>-23 % 2394.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

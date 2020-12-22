@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sensi[19] in synch (brat=-1) tuning, generator ~162/125 satisfies g^9-g^7-4=0
+;
+; VAZ Plus section
+[Tuning]
+note 0=2214
+note 1=2272
+note 2=2342
+note 3=2400
+note 4=2470
+note 5=2528
+note 6=2598
+note 7=2656
+note 8=2715
+note 9=2785
+note 10=2843
+note 11=2913
+note 12=2971
+note 13=3029
+note 14=3099
+note 15=3157
+note 16=3227
+note 17=3285
+note 18=3356
+note 19=3414
+note 20=3472
+note 21=3542
+note 22=3600
+note 23=3670
+note 24=3728
+note 25=3798
+note 26=3856
+note 27=3915
+note 28=3985
+note 29=4043
+note 30=4113
+note 31=4171
+note 32=4229
+note 33=4299
+note 34=4357
+note 35=4427
+note 36=4485
+note 37=4556
+note 38=4614
+note 39=4672
+note 40=4742
+note 41=4800
+note 42=4870
+note 43=4928
+note 44=4998
+note 45=5056
+note 46=5115
+note 47=5185
+note 48=5243
+note 49=5313
+note 50=5371
+note 51=5429
+note 52=5499
+note 53=5557
+note 54=5627
+note 55=5685
+note 56=5756
+note 57=5814
+note 58=5872
+note 59=5942
+note 60=6000
+note 61=6070
+note 62=6128
+note 63=6198
+note 64=6256
+note 65=6315
+note 66=6385
+note 67=6443
+note 68=6513
+note 69=6571
+note 70=6629
+note 71=6699
+note 72=6757
+note 73=6827
+note 74=6885
+note 75=6956
+note 76=7014
+note 77=7072
+note 78=7142
+note 79=7200
+note 80=7270
+note 81=7328
+note 82=7398
+note 83=7456
+note 84=7515
+note 85=7585
+note 86=7643
+note 87=7713
+note 88=7771
+note 89=7829
+note 90=7899
+note 91=7957
+note 92=8027
+note 93=8085
+note 94=8156
+note 95=8214
+note 96=8272
+note 97=8342
+note 98=8400
+note 99=8470
+note 100=8528
+note 101=8598
+note 102=8656
+note 103=8715
+note 104=8785
+note 105=8843
+note 106=8913
+note 107=8971
+note 108=9029
+note 109=9099
+note 110=9157
+note 111=9227
+note 112=9285
+note 113=9356
+note 114=9414
+note 115=9472
+note 116=9542
+note 117=9600
+note 118=9670
+note 119=9728
+note 120=9798
+note 121=9856
+note 122=9915
+note 123=9985
+note 124=10043
+note 125=10113
+note 126=10171
+note 127=10229
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sensisynch19.tun"
+ID= "ID_sensisynch19.tun"
+Filename= "sensisynch19.scl"
+Description= "Sensi[19] in synch (brat=-1) tuning, generator ~162/125 satisfies g^9-g^7-4=0"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2213.688810
+note 1= 2271.786720
+note 2= 2341.902090
+note 3= 2400.000000
+note 4= 2470.115370
+note 5= 2528.213280
+note 6= 2598.328650
+note 7= 2656.426570
+note 8= 2714.524480
+note 9= 2784.639850
+note 10= 2842.737760
+note 11= 2912.853130
+note 12= 2970.951040
+note 13= 3029.048960
+note 14= 3099.164330
+note 15= 3157.262240
+note 16= 3227.377610
+note 17= 3285.475520
+note 18= 3355.590890
+note 19= 3413.688810
+note 20= 3471.786720
+note 21= 3541.902090
+note 22= 3600.000000
+note 23= 3670.115370
+note 24= 3728.213280
+note 25= 3798.328650
+note 26= 3856.426570
+note 27= 3914.524480
+note 28= 3984.639850
+note 29= 4042.737760
+note 30= 4112.853130
+note 31= 4170.951040
+note 32= 4229.048960
+note 33= 4299.164330
+note 34= 4357.262240
+note 35= 4427.377610
+note 36= 4485.475520
+note 37= 4555.590890
+note 38= 4613.688810
+note 39= 4671.786720
+note 40= 4741.902090
+note 41= 4800.000000
+note 42= 4870.115370
+note 43= 4928.213280
+note 44= 4998.328650
+note 45= 5056.426570
+note 46= 5114.524480
+note 47= 5184.639850
+note 48= 5242.737760
+note 49= 5312.853130
+note 50= 5370.951040
+note 51= 5429.048960
+note 52= 5499.164330
+note 53= 5557.262240
+note 54= 5627.377610
+note 55= 5685.475520
+note 56= 5755.590890
+note 57= 5813.688810
+note 58= 5871.786720
+note 59= 5941.902090
+note 60= 6000.000000
+note 61= 6070.115370
+note 62= 6128.213280
+note 63= 6198.328650
+note 64= 6256.426570
+note 65= 6314.524480
+note 66= 6384.639850
+note 67= 6442.737760
+note 68= 6512.853130
+note 69= 6570.951040
+note 70= 6629.048960
+note 71= 6699.164330
+note 72= 6757.262240
+note 73= 6827.377610
+note 74= 6885.475520
+note 75= 6955.590890
+note 76= 7013.688810
+note 77= 7071.786720
+note 78= 7141.902090
+note 79= 7200.000000
+note 80= 7270.115370
+note 81= 7328.213280
+note 82= 7398.328650
+note 83= 7456.426570
+note 84= 7514.524480
+note 85= 7584.639850
+note 86= 7642.737760
+note 87= 7712.853130
+note 88= 7770.951040
+note 89= 7829.048960
+note 90= 7899.164330
+note 91= 7957.262240
+note 92= 8027.377610
+note 93= 8085.475520
+note 94= 8155.590890
+note 95= 8213.688810
+note 96= 8271.786720
+note 97= 8341.902090
+note 98= 8400.000000
+note 99= 8470.115370
+note 100= 8528.213280
+note 101= 8598.328650
+note 102= 8656.426570
+note 103= 8714.524480
+note 104= 8784.639850
+note 105= 8842.737760
+note 106= 8912.853130
+note 107= 8970.951040
+note 108= 9029.048960
+note 109= 9099.164330
+note 110= 9157.262240
+note 111= 9227.377610
+note 112= 9285.475520
+note 113= 9355.590890
+note 114= 9413.688810
+note 115= 9471.786720
+note 116= 9541.902090
+note 117= 9600.000000
+note 118= 9670.115370
+note 119= 9728.213280
+note 120= 9798.328650
+note 121= 9856.426570
+note 122= 9914.524480
+note 123= 9984.639850
+note 124= 10042.737760
+note 125= 10112.853130
+note 126= 10170.951040
+note 127= 10229.048960
+
+[Functional Tuning]
+note 1="#=0 % 70.115370"
+note 2="#=0 % 128.213280"
+note 3="#=0 % 198.328650"
+note 4="#=0 % 256.426570"
+note 5="#=0 % 314.524480"
+note 6="#=0 % 384.639850"
+note 7="#=0 % 442.737760"
+note 8="#=0 % 512.853130"
+note 9="#=0 % 570.951040"
+note 10="#=0 % 629.048960"
+note 11="#=0 % 699.164330"
+note 12="#=0 % 757.262240"
+note 13="#=0 % 827.377610"
+note 14="#=0 % 885.475520"
+note 15="#=0 % 955.590890"
+note 16="#=0 % 1013.688810"
+note 17="#=0 % 1071.786720"
+note 18="#=0 % 1141.902090"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

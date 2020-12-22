@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; B. Chaitanya Deva's sruti harmonium and S. Ramanathan's sruti vina, 1973. B.C. Deva, The Music of India, 1981, p. 109-110
+;
+; VAZ Plus section
+[Tuning]
+note 0=2712
+note 1=2790
+note 2=2815
+note 3=2912
+note 4=2926
+note 5=3000
+note 6=3022
+note 7=3108
+note 8=3199
+note 9=3226
+note 10=3292
+note 11=3307
+note 12=3406
+note 13=3427
+note 14=3499
+note 15=3519
+note 16=3600
+note 17=3687
+note 18=3711
+note 19=3792
+note 20=3803
+note 21=3897
+note 22=3912
+note 23=3990
+note 24=4015
+note 25=4112
+note 26=4126
+note 27=4200
+note 28=4222
+note 29=4308
+note 30=4399
+note 31=4426
+note 32=4492
+note 33=4507
+note 34=4606
+note 35=4627
+note 36=4699
+note 37=4719
+note 38=4800
+note 39=4887
+note 40=4911
+note 41=4992
+note 42=5003
+note 43=5097
+note 44=5112
+note 45=5190
+note 46=5215
+note 47=5312
+note 48=5326
+note 49=5400
+note 50=5422
+note 51=5508
+note 52=5599
+note 53=5626
+note 54=5692
+note 55=5707
+note 56=5806
+note 57=5827
+note 58=5899
+note 59=5919
+note 60=6000
+note 61=6087
+note 62=6111
+note 63=6192
+note 64=6203
+note 65=6297
+note 66=6312
+note 67=6390
+note 68=6415
+note 69=6512
+note 70=6526
+note 71=6600
+note 72=6622
+note 73=6708
+note 74=6799
+note 75=6826
+note 76=6892
+note 77=6907
+note 78=7006
+note 79=7027
+note 80=7099
+note 81=7119
+note 82=7200
+note 83=7287
+note 84=7311
+note 85=7392
+note 86=7403
+note 87=7497
+note 88=7512
+note 89=7590
+note 90=7615
+note 91=7712
+note 92=7726
+note 93=7800
+note 94=7822
+note 95=7908
+note 96=7999
+note 97=8026
+note 98=8092
+note 99=8107
+note 100=8206
+note 101=8227
+note 102=8299
+note 103=8319
+note 104=8400
+note 105=8487
+note 106=8511
+note 107=8592
+note 108=8603
+note 109=8697
+note 110=8712
+note 111=8790
+note 112=8815
+note 113=8912
+note 114=8926
+note 115=9000
+note 116=9022
+note 117=9108
+note 118=9199
+note 119=9226
+note 120=9292
+note 121=9307
+note 122=9406
+note 123=9427
+note 124=9499
+note 125=9519
+note 126=9600
+note 127=9687
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian-srutiharm.tun"
+ID= "ID_indian-srutiharm.tun"
+Filename= "indian-srutiharm.scl"
+Description= "B. Chaitanya Deva's sruti harmonium and S. Ramanathan's sruti vina, 1973. B.C. Deva, The Music of India, 1981, p. 109-110"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2712.467620
+note 1= 2790.114450
+note 2= 2815.241650
+note 3= 2912.254930
+note 4= 2926.349180
+note 5= 2999.639880
+note 6= 3021.921190
+note 7= 3108.284930
+note 8= 3198.559290
+note 9= 3226.323090
+note 10= 3291.951860
+note 11= 3307.038960
+note 12= 3405.576240
+note 13= 3426.732110
+note 14= 3498.805780
+note 15= 3518.858910
+note 16= 3600.000000
+note 17= 3686.579740
+note 18= 3710.541840
+note 19= 3791.889950
+note 20= 3803.205250
+note 21= 3896.511430
+note 22= 3912.467620
+note 23= 3990.114450
+note 24= 4015.241650
+note 25= 4112.254930
+note 26= 4126.349180
+note 27= 4199.639880
+note 28= 4221.921190
+note 29= 4308.284930
+note 30= 4398.559290
+note 31= 4426.323090
+note 32= 4491.951860
+note 33= 4507.038960
+note 34= 4605.576240
+note 35= 4626.732110
+note 36= 4698.805780
+note 37= 4718.858910
+note 38= 4800.000000
+note 39= 4886.579740
+note 40= 4910.541840
+note 41= 4991.889950
+note 42= 5003.205250
+note 43= 5096.511430
+note 44= 5112.467620
+note 45= 5190.114450
+note 46= 5215.241650
+note 47= 5312.254930
+note 48= 5326.349180
+note 49= 5399.639880
+note 50= 5421.921190
+note 51= 5508.284930
+note 52= 5598.559290
+note 53= 5626.323090
+note 54= 5691.951860
+note 55= 5707.038960
+note 56= 5805.576240
+note 57= 5826.732110
+note 58= 5898.805780
+note 59= 5918.858910
+note 60= 6000.000000
+note 61= 6086.579740
+note 62= 6110.541840
+note 63= 6191.889950
+note 64= 6203.205250
+note 65= 6296.511430
+note 66= 6312.467620
+note 67= 6390.114450
+note 68= 6415.241650
+note 69= 6512.254930
+note 70= 6526.349180
+note 71= 6599.639880
+note 72= 6621.921190
+note 73= 6708.284930
+note 74= 6798.559290
+note 75= 6826.323090
+note 76= 6891.951860
+note 77= 6907.038960
+note 78= 7005.576240
+note 79= 7026.732110
+note 80= 7098.805780
+note 81= 7118.858910
+note 82= 7200.000000
+note 83= 7286.579740
+note 84= 7310.541840
+note 85= 7391.889950
+note 86= 7403.205250
+note 87= 7496.511430
+note 88= 7512.467620
+note 89= 7590.114450
+note 90= 7615.241650
+note 91= 7712.254930
+note 92= 7726.349180
+note 93= 7799.639880
+note 94= 7821.921190
+note 95= 7908.284930
+note 96= 7998.559290
+note 97= 8026.323090
+note 98= 8091.951860
+note 99= 8107.038960
+note 100= 8205.576240
+note 101= 8226.732110
+note 102= 8298.805780
+note 103= 8318.858910
+note 104= 8400.000000
+note 105= 8486.579740
+note 106= 8510.541840
+note 107= 8591.889950
+note 108= 8603.205250
+note 109= 8696.511430
+note 110= 8712.467620
+note 111= 8790.114450
+note 112= 8815.241650
+note 113= 8912.254930
+note 114= 8926.349180
+note 115= 8999.639880
+note 116= 9021.921190
+note 117= 9108.284930
+note 118= 9198.559290
+note 119= 9226.323090
+note 120= 9291.951860
+note 121= 9307.038960
+note 122= 9405.576240
+note 123= 9426.732110
+note 124= 9498.805780
+note 125= 9518.858910
+note 126= 9600.000000
+note 127= 9686.579740
+
+[Functional Tuning]
+note 1="#=0 % 86.579740"
+note 2="#=0 % 110.541840"
+note 3="#=0 % 191.889950"
+note 4="#=0 % 203.205250"
+note 5="#=0 % 296.511430"
+note 6="#=0 % 312.467620"
+note 7="#=0 % 390.114450"
+note 8="#=0 % 415.241650"
+note 9="#=0 % 512.254930"
+note 10="#=0 % 526.349180"
+note 11="#=0 % 599.639880"
+note 12="#=0 % 621.921190"
+note 13="#=0 % 708.284930"
+note 14="#=0 % 798.559290"
+note 15="#=0 % 826.323090"
+note 16="#=0 % 891.951860"
+note 17="#=0 % 907.038960"
+note 18="#=0 % 1005.576240"
+note 19="#=0 % 1026.732110"
+note 20="#=0 % 1098.805780"
+note 21="#=0 % 1118.858910"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

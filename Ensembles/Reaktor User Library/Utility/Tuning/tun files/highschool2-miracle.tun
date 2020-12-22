@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 12highschool2 tempered in 11-limit POTE-tuned miracle
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=117
+note 2=200
+note 3=316
+note 4=384
+note 5=500
+note 6=617
+note 7=700
+note 8=816
+note 9=884
+note 10=967
+note 11=1083
+note 12=1200
+note 13=1317
+note 14=1400
+note 15=1516
+note 16=1584
+note 17=1700
+note 18=1817
+note 19=1900
+note 20=2016
+note 21=2084
+note 22=2167
+note 23=2283
+note 24=2400
+note 25=2517
+note 26=2600
+note 27=2716
+note 28=2784
+note 29=2900
+note 30=3017
+note 31=3100
+note 32=3216
+note 33=3284
+note 34=3367
+note 35=3483
+note 36=3600
+note 37=3717
+note 38=3800
+note 39=3916
+note 40=3984
+note 41=4100
+note 42=4217
+note 43=4300
+note 44=4416
+note 45=4484
+note 46=4567
+note 47=4683
+note 48=4800
+note 49=4917
+note 50=5000
+note 51=5116
+note 52=5184
+note 53=5300
+note 54=5417
+note 55=5500
+note 56=5616
+note 57=5684
+note 58=5767
+note 59=5883
+note 60=6000
+note 61=6117
+note 62=6200
+note 63=6316
+note 64=6384
+note 65=6500
+note 66=6617
+note 67=6700
+note 68=6816
+note 69=6884
+note 70=6967
+note 71=7083
+note 72=7200
+note 73=7317
+note 74=7400
+note 75=7516
+note 76=7584
+note 77=7700
+note 78=7817
+note 79=7900
+note 80=8016
+note 81=8084
+note 82=8167
+note 83=8283
+note 84=8400
+note 85=8517
+note 86=8600
+note 87=8716
+note 88=8784
+note 89=8900
+note 90=9017
+note 91=9100
+note 92=9216
+note 93=9284
+note 94=9367
+note 95=9483
+note 96=9600
+note 97=9717
+note 98=9800
+note 99=9916
+note 100=9984
+note 101=10100
+note 102=10217
+note 103=10300
+note 104=10416
+note 105=10484
+note 106=10567
+note 107=10683
+note 108=10800
+note 109=10917
+note 110=11000
+note 111=11116
+note 112=11184
+note 113=11300
+note 114=11417
+note 115=11500
+note 116=11616
+note 117=11684
+note 118=11767
+note 119=11883
+note 120=12000
+note 121=12117
+note 122=12200
+note 123=12316
+note 124=12384
+note 125=12500
+note 126=12617
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "highschool2-miracle.tun"
+ID= "ID_highschool2-miracle.tun"
+Filename= "highschool2-miracle.scl"
+Description= "12highschool2 tempered in 11-limit POTE-tuned miracle"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 116.632740
+note 2= 199.592910
+note 3= 316.225660
+note 4= 383.570800
+note 5= 500.203540
+note 6= 616.836290
+note 7= 699.796460
+note 8= 816.429200
+note 9= 883.774340
+note 10= 966.734510
+note 11= 1083.367260
+note 12= 1200.000000
+note 13= 1316.632740
+note 14= 1399.592910
+note 15= 1516.225660
+note 16= 1583.570800
+note 17= 1700.203540
+note 18= 1816.836290
+note 19= 1899.796460
+note 20= 2016.429200
+note 21= 2083.774340
+note 22= 2166.734510
+note 23= 2283.367260
+note 24= 2400.000000
+note 25= 2516.632740
+note 26= 2599.592910
+note 27= 2716.225660
+note 28= 2783.570800
+note 29= 2900.203540
+note 30= 3016.836290
+note 31= 3099.796460
+note 32= 3216.429200
+note 33= 3283.774340
+note 34= 3366.734510
+note 35= 3483.367260
+note 36= 3600.000000
+note 37= 3716.632740
+note 38= 3799.592910
+note 39= 3916.225660
+note 40= 3983.570800
+note 41= 4100.203540
+note 42= 4216.836290
+note 43= 4299.796460
+note 44= 4416.429200
+note 45= 4483.774340
+note 46= 4566.734510
+note 47= 4683.367260
+note 48= 4800.000000
+note 49= 4916.632740
+note 50= 4999.592910
+note 51= 5116.225660
+note 52= 5183.570800
+note 53= 5300.203540
+note 54= 5416.836290
+note 55= 5499.796460
+note 56= 5616.429200
+note 57= 5683.774340
+note 58= 5766.734510
+note 59= 5883.367260
+note 60= 6000.000000
+note 61= 6116.632740
+note 62= 6199.592910
+note 63= 6316.225660
+note 64= 6383.570800
+note 65= 6500.203540
+note 66= 6616.836290
+note 67= 6699.796460
+note 68= 6816.429200
+note 69= 6883.774340
+note 70= 6966.734510
+note 71= 7083.367260
+note 72= 7200.000000
+note 73= 7316.632740
+note 74= 7399.592910
+note 75= 7516.225660
+note 76= 7583.570800
+note 77= 7700.203540
+note 78= 7816.836290
+note 79= 7899.796460
+note 80= 8016.429200
+note 81= 8083.774340
+note 82= 8166.734510
+note 83= 8283.367260
+note 84= 8400.000000
+note 85= 8516.632740
+note 86= 8599.592910
+note 87= 8716.225660
+note 88= 8783.570800
+note 89= 8900.203540
+note 90= 9016.836290
+note 91= 9099.796460
+note 92= 9216.429200
+note 93= 9283.774340
+note 94= 9366.734510
+note 95= 9483.367260
+note 96= 9600.000000
+note 97= 9716.632740
+note 98= 9799.592910
+note 99= 9916.225660
+note 100= 9983.570800
+note 101= 10100.203540
+note 102= 10216.836290
+note 103= 10299.796460
+note 104= 10416.429200
+note 105= 10483.774340
+note 106= 10566.734510
+note 107= 10683.367260
+note 108= 10800.000000
+note 109= 10916.632740
+note 110= 10999.592910
+note 111= 11116.225660
+note 112= 11183.570800
+note 113= 11300.203540
+note 114= 11416.836290
+note 115= 11499.796460
+note 116= 11616.429200
+note 117= 11683.774340
+note 118= 11766.734510
+note 119= 11883.367260
+note 120= 12000.000000
+note 121= 12116.632740
+note 122= 12199.592910
+note 123= 12316.225660
+note 124= 12383.570800
+note 125= 12500.203540
+note 126= 12616.836290
+note 127= 12699.796460
+
+[Functional Tuning]
+note 1="#=0 % 116.632740"
+note 2="#=0 % 199.592910"
+note 3="#=0 % 316.225660"
+note 4="#=0 % 383.570800"
+note 5="#=0 % 500.203540"
+note 6="#=0 % 616.836290"
+note 7="#=0 % 699.796460"
+note 8="#=0 % 816.429200"
+note 9="#=0 % 883.774340"
+note 10="#=0 % 966.734510"
+note 11="#=0 % 1083.367260"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Herman Miller, 19-tone scale of "Nikta". Tuning List 22-1-99
+;
+; VAZ Plus section
+[Tuning]
+note 0=2213
+note 1=2280
+note 2=2351
+note 3=2400
+note 4=2472
+note 5=2535
+note 6=2592
+note 7=2666
+note 8=2722
+note 9=2786
+note 10=2861
+note 11=2903
+note 12=2976
+note 13=3046
+note 14=3098
+note 15=3168
+note 16=3229
+note 17=3285
+note 18=3365
+note 19=3413
+note 20=3480
+note 21=3551
+note 22=3600
+note 23=3672
+note 24=3735
+note 25=3792
+note 26=3866
+note 27=3922
+note 28=3986
+note 29=4061
+note 30=4103
+note 31=4176
+note 32=4246
+note 33=4298
+note 34=4368
+note 35=4429
+note 36=4485
+note 37=4565
+note 38=4613
+note 39=4680
+note 40=4751
+note 41=4800
+note 42=4872
+note 43=4935
+note 44=4992
+note 45=5066
+note 46=5122
+note 47=5186
+note 48=5261
+note 49=5303
+note 50=5376
+note 51=5446
+note 52=5498
+note 53=5568
+note 54=5629
+note 55=5685
+note 56=5765
+note 57=5813
+note 58=5880
+note 59=5951
+note 60=6000
+note 61=6072
+note 62=6135
+note 63=6192
+note 64=6266
+note 65=6322
+note 66=6386
+note 67=6461
+note 68=6503
+note 69=6576
+note 70=6646
+note 71=6698
+note 72=6768
+note 73=6829
+note 74=6885
+note 75=6965
+note 76=7013
+note 77=7080
+note 78=7151
+note 79=7200
+note 80=7272
+note 81=7335
+note 82=7392
+note 83=7466
+note 84=7522
+note 85=7586
+note 86=7661
+note 87=7703
+note 88=7776
+note 89=7846
+note 90=7898
+note 91=7968
+note 92=8029
+note 93=8085
+note 94=8165
+note 95=8213
+note 96=8280
+note 97=8351
+note 98=8400
+note 99=8472
+note 100=8535
+note 101=8592
+note 102=8666
+note 103=8722
+note 104=8786
+note 105=8861
+note 106=8903
+note 107=8976
+note 108=9046
+note 109=9098
+note 110=9168
+note 111=9229
+note 112=9285
+note 113=9365
+note 114=9413
+note 115=9480
+note 116=9551
+note 117=9600
+note 118=9672
+note 119=9735
+note 120=9792
+note 121=9866
+note 122=9922
+note 123=9986
+note 124=10061
+note 125=10103
+note 126=10176
+note 127=10246
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miller_nikta.tun"
+ID= "ID_miller_nikta.tun"
+Filename= "miller_nikta.scl"
+Description= "Herman Miller, 19-tone scale of "Nikta". Tuning List 22-1-99"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2213.078770
+note 1= 2279.634110
+note 2= 2351.335080
+note 3= 2400.000000
+note 4= 2472.295850
+note 5= 2534.877390
+note 6= 2591.974670
+note 7= 2666.343490
+note 8= 2722.395530
+note 9= 2785.575290
+note 10= 2860.732480
+note 11= 2902.653020
+note 12= 2975.643260
+note 13= 3045.680250
+note 14= 3098.259730
+note 15= 3168.340180
+note 16= 3228.846450
+note 17= 3285.096820
+note 18= 3365.130630
+note 19= 3413.078770
+note 20= 3479.634110
+note 21= 3551.335080
+note 22= 3600.000000
+note 23= 3672.295850
+note 24= 3734.877390
+note 25= 3791.974670
+note 26= 3866.343490
+note 27= 3922.395530
+note 28= 3985.575290
+note 29= 4060.732480
+note 30= 4102.653020
+note 31= 4175.643260
+note 32= 4245.680250
+note 33= 4298.259730
+note 34= 4368.340180
+note 35= 4428.846450
+note 36= 4485.096820
+note 37= 4565.130630
+note 38= 4613.078770
+note 39= 4679.634110
+note 40= 4751.335080
+note 41= 4800.000000
+note 42= 4872.295850
+note 43= 4934.877390
+note 44= 4991.974670
+note 45= 5066.343490
+note 46= 5122.395530
+note 47= 5185.575290
+note 48= 5260.732480
+note 49= 5302.653020
+note 50= 5375.643260
+note 51= 5445.680250
+note 52= 5498.259730
+note 53= 5568.340180
+note 54= 5628.846450
+note 55= 5685.096820
+note 56= 5765.130630
+note 57= 5813.078770
+note 58= 5879.634110
+note 59= 5951.335080
+note 60= 6000.000000
+note 61= 6072.295850
+note 62= 6134.877390
+note 63= 6191.974670
+note 64= 6266.343490
+note 65= 6322.395530
+note 66= 6385.575290
+note 67= 6460.732480
+note 68= 6502.653020
+note 69= 6575.643260
+note 70= 6645.680250
+note 71= 6698.259730
+note 72= 6768.340180
+note 73= 6828.846450
+note 74= 6885.096820
+note 75= 6965.130630
+note 76= 7013.078770
+note 77= 7079.634110
+note 78= 7151.335080
+note 79= 7200.000000
+note 80= 7272.295850
+note 81= 7334.877390
+note 82= 7391.974670
+note 83= 7466.343490
+note 84= 7522.395530
+note 85= 7585.575290
+note 86= 7660.732480
+note 87= 7702.653020
+note 88= 7775.643260
+note 89= 7845.680250
+note 90= 7898.259730
+note 91= 7968.340180
+note 92= 8028.846450
+note 93= 8085.096820
+note 94= 8165.130630
+note 95= 8213.078770
+note 96= 8279.634110
+note 97= 8351.335080
+note 98= 8400.000000
+note 99= 8472.295850
+note 100= 8534.877390
+note 101= 8591.974670
+note 102= 8666.343490
+note 103= 8722.395530
+note 104= 8785.575290
+note 105= 8860.732480
+note 106= 8902.653020
+note 107= 8975.643260
+note 108= 9045.680250
+note 109= 9098.259730
+note 110= 9168.340180
+note 111= 9228.846450
+note 112= 9285.096820
+note 113= 9365.130630
+note 114= 9413.078770
+note 115= 9479.634110
+note 116= 9551.335080
+note 117= 9600.000000
+note 118= 9672.295850
+note 119= 9734.877390
+note 120= 9791.974670
+note 121= 9866.343490
+note 122= 9922.395530
+note 123= 9985.575290
+note 124= 10060.732480
+note 125= 10102.653020
+note 126= 10175.643260
+note 127= 10245.680250
+
+[Functional Tuning]
+note 1="#=0 % 72.295850"
+note 2="#=0 % 134.877390"
+note 3="#=0 % 191.974670"
+note 4="#=0 % 266.343490"
+note 5="#=0 % 322.395530"
+note 6="#=0 % 385.575290"
+note 7="#=0 % 460.732480"
+note 8="#=0 % 502.653020"
+note 9="#=0 % 575.643260"
+note 10="#=0 % 645.680250"
+note 11="#=0 % 698.259730"
+note 12="#=0 % 768.340180"
+note 13="#=0 % 828.846450"
+note 14="#=0 % 885.096820"
+note 15="#=0 % 965.130630"
+note 16="#=0 % 1013.078770"
+note 17="#=0 % 1079.634110"
+note 18="#=0 % 1151.335080"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

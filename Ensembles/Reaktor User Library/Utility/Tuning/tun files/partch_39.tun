@@ -1,0 +1,321 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ur-Partch Keyboard 39 tones, published in Interval
+;
+; VAZ Plus section
+[Tuning]
+note 0=4151
+note 1=4183
+note 2=4217
+note 3=4249
+note 4=4263
+note 5=4302
+note 6=4329
+note 7=4365
+note 8=4382
+note 9=4414
+note 10=4453
+note 11=4484
+note 12=4533
+note 13=4569
+note 14=4596
+note 15=4618
+note 16=4649
+note 17=4688
+note 18=4719
+note 19=4747
+note 20=4764
+note 21=4800
+note 22=4836
+note 23=4853
+note 24=4881
+note 25=4912
+note 26=4951
+note 27=4982
+note 28=5004
+note 29=5031
+note 30=5067
+note 31=5116
+note 32=5147
+note 33=5186
+note 34=5218
+note 35=5235
+note 36=5271
+note 37=5298
+note 38=5337
+note 39=5351
+note 40=5383
+note 41=5417
+note 42=5449
+note 43=5463
+note 44=5502
+note 45=5529
+note 46=5565
+note 47=5582
+note 48=5614
+note 49=5653
+note 50=5684
+note 51=5733
+note 52=5769
+note 53=5796
+note 54=5818
+note 55=5849
+note 56=5888
+note 57=5919
+note 58=5947
+note 59=5964
+note 60=6000
+note 61=6036
+note 62=6053
+note 63=6081
+note 64=6112
+note 65=6151
+note 66=6182
+note 67=6204
+note 68=6231
+note 69=6267
+note 70=6316
+note 71=6347
+note 72=6386
+note 73=6418
+note 74=6435
+note 75=6471
+note 76=6498
+note 77=6537
+note 78=6551
+note 79=6583
+note 80=6617
+note 81=6649
+note 82=6663
+note 83=6702
+note 84=6729
+note 85=6765
+note 86=6782
+note 87=6814
+note 88=6853
+note 89=6884
+note 90=6933
+note 91=6969
+note 92=6996
+note 93=7018
+note 94=7049
+note 95=7088
+note 96=7119
+note 97=7147
+note 98=7164
+note 99=7200
+note 100=7236
+note 101=7253
+note 102=7281
+note 103=7312
+note 104=7351
+note 105=7382
+note 106=7404
+note 107=7431
+note 108=7467
+note 109=7516
+note 110=7547
+note 111=7586
+note 112=7618
+note 113=7635
+note 114=7671
+note 115=7698
+note 116=7737
+note 117=7751
+note 118=7783
+note 119=7817
+note 120=7849
+note 121=7863
+note 122=7902
+note 123=7929
+note 124=7965
+note 125=7982
+note 126=8014
+note 127=8053
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "partch_39.tun"
+ID= "ID_partch_39.tun"
+Filename= "partch_39.scl"
+Description= "Ur-Partch Keyboard 39 tones, published in Interval"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4151.317942
+note 1= 4182.512193
+note 2= 4217.487807
+note 3= 4248.682058
+note 4= 4263.049228
+note 5= 4301.955001
+note 6= 4329.219093
+note 7= 4364.915905
+note 8= 4382.492036
+note 9= 4413.686286
+note 10= 4452.592059
+note 11= 4484.358713
+note 12= 4533.129094
+note 13= 4568.825906
+note 14= 4596.089998
+note 15= 4617.596288
+note 16= 4649.362941
+note 17= 4688.268715
+note 18= 4719.462965
+note 19= 4746.727057
+note 20= 4764.303188
+note 21= 4800.000000
+note 22= 4835.696812
+note 23= 4853.272943
+note 24= 4880.537035
+note 25= 4911.731285
+note 26= 4950.637059
+note 27= 4982.403712
+note 28= 5003.910002
+note 29= 5031.174094
+note 30= 5066.870906
+note 31= 5115.641287
+note 32= 5147.407941
+note 33= 5186.313714
+note 34= 5217.507964
+note 35= 5235.084095
+note 36= 5270.780907
+note 37= 5298.044999
+note 38= 5336.950772
+note 39= 5351.317942
+note 40= 5382.512193
+note 41= 5417.487807
+note 42= 5448.682058
+note 43= 5463.049228
+note 44= 5501.955001
+note 45= 5529.219093
+note 46= 5564.915905
+note 47= 5582.492036
+note 48= 5613.686286
+note 49= 5652.592059
+note 50= 5684.358713
+note 51= 5733.129094
+note 52= 5768.825906
+note 53= 5796.089998
+note 54= 5817.596288
+note 55= 5849.362941
+note 56= 5888.268715
+note 57= 5919.462965
+note 58= 5946.727057
+note 59= 5964.303188
+note 60= 6000.000000
+note 61= 6035.696812
+note 62= 6053.272943
+note 63= 6080.537035
+note 64= 6111.731285
+note 65= 6150.637059
+note 66= 6182.403712
+note 67= 6203.910002
+note 68= 6231.174094
+note 69= 6266.870906
+note 70= 6315.641287
+note 71= 6347.407941
+note 72= 6386.313714
+note 73= 6417.507964
+note 74= 6435.084095
+note 75= 6470.780907
+note 76= 6498.044999
+note 77= 6536.950772
+note 78= 6551.317942
+note 79= 6582.512193
+note 80= 6617.487807
+note 81= 6648.682058
+note 82= 6663.049228
+note 83= 6701.955001
+note 84= 6729.219093
+note 85= 6764.915905
+note 86= 6782.492036
+note 87= 6813.686286
+note 88= 6852.592059
+note 89= 6884.358713
+note 90= 6933.129094
+note 91= 6968.825906
+note 92= 6996.089998
+note 93= 7017.596288
+note 94= 7049.362941
+note 95= 7088.268715
+note 96= 7119.462965
+note 97= 7146.727057
+note 98= 7164.303188
+note 99= 7200.000000
+note 100= 7235.696812
+note 101= 7253.272943
+note 102= 7280.537035
+note 103= 7311.731285
+note 104= 7350.637059
+note 105= 7382.403712
+note 106= 7403.910002
+note 107= 7431.174094
+note 108= 7466.870906
+note 109= 7515.641287
+note 110= 7547.407941
+note 111= 7586.313714
+note 112= 7617.507964
+note 113= 7635.084095
+note 114= 7670.780907
+note 115= 7698.044999
+note 116= 7736.950772
+note 117= 7751.317942
+note 118= 7782.512193
+note 119= 7817.487807
+note 120= 7848.682058
+note 121= 7863.049228
+note 122= 7901.955001
+note 123= 7929.219093
+note 124= 7964.915905
+note 125= 7982.492036
+note 126= 8013.686286
+note 127= 8052.592059
+
+[Functional Tuning]
+note 1="#=0 * 49/48"
+note 2="#=0 * 33/32"
+note 3="#=0 * 22/21"
+note 4="#=0 * 16/15"
+note 5="#=0 * 12/11"
+note 6="#=0 * 10/9"
+note 7="#=0 * 9/8"
+note 8="#=0 * 8/7"
+note 9="#=0 * 7/6"
+note 10="#=0 * 6/5"
+note 11="#=0 * 11/9"
+note 12="#=0 * 5/4"
+note 13="#=0 * 14/11"
+note 14="#=0 * 9/7"
+note 15="#=0 * 21/16"
+note 16="#=0 * 4/3"
+note 17="#=0 * 15/11"
+note 18="#=0 * 11/8"
+note 19="#=0 * 7/5"
+note 20="#=0 * 10/7"
+note 21="#=0 * 16/11"
+note 22="#=0 * 22/15"
+note 23="#=0 * 3/2"
+note 24="#=0 * 32/21"
+note 25="#=0 * 14/9"
+note 26="#=0 * 11/7"
+note 27="#=0 * 8/5"
+note 28="#=0 * 18/11"
+note 29="#=0 * 5/3"
+note 30="#=0 * 12/7"
+note 31="#=0 * 7/4"
+note 32="#=0 * 16/9"
+note 33="#=0 * 9/5"
+note 34="#=0 * 11/6"
+note 35="#=0 * 15/8"
+note 36="#=0 * 21/11"
+note 37="#=0 * 64/33"
+note 38="#=0 * 96/49"
+note 39="#>-39 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,305 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Warren Burt, 23-tone Fibonacci scale. "Recurrent Sequences", 2002
+;
+; VAZ Plus section
+[Tuning]
+note 0=2871
+note 1=2902
+note 2=2971
+note 3=3001
+note 4=3070
+note 5=3102
+note 6=3169
+note 7=3241
+note 8=3269
+note 9=3338
+note 10=3368
+note 11=3437
+note 12=3467
+note 13=3536
+note 14=3600
+note 15=3636
+note 16=3705
+note 17=3735
+note 18=3804
+note 19=3834
+note 20=3903
+note 21=3986
+note 22=4002
+note 23=4071
+note 24=4102
+note 25=4171
+note 26=4201
+note 27=4270
+note 28=4302
+note 29=4369
+note 30=4441
+note 31=4469
+note 32=4538
+note 33=4568
+note 34=4637
+note 35=4667
+note 36=4736
+note 37=4800
+note 38=4836
+note 39=4905
+note 40=4935
+note 41=5004
+note 42=5034
+note 43=5103
+note 44=5186
+note 45=5202
+note 46=5271
+note 47=5302
+note 48=5371
+note 49=5401
+note 50=5470
+note 51=5502
+note 52=5569
+note 53=5641
+note 54=5669
+note 55=5738
+note 56=5768
+note 57=5837
+note 58=5867
+note 59=5936
+note 60=6000
+note 61=6036
+note 62=6105
+note 63=6135
+note 64=6204
+note 65=6234
+note 66=6303
+note 67=6386
+note 68=6402
+note 69=6471
+note 70=6502
+note 71=6571
+note 72=6601
+note 73=6670
+note 74=6702
+note 75=6769
+note 76=6841
+note 77=6869
+note 78=6938
+note 79=6968
+note 80=7037
+note 81=7067
+note 82=7136
+note 83=7200
+note 84=7236
+note 85=7305
+note 86=7335
+note 87=7404
+note 88=7434
+note 89=7503
+note 90=7586
+note 91=7602
+note 92=7671
+note 93=7702
+note 94=7771
+note 95=7801
+note 96=7870
+note 97=7902
+note 98=7969
+note 99=8041
+note 100=8069
+note 101=8138
+note 102=8168
+note 103=8237
+note 104=8267
+note 105=8336
+note 106=8400
+note 107=8436
+note 108=8505
+note 109=8535
+note 110=8604
+note 111=8634
+note 112=8703
+note 113=8786
+note 114=8802
+note 115=8871
+note 116=8902
+note 117=8971
+note 118=9001
+note 119=9070
+note 120=9102
+note 121=9169
+note 122=9241
+note 123=9269
+note 124=9338
+note 125=9368
+note 126=9437
+note 127=9467
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "burt_fibo23.tun"
+ID= "ID_burt_fibo23.tun"
+Filename= "burt_fibo23.scl"
+Description= "Warren Burt, 23-tone Fibonacci scale. "Recurrent Sequences", 2002"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2870.780907
+note 1= 2901.739369
+note 2= 2970.880117
+note 3= 3001.010255
+note 4= 3070.104856
+note 5= 3101.955001
+note 6= 3169.378317
+note 7= 3240.527662
+note 8= 3268.649063
+note 9= 3337.631656
+note 10= 3367.919960
+note 11= 3437.023374
+note 12= 3467.190848
+note 13= 3536.287529
+note 14= 3600.000000
+note 15= 3635.558794
+note 16= 3704.955410
+note 17= 3734.829662
+note 18= 3803.910002
+note 19= 3834.100552
+note 20= 3903.198519
+note 21= 3986.313714
+note 22= 4002.468426
+note 23= 4070.780907
+note 24= 4101.739369
+note 25= 4170.880117
+note 26= 4201.010255
+note 27= 4270.104856
+note 28= 4301.955001
+note 29= 4369.378317
+note 30= 4440.527662
+note 31= 4468.649063
+note 32= 4537.631656
+note 33= 4567.919960
+note 34= 4637.023374
+note 35= 4667.190848
+note 36= 4736.287529
+note 37= 4800.000000
+note 38= 4835.558794
+note 39= 4904.955410
+note 40= 4934.829662
+note 41= 5003.910002
+note 42= 5034.100552
+note 43= 5103.198519
+note 44= 5186.313714
+note 45= 5202.468426
+note 46= 5270.780907
+note 47= 5301.739369
+note 48= 5370.880117
+note 49= 5401.010255
+note 50= 5470.104856
+note 51= 5501.955001
+note 52= 5569.378317
+note 53= 5640.527662
+note 54= 5668.649063
+note 55= 5737.631656
+note 56= 5767.919960
+note 57= 5837.023374
+note 58= 5867.190848
+note 59= 5936.287529
+note 60= 6000.000000
+note 61= 6035.558794
+note 62= 6104.955410
+note 63= 6134.829662
+note 64= 6203.910002
+note 65= 6234.100552
+note 66= 6303.198519
+note 67= 6386.313714
+note 68= 6402.468426
+note 69= 6470.780907
+note 70= 6501.739369
+note 71= 6570.880117
+note 72= 6601.010255
+note 73= 6670.104856
+note 74= 6701.955001
+note 75= 6769.378317
+note 76= 6840.527662
+note 77= 6868.649063
+note 78= 6937.631656
+note 79= 6967.919960
+note 80= 7037.023374
+note 81= 7067.190848
+note 82= 7136.287529
+note 83= 7200.000000
+note 84= 7235.558794
+note 85= 7304.955410
+note 86= 7334.829662
+note 87= 7403.910002
+note 88= 7434.100552
+note 89= 7503.198519
+note 90= 7586.313714
+note 91= 7602.468426
+note 92= 7670.780907
+note 93= 7701.739369
+note 94= 7770.880117
+note 95= 7801.010255
+note 96= 7870.104856
+note 97= 7901.955001
+note 98= 7969.378317
+note 99= 8040.527662
+note 100= 8068.649063
+note 101= 8137.631656
+note 102= 8167.919960
+note 103= 8237.023374
+note 104= 8267.190848
+note 105= 8336.287529
+note 106= 8400.000000
+note 107= 8435.558794
+note 108= 8504.955410
+note 109= 8534.829662
+note 110= 8603.910002
+note 111= 8634.100552
+note 112= 8703.198519
+note 113= 8786.313714
+note 114= 8802.468426
+note 115= 8870.780907
+note 116= 8901.739369
+note 117= 8970.880117
+note 118= 9001.010255
+note 119= 9070.104856
+note 120= 9101.955001
+note 121= 9169.378317
+note 122= 9240.527662
+note 123= 9268.649063
+note 124= 9337.631656
+note 125= 9367.919960
+note 126= 9437.023374
+note 127= 9467.190848
+
+[Functional Tuning]
+note 1="#=0 * 4181/4096"
+note 2="#=0 * 17/16"
+note 3="#=0 * 17711/16384"
+note 4="#=0 * 9/8"
+note 5="#=0 * 75025/65536"
+note 6="#=0 * 305/256"
+note 7="#=0 * 5/4"
+note 8="#=0 * 323/256"
+note 9="#=0 * 21/16"
+note 10="#=0 * 5473/4096"
+note 11="#=0 * 89/64"
+note 12="#=0 * 1449/1024"
+note 13="#=0 * 377/256"
+note 14="#=0 * 3/2"
+note 15="#=0 * 1597/1024"
+note 16="#=0 * 13/8"
+note 17="#=0 * 6765/4096"
+note 18="#=0 * 55/32"
+note 19="#=0 * 28657/16384"
+note 20="#=0 * 233/128"
+note 21="#=0 * 121393/65536"
+note 22="#=0 * 987/512"
+note 23="#>-23 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

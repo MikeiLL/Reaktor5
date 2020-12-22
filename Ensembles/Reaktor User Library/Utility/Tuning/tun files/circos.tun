@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; [1, 3] weight range weighted least squares circulating temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=90
+note 2=196
+note 3=301
+note 4=392
+note 5=502
+note 6=587
+note 7=698
+note 8=796
+note 9=894
+note 10=1002
+note 11=1089
+note 12=1200
+note 13=1290
+note 14=1396
+note 15=1501
+note 16=1592
+note 17=1702
+note 18=1787
+note 19=1898
+note 20=1996
+note 21=2094
+note 22=2202
+note 23=2289
+note 24=2400
+note 25=2490
+note 26=2596
+note 27=2701
+note 28=2792
+note 29=2902
+note 30=2987
+note 31=3098
+note 32=3196
+note 33=3294
+note 34=3402
+note 35=3489
+note 36=3600
+note 37=3690
+note 38=3796
+note 39=3901
+note 40=3992
+note 41=4102
+note 42=4187
+note 43=4298
+note 44=4396
+note 45=4494
+note 46=4602
+note 47=4689
+note 48=4800
+note 49=4890
+note 50=4996
+note 51=5101
+note 52=5192
+note 53=5302
+note 54=5387
+note 55=5498
+note 56=5596
+note 57=5694
+note 58=5802
+note 59=5889
+note 60=6000
+note 61=6090
+note 62=6196
+note 63=6301
+note 64=6392
+note 65=6502
+note 66=6587
+note 67=6698
+note 68=6796
+note 69=6894
+note 70=7002
+note 71=7089
+note 72=7200
+note 73=7290
+note 74=7396
+note 75=7501
+note 76=7592
+note 77=7702
+note 78=7787
+note 79=7898
+note 80=7996
+note 81=8094
+note 82=8202
+note 83=8289
+note 84=8400
+note 85=8490
+note 86=8596
+note 87=8701
+note 88=8792
+note 89=8902
+note 90=8987
+note 91=9098
+note 92=9196
+note 93=9294
+note 94=9402
+note 95=9489
+note 96=9600
+note 97=9690
+note 98=9796
+note 99=9901
+note 100=9992
+note 101=10102
+note 102=10187
+note 103=10298
+note 104=10396
+note 105=10494
+note 106=10602
+note 107=10689
+note 108=10800
+note 109=10890
+note 110=10996
+note 111=11101
+note 112=11192
+note 113=11302
+note 114=11387
+note 115=11498
+note 116=11596
+note 117=11694
+note 118=11802
+note 119=11889
+note 120=12000
+note 121=12090
+note 122=12196
+note 123=12301
+note 124=12392
+note 125=12502
+note 126=12587
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "circos.tun"
+ID= "ID_circos.tun"
+Filename= "circos.scl"
+Description= "[1, 3] weight range weighted least squares circulating temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 89.617502
+note 2= 195.633226
+note 3= 300.984164
+note 4= 391.528643
+note 5= 501.698852
+note 6= 587.325482
+note 7= 697.824592
+note 8= 796.007518
+note 9= 893.677492
+note 10= 1002.402613
+note 11= 1088.884819
+note 12= 1200.000000
+note 13= 1289.617502
+note 14= 1395.633226
+note 15= 1500.984164
+note 16= 1591.528643
+note 17= 1701.698852
+note 18= 1787.325482
+note 19= 1897.824592
+note 20= 1996.007518
+note 21= 2093.677492
+note 22= 2202.402613
+note 23= 2288.884819
+note 24= 2400.000000
+note 25= 2489.617502
+note 26= 2595.633226
+note 27= 2700.984164
+note 28= 2791.528643
+note 29= 2901.698852
+note 30= 2987.325482
+note 31= 3097.824592
+note 32= 3196.007518
+note 33= 3293.677492
+note 34= 3402.402613
+note 35= 3488.884819
+note 36= 3600.000000
+note 37= 3689.617502
+note 38= 3795.633226
+note 39= 3900.984164
+note 40= 3991.528643
+note 41= 4101.698852
+note 42= 4187.325482
+note 43= 4297.824592
+note 44= 4396.007518
+note 45= 4493.677492
+note 46= 4602.402613
+note 47= 4688.884819
+note 48= 4800.000000
+note 49= 4889.617502
+note 50= 4995.633226
+note 51= 5100.984164
+note 52= 5191.528643
+note 53= 5301.698852
+note 54= 5387.325482
+note 55= 5497.824592
+note 56= 5596.007518
+note 57= 5693.677492
+note 58= 5802.402613
+note 59= 5888.884819
+note 60= 6000.000000
+note 61= 6089.617502
+note 62= 6195.633226
+note 63= 6300.984164
+note 64= 6391.528643
+note 65= 6501.698852
+note 66= 6587.325482
+note 67= 6697.824592
+note 68= 6796.007518
+note 69= 6893.677492
+note 70= 7002.402613
+note 71= 7088.884819
+note 72= 7200.000000
+note 73= 7289.617502
+note 74= 7395.633226
+note 75= 7500.984164
+note 76= 7591.528643
+note 77= 7701.698852
+note 78= 7787.325482
+note 79= 7897.824592
+note 80= 7996.007518
+note 81= 8093.677492
+note 82= 8202.402613
+note 83= 8288.884819
+note 84= 8400.000000
+note 85= 8489.617502
+note 86= 8595.633226
+note 87= 8700.984164
+note 88= 8791.528643
+note 89= 8901.698852
+note 90= 8987.325482
+note 91= 9097.824592
+note 92= 9196.007518
+note 93= 9293.677492
+note 94= 9402.402613
+note 95= 9488.884819
+note 96= 9600.000000
+note 97= 9689.617502
+note 98= 9795.633226
+note 99= 9900.984164
+note 100= 9991.528643
+note 101= 10101.698852
+note 102= 10187.325482
+note 103= 10297.824592
+note 104= 10396.007518
+note 105= 10493.677492
+note 106= 10602.402613
+note 107= 10688.884819
+note 108= 10800.000000
+note 109= 10889.617502
+note 110= 10995.633226
+note 111= 11100.984164
+note 112= 11191.528643
+note 113= 11301.698852
+note 114= 11387.325482
+note 115= 11497.824592
+note 116= 11596.007518
+note 117= 11693.677492
+note 118= 11802.402613
+note 119= 11888.884819
+note 120= 12000.000000
+note 121= 12089.617502
+note 122= 12195.633226
+note 123= 12300.984164
+note 124= 12391.528643
+note 125= 12501.698852
+note 126= 12587.325482
+note 127= 12697.824592
+
+[Functional Tuning]
+note 1="#=0 % 89.617502"
+note 2="#=0 % 195.633226"
+note 3="#=0 % 300.984164"
+note 4="#=0 % 391.528643"
+note 5="#=0 % 501.698852"
+note 6="#=0 % 587.325482"
+note 7="#=0 % 697.824592"
+note 8="#=0 % 796.007518"
+note 9="#=0 % 893.677492"
+note 10="#=0 % 1002.402613"
+note 11="#=0 % 1088.884819"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Manfred Stahnke, PARTCH HARP synth tuning. Minimax for 5/4 and 7/4, acceptable 11/4
+;
+; VAZ Plus section
+[Tuning]
+note 0=192
+note 1=289
+note 2=386
+note 3=483
+note 4=579
+note 5=676
+note 6=773
+note 7=870
+note 8=967
+note 9=1063
+note 10=1160
+note 11=1257
+note 12=1354
+note 13=1451
+note 14=1547
+note 15=1644
+note 16=1741
+note 17=1838
+note 18=1935
+note 19=2031
+note 20=2128
+note 21=2225
+note 22=2322
+note 23=2419
+note 24=2515
+note 25=2612
+note 26=2709
+note 27=2806
+note 28=2903
+note 29=2999
+note 30=3096
+note 31=3193
+note 32=3290
+note 33=3387
+note 34=3483
+note 35=3580
+note 36=3677
+note 37=3774
+note 38=3870
+note 39=3967
+note 40=4064
+note 41=4161
+note 42=4258
+note 43=4354
+note 44=4451
+note 45=4548
+note 46=4645
+note 47=4742
+note 48=4838
+note 49=4935
+note 50=5032
+note 51=5129
+note 52=5226
+note 53=5322
+note 54=5419
+note 55=5516
+note 56=5613
+note 57=5710
+note 58=5806
+note 59=5903
+note 60=6000
+note 61=6097
+note 62=6194
+note 63=6290
+note 64=6387
+note 65=6484
+note 66=6581
+note 67=6678
+note 68=6774
+note 69=6871
+note 70=6968
+note 71=7065
+note 72=7162
+note 73=7258
+note 74=7355
+note 75=7452
+note 76=7549
+note 77=7646
+note 78=7742
+note 79=7839
+note 80=7936
+note 81=8033
+note 82=8130
+note 83=8226
+note 84=8323
+note 85=8420
+note 86=8517
+note 87=8613
+note 88=8710
+note 89=8807
+note 90=8904
+note 91=9001
+note 92=9097
+note 93=9194
+note 94=9291
+note 95=9388
+note 96=9485
+note 97=9581
+note 98=9678
+note 99=9775
+note 100=9872
+note 101=9969
+note 102=10065
+note 103=10162
+note 104=10259
+note 105=10356
+note 106=10453
+note 107=10549
+note 108=10646
+note 109=10743
+note 110=10840
+note 111=10937
+note 112=11033
+note 113=11130
+note 114=11227
+note 115=11324
+note 116=11421
+note 117=11517
+note 118=11614
+note 119=11711
+note 120=11808
+note 121=11905
+note 122=12001
+note 123=12098
+note 124=12195
+note 125=12292
+note 126=12389
+note 127=12485
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "cet97.tun"
+ID= "ID_cet97.tun"
+Filename= "cet97.scl"
+Description= "Manfred Stahnke, PARTCH HARP synth tuning. Minimax for 5/4 and 7/4, acceptable 11/4"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 192.258650
+note 1= 289.054340
+note 2= 385.850030
+note 3= 482.645720
+note 4= 579.441410
+note 5= 676.237100
+note 6= 773.032790
+note 7= 869.828480
+note 8= 966.624160
+note 9= 1063.419850
+note 10= 1160.215540
+note 11= 1257.011230
+note 12= 1353.806920
+note 13= 1450.602610
+note 14= 1547.398300
+note 15= 1644.193990
+note 16= 1740.989680
+note 17= 1837.785370
+note 18= 1934.581060
+note 19= 2031.376750
+note 20= 2128.172430
+note 21= 2224.968120
+note 22= 2321.763810
+note 23= 2418.559500
+note 24= 2515.355190
+note 25= 2612.150880
+note 26= 2708.946570
+note 27= 2805.742260
+note 28= 2902.537950
+note 29= 2999.333640
+note 30= 3096.129330
+note 31= 3192.925020
+note 32= 3289.720700
+note 33= 3386.516390
+note 34= 3483.312080
+note 35= 3580.107770
+note 36= 3676.903460
+note 37= 3773.699150
+note 38= 3870.494840
+note 39= 3967.290530
+note 40= 4064.086220
+note 41= 4160.881910
+note 42= 4257.677600
+note 43= 4354.473290
+note 44= 4451.268970
+note 45= 4548.064660
+note 46= 4644.860350
+note 47= 4741.656040
+note 48= 4838.451730
+note 49= 4935.247420
+note 50= 5032.043110
+note 51= 5128.838800
+note 52= 5225.634490
+note 53= 5322.430180
+note 54= 5419.225870
+note 55= 5516.021560
+note 56= 5612.817240
+note 57= 5709.612930
+note 58= 5806.408620
+note 59= 5903.204310
+note 60= 6000.000000
+note 61= 6096.795690
+note 62= 6193.591380
+note 63= 6290.387070
+note 64= 6387.182760
+note 65= 6483.978450
+note 66= 6580.774140
+note 67= 6677.569830
+note 68= 6774.365510
+note 69= 6871.161200
+note 70= 6967.956890
+note 71= 7064.752580
+note 72= 7161.548270
+note 73= 7258.343960
+note 74= 7355.139650
+note 75= 7451.935340
+note 76= 7548.731030
+note 77= 7645.526720
+note 78= 7742.322410
+note 79= 7839.118100
+note 80= 7935.913780
+note 81= 8032.709470
+note 82= 8129.505160
+note 83= 8226.300850
+note 84= 8323.096540
+note 85= 8419.892230
+note 86= 8516.687920
+note 87= 8613.483610
+note 88= 8710.279300
+note 89= 8807.074990
+note 90= 8903.870680
+note 91= 9000.666370
+note 92= 9097.462050
+note 93= 9194.257740
+note 94= 9291.053430
+note 95= 9387.849120
+note 96= 9484.644810
+note 97= 9581.440500
+note 98= 9678.236190
+note 99= 9775.031880
+note 100= 9871.827570
+note 101= 9968.623260
+note 102= 10065.418950
+note 103= 10162.214640
+note 104= 10259.010320
+note 105= 10355.806010
+note 106= 10452.601700
+note 107= 10549.397390
+note 108= 10646.193080
+note 109= 10742.988770
+note 110= 10839.784460
+note 111= 10936.580150
+note 112= 11033.375840
+note 113= 11130.171530
+note 114= 11226.967220
+note 115= 11323.762910
+note 116= 11420.558590
+note 117= 11517.354280
+note 118= 11614.149970
+note 119= 11710.945660
+note 120= 11807.741350
+note 121= 11904.537040
+note 122= 12001.332730
+note 123= 12098.128420
+note 124= 12194.924110
+note 125= 12291.719800
+note 126= 12388.515490
+note 127= 12485.311180
+
+[Functional Tuning]
+note 1="#=0 % 96.795690"
+note 2="#=0 % 193.591380"
+note 3="#=0 % 290.387070"
+note 4="#=0 % 387.182760"
+note 5="#=0 % 483.978450"
+note 6="#=0 % 580.774140"
+note 7="#=0 % 677.569830"
+note 8="#=0 % 774.365510"
+note 9="#=0 % 871.161200"
+note 10="#=0 % 967.956890"
+note 11="#=0 % 1064.752580"
+note 12="#>-12 % 1161.548270 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

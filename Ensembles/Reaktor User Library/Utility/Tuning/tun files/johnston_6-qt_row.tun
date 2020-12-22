@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 11-limit 'prime row' from Ben Johnston's "6th Quartet"
+;
+; VAZ Plus section
+[Tuning]
+note 0=244
+note 1=315
+note 2=426
+note 3=518
+note 4=630
+note 5=750
+note 6=813
+note 7=978
+note 8=1016
+note 9=1128
+note 10=1167
+note 11=1332
+note 12=1395
+note 13=1466
+note 14=1577
+note 15=1670
+note 16=1781
+note 17=1901
+note 18=1964
+note 19=2129
+note 20=2168
+note 21=2279
+note 22=2318
+note 23=2483
+note 24=2546
+note 25=2617
+note 26=2729
+note 27=2821
+note 28=2933
+note 29=3052
+note 30=3115
+note 31=3280
+note 32=3319
+note 33=3431
+note 34=3470
+note 35=3635
+note 36=3698
+note 37=3768
+note 38=3880
+note 39=3972
+note 40=4084
+note 41=4203
+note 42=4266
+note 43=4431
+note 44=4470
+note 45=4582
+note 46=4621
+note 47=4786
+note 48=4849
+note 49=4919
+note 50=5031
+note 51=5123
+note 52=5235
+note 53=5355
+note 54=5417
+note 55=5582
+note 56=5621
+note 57=5733
+note 58=5772
+note 59=5937
+note 60=6000
+note 61=6071
+note 62=6182
+note 63=6275
+note 64=6386
+note 65=6506
+note 66=6569
+note 67=6734
+note 68=6773
+note 69=6884
+note 70=6923
+note 71=7088
+note 72=7151
+note 73=7222
+note 74=7334
+note 75=7426
+note 76=7538
+note 77=7657
+note 78=7720
+note 79=7885
+note 80=7924
+note 81=8036
+note 82=8074
+note 83=8239
+note 84=8302
+note 85=8373
+note 86=8485
+note 87=8577
+note 88=8689
+note 89=8808
+note 90=8871
+note 91=9036
+note 92=9075
+note 93=9187
+note 94=9226
+note 95=9391
+note 96=9454
+note 97=9524
+note 98=9636
+note 99=9728
+note 100=9840
+note 101=9959
+note 102=10022
+note 103=10187
+note 104=10226
+note 105=10338
+note 106=10377
+note 107=10542
+note 108=10605
+note 109=10676
+note 110=10787
+note 111=10880
+note 112=10991
+note 113=11111
+note 114=11174
+note 115=11339
+note 116=11378
+note 117=11489
+note 118=11528
+note 119=11693
+note 120=11756
+note 121=11827
+note 122=11939
+note 123=12031
+note 124=12142
+note 125=12262
+note 126=12325
+note 127=12490
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "johnston_6-qt_row.tun"
+ID= "ID_johnston_6-qt_row.tun"
+Filename= "johnston_6-qt_row.scl"
+Description= "11-limit 'prime row' from Ben Johnston's "6th Quartet""
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 243.851907
+note 1= 314.524334
+note 2= 426.255619
+note 3= 518.434336
+note 4= 630.165621
+note 5= 749.608429
+note 6= 812.569333
+note 7= 977.573561
+note 8= 1016.479335
+note 9= 1128.210620
+note 10= 1167.116393
+note 11= 1332.120622
+note 12= 1395.081526
+note 13= 1465.753952
+note 14= 1577.485238
+note 15= 1669.663954
+note 16= 1781.395239
+note 17= 1900.838048
+note 18= 1963.798952
+note 19= 2128.803180
+note 20= 2167.708953
+note 21= 2279.440239
+note 22= 2318.346012
+note 23= 2483.350240
+note 24= 2546.311144
+note 25= 2616.983571
+note 26= 2728.714856
+note 27= 2820.893573
+note 28= 2932.624858
+note 29= 3052.067666
+note 30= 3115.028570
+note 31= 3280.032799
+note 32= 3318.938572
+note 33= 3430.669857
+note 34= 3469.575630
+note 35= 3634.579859
+note 36= 3697.540763
+note 37= 3768.213190
+note 38= 3879.944475
+note 39= 3972.123191
+note 40= 4083.854477
+note 41= 4203.297285
+note 42= 4266.258189
+note 43= 4431.262417
+note 44= 4470.168191
+note 45= 4581.899476
+note 46= 4620.805249
+note 47= 4785.809478
+note 48= 4848.770381
+note 49= 4919.442808
+note 50= 5031.174094
+note 51= 5123.352810
+note 52= 5235.084095
+note 53= 5354.526904
+note 54= 5417.487807
+note 55= 5582.492036
+note 56= 5621.397809
+note 57= 5733.129094
+note 58= 5772.034868
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6182.403712
+note 63= 6274.582429
+note 64= 6386.313714
+note 65= 6505.756522
+note 66= 6568.717426
+note 67= 6733.721654
+note 68= 6772.627428
+note 69= 6884.358713
+note 70= 6923.264486
+note 71= 7088.268715
+note 72= 7151.229619
+note 73= 7221.902045
+note 74= 7333.633331
+note 75= 7425.812047
+note 76= 7537.543332
+note 77= 7656.986141
+note 78= 7719.947045
+note 79= 7884.951273
+note 80= 7923.857046
+note 81= 8035.588332
+note 82= 8074.494105
+note 83= 8239.498333
+note 84= 8302.459237
+note 85= 8373.131664
+note 86= 8484.862949
+note 87= 8577.041666
+note 88= 8688.772951
+note 89= 8808.215759
+note 90= 8871.176663
+note 91= 9036.180892
+note 92= 9075.086665
+note 93= 9186.817950
+note 94= 9225.723723
+note 95= 9390.727952
+note 96= 9453.688856
+note 97= 9524.361283
+note 98= 9636.092568
+note 99= 9728.271284
+note 100= 9840.002570
+note 101= 9959.445378
+note 102= 10022.406282
+note 103= 10187.410510
+note 104= 10226.316284
+note 105= 10338.047569
+note 106= 10376.953342
+note 107= 10541.957571
+note 108= 10604.918474
+note 109= 10675.590901
+note 110= 10787.322187
+note 111= 10879.500903
+note 112= 10991.232188
+note 113= 11110.674997
+note 114= 11173.635900
+note 115= 11338.640129
+note 116= 11377.545902
+note 117= 11489.277187
+note 118= 11528.182961
+note 119= 11693.187189
+note 120= 11756.148093
+note 121= 11826.820520
+note 122= 11938.551805
+note 123= 12030.730522
+note 124= 12142.461807
+note 125= 12261.904615
+note 126= 12324.865519
+note 127= 12489.869748
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 10/9"
+note 3="#=0 * 75/64"
+note 4="#=0 * 5/4"
+note 5="#=0 * 75/56"
+note 6="#=0 * 25/18"
+note 7="#=0 * 55/36"
+note 8="#=0 * 25/16"
+note 9="#=0 * 5/3"
+note 10="#=0 * 75/44"
+note 11="#=0 * 15/8"
+note 12="#>-12 * 35/18 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

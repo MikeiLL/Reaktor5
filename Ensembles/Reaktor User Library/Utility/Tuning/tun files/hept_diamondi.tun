@@ -1,0 +1,307 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Prime-Inverted Heptatonic Diamond based on Archytas's Enharmonic
+;
+; VAZ Plus section
+[Tuning]
+note 0=3102
+note 1=3165
+note 2=3214
+note 3=3377
+note 4=3396
+note 5=3425
+note 6=3474
+note 7=3488
+note 8=3537
+note 9=3551
+note 10=3600
+note 11=3649
+note 12=3663
+note 13=3712
+note 14=3726
+note 15=3775
+note 16=3804
+note 17=3823
+note 18=3986
+note 19=4035
+note 20=4098
+note 21=4161
+note 22=4190
+note 23=4210
+note 24=4239
+note 25=4302
+note 26=4365
+note 27=4414
+note 28=4577
+note 29=4596
+note 30=4625
+note 31=4674
+note 32=4688
+note 33=4737
+note 34=4751
+note 35=4800
+note 36=4849
+note 37=4863
+note 38=4912
+note 39=4926
+note 40=4975
+note 41=5004
+note 42=5023
+note 43=5186
+note 44=5235
+note 45=5298
+note 46=5361
+note 47=5390
+note 48=5410
+note 49=5439
+note 50=5502
+note 51=5565
+note 52=5614
+note 53=5777
+note 54=5796
+note 55=5825
+note 56=5874
+note 57=5888
+note 58=5937
+note 59=5951
+note 60=6000
+note 61=6049
+note 62=6063
+note 63=6112
+note 64=6126
+note 65=6175
+note 66=6204
+note 67=6223
+note 68=6386
+note 69=6435
+note 70=6498
+note 71=6561
+note 72=6590
+note 73=6610
+note 74=6639
+note 75=6702
+note 76=6765
+note 77=6814
+note 78=6977
+note 79=6996
+note 80=7025
+note 81=7074
+note 82=7088
+note 83=7137
+note 84=7151
+note 85=7200
+note 86=7249
+note 87=7263
+note 88=7312
+note 89=7326
+note 90=7375
+note 91=7404
+note 92=7423
+note 93=7586
+note 94=7635
+note 95=7698
+note 96=7761
+note 97=7790
+note 98=7810
+note 99=7839
+note 100=7902
+note 101=7965
+note 102=8014
+note 103=8177
+note 104=8196
+note 105=8225
+note 106=8274
+note 107=8288
+note 108=8337
+note 109=8351
+note 110=8400
+note 111=8449
+note 112=8463
+note 113=8512
+note 114=8526
+note 115=8575
+note 116=8604
+note 117=8623
+note 118=8786
+note 119=8835
+note 120=8898
+note 121=8961
+note 122=8990
+note 123=9010
+note 124=9039
+note 125=9102
+note 126=9165
+note 127=9214
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hept_diamondi.tun"
+ID= "ID_hept_diamondi.tun"
+Filename= "hept_diamondi.scl"
+Description= "Prime-Inverted Heptatonic Diamond based on Archytas's Enharmonic"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3101.955001
+note 1= 3164.915905
+note 2= 3213.686286
+note 3= 3376.537429
+note 4= 3396.089998
+note 5= 3425.307811
+note 6= 3474.078192
+note 7= 3488.268715
+note 8= 3537.039096
+note 9= 3551.229619
+note 10= 3600.000000
+note 11= 3648.770381
+note 12= 3662.960904
+note 13= 3711.731285
+note 14= 3725.921808
+note 15= 3774.692189
+note 16= 3803.910002
+note 17= 3823.462571
+note 18= 3986.313714
+note 19= 4035.084095
+note 20= 4098.044999
+note 21= 4161.005903
+note 22= 4190.223716
+note 23= 4209.776284
+note 24= 4238.994097
+note 25= 4301.955001
+note 26= 4364.915905
+note 27= 4413.686286
+note 28= 4576.537429
+note 29= 4596.089998
+note 30= 4625.307811
+note 31= 4674.078192
+note 32= 4688.268715
+note 33= 4737.039096
+note 34= 4751.229619
+note 35= 4800.000000
+note 36= 4848.770381
+note 37= 4862.960904
+note 38= 4911.731285
+note 39= 4925.921808
+note 40= 4974.692189
+note 41= 5003.910002
+note 42= 5023.462571
+note 43= 5186.313714
+note 44= 5235.084095
+note 45= 5298.044999
+note 46= 5361.005903
+note 47= 5390.223716
+note 48= 5409.776284
+note 49= 5438.994097
+note 50= 5501.955001
+note 51= 5564.915905
+note 52= 5613.686286
+note 53= 5776.537429
+note 54= 5796.089998
+note 55= 5825.307811
+note 56= 5874.078192
+note 57= 5888.268715
+note 58= 5937.039096
+note 59= 5951.229619
+note 60= 6000.000000
+note 61= 6048.770381
+note 62= 6062.960904
+note 63= 6111.731285
+note 64= 6125.921808
+note 65= 6174.692189
+note 66= 6203.910002
+note 67= 6223.462571
+note 68= 6386.313714
+note 69= 6435.084095
+note 70= 6498.044999
+note 71= 6561.005903
+note 72= 6590.223716
+note 73= 6609.776284
+note 74= 6638.994097
+note 75= 6701.955001
+note 76= 6764.915905
+note 77= 6813.686286
+note 78= 6976.537429
+note 79= 6996.089998
+note 80= 7025.307811
+note 81= 7074.078192
+note 82= 7088.268715
+note 83= 7137.039096
+note 84= 7151.229619
+note 85= 7200.000000
+note 86= 7248.770381
+note 87= 7262.960904
+note 88= 7311.731285
+note 89= 7325.921808
+note 90= 7374.692189
+note 91= 7403.910002
+note 92= 7423.462571
+note 93= 7586.313714
+note 94= 7635.084095
+note 95= 7698.044999
+note 96= 7761.005903
+note 97= 7790.223716
+note 98= 7809.776284
+note 99= 7838.994097
+note 100= 7901.955001
+note 101= 7964.915905
+note 102= 8013.686286
+note 103= 8176.537429
+note 104= 8196.089998
+note 105= 8225.307811
+note 106= 8274.078192
+note 107= 8288.268715
+note 108= 8337.039096
+note 109= 8351.229619
+note 110= 8400.000000
+note 111= 8448.770381
+note 112= 8462.960904
+note 113= 8511.731285
+note 114= 8525.921808
+note 115= 8574.692189
+note 116= 8603.910002
+note 117= 8623.462571
+note 118= 8786.313714
+note 119= 8835.084095
+note 120= 8898.044999
+note 121= 8961.005903
+note 122= 8990.223716
+note 123= 9009.776284
+note 124= 9038.994097
+note 125= 9101.955001
+note 126= 9164.915905
+note 127= 9213.686286
+
+[Functional Tuning]
+note 1="#=0 * 36/35"
+note 2="#=0 * 28/27"
+note 3="#=0 * 16/15"
+note 4="#=0 * 784/729"
+note 5="#=0 * 448/405"
+note 6="#=0 * 9/8"
+note 7="#=0 * 256/225"
+note 8="#=0 * 5/4"
+note 9="#=0 * 9/7"
+note 10="#=0 * 4/3"
+note 11="#=0 * 112/81"
+note 12="#=0 * 45/32"
+note 13="#=0 * 64/45"
+note 14="#=0 * 81/56"
+note 15="#=0 * 3/2"
+note 16="#=0 * 14/9"
+note 17="#=0 * 8/5"
+note 18="#=0 * 225/128"
+note 19="#=0 * 16/9"
+note 20="#=0 * 405/224"
+note 21="#=0 * 729/392"
+note 22="#=0 * 15/8"
+note 23="#=0 * 27/14"
+note 24="#=0 * 35/18"
+note 25="#>-25 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

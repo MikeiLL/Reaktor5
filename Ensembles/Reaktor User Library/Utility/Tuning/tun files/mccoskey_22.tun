@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 31-limit rational interpretation of 22-tET, Marion McCoskey
+;
+; VAZ Plus section
+[Tuning]
+note 0=2716
+note 1=2786
+note 2=2835
+note 3=2898
+note 4=2951
+note 5=2983
+note 6=3057
+note 7=3102
+note 8=3165
+note 9=3214
+note 10=3284
+note 11=3333
+note 12=3369
+note 13=3418
+note 14=3488
+note 15=3545
+note 16=3600
+note 17=3655
+note 18=3712
+note 19=3765
+note 20=3831
+note 21=3867
+note 22=3916
+note 23=3986
+note 24=4035
+note 25=4098
+note 26=4151
+note 27=4183
+note 28=4257
+note 29=4302
+note 30=4365
+note 31=4414
+note 32=4484
+note 33=4533
+note 34=4569
+note 35=4618
+note 36=4688
+note 37=4745
+note 38=4800
+note 39=4855
+note 40=4912
+note 41=4965
+note 42=5031
+note 43=5067
+note 44=5116
+note 45=5186
+note 46=5235
+note 47=5298
+note 48=5351
+note 49=5383
+note 50=5457
+note 51=5502
+note 52=5565
+note 53=5614
+note 54=5684
+note 55=5733
+note 56=5769
+note 57=5818
+note 58=5888
+note 59=5945
+note 60=6000
+note 61=6055
+note 62=6112
+note 63=6165
+note 64=6231
+note 65=6267
+note 66=6316
+note 67=6386
+note 68=6435
+note 69=6498
+note 70=6551
+note 71=6583
+note 72=6657
+note 73=6702
+note 74=6765
+note 75=6814
+note 76=6884
+note 77=6933
+note 78=6969
+note 79=7018
+note 80=7088
+note 81=7145
+note 82=7200
+note 83=7255
+note 84=7312
+note 85=7365
+note 86=7431
+note 87=7467
+note 88=7516
+note 89=7586
+note 90=7635
+note 91=7698
+note 92=7751
+note 93=7783
+note 94=7857
+note 95=7902
+note 96=7965
+note 97=8014
+note 98=8084
+note 99=8133
+note 100=8169
+note 101=8218
+note 102=8288
+note 103=8345
+note 104=8400
+note 105=8455
+note 106=8512
+note 107=8565
+note 108=8631
+note 109=8667
+note 110=8716
+note 111=8786
+note 112=8835
+note 113=8898
+note 114=8951
+note 115=8983
+note 116=9057
+note 117=9102
+note 118=9165
+note 119=9214
+note 120=9284
+note 121=9333
+note 122=9369
+note 123=9418
+note 124=9488
+note 125=9545
+note 126=9600
+note 127=9655
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mccoskey_22.tun"
+ID= "ID_mccoskey_22.tun"
+Filename= "mccoskey_22.scl"
+Description= "31-limit rational interpretation of 22-tET, Marion McCoskey"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2715.641287
+note 1= 2786.313714
+note 2= 2835.084095
+note 3= 2898.044999
+note 4= 2951.317942
+note 5= 2982.512193
+note 6= 3056.985354
+note 7= 3101.955001
+note 8= 3164.915905
+note 9= 3213.686286
+note 10= 3284.358713
+note 11= 3333.129094
+note 12= 3368.825906
+note 13= 3417.596288
+note 14= 3488.268715
+note 15= 3545.035572
+note 16= 3600.000000
+note 17= 3654.964428
+note 18= 3711.731285
+note 19= 3765.004228
+note 20= 3831.174094
+note 21= 3866.870906
+note 22= 3915.641287
+note 23= 3986.313714
+note 24= 4035.084095
+note 25= 4098.044999
+note 26= 4151.317942
+note 27= 4182.512193
+note 28= 4256.985354
+note 29= 4301.955001
+note 30= 4364.915905
+note 31= 4413.686286
+note 32= 4484.358713
+note 33= 4533.129094
+note 34= 4568.825906
+note 35= 4617.596288
+note 36= 4688.268715
+note 37= 4745.035572
+note 38= 4800.000000
+note 39= 4854.964428
+note 40= 4911.731285
+note 41= 4965.004228
+note 42= 5031.174094
+note 43= 5066.870906
+note 44= 5115.641287
+note 45= 5186.313714
+note 46= 5235.084095
+note 47= 5298.044999
+note 48= 5351.317942
+note 49= 5382.512193
+note 50= 5456.985354
+note 51= 5501.955001
+note 52= 5564.915905
+note 53= 5613.686286
+note 54= 5684.358713
+note 55= 5733.129094
+note 56= 5768.825906
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5945.035572
+note 60= 6000.000000
+note 61= 6054.964428
+note 62= 6111.731285
+note 63= 6165.004228
+note 64= 6231.174094
+note 65= 6266.870906
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6435.084095
+note 69= 6498.044999
+note 70= 6551.317942
+note 71= 6582.512193
+note 72= 6656.985354
+note 73= 6701.955001
+note 74= 6764.915905
+note 75= 6813.686286
+note 76= 6884.358713
+note 77= 6933.129094
+note 78= 6968.825906
+note 79= 7017.596288
+note 80= 7088.268715
+note 81= 7145.035572
+note 82= 7200.000000
+note 83= 7254.964428
+note 84= 7311.731285
+note 85= 7365.004228
+note 86= 7431.174094
+note 87= 7466.870906
+note 88= 7515.641287
+note 89= 7586.313714
+note 90= 7635.084095
+note 91= 7698.044999
+note 92= 7751.317942
+note 93= 7782.512193
+note 94= 7856.985354
+note 95= 7901.955001
+note 96= 7964.915905
+note 97= 8013.686286
+note 98= 8084.358713
+note 99= 8133.129094
+note 100= 8168.825906
+note 101= 8217.596288
+note 102= 8288.268715
+note 103= 8345.035572
+note 104= 8400.000000
+note 105= 8454.964428
+note 106= 8511.731285
+note 107= 8565.004228
+note 108= 8631.174094
+note 109= 8666.870906
+note 110= 8715.641287
+note 111= 8786.313714
+note 112= 8835.084095
+note 113= 8898.044999
+note 114= 8951.317942
+note 115= 8982.512193
+note 116= 9056.985354
+note 117= 9101.955001
+note 118= 9164.915905
+note 119= 9213.686286
+note 120= 9284.358713
+note 121= 9333.129094
+note 122= 9368.825906
+note 123= 9417.596288
+note 124= 9488.268715
+note 125= 9545.035572
+note 126= 9600.000000
+note 127= 9654.964428
+
+[Functional Tuning]
+note 1="#=0 * 32/31"
+note 2="#=0 * 16/15"
+note 3="#=0 * 11/10"
+note 4="#=0 * 8/7"
+note 5="#=0 * 7/6"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 9/7"
+note 9="#=0 * 4/3"
+note 10="#=0 * 11/8"
+note 11="#=0 * 7/5"
+note 12="#=0 * 19/13"
+note 13="#=0 * 3/2"
+note 14="#=0 * 14/9"
+note 15="#=0 * 8/5"
+note 16="#=0 * 5/3"
+note 17="#=0 * 12/7"
+note 18="#=0 * 7/4"
+note 19="#=0 * 9/5"
+note 20="#=0 * 15/8"
+note 21="#=0 * 31/16"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

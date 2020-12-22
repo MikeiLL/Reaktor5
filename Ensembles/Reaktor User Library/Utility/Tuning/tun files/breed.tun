@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Graham Breed's fourth based 12-tone keyboard scale. Tuning List 23-10-97
+;
+; VAZ Plus section
+[Tuning]
+note 0=3510
+note 1=3533
+note 2=3557
+note 3=3623
+note 4=3647
+note 5=3714
+note 6=3737
+note 7=3804
+note 8=3827
+note 9=3851
+note 10=3918
+note 11=3941
+note 12=4008
+note 13=4031
+note 14=4055
+note 15=4122
+note 16=4145
+note 17=4212
+note 18=4235
+note 19=4302
+note 20=4325
+note 21=4349
+note 22=4416
+note 23=4439
+note 24=4506
+note 25=4529
+note 26=4553
+note 27=4620
+note 28=4643
+note 29=4710
+note 30=4733
+note 31=4800
+note 32=4823
+note 33=4847
+note 34=4914
+note 35=4937
+note 36=5004
+note 37=5027
+note 38=5051
+note 39=5118
+note 40=5141
+note 41=5208
+note 42=5231
+note 43=5298
+note 44=5322
+note 45=5345
+note 46=5412
+note 47=5435
+note 48=5502
+note 49=5525
+note 50=5549
+note 51=5616
+note 52=5639
+note 53=5706
+note 54=5729
+note 55=5796
+note 56=5820
+note 57=5843
+note 58=5910
+note 59=5933
+note 60=6000
+note 61=6023
+note 62=6047
+note 63=6114
+note 64=6137
+note 65=6204
+note 66=6227
+note 67=6294
+note 68=6318
+note 69=6341
+note 70=6408
+note 71=6431
+note 72=6498
+note 73=6522
+note 74=6545
+note 75=6612
+note 76=6635
+note 77=6702
+note 78=6725
+note 79=6792
+note 80=6816
+note 81=6839
+note 82=6906
+note 83=6929
+note 84=6996
+note 85=7020
+note 86=7043
+note 87=7110
+note 88=7133
+note 89=7200
+note 90=7223
+note 91=7290
+note 92=7314
+note 93=7337
+note 94=7404
+note 95=7427
+note 96=7494
+note 97=7518
+note 98=7541
+note 99=7608
+note 100=7631
+note 101=7698
+note 102=7722
+note 103=7788
+note 104=7812
+note 105=7835
+note 106=7902
+note 107=7925
+note 108=7992
+note 109=8016
+note 110=8039
+note 111=8106
+note 112=8129
+note 113=8196
+note 114=8220
+note 115=8286
+note 116=8310
+note 117=8333
+note 118=8400
+note 119=8423
+note 120=8490
+note 121=8514
+note 122=8537
+note 123=8604
+note 124=8627
+note 125=8694
+note 126=8718
+note 127=8784
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "breed.tun"
+ID= "ID_breed.tun"
+Filename= "breed.scl"
+Description= "Graham Breed's fourth based 12-tone keyboard scale. Tuning List 23-10-97"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3509.775004
+note 1= 3533.235015
+note 2= 3556.695024
+note 3= 3623.460010
+note 4= 3646.920021
+note 5= 3713.685006
+note 6= 3737.145016
+note 7= 3803.910002
+note 8= 3827.370012
+note 9= 3850.830024
+note 10= 3917.595008
+note 11= 3941.055018
+note 12= 4007.820003
+note 13= 4031.280014
+note 14= 4054.740023
+note 15= 4121.505010
+note 16= 4144.965020
+note 17= 4211.730005
+note 18= 4235.190016
+note 19= 4301.955001
+note 20= 4325.415011
+note 21= 4348.875023
+note 22= 4415.640007
+note 23= 4439.100017
+note 24= 4505.865003
+note 25= 4529.325013
+note 26= 4552.785023
+note 27= 4619.550009
+note 28= 4643.010019
+note 29= 4709.775004
+note 30= 4733.235015
+note 31= 4800.000000
+note 32= 4823.460010
+note 33= 4846.920023
+note 34= 4913.685006
+note 35= 4937.145016
+note 36= 5003.910002
+note 37= 5027.370012
+note 38= 5050.830022
+note 39= 5117.595008
+note 40= 5141.055018
+note 41= 5207.820003
+note 42= 5231.280014
+note 43= 5298.044999
+note 44= 5321.505010
+note 45= 5344.965022
+note 46= 5411.730005
+note 47= 5435.190016
+note 48= 5501.955001
+note 49= 5525.415011
+note 50= 5548.875021
+note 51= 5615.640007
+note 52= 5639.100017
+note 53= 5705.865003
+note 54= 5729.325013
+note 55= 5796.089998
+note 56= 5819.550009
+note 57= 5843.010021
+note 58= 5909.775004
+note 59= 5933.235015
+note 60= 6000.000000
+note 61= 6023.460010
+note 62= 6046.920020
+note 63= 6113.685006
+note 64= 6137.145016
+note 65= 6203.910002
+note 66= 6227.370012
+note 67= 6294.134997
+note 68= 6317.595008
+note 69= 6341.055020
+note 70= 6407.820003
+note 71= 6431.280014
+note 72= 6498.044999
+note 73= 6521.505010
+note 74= 6544.965019
+note 75= 6611.730005
+note 76= 6635.190016
+note 77= 6701.955001
+note 78= 6725.415011
+note 79= 6792.179997
+note 80= 6815.640007
+note 81= 6839.100019
+note 82= 6905.865003
+note 83= 6929.325013
+note 84= 6996.089998
+note 85= 7019.550009
+note 86= 7043.010018
+note 87= 7109.775004
+note 88= 7133.235015
+note 89= 7200.000000
+note 90= 7223.460010
+note 91= 7290.224996
+note 92= 7313.685006
+note 93= 7337.145018
+note 94= 7403.910002
+note 95= 7427.370012
+note 96= 7494.134997
+note 97= 7517.595008
+note 98= 7541.055017
+note 99= 7607.820003
+note 100= 7631.280014
+note 101= 7698.044999
+note 102= 7721.505010
+note 103= 7788.269995
+note 104= 7811.730005
+note 105= 7835.190017
+note 106= 7901.955001
+note 107= 7925.415011
+note 108= 7992.179997
+note 109= 8015.640007
+note 110= 8039.100017
+note 111= 8105.865003
+note 112= 8129.325013
+note 113= 8196.089998
+note 114= 8219.550009
+note 115= 8286.314994
+note 116= 8309.775004
+note 117= 8333.235017
+note 118= 8400.000000
+note 119= 8423.460010
+note 120= 8490.224996
+note 121= 8513.685006
+note 122= 8537.145016
+note 123= 8603.910002
+note 124= 8627.370012
+note 125= 8694.134997
+note 126= 8717.595008
+note 127= 8784.359993
+
+[Functional Tuning]
+note 1="#=0 * 531441/524288"
+note 2="#=0 % 46.920020"
+note 3="#=0 * 2187/2048"
+note 4="#=0 * 1162261467/1073741824"
+note 5="#=0 * 9/8"
+note 6="#=0 * 4782969/4194304"
+note 7="#=0 * 32/27"
+note 8="#=0 * 19683/16384"
+note 9="#=0 % 341.055020"
+note 10="#=0 * 81/64"
+note 11="#=0 * 43046721/33554432"
+note 12="#>-12 * 4/3 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

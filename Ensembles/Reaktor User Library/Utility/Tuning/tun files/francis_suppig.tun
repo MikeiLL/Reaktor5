@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; J. Charles Francis, Suppig Calculus musicus, 5ths beat ratios 0, 1, 2.
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=197
+note 3=297
+note 4=395
+note 5=501
+note 6=593
+note 7=698
+note 8=797
+note 9=895
+note 10=999
+note 11=1093
+note 12=1200
+note 13=1295
+note 14=1397
+note 15=1497
+note 16=1594
+note 17=1701
+note 18=1793
+note 19=1898
+note 20=1997
+note 21=2095
+note 22=2199
+note 23=2293
+note 24=2400
+note 25=2495
+note 26=2597
+note 27=2697
+note 28=2794
+note 29=2901
+note 30=2993
+note 31=3098
+note 32=3197
+note 33=3295
+note 34=3399
+note 35=3493
+note 36=3600
+note 37=3695
+note 38=3797
+note 39=3897
+note 40=3995
+note 41=4101
+note 42=4193
+note 43=4298
+note 44=4397
+note 45=4495
+note 46=4599
+note 47=4693
+note 48=4800
+note 49=4895
+note 50=4997
+note 51=5097
+note 52=5194
+note 53=5301
+note 54=5393
+note 55=5498
+note 56=5597
+note 57=5695
+note 58=5799
+note 59=5893
+note 60=6000
+note 61=6095
+note 62=6197
+note 63=6297
+note 64=6394
+note 65=6501
+note 66=6593
+note 67=6698
+note 68=6797
+note 69=6895
+note 70=6999
+note 71=7093
+note 72=7200
+note 73=7295
+note 74=7397
+note 75=7497
+note 76=7595
+note 77=7701
+note 78=7793
+note 79=7898
+note 80=7997
+note 81=8095
+note 82=8199
+note 83=8293
+note 84=8400
+note 85=8495
+note 86=8597
+note 87=8697
+note 88=8794
+note 89=8901
+note 90=8993
+note 91=9098
+note 92=9197
+note 93=9295
+note 94=9399
+note 95=9493
+note 96=9600
+note 97=9695
+note 98=9797
+note 99=9897
+note 100=9994
+note 101=10101
+note 102=10193
+note 103=10298
+note 104=10397
+note 105=10495
+note 106=10599
+note 107=10693
+note 108=10800
+note 109=10895
+note 110=10997
+note 111=11097
+note 112=11195
+note 113=11301
+note 114=11393
+note 115=11498
+note 116=11597
+note 117=11695
+note 118=11799
+note 119=11893
+note 120=12000
+note 121=12095
+note 122=12197
+note 123=12297
+note 124=12395
+note 125=12501
+note 126=12593
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "francis_suppig.tun"
+ID= "ID_francis_suppig.tun"
+Filename= "francis_suppig.scl"
+Description= "J. Charles Francis, Suppig Calculus musicus, 5ths beat ratios 0, 1, 2."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.700000
+note 2= 196.900000
+note 3= 297.300000
+note 4= 394.500000
+note 5= 501.200000
+note 6= 592.800000
+note 7= 697.700000
+note 8= 796.700000
+note 9= 895.000000
+note 10= 999.300000
+note 11= 1093.100000
+note 12= 1200.000000
+note 13= 1294.700000
+note 14= 1396.900000
+note 15= 1497.300000
+note 16= 1594.500000
+note 17= 1701.200000
+note 18= 1792.800000
+note 19= 1897.700000
+note 20= 1996.700000
+note 21= 2095.000000
+note 22= 2199.300000
+note 23= 2293.100000
+note 24= 2400.000000
+note 25= 2494.700000
+note 26= 2596.900000
+note 27= 2697.300000
+note 28= 2794.500000
+note 29= 2901.200000
+note 30= 2992.800000
+note 31= 3097.700000
+note 32= 3196.700000
+note 33= 3295.000000
+note 34= 3399.300000
+note 35= 3493.100000
+note 36= 3600.000000
+note 37= 3694.700000
+note 38= 3796.900000
+note 39= 3897.300000
+note 40= 3994.500000
+note 41= 4101.200000
+note 42= 4192.800000
+note 43= 4297.700000
+note 44= 4396.700000
+note 45= 4495.000000
+note 46= 4599.300000
+note 47= 4693.100000
+note 48= 4800.000000
+note 49= 4894.700000
+note 50= 4996.900000
+note 51= 5097.300000
+note 52= 5194.500000
+note 53= 5301.200000
+note 54= 5392.800000
+note 55= 5497.700000
+note 56= 5596.700000
+note 57= 5695.000000
+note 58= 5799.300000
+note 59= 5893.100000
+note 60= 6000.000000
+note 61= 6094.700000
+note 62= 6196.900000
+note 63= 6297.300000
+note 64= 6394.500000
+note 65= 6501.200000
+note 66= 6592.800000
+note 67= 6697.700000
+note 68= 6796.700000
+note 69= 6895.000000
+note 70= 6999.300000
+note 71= 7093.100000
+note 72= 7200.000000
+note 73= 7294.700000
+note 74= 7396.900000
+note 75= 7497.300000
+note 76= 7594.500000
+note 77= 7701.200000
+note 78= 7792.800000
+note 79= 7897.700000
+note 80= 7996.700000
+note 81= 8095.000000
+note 82= 8199.300000
+note 83= 8293.100000
+note 84= 8400.000000
+note 85= 8494.700000
+note 86= 8596.900000
+note 87= 8697.300000
+note 88= 8794.500000
+note 89= 8901.200000
+note 90= 8992.800000
+note 91= 9097.700000
+note 92= 9196.700000
+note 93= 9295.000000
+note 94= 9399.300000
+note 95= 9493.100000
+note 96= 9600.000000
+note 97= 9694.700000
+note 98= 9796.900000
+note 99= 9897.300000
+note 100= 9994.500000
+note 101= 10101.200000
+note 102= 10192.800000
+note 103= 10297.700000
+note 104= 10396.700000
+note 105= 10495.000000
+note 106= 10599.300000
+note 107= 10693.100000
+note 108= 10800.000000
+note 109= 10894.700000
+note 110= 10996.900000
+note 111= 11097.300000
+note 112= 11194.500000
+note 113= 11301.200000
+note 114= 11392.800000
+note 115= 11497.700000
+note 116= 11596.700000
+note 117= 11695.000000
+note 118= 11799.300000
+note 119= 11893.100000
+note 120= 12000.000000
+note 121= 12094.700000
+note 122= 12196.900000
+note 123= 12297.300000
+note 124= 12394.500000
+note 125= 12501.200000
+note 126= 12592.800000
+note 127= 12697.700000
+
+[Functional Tuning]
+note 1="#=0 % 94.700000"
+note 2="#=0 % 196.900000"
+note 3="#=0 % 297.300000"
+note 4="#=0 % 394.500000"
+note 5="#=0 % 501.200000"
+note 6="#=0 % 592.800000"
+note 7="#=0 % 697.700000"
+note 8="#=0 % 796.700000"
+note 9="#=0 % 895.000000"
+note 10="#=0 % 999.300000"
+note 11="#=0 % 1093.100000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

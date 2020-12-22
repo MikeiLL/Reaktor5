@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 24-note adaptive JI (Eb-G#/F'-A#') for Lasso's Prologue to _Prophetiae_
+;
+; VAZ Plus section
+[Tuning]
+note 0=2979
+note 1=2985
+note 2=3097
+note 3=3102
+note 4=3173
+note 5=3178
+note 6=3290
+note 7=3295
+note 8=3371
+note 9=3407
+note 10=3483
+note 11=3488
+note 12=3600
+note 13=3605
+note 14=3676
+note 15=3681
+note 16=3793
+note 17=3799
+note 18=3875
+note 19=3910
+note 20=3986
+note 21=3992
+note 22=4103
+note 23=4109
+note 24=4179
+note 25=4185
+note 26=4297
+note 27=4302
+note 28=4373
+note 29=4378
+note 30=4490
+note 31=4495
+note 32=4571
+note 33=4607
+note 34=4683
+note 35=4688
+note 36=4800
+note 37=4805
+note 38=4876
+note 39=4881
+note 40=4993
+note 41=4999
+note 42=5075
+note 43=5110
+note 44=5186
+note 45=5192
+note 46=5303
+note 47=5309
+note 48=5379
+note 49=5385
+note 50=5497
+note 51=5502
+note 52=5573
+note 53=5578
+note 54=5690
+note 55=5695
+note 56=5771
+note 57=5807
+note 58=5883
+note 59=5888
+note 60=6000
+note 61=6005
+note 62=6076
+note 63=6081
+note 64=6193
+note 65=6199
+note 66=6275
+note 67=6310
+note 68=6386
+note 69=6392
+note 70=6503
+note 71=6509
+note 72=6579
+note 73=6585
+note 74=6697
+note 75=6702
+note 76=6773
+note 77=6778
+note 78=6890
+note 79=6895
+note 80=6971
+note 81=7007
+note 82=7083
+note 83=7088
+note 84=7200
+note 85=7205
+note 86=7276
+note 87=7281
+note 88=7393
+note 89=7399
+note 90=7475
+note 91=7510
+note 92=7586
+note 93=7592
+note 94=7703
+note 95=7709
+note 96=7779
+note 97=7785
+note 98=7897
+note 99=7902
+note 100=7973
+note 101=7978
+note 102=8090
+note 103=8095
+note 104=8171
+note 105=8207
+note 106=8283
+note 107=8288
+note 108=8400
+note 109=8405
+note 110=8476
+note 111=8481
+note 112=8593
+note 113=8599
+note 114=8675
+note 115=8710
+note 116=8786
+note 117=8792
+note 118=8903
+note 119=8909
+note 120=8979
+note 121=8985
+note 122=9097
+note 123=9102
+note 124=9173
+note 125=9178
+note 126=9290
+note 127=9295
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schulter_qcmlji24.tun"
+ID= "ID_schulter_qcmlji24.tun"
+Filename= "schulter_qcmlji24.scl"
+Description= "24-note adaptive JI (Eb-G#/F'-A#') for Lasso's Prologue to _Prophetiae_"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2979.470570
+note 1= 2984.847140
+note 2= 3096.578430
+note 3= 3101.955001
+note 4= 3172.627428
+note 5= 3178.004000
+note 6= 3289.735290
+note 7= 3295.111860
+note 8= 3371.160860
+note 9= 3406.843140
+note 10= 3482.892140
+note 11= 3488.268715
+note 12= 3600.000000
+note 13= 3605.376570
+note 14= 3676.049000
+note 15= 3681.425570
+note 16= 3793.156860
+note 17= 3798.533430
+note 18= 3874.582429
+note 19= 3910.264710
+note 20= 3986.313714
+note 21= 3991.690290
+note 22= 4103.421570
+note 23= 4108.798140
+note 24= 4179.470570
+note 25= 4184.847140
+note 26= 4296.578430
+note 27= 4301.955001
+note 28= 4372.627428
+note 29= 4378.004000
+note 30= 4489.735290
+note 31= 4495.111860
+note 32= 4571.160860
+note 33= 4606.843140
+note 34= 4682.892140
+note 35= 4688.268715
+note 36= 4800.000000
+note 37= 4805.376570
+note 38= 4876.049000
+note 39= 4881.425570
+note 40= 4993.156860
+note 41= 4998.533430
+note 42= 5074.582429
+note 43= 5110.264710
+note 44= 5186.313714
+note 45= 5191.690290
+note 46= 5303.421570
+note 47= 5308.798140
+note 48= 5379.470570
+note 49= 5384.847140
+note 50= 5496.578430
+note 51= 5501.955001
+note 52= 5572.627428
+note 53= 5578.004000
+note 54= 5689.735290
+note 55= 5695.111860
+note 56= 5771.160860
+note 57= 5806.843140
+note 58= 5882.892140
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6005.376570
+note 62= 6076.049000
+note 63= 6081.425570
+note 64= 6193.156860
+note 65= 6198.533430
+note 66= 6274.582429
+note 67= 6310.264710
+note 68= 6386.313714
+note 69= 6391.690290
+note 70= 6503.421570
+note 71= 6508.798140
+note 72= 6579.470570
+note 73= 6584.847140
+note 74= 6696.578430
+note 75= 6701.955001
+note 76= 6772.627428
+note 77= 6778.004000
+note 78= 6889.735290
+note 79= 6895.111860
+note 80= 6971.160860
+note 81= 7006.843140
+note 82= 7082.892140
+note 83= 7088.268715
+note 84= 7200.000000
+note 85= 7205.376570
+note 86= 7276.049000
+note 87= 7281.425570
+note 88= 7393.156860
+note 89= 7398.533430
+note 90= 7474.582429
+note 91= 7510.264710
+note 92= 7586.313714
+note 93= 7591.690290
+note 94= 7703.421570
+note 95= 7708.798140
+note 96= 7779.470570
+note 97= 7784.847140
+note 98= 7896.578430
+note 99= 7901.955001
+note 100= 7972.627428
+note 101= 7978.004000
+note 102= 8089.735290
+note 103= 8095.111860
+note 104= 8171.160860
+note 105= 8206.843140
+note 106= 8282.892140
+note 107= 8288.268715
+note 108= 8400.000000
+note 109= 8405.376570
+note 110= 8476.049000
+note 111= 8481.425570
+note 112= 8593.156860
+note 113= 8598.533430
+note 114= 8674.582429
+note 115= 8710.264710
+note 116= 8786.313714
+note 117= 8791.690290
+note 118= 8903.421570
+note 119= 8908.798140
+note 120= 8979.470570
+note 121= 8984.847140
+note 122= 9096.578430
+note 123= 9101.955001
+note 124= 9172.627428
+note 125= 9178.004000
+note 126= 9289.735290
+note 127= 9295.111860
+
+[Functional Tuning]
+note 1="#=0 % 5.376570"
+note 2="#=0 % 76.049000"
+note 3="#=0 % 81.425570"
+note 4="#=0 % 193.156860"
+note 5="#=0 % 198.533430"
+note 6="#=0 * 75/64"
+note 7="#=0 % 310.264710"
+note 8="#=0 * 5/4"
+note 9="#=0 % 391.690290"
+note 10="#=0 % 503.421570"
+note 11="#=0 % 508.798140"
+note 12="#=0 % 579.470570"
+note 13="#=0 % 584.847140"
+note 14="#=0 % 696.578430"
+note 15="#=0 * 3/2"
+note 16="#=0 * 25/16"
+note 17="#=0 % 778.004000"
+note 18="#=0 % 889.735290"
+note 19="#=0 % 895.111860"
+note 20="#=0 % 971.160860"
+note 21="#=0 % 1006.843140"
+note 22="#=0 % 1082.892140"
+note 23="#=0 * 15/8"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Expansion of Marcel de Velde's JI tuning, TL #90805 (9 July 2010) by Margo Schulter
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=63
+note 2=139
+note 3=267
+note 4=347
+note 5=498
+note 6=637
+note 7=702
+note 8=765
+note 9=841
+note 10=969
+note 11=1049
+note 12=1200
+note 13=1263
+note 14=1339
+note 15=1467
+note 16=1547
+note 17=1698
+note 18=1837
+note 19=1902
+note 20=1965
+note 21=2041
+note 22=2169
+note 23=2249
+note 24=2400
+note 25=2463
+note 26=2539
+note 27=2667
+note 28=2747
+note 29=2898
+note 30=3037
+note 31=3102
+note 32=3165
+note 33=3241
+note 34=3369
+note 35=3449
+note 36=3600
+note 37=3663
+note 38=3739
+note 39=3867
+note 40=3947
+note 41=4098
+note 42=4237
+note 43=4302
+note 44=4365
+note 45=4441
+note 46=4569
+note 47=4649
+note 48=4800
+note 49=4863
+note 50=4939
+note 51=5067
+note 52=5147
+note 53=5298
+note 54=5437
+note 55=5502
+note 56=5565
+note 57=5641
+note 58=5769
+note 59=5849
+note 60=6000
+note 61=6063
+note 62=6139
+note 63=6267
+note 64=6347
+note 65=6498
+note 66=6637
+note 67=6702
+note 68=6765
+note 69=6841
+note 70=6969
+note 71=7049
+note 72=7200
+note 73=7263
+note 74=7339
+note 75=7467
+note 76=7547
+note 77=7698
+note 78=7837
+note 79=7902
+note 80=7965
+note 81=8041
+note 82=8169
+note 83=8249
+note 84=8400
+note 85=8463
+note 86=8539
+note 87=8667
+note 88=8747
+note 89=8898
+note 90=9037
+note 91=9102
+note 92=9165
+note 93=9241
+note 94=9369
+note 95=9449
+note 96=9600
+note 97=9663
+note 98=9739
+note 99=9867
+note 100=9947
+note 101=10098
+note 102=10237
+note 103=10302
+note 104=10365
+note 105=10441
+note 106=10569
+note 107=10649
+note 108=10800
+note 109=10863
+note 110=10939
+note 111=11067
+note 112=11147
+note 113=11298
+note 114=11437
+note 115=11502
+note 116=11565
+note 117=11641
+note 118=11769
+note 119=11849
+note 120=12000
+note 121=12063
+note 122=12139
+note 123=12267
+note 124=12347
+note 125=12498
+note 126=12637
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "velde_12.tun"
+ID= "ID_velde_12.tun"
+Filename= "velde_12.scl"
+Description= "Expansion of Marcel de Velde's JI tuning, TL #90805 (9 July 2010) by Margo Schulter"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 62.960904
+note 2= 138.572661
+note 3= 266.870906
+note 4= 347.407941
+note 5= 498.044999
+note 6= 636.617660
+note 7= 701.955001
+note 8= 764.915905
+note 9= 840.527662
+note 10= 968.825906
+note 11= 1049.362941
+note 12= 1200.000000
+note 13= 1262.960904
+note 14= 1338.572661
+note 15= 1466.870906
+note 16= 1547.407941
+note 17= 1698.044999
+note 18= 1836.617660
+note 19= 1901.955001
+note 20= 1964.915905
+note 21= 2040.527662
+note 22= 2168.825906
+note 23= 2249.362941
+note 24= 2400.000000
+note 25= 2462.960904
+note 26= 2538.572661
+note 27= 2666.870906
+note 28= 2747.407941
+note 29= 2898.044999
+note 30= 3036.617660
+note 31= 3101.955001
+note 32= 3164.915905
+note 33= 3240.527662
+note 34= 3368.825906
+note 35= 3449.362941
+note 36= 3600.000000
+note 37= 3662.960904
+note 38= 3738.572661
+note 39= 3866.870906
+note 40= 3947.407941
+note 41= 4098.044999
+note 42= 4236.617660
+note 43= 4301.955001
+note 44= 4364.915905
+note 45= 4440.527662
+note 46= 4568.825906
+note 47= 4649.362941
+note 48= 4800.000000
+note 49= 4862.960904
+note 50= 4938.572661
+note 51= 5066.870906
+note 52= 5147.407941
+note 53= 5298.044999
+note 54= 5436.617660
+note 55= 5501.955001
+note 56= 5564.915905
+note 57= 5640.527662
+note 58= 5768.825906
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6138.572661
+note 63= 6266.870906
+note 64= 6347.407941
+note 65= 6498.044999
+note 66= 6636.617660
+note 67= 6701.955001
+note 68= 6764.915905
+note 69= 6840.527662
+note 70= 6968.825906
+note 71= 7049.362941
+note 72= 7200.000000
+note 73= 7262.960904
+note 74= 7338.572661
+note 75= 7466.870906
+note 76= 7547.407941
+note 77= 7698.044999
+note 78= 7836.617660
+note 79= 7901.955001
+note 80= 7964.915905
+note 81= 8040.527662
+note 82= 8168.825906
+note 83= 8249.362941
+note 84= 8400.000000
+note 85= 8462.960904
+note 86= 8538.572661
+note 87= 8666.870906
+note 88= 8747.407941
+note 89= 8898.044999
+note 90= 9036.617660
+note 91= 9101.955001
+note 92= 9164.915905
+note 93= 9240.527662
+note 94= 9368.825906
+note 95= 9449.362941
+note 96= 9600.000000
+note 97= 9662.960904
+note 98= 9738.572661
+note 99= 9866.870906
+note 100= 9947.407941
+note 101= 10098.044999
+note 102= 10236.617660
+note 103= 10301.955001
+note 104= 10364.915905
+note 105= 10440.527662
+note 106= 10568.825906
+note 107= 10649.362941
+note 108= 10800.000000
+note 109= 10862.960904
+note 110= 10938.572661
+note 111= 11066.870906
+note 112= 11147.407941
+note 113= 11298.044999
+note 114= 11436.617660
+note 115= 11501.955001
+note 116= 11564.915905
+note 117= 11640.527662
+note 118= 11768.825906
+note 119= 11849.362941
+note 120= 12000.000000
+note 121= 12062.960904
+note 122= 12138.572661
+note 123= 12266.870906
+note 124= 12347.407941
+note 125= 12498.044999
+note 126= 12636.617660
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 13/12"
+note 3="#=0 * 7/6"
+note 4="#=0 * 11/9"
+note 5="#=0 * 4/3"
+note 6="#=0 * 13/9"
+note 7="#=0 * 3/2"
+note 8="#=0 * 14/9"
+note 9="#=0 * 13/8"
+note 10="#=0 * 7/4"
+note 11="#=0 * 11/6"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; From Mohajira to Aeolian and Slendros
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=84
+note 2=204
+note 3=316
+note 4=351
+note 5=498
+note 6=583
+note 7=702
+note 8=814
+note 9=849
+note 10=1018
+note 11=1049
+note 12=1200
+note 13=1284
+note 14=1404
+note 15=1516
+note 16=1551
+note 17=1698
+note 18=1783
+note 19=1902
+note 20=2014
+note 21=2049
+note 22=2218
+note 23=2249
+note 24=2400
+note 25=2484
+note 26=2604
+note 27=2716
+note 28=2751
+note 29=2898
+note 30=2983
+note 31=3102
+note 32=3214
+note 33=3249
+note 34=3418
+note 35=3449
+note 36=3600
+note 37=3684
+note 38=3804
+note 39=3916
+note 40=3951
+note 41=4098
+note 42=4183
+note 43=4302
+note 44=4414
+note 45=4449
+note 46=4618
+note 47=4649
+note 48=4800
+note 49=4884
+note 50=5004
+note 51=5116
+note 52=5151
+note 53=5298
+note 54=5383
+note 55=5502
+note 56=5614
+note 57=5649
+note 58=5818
+note 59=5849
+note 60=6000
+note 61=6084
+note 62=6204
+note 63=6316
+note 64=6351
+note 65=6498
+note 66=6583
+note 67=6702
+note 68=6814
+note 69=6849
+note 70=7018
+note 71=7049
+note 72=7200
+note 73=7284
+note 74=7404
+note 75=7516
+note 76=7551
+note 77=7698
+note 78=7783
+note 79=7902
+note 80=8014
+note 81=8049
+note 82=8218
+note 83=8249
+note 84=8400
+note 85=8484
+note 86=8604
+note 87=8716
+note 88=8751
+note 89=8898
+note 90=8983
+note 91=9102
+note 92=9214
+note 93=9249
+note 94=9418
+note 95=9449
+note 96=9600
+note 97=9684
+note 98=9804
+note 99=9916
+note 100=9951
+note 101=10098
+note 102=10183
+note 103=10302
+note 104=10414
+note 105=10449
+note 106=10618
+note 107=10649
+note 108=10800
+note 109=10884
+note 110=11004
+note 111=11116
+note 112=11151
+note 113=11298
+note 114=11383
+note 115=11502
+note 116=11614
+note 117=11649
+note 118=11818
+note 119=11849
+note 120=12000
+note 121=12084
+note 122=12204
+note 123=12316
+note 124=12351
+note 125=12498
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mohajira-to-slendro.tun"
+ID= "ID_mohajira-to-slendro.tun"
+Filename= "mohajira-to-slendro.scl"
+Description= "From Mohajira to Aeolian and Slendros"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 84.467193
+note 2= 203.910002
+note 3= 315.641287
+note 4= 351.338099
+note 5= 498.044999
+note 6= 582.512193
+note 7= 701.955001
+note 8= 813.686286
+note 9= 849.383098
+note 10= 1017.596288
+note 11= 1049.362941
+note 12= 1200.000000
+note 13= 1284.467193
+note 14= 1403.910002
+note 15= 1515.641287
+note 16= 1551.338099
+note 17= 1698.044999
+note 18= 1782.512193
+note 19= 1901.955001
+note 20= 2013.686286
+note 21= 2049.383098
+note 22= 2217.596288
+note 23= 2249.362941
+note 24= 2400.000000
+note 25= 2484.467193
+note 26= 2603.910002
+note 27= 2715.641287
+note 28= 2751.338099
+note 29= 2898.044999
+note 30= 2982.512193
+note 31= 3101.955001
+note 32= 3213.686286
+note 33= 3249.383098
+note 34= 3417.596288
+note 35= 3449.362941
+note 36= 3600.000000
+note 37= 3684.467193
+note 38= 3803.910002
+note 39= 3915.641287
+note 40= 3951.338099
+note 41= 4098.044999
+note 42= 4182.512193
+note 43= 4301.955001
+note 44= 4413.686286
+note 45= 4449.383098
+note 46= 4617.596288
+note 47= 4649.362941
+note 48= 4800.000000
+note 49= 4884.467193
+note 50= 5003.910002
+note 51= 5115.641287
+note 52= 5151.338099
+note 53= 5298.044999
+note 54= 5382.512193
+note 55= 5501.955001
+note 56= 5613.686286
+note 57= 5649.383098
+note 58= 5817.596288
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6203.910002
+note 63= 6315.641287
+note 64= 6351.338099
+note 65= 6498.044999
+note 66= 6582.512193
+note 67= 6701.955001
+note 68= 6813.686286
+note 69= 6849.383098
+note 70= 7017.596288
+note 71= 7049.362941
+note 72= 7200.000000
+note 73= 7284.467193
+note 74= 7403.910002
+note 75= 7515.641287
+note 76= 7551.338099
+note 77= 7698.044999
+note 78= 7782.512193
+note 79= 7901.955001
+note 80= 8013.686286
+note 81= 8049.383098
+note 82= 8217.596288
+note 83= 8249.362941
+note 84= 8400.000000
+note 85= 8484.467193
+note 86= 8603.910002
+note 87= 8715.641287
+note 88= 8751.338099
+note 89= 8898.044999
+note 90= 8982.512193
+note 91= 9101.955001
+note 92= 9213.686286
+note 93= 9249.383098
+note 94= 9417.596288
+note 95= 9449.362941
+note 96= 9600.000000
+note 97= 9684.467193
+note 98= 9803.910002
+note 99= 9915.641287
+note 100= 9951.338099
+note 101= 10098.044999
+note 102= 10182.512193
+note 103= 10301.955001
+note 104= 10413.686286
+note 105= 10449.383098
+note 106= 10617.596288
+note 107= 10649.362941
+note 108= 10800.000000
+note 109= 10884.467193
+note 110= 11003.910002
+note 111= 11115.641287
+note 112= 11151.338099
+note 113= 11298.044999
+note 114= 11382.512193
+note 115= 11501.955001
+note 116= 11613.686286
+note 117= 11649.383098
+note 118= 11817.596288
+note 119= 11849.362941
+note 120= 12000.000000
+note 121= 12084.467193
+note 122= 12203.910002
+note 123= 12315.641287
+note 124= 12351.338099
+note 125= 12498.044999
+note 126= 12582.512193
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 9/8"
+note 3="#=0 * 6/5"
+note 4="#=0 * 49/40"
+note 5="#=0 * 4/3"
+note 6="#=0 * 7/5"
+note 7="#=0 * 3/2"
+note 8="#=0 * 8/5"
+note 9="#=0 * 49/30"
+note 10="#=0 * 9/5"
+note 11="#=0 * 11/6"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

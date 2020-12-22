@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Another rational Blackjack maximising 1:3:7:9:11, Paul Erlich, TL 5-12-2001
+;
+; VAZ Plus section
+[Tuning]
+note 0=2551
+note 1=2631
+note 2=2667
+note 3=2755
+note 4=2782
+note 5=2871
+note 6=2898
+note 7=2986
+note 8=3021
+note 9=3102
+note 10=3138
+note 11=3218
+note 12=3253
+note 13=3333
+note 14=3369
+note 15=3449
+note 16=3484
+note 17=3519
+note 18=3600
+note 19=3636
+note 20=3716
+note 21=3751
+note 22=3831
+note 23=3867
+note 24=3955
+note 25=3982
+note 26=4071
+note 27=4098
+note 28=4186
+note 29=4221
+note 30=4302
+note 31=4338
+note 32=4418
+note 33=4453
+note 34=4533
+note 35=4569
+note 36=4649
+note 37=4684
+note 38=4719
+note 39=4800
+note 40=4836
+note 41=4916
+note 42=4951
+note 43=5031
+note 44=5067
+note 45=5155
+note 46=5182
+note 47=5271
+note 48=5298
+note 49=5386
+note 50=5421
+note 51=5502
+note 52=5538
+note 53=5618
+note 54=5653
+note 55=5733
+note 56=5769
+note 57=5849
+note 58=5884
+note 59=5919
+note 60=6000
+note 61=6036
+note 62=6116
+note 63=6151
+note 64=6231
+note 65=6267
+note 66=6355
+note 67=6382
+note 68=6471
+note 69=6498
+note 70=6586
+note 71=6621
+note 72=6702
+note 73=6738
+note 74=6818
+note 75=6853
+note 76=6933
+note 77=6969
+note 78=7049
+note 79=7084
+note 80=7119
+note 81=7200
+note 82=7236
+note 83=7316
+note 84=7351
+note 85=7431
+note 86=7467
+note 87=7555
+note 88=7582
+note 89=7671
+note 90=7698
+note 91=7786
+note 92=7821
+note 93=7902
+note 94=7938
+note 95=8018
+note 96=8053
+note 97=8133
+note 98=8169
+note 99=8249
+note 100=8284
+note 101=8319
+note 102=8400
+note 103=8436
+note 104=8516
+note 105=8551
+note 106=8631
+note 107=8667
+note 108=8755
+note 109=8782
+note 110=8871
+note 111=8898
+note 112=8986
+note 113=9021
+note 114=9102
+note 115=9138
+note 116=9218
+note 117=9253
+note 118=9333
+note 119=9369
+note 120=9449
+note 121=9484
+note 122=9519
+note 123=9600
+note 124=9636
+note 125=9716
+note 126=9751
+note 127=9831
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "blackjack_r2.tun"
+ID= "ID_blackjack_r2.tun"
+Filename= "blackjack_r2.scl"
+Description= "Another rational Blackjack maximising 1:3:7:9:11, Paul Erlich, TL 5-12-2001"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2550.637059
+note 1= 2631.174094
+note 2= 2666.870906
+note 3= 2754.547060
+note 4= 2781.811152
+note 5= 2870.780907
+note 6= 2898.044999
+note 7= 2985.721154
+note 8= 3021.417966
+note 9= 3101.955001
+note 10= 3137.651813
+note 11= 3218.188848
+note 12= 3252.592059
+note 13= 3333.129094
+note 14= 3368.825906
+note 15= 3449.362941
+note 16= 3483.766153
+note 17= 3519.462965
+note 18= 3600.000000
+note 19= 3635.696812
+note 20= 3716.233847
+note 21= 3750.637059
+note 22= 3831.174094
+note 23= 3866.870906
+note 24= 3954.547060
+note 25= 3981.811152
+note 26= 4070.780907
+note 27= 4098.044999
+note 28= 4185.721154
+note 29= 4221.417966
+note 30= 4301.955001
+note 31= 4337.651813
+note 32= 4418.188848
+note 33= 4452.592059
+note 34= 4533.129094
+note 35= 4568.825906
+note 36= 4649.362941
+note 37= 4683.766153
+note 38= 4719.462965
+note 39= 4800.000000
+note 40= 4835.696812
+note 41= 4916.233847
+note 42= 4950.637059
+note 43= 5031.174094
+note 44= 5066.870906
+note 45= 5154.547060
+note 46= 5181.811152
+note 47= 5270.780907
+note 48= 5298.044999
+note 49= 5385.721154
+note 50= 5421.417966
+note 51= 5501.955001
+note 52= 5537.651813
+note 53= 5618.188848
+note 54= 5652.592059
+note 55= 5733.129094
+note 56= 5768.825906
+note 57= 5849.362941
+note 58= 5883.766153
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6035.696812
+note 62= 6116.233847
+note 63= 6150.637059
+note 64= 6231.174094
+note 65= 6266.870906
+note 66= 6354.547060
+note 67= 6381.811152
+note 68= 6470.780907
+note 69= 6498.044999
+note 70= 6585.721154
+note 71= 6621.417966
+note 72= 6701.955001
+note 73= 6737.651813
+note 74= 6818.188848
+note 75= 6852.592059
+note 76= 6933.129094
+note 77= 6968.825906
+note 78= 7049.362941
+note 79= 7083.766153
+note 80= 7119.462965
+note 81= 7200.000000
+note 82= 7235.696812
+note 83= 7316.233847
+note 84= 7350.637059
+note 85= 7431.174094
+note 86= 7466.870906
+note 87= 7554.547060
+note 88= 7581.811152
+note 89= 7670.780907
+note 90= 7698.044999
+note 91= 7785.721154
+note 92= 7821.417966
+note 93= 7901.955001
+note 94= 7937.651813
+note 95= 8018.188848
+note 96= 8052.592059
+note 97= 8133.129094
+note 98= 8168.825906
+note 99= 8249.362941
+note 100= 8283.766153
+note 101= 8319.462965
+note 102= 8400.000000
+note 103= 8435.696812
+note 104= 8516.233847
+note 105= 8550.637059
+note 106= 8631.174094
+note 107= 8666.870906
+note 108= 8754.547060
+note 109= 8781.811152
+note 110= 8870.780907
+note 111= 8898.044999
+note 112= 8985.721154
+note 113= 9021.417966
+note 114= 9101.955001
+note 115= 9137.651813
+note 116= 9218.188848
+note 117= 9252.592059
+note 118= 9333.129094
+note 119= 9368.825906
+note 120= 9449.362941
+note 121= 9483.766153
+note 122= 9519.462965
+note 123= 9600.000000
+note 124= 9635.696812
+note 125= 9716.233847
+note 126= 9750.637059
+note 127= 9831.174094
+
+[Functional Tuning]
+note 1="#=0 * 49/48"
+note 2="#=0 * 77/72"
+note 3="#=0 * 12/11"
+note 4="#=0 * 8/7"
+note 5="#=0 * 7/6"
+note 6="#=0 * 27/22"
+note 7="#=0 * 96/77"
+note 8="#=0 * 21/16"
+note 9="#=0 * 4/3"
+note 10="#=0 * 108/77"
+note 11="#=0 * 63/44"
+note 12="#=0 * 3/2"
+note 13="#=0 * 49/32"
+note 14="#=0 * 77/48"
+note 15="#=0 * 18/11"
+note 16="#=0 * 12/7"
+note 17="#=0 * 7/4"
+note 18="#=0 * 11/6"
+note 19="#=0 * 144/77"
+note 20="#=0 * 21/11"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Semimarvelous dwarf: equal beating dwarf(<17 27 40|)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1770
+note 1=1815
+note 2=1900
+note 3=1970
+note 4=2015
+note 5=2085
+note 6=2155
+note 7=2200
+note 8=2285
+note 9=2400
+note 10=2470
+note 11=2515
+note 12=2585
+note 13=2670
+note 14=2715
+note 15=2785
+note 16=2900
+note 17=2970
+note 18=3015
+note 19=3100
+note 20=3170
+note 21=3215
+note 22=3285
+note 23=3355
+note 24=3400
+note 25=3485
+note 26=3600
+note 27=3670
+note 28=3715
+note 29=3785
+note 30=3870
+note 31=3915
+note 32=3985
+note 33=4100
+note 34=4170
+note 35=4215
+note 36=4300
+note 37=4370
+note 38=4415
+note 39=4485
+note 40=4555
+note 41=4600
+note 42=4685
+note 43=4800
+note 44=4870
+note 45=4915
+note 46=4985
+note 47=5070
+note 48=5115
+note 49=5185
+note 50=5300
+note 51=5370
+note 52=5415
+note 53=5500
+note 54=5570
+note 55=5615
+note 56=5685
+note 57=5755
+note 58=5800
+note 59=5885
+note 60=6000
+note 61=6070
+note 62=6115
+note 63=6185
+note 64=6270
+note 65=6315
+note 66=6385
+note 67=6500
+note 68=6570
+note 69=6615
+note 70=6700
+note 71=6770
+note 72=6815
+note 73=6885
+note 74=6955
+note 75=7000
+note 76=7085
+note 77=7200
+note 78=7270
+note 79=7315
+note 80=7385
+note 81=7470
+note 82=7515
+note 83=7585
+note 84=7700
+note 85=7770
+note 86=7815
+note 87=7900
+note 88=7970
+note 89=8015
+note 90=8085
+note 91=8155
+note 92=8200
+note 93=8285
+note 94=8400
+note 95=8470
+note 96=8515
+note 97=8585
+note 98=8670
+note 99=8715
+note 100=8785
+note 101=8900
+note 102=8970
+note 103=9015
+note 104=9100
+note 105=9170
+note 106=9215
+note 107=9285
+note 108=9355
+note 109=9400
+note 110=9485
+note 111=9600
+note 112=9670
+note 113=9715
+note 114=9785
+note 115=9870
+note 116=9915
+note 117=9985
+note 118=10100
+note 119=10170
+note 120=10215
+note 121=10300
+note 122=10370
+note 123=10415
+note 124=10485
+note 125=10555
+note 126=10600
+note 127=10685
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dwarf17marveq.tun"
+ID= "ID_dwarf17marveq.tun"
+Filename= "dwarf17marveq.scl"
+Description= "Semimarvelous dwarf: equal beating dwarf(<17 27 40|)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1770.418545
+note 1= 1815.302572
+note 2= 1899.829385
+note 3= 1970.077316
+note 4= 2014.961342
+note 5= 2085.209272
+note 6= 2155.457203
+note 7= 2200.341229
+note 8= 2284.868043
+note 9= 2400.000000
+note 10= 2470.247930
+note 11= 2515.131957
+note 12= 2585.379887
+note 13= 2669.906701
+note 14= 2714.790728
+note 15= 2785.038658
+note 16= 2900.170615
+note 17= 2970.418545
+note 18= 3015.302572
+note 19= 3099.829385
+note 20= 3170.077316
+note 21= 3214.961342
+note 22= 3285.209272
+note 23= 3355.457203
+note 24= 3400.341229
+note 25= 3484.868043
+note 26= 3600.000000
+note 27= 3670.247930
+note 28= 3715.131957
+note 29= 3785.379887
+note 30= 3869.906701
+note 31= 3914.790728
+note 32= 3985.038658
+note 33= 4100.170615
+note 34= 4170.418545
+note 35= 4215.302572
+note 36= 4299.829385
+note 37= 4370.077316
+note 38= 4414.961342
+note 39= 4485.209272
+note 40= 4555.457203
+note 41= 4600.341229
+note 42= 4684.868043
+note 43= 4800.000000
+note 44= 4870.247930
+note 45= 4915.131957
+note 46= 4985.379887
+note 47= 5069.906701
+note 48= 5114.790728
+note 49= 5185.038658
+note 50= 5300.170615
+note 51= 5370.418545
+note 52= 5415.302572
+note 53= 5499.829385
+note 54= 5570.077316
+note 55= 5614.961342
+note 56= 5685.209272
+note 57= 5755.457203
+note 58= 5800.341229
+note 59= 5884.868043
+note 60= 6000.000000
+note 61= 6070.247930
+note 62= 6115.131957
+note 63= 6185.379887
+note 64= 6269.906701
+note 65= 6314.790728
+note 66= 6385.038658
+note 67= 6500.170615
+note 68= 6570.418545
+note 69= 6615.302572
+note 70= 6699.829385
+note 71= 6770.077316
+note 72= 6814.961342
+note 73= 6885.209272
+note 74= 6955.457203
+note 75= 7000.341229
+note 76= 7084.868043
+note 77= 7200.000000
+note 78= 7270.247930
+note 79= 7315.131957
+note 80= 7385.379887
+note 81= 7469.906701
+note 82= 7514.790728
+note 83= 7585.038658
+note 84= 7700.170615
+note 85= 7770.418545
+note 86= 7815.302572
+note 87= 7899.829385
+note 88= 7970.077316
+note 89= 8014.961342
+note 90= 8085.209272
+note 91= 8155.457203
+note 92= 8200.341229
+note 93= 8284.868043
+note 94= 8400.000000
+note 95= 8470.247930
+note 96= 8515.131957
+note 97= 8585.379887
+note 98= 8669.906701
+note 99= 8714.790728
+note 100= 8785.038658
+note 101= 8900.170615
+note 102= 8970.418545
+note 103= 9015.302572
+note 104= 9099.829385
+note 105= 9170.077316
+note 106= 9214.961342
+note 107= 9285.209272
+note 108= 9355.457203
+note 109= 9400.341229
+note 110= 9484.868043
+note 111= 9600.000000
+note 112= 9670.247930
+note 113= 9715.131957
+note 114= 9785.379887
+note 115= 9869.906701
+note 116= 9914.790728
+note 117= 9985.038658
+note 118= 10100.170615
+note 119= 10170.418545
+note 120= 10215.302572
+note 121= 10299.829385
+note 122= 10370.077316
+note 123= 10414.961342
+note 124= 10485.209272
+note 125= 10555.457203
+note 126= 10600.341229
+note 127= 10684.868043
+
+[Functional Tuning]
+note 1="#=0 % 70.247930"
+note 2="#=0 % 115.131957"
+note 3="#=0 % 185.379887"
+note 4="#=0 % 269.906701"
+note 5="#=0 % 314.790728"
+note 6="#=0 % 385.038658"
+note 7="#=0 % 500.170615"
+note 8="#=0 % 570.418545"
+note 9="#=0 % 615.302572"
+note 10="#=0 % 699.829385"
+note 11="#=0 % 770.077316"
+note 12="#=0 % 814.961342"
+note 13="#=0 % 885.209272"
+note 14="#=0 % 955.457203"
+note 15="#=0 % 1000.341229"
+note 16="#=0 % 1084.868043"
+note 17="#>-17 % 1200.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Lydian Enharmonic Tonos
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=89
+note 2=182
+note 3=231
+note 4=256
+note 5=281
+note 6=617
+note 7=746
+note 8=779
+note 9=796
+note 10=814
+note 11=1035
+note 12=1200
+note 13=1289
+note 14=1382
+note 15=1431
+note 16=1456
+note 17=1481
+note 18=1817
+note 19=1946
+note 20=1979
+note 21=1996
+note 22=2014
+note 23=2235
+note 24=2400
+note 25=2489
+note 26=2582
+note 27=2631
+note 28=2656
+note 29=2681
+note 30=3017
+note 31=3146
+note 32=3179
+note 33=3196
+note 34=3214
+note 35=3435
+note 36=3600
+note 37=3689
+note 38=3782
+note 39=3831
+note 40=3856
+note 41=3881
+note 42=4217
+note 43=4346
+note 44=4379
+note 45=4396
+note 46=4414
+note 47=4635
+note 48=4800
+note 49=4889
+note 50=4982
+note 51=5031
+note 52=5056
+note 53=5081
+note 54=5417
+note 55=5546
+note 56=5579
+note 57=5596
+note 58=5614
+note 59=5835
+note 60=6000
+note 61=6089
+note 62=6182
+note 63=6231
+note 64=6256
+note 65=6281
+note 66=6617
+note 67=6746
+note 68=6779
+note 69=6796
+note 70=6814
+note 71=7035
+note 72=7200
+note 73=7289
+note 74=7382
+note 75=7431
+note 76=7456
+note 77=7481
+note 78=7817
+note 79=7946
+note 80=7979
+note 81=7996
+note 82=8014
+note 83=8235
+note 84=8400
+note 85=8489
+note 86=8582
+note 87=8631
+note 88=8656
+note 89=8681
+note 90=9017
+note 91=9146
+note 92=9179
+note 93=9196
+note 94=9214
+note 95=9435
+note 96=9600
+note 97=9689
+note 98=9782
+note 99=9831
+note 100=9856
+note 101=9881
+note 102=10217
+note 103=10346
+note 104=10379
+note 105=10396
+note 106=10414
+note 107=10635
+note 108=10800
+note 109=10889
+note 110=10982
+note 111=11031
+note 112=11056
+note 113=11081
+note 114=11417
+note 115=11546
+note 116=11579
+note 117=11596
+note 118=11614
+note 119=11835
+note 120=12000
+note 121=12089
+note 122=12182
+note 123=12231
+note 124=12256
+note 125=12281
+note 126=12617
+note 127=12746
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "lydian_enh.tun"
+ID= "ID_lydian_enh.tun"
+Filename= "lydian_enh.scl"
+Description= "Lydian Enharmonic Tonos"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 88.800698
+note 2= 182.403712
+note 3= 231.174094
+note 4= 256.084366
+note 5= 281.358304
+note 6= 617.487807
+note 7= 745.786052
+note 8= 779.403303
+note 9= 796.459935
+note 10= 813.686286
+note 11= 1034.995772
+note 12= 1200.000000
+note 13= 1288.800698
+note 14= 1382.403712
+note 15= 1431.174094
+note 16= 1456.084366
+note 17= 1481.358304
+note 18= 1817.487807
+note 19= 1945.786052
+note 20= 1979.403303
+note 21= 1996.459935
+note 22= 2013.686286
+note 23= 2234.995772
+note 24= 2400.000000
+note 25= 2488.800698
+note 26= 2582.403712
+note 27= 2631.174094
+note 28= 2656.084366
+note 29= 2681.358304
+note 30= 3017.487807
+note 31= 3145.786052
+note 32= 3179.403303
+note 33= 3196.459935
+note 34= 3213.686286
+note 35= 3434.995772
+note 36= 3600.000000
+note 37= 3688.800698
+note 38= 3782.403712
+note 39= 3831.174094
+note 40= 3856.084366
+note 41= 3881.358304
+note 42= 4217.487807
+note 43= 4345.786052
+note 44= 4379.403303
+note 45= 4396.459935
+note 46= 4413.686286
+note 47= 4634.995772
+note 48= 4800.000000
+note 49= 4888.800698
+note 50= 4982.403712
+note 51= 5031.174094
+note 52= 5056.084366
+note 53= 5081.358304
+note 54= 5417.487807
+note 55= 5545.786052
+note 56= 5579.403303
+note 57= 5596.459935
+note 58= 5613.686286
+note 59= 5834.995772
+note 60= 6000.000000
+note 61= 6088.800698
+note 62= 6182.403712
+note 63= 6231.174094
+note 64= 6256.084366
+note 65= 6281.358304
+note 66= 6617.487807
+note 67= 6745.786052
+note 68= 6779.403303
+note 69= 6796.459935
+note 70= 6813.686286
+note 71= 7034.995772
+note 72= 7200.000000
+note 73= 7288.800698
+note 74= 7382.403712
+note 75= 7431.174094
+note 76= 7456.084366
+note 77= 7481.358304
+note 78= 7817.487807
+note 79= 7945.786052
+note 80= 7979.403303
+note 81= 7996.459935
+note 82= 8013.686286
+note 83= 8234.995772
+note 84= 8400.000000
+note 85= 8488.800698
+note 86= 8582.403712
+note 87= 8631.174094
+note 88= 8656.084366
+note 89= 8681.358304
+note 90= 9017.487807
+note 91= 9145.786052
+note 92= 9179.403303
+note 93= 9196.459935
+note 94= 9213.686286
+note 95= 9434.995772
+note 96= 9600.000000
+note 97= 9688.800698
+note 98= 9782.403712
+note 99= 9831.174094
+note 100= 9856.084366
+note 101= 9881.358304
+note 102= 10217.487807
+note 103= 10345.786052
+note 104= 10379.403303
+note 105= 10396.459935
+note 106= 10413.686286
+note 107= 10634.995772
+note 108= 10800.000000
+note 109= 10888.800698
+note 110= 10982.403712
+note 111= 11031.174094
+note 112= 11056.084366
+note 113= 11081.358304
+note 114= 11417.487807
+note 115= 11545.786052
+note 116= 11579.403303
+note 117= 11596.459935
+note 118= 11613.686286
+note 119= 11834.995772
+note 120= 12000.000000
+note 121= 12088.800698
+note 122= 12182.403712
+note 123= 12231.174094
+note 124= 12256.084366
+note 125= 12281.358304
+note 126= 12617.487807
+note 127= 12745.786052
+
+[Functional Tuning]
+note 1="#=0 * 20/19"
+note 2="#=0 * 10/9"
+note 3="#=0 * 8/7"
+note 4="#=0 * 80/69"
+note 5="#=0 * 20/17"
+note 6="#=0 * 10/7"
+note 7="#=0 * 20/13"
+note 8="#=0 * 80/51"
+note 9="#=0 * 160/101"
+note 10="#=0 * 8/5"
+note 11="#=0 * 20/11"
+note 12="#=0 * 2/1"
+note 13="#=0 * 40/19"
+note 14="#=0 * 20/9"
+note 15="#=0 * 16/7"
+note 16="#=0 * 160/69"
+note 17="#=0 * 40/17"
+note 18="#=0 * 20/7"
+note 19="#=0 * 40/13"
+note 20="#=0 * 160/51"
+note 21="#=0 * 320/101"
+note 22="#=0 * 16/5"
+note 23="#=0 * 40/11"
+note 24="#>-24 * 4/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

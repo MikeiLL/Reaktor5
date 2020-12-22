@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mysterious mush scale. Gene Smith's meantone to TOP pelogic transformation
+;
+; VAZ Plus section
+[Tuning]
+note 0=-33
+note 1=-1208
+note 2=-196
+note 3=816
+note 4=-360
+note 5=652
+note 6=-523
+note 7=489
+note 8=-687
+note 9=325
+note 10=1337
+note 11=162
+note 12=1174
+note 13=-2
+note 14=1010
+note 15=2022
+note 16=847
+note 17=1859
+note 18=683
+note 19=1695
+note 20=520
+note 21=1532
+note 22=2544
+note 23=1368
+note 24=2380
+note 25=1205
+note 26=2217
+note 27=3229
+note 28=2053
+note 29=3065
+note 30=1890
+note 31=2902
+note 32=1726
+note 33=2738
+note 34=3750
+note 35=2575
+note 36=3587
+note 37=2411
+note 38=3423
+note 39=4435
+note 40=3260
+note 41=4272
+note 42=3096
+note 43=4108
+note 44=2933
+note 45=3945
+note 46=4957
+note 47=3781
+note 48=4793
+note 49=3618
+note 50=4630
+note 51=5642
+note 52=4466
+note 53=5478
+note 54=4303
+note 55=5315
+note 56=4139
+note 57=5151
+note 58=6164
+note 59=4988
+note 60=6000
+note 61=4824
+note 62=5836
+note 63=6849
+note 64=5673
+note 65=6685
+note 66=5509
+note 67=6522
+note 68=5346
+note 69=6358
+note 70=7370
+note 71=6195
+note 72=7207
+note 73=6031
+note 74=7043
+note 75=8055
+note 76=6880
+note 77=7892
+note 78=6716
+note 79=7728
+note 80=6553
+note 81=7565
+note 82=8577
+note 83=7401
+note 84=8413
+note 85=7238
+note 86=8250
+note 87=9262
+note 88=8086
+note 89=9098
+note 90=7923
+note 91=8935
+note 92=7759
+note 93=8771
+note 94=9783
+note 95=8608
+note 96=9620
+note 97=8444
+note 98=9456
+note 99=10468
+note 100=9293
+note 101=10305
+note 102=9129
+note 103=10141
+note 104=8966
+note 105=9978
+note 106=10990
+note 107=9814
+note 108=10826
+note 109=9651
+note 110=10663
+note 111=11675
+note 112=10499
+note 113=11511
+note 114=10336
+note 115=11348
+note 116=10172
+note 117=11184
+note 118=12196
+note 119=11021
+note 120=12033
+note 121=10857
+note 122=11869
+note 123=12881
+note 124=11706
+note 125=12718
+note 126=11542
+note 127=12554
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_mush.tun"
+ID= "ID_smithgw_mush.tun"
+Filename= "smithgw_mush.scl"
+Description= "Mysterious mush scale. Gene Smith's meantone to TOP pelogic transformation"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-32.741325
+note 1=-1208.292405
+note 2=-196.249024
+note 3= 815.794356
+note 4=-359.756723
+note 5= 652.286657
+note 6=-523.264415
+note 7= 488.778958
+note 8=-686.772125
+note 9= 325.271259
+note 10= 1337.314639
+note 11= 161.763560
+note 12= 1173.806940
+note 13=-1.744140
+note 14= 1010.299241
+note 15= 2022.342621
+note 16= 846.791542
+note 17= 1858.834922
+note 18= 683.283850
+note 19= 1695.327223
+note 20= 519.776140
+note 21= 1531.819524
+note 22= 2543.862904
+note 23= 1368.311825
+note 24= 2380.355205
+note 25= 1204.804125
+note 26= 2216.847506
+note 27= 3228.890886
+note 28= 2053.339807
+note 29= 3065.383187
+note 30= 1889.832115
+note 31= 2901.875488
+note 32= 1726.324405
+note 33= 2738.367789
+note 34= 3750.411169
+note 35= 2574.860090
+note 36= 3586.903470
+note 37= 2411.352390
+note 38= 3423.395771
+note 39= 4435.439151
+note 40= 3259.888072
+note 41= 4271.931452
+note 42= 3096.380380
+note 43= 4108.423753
+note 44= 2932.872670
+note 45= 3944.916054
+note 46= 4956.959434
+note 47= 3781.408355
+note 48= 4793.451735
+note 49= 3617.900655
+note 50= 4629.944036
+note 51= 5641.987416
+note 52= 4466.436337
+note 53= 5478.479717
+note 54= 4302.928645
+note 55= 5314.972018
+note 56= 4139.420935
+note 57= 5151.464319
+note 58= 6163.507699
+note 59= 4987.956620
+note 60= 6000.000000
+note 61= 4824.448920
+note 62= 5836.492301
+note 63= 6848.535681
+note 64= 5672.984602
+note 65= 6685.027982
+note 66= 5509.476910
+note 67= 6521.520283
+note 68= 5345.969200
+note 69= 6358.012584
+note 70= 7370.055964
+note 71= 6194.504885
+note 72= 7206.548265
+note 73= 6030.997185
+note 74= 7043.040566
+note 75= 8055.083946
+note 76= 6879.532867
+note 77= 7891.576247
+note 78= 6716.025175
+note 79= 7728.068548
+note 80= 6552.517465
+note 81= 7564.560849
+note 82= 8576.604229
+note 83= 7401.053150
+note 84= 8413.096530
+note 85= 7237.545450
+note 86= 8249.588831
+note 87= 9261.632211
+note 88= 8086.081132
+note 89= 9098.124512
+note 90= 7922.573440
+note 91= 8934.616813
+note 92= 7759.065730
+note 93= 8771.109114
+note 94= 9783.152494
+note 95= 8607.601415
+note 96= 9619.644795
+note 97= 8444.093715
+note 98= 9456.137096
+note 99= 10468.180476
+note 100= 9292.629397
+note 101= 10304.672777
+note 102= 9129.121705
+note 103= 10141.165078
+note 104= 8965.613995
+note 105= 9977.657379
+note 106= 10989.700759
+note 107= 9814.149680
+note 108= 10826.193060
+note 109= 9650.641980
+note 110= 10662.685361
+note 111= 11674.728741
+note 112= 10499.177662
+note 113= 11511.221042
+note 114= 10335.669970
+note 115= 11347.713343
+note 116= 10172.162260
+note 117= 11184.205644
+note 118= 12196.249024
+note 119= 11020.697945
+note 120= 12032.741325
+note 121= 10857.190245
+note 122= 11869.233626
+note 123= 12881.277006
+note 124= 11705.725927
+note 125= 12717.769307
+note 126= 11542.218235
+note 127= 12554.261608
+
+[Functional Tuning]
+note 1="#=0 %-1175.551080"
+note 2="#=0 %-163.507699"
+note 3="#=0 % 848.535681"
+note 4="#=0 %-327.015398"
+note 5="#=0 % 685.027982"
+note 6="#=0 %-490.523090"
+note 7="#=0 % 521.520283"
+note 8="#=0 %-654.030800"
+note 9="#=0 % 358.012584"
+note 10="#=0 % 1370.055964"
+note 11="#=0 % 194.504885"
+note 12="#>-12 % 1206.548265 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

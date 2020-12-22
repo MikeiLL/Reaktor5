@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Victor Ferdinand Bossart's Modified meantone (1743/44), organ in Klosterkirche Muri
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=80
+note 2=195
+note 3=306
+note 4=388
+note 5=502
+note 6=582
+note 7=699
+note 8=779
+note 9=891
+note 10=1001
+note 11=1085
+note 12=1200
+note 13=1280
+note 14=1395
+note 15=1506
+note 16=1588
+note 17=1702
+note 18=1782
+note 19=1899
+note 20=1979
+note 21=2091
+note 22=2201
+note 23=2285
+note 24=2400
+note 25=2480
+note 26=2595
+note 27=2706
+note 28=2788
+note 29=2902
+note 30=2982
+note 31=3099
+note 32=3179
+note 33=3291
+note 34=3401
+note 35=3485
+note 36=3600
+note 37=3680
+note 38=3795
+note 39=3906
+note 40=3988
+note 41=4102
+note 42=4182
+note 43=4299
+note 44=4379
+note 45=4491
+note 46=4601
+note 47=4685
+note 48=4800
+note 49=4880
+note 50=4995
+note 51=5106
+note 52=5188
+note 53=5302
+note 54=5382
+note 55=5499
+note 56=5579
+note 57=5691
+note 58=5801
+note 59=5885
+note 60=6000
+note 61=6080
+note 62=6195
+note 63=6306
+note 64=6388
+note 65=6502
+note 66=6582
+note 67=6699
+note 68=6779
+note 69=6891
+note 70=7001
+note 71=7085
+note 72=7200
+note 73=7280
+note 74=7395
+note 75=7506
+note 76=7588
+note 77=7702
+note 78=7782
+note 79=7899
+note 80=7979
+note 81=8091
+note 82=8201
+note 83=8285
+note 84=8400
+note 85=8480
+note 86=8595
+note 87=8706
+note 88=8788
+note 89=8902
+note 90=8982
+note 91=9099
+note 92=9179
+note 93=9291
+note 94=9401
+note 95=9485
+note 96=9600
+note 97=9680
+note 98=9795
+note 99=9906
+note 100=9988
+note 101=10102
+note 102=10182
+note 103=10299
+note 104=10379
+note 105=10491
+note 106=10601
+note 107=10685
+note 108=10800
+note 109=10880
+note 110=10995
+note 111=11106
+note 112=11188
+note 113=11302
+note 114=11382
+note 115=11499
+note 116=11579
+note 117=11691
+note 118=11801
+note 119=11885
+note 120=12000
+note 121=12080
+note 122=12195
+note 123=12306
+note 124=12388
+note 125=12502
+note 126=12582
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bossart-muri.tun"
+ID= "ID_bossart-muri.tun"
+Filename= "bossart-muri.scl"
+Description= "Victor Ferdinand Bossart's Modified meantone (1743/44), organ in Klosterkirche Muri"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 80.449990
+note 2= 195.112500
+note 3= 305.865000
+note 4= 388.269990
+note 5= 501.955000
+note 6= 582.404990
+note 7= 699.022500
+note 8= 779.472490
+note 9= 891.202500
+note 10= 1000.977500
+note 11= 1085.337490
+note 12= 1200.000000
+note 13= 1280.449990
+note 14= 1395.112500
+note 15= 1505.865000
+note 16= 1588.269990
+note 17= 1701.955000
+note 18= 1782.404990
+note 19= 1899.022500
+note 20= 1979.472490
+note 21= 2091.202500
+note 22= 2200.977500
+note 23= 2285.337490
+note 24= 2400.000000
+note 25= 2480.449990
+note 26= 2595.112500
+note 27= 2705.865000
+note 28= 2788.269990
+note 29= 2901.955000
+note 30= 2982.404990
+note 31= 3099.022500
+note 32= 3179.472490
+note 33= 3291.202500
+note 34= 3400.977500
+note 35= 3485.337490
+note 36= 3600.000000
+note 37= 3680.449990
+note 38= 3795.112500
+note 39= 3905.865000
+note 40= 3988.269990
+note 41= 4101.955000
+note 42= 4182.404990
+note 43= 4299.022500
+note 44= 4379.472490
+note 45= 4491.202500
+note 46= 4600.977500
+note 47= 4685.337490
+note 48= 4800.000000
+note 49= 4880.449990
+note 50= 4995.112500
+note 51= 5105.865000
+note 52= 5188.269990
+note 53= 5301.955000
+note 54= 5382.404990
+note 55= 5499.022500
+note 56= 5579.472490
+note 57= 5691.202500
+note 58= 5800.977500
+note 59= 5885.337490
+note 60= 6000.000000
+note 61= 6080.449990
+note 62= 6195.112500
+note 63= 6305.865000
+note 64= 6388.269990
+note 65= 6501.955000
+note 66= 6582.404990
+note 67= 6699.022500
+note 68= 6779.472490
+note 69= 6891.202500
+note 70= 7000.977500
+note 71= 7085.337490
+note 72= 7200.000000
+note 73= 7280.449990
+note 74= 7395.112500
+note 75= 7505.865000
+note 76= 7588.269990
+note 77= 7701.955000
+note 78= 7782.404990
+note 79= 7899.022500
+note 80= 7979.472490
+note 81= 8091.202500
+note 82= 8200.977500
+note 83= 8285.337490
+note 84= 8400.000000
+note 85= 8480.449990
+note 86= 8595.112500
+note 87= 8705.865000
+note 88= 8788.269990
+note 89= 8901.955000
+note 90= 8982.404990
+note 91= 9099.022500
+note 92= 9179.472490
+note 93= 9291.202500
+note 94= 9400.977500
+note 95= 9485.337490
+note 96= 9600.000000
+note 97= 9680.449990
+note 98= 9795.112500
+note 99= 9905.865000
+note 100= 9988.269990
+note 101= 10101.955000
+note 102= 10182.404990
+note 103= 10299.022500
+note 104= 10379.472490
+note 105= 10491.202500
+note 106= 10600.977500
+note 107= 10685.337490
+note 108= 10800.000000
+note 109= 10880.449990
+note 110= 10995.112500
+note 111= 11105.865000
+note 112= 11188.269990
+note 113= 11301.955000
+note 114= 11382.404990
+note 115= 11499.022500
+note 116= 11579.472490
+note 117= 11691.202500
+note 118= 11800.977500
+note 119= 11885.337490
+note 120= 12000.000000
+note 121= 12080.449990
+note 122= 12195.112500
+note 123= 12305.865000
+note 124= 12388.269990
+note 125= 12501.955000
+note 126= 12582.404990
+note 127= 12699.022500
+
+[Functional Tuning]
+note 1="#=0 % 80.449990"
+note 2="#=0 % 195.112500"
+note 3="#=0 % 305.865000"
+note 4="#=0 % 388.269990"
+note 5="#=0 % 501.955000"
+note 6="#=0 % 582.404990"
+note 7="#=0 % 699.022500"
+note 8="#=0 % 779.472490"
+note 9="#=0 % 891.202500"
+note 10="#=0 % 1000.977500"
+note 11="#=0 % 1085.337490"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

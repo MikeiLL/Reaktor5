@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 12-tone quasi-meantone tuning with 1/9 Pyth. comma as basic tempering unit (F...A#)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=77
+note 2=196
+note 3=268
+note 4=384
+note 5=506
+note 6=583
+note 7=699
+note 8=771
+note 9=890
+note 10=967
+note 11=1084
+note 12=1200
+note 13=1277
+note 14=1396
+note 15=1468
+note 16=1584
+note 17=1706
+note 18=1783
+note 19=1899
+note 20=1971
+note 21=2090
+note 22=2167
+note 23=2284
+note 24=2400
+note 25=2477
+note 26=2596
+note 27=2668
+note 28=2784
+note 29=2906
+note 30=2983
+note 31=3099
+note 32=3171
+note 33=3290
+note 34=3367
+note 35=3484
+note 36=3600
+note 37=3677
+note 38=3796
+note 39=3868
+note 40=3984
+note 41=4106
+note 42=4183
+note 43=4299
+note 44=4371
+note 45=4490
+note 46=4567
+note 47=4684
+note 48=4800
+note 49=4877
+note 50=4996
+note 51=5068
+note 52=5184
+note 53=5306
+note 54=5383
+note 55=5499
+note 56=5571
+note 57=5690
+note 58=5767
+note 59=5884
+note 60=6000
+note 61=6077
+note 62=6196
+note 63=6268
+note 64=6384
+note 65=6506
+note 66=6583
+note 67=6699
+note 68=6771
+note 69=6890
+note 70=6967
+note 71=7084
+note 72=7200
+note 73=7277
+note 74=7396
+note 75=7468
+note 76=7584
+note 77=7706
+note 78=7783
+note 79=7899
+note 80=7971
+note 81=8090
+note 82=8167
+note 83=8284
+note 84=8400
+note 85=8477
+note 86=8596
+note 87=8668
+note 88=8784
+note 89=8906
+note 90=8983
+note 91=9099
+note 92=9171
+note 93=9290
+note 94=9367
+note 95=9484
+note 96=9600
+note 97=9677
+note 98=9796
+note 99=9868
+note 100=9984
+note 101=10106
+note 102=10183
+note 103=10299
+note 104=10371
+note 105=10490
+note 106=10567
+note 107=10684
+note 108=10800
+note 109=10877
+note 110=10996
+note 111=11068
+note 112=11184
+note 113=11306
+note 114=11383
+note 115=11499
+note 116=11571
+note 117=11690
+note 118=11767
+note 119=11884
+note 120=12000
+note 121=12077
+note 122=12196
+note 123=12268
+note 124=12384
+note 125=12506
+note 126=12583
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "parizek_qmtp12.tun"
+ID= "ID_parizek_qmtp12.tun"
+Filename= "parizek_qmtp12.scl"
+Description= "12-tone quasi-meantone tuning with 1/9 Pyth. comma as basic tempering unit (F...A#)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 77.191660
+note 2= 196.090000
+note 3= 268.068320
+note 4= 384.359993
+note 5= 505.865000
+note 6= 583.056660
+note 7= 699.348330
+note 8= 771.326650
+note 9= 890.225000
+note 10= 967.416650
+note 11= 1083.708330
+note 12= 1200.000000
+note 13= 1277.191660
+note 14= 1396.090000
+note 15= 1468.068320
+note 16= 1584.359993
+note 17= 1705.865000
+note 18= 1783.056660
+note 19= 1899.348330
+note 20= 1971.326650
+note 21= 2090.225000
+note 22= 2167.416650
+note 23= 2283.708330
+note 24= 2400.000000
+note 25= 2477.191660
+note 26= 2596.090000
+note 27= 2668.068320
+note 28= 2784.359993
+note 29= 2905.865000
+note 30= 2983.056660
+note 31= 3099.348330
+note 32= 3171.326650
+note 33= 3290.225000
+note 34= 3367.416650
+note 35= 3483.708330
+note 36= 3600.000000
+note 37= 3677.191660
+note 38= 3796.090000
+note 39= 3868.068320
+note 40= 3984.359993
+note 41= 4105.865000
+note 42= 4183.056660
+note 43= 4299.348330
+note 44= 4371.326650
+note 45= 4490.225000
+note 46= 4567.416650
+note 47= 4683.708330
+note 48= 4800.000000
+note 49= 4877.191660
+note 50= 4996.090000
+note 51= 5068.068320
+note 52= 5184.359993
+note 53= 5305.865000
+note 54= 5383.056660
+note 55= 5499.348330
+note 56= 5571.326650
+note 57= 5690.225000
+note 58= 5767.416650
+note 59= 5883.708330
+note 60= 6000.000000
+note 61= 6077.191660
+note 62= 6196.090000
+note 63= 6268.068320
+note 64= 6384.359993
+note 65= 6505.865000
+note 66= 6583.056660
+note 67= 6699.348330
+note 68= 6771.326650
+note 69= 6890.225000
+note 70= 6967.416650
+note 71= 7083.708330
+note 72= 7200.000000
+note 73= 7277.191660
+note 74= 7396.090000
+note 75= 7468.068320
+note 76= 7584.359993
+note 77= 7705.865000
+note 78= 7783.056660
+note 79= 7899.348330
+note 80= 7971.326650
+note 81= 8090.225000
+note 82= 8167.416650
+note 83= 8283.708330
+note 84= 8400.000000
+note 85= 8477.191660
+note 86= 8596.090000
+note 87= 8668.068320
+note 88= 8784.359993
+note 89= 8905.865000
+note 90= 8983.056660
+note 91= 9099.348330
+note 92= 9171.326650
+note 93= 9290.225000
+note 94= 9367.416650
+note 95= 9483.708330
+note 96= 9600.000000
+note 97= 9677.191660
+note 98= 9796.090000
+note 99= 9868.068320
+note 100= 9984.359993
+note 101= 10105.865000
+note 102= 10183.056660
+note 103= 10299.348330
+note 104= 10371.326650
+note 105= 10490.225000
+note 106= 10567.416650
+note 107= 10683.708330
+note 108= 10800.000000
+note 109= 10877.191660
+note 110= 10996.090000
+note 111= 11068.068320
+note 112= 11184.359993
+note 113= 11305.865000
+note 114= 11383.056660
+note 115= 11499.348330
+note 116= 11571.326650
+note 117= 11690.225000
+note 118= 11767.416650
+note 119= 11883.708330
+note 120= 12000.000000
+note 121= 12077.191660
+note 122= 12196.090000
+note 123= 12268.068320
+note 124= 12384.359993
+note 125= 12505.865000
+note 126= 12583.056660
+note 127= 12699.348330
+
+[Functional Tuning]
+note 1="#=0 % 77.191660"
+note 2="#=0 % 196.090000"
+note 3="#=0 % 268.068320"
+note 4="#=0 * 8192/6561"
+note 5="#=0 % 505.865000"
+note 6="#=0 % 583.056660"
+note 7="#=0 % 699.348330"
+note 8="#=0 % 771.326650"
+note 9="#=0 % 890.225000"
+note 10="#=0 % 967.416650"
+note 11="#=0 % 1083.708330"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

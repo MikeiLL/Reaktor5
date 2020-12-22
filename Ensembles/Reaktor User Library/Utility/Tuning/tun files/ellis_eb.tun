@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ellis' new equal beating temperament for pianofortes (1885)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=100
+note 2=200
+note 3=300
+note 4=400
+note 5=500
+note 6=600
+note 7=700
+note 8=800
+note 9=900
+note 10=1000
+note 11=1101
+note 12=1200
+note 13=1300
+note 14=1400
+note 15=1500
+note 16=1600
+note 17=1700
+note 18=1800
+note 19=1900
+note 20=2000
+note 21=2100
+note 22=2200
+note 23=2301
+note 24=2400
+note 25=2500
+note 26=2600
+note 27=2700
+note 28=2800
+note 29=2900
+note 30=3000
+note 31=3100
+note 32=3200
+note 33=3300
+note 34=3400
+note 35=3501
+note 36=3600
+note 37=3700
+note 38=3800
+note 39=3900
+note 40=4000
+note 41=4100
+note 42=4200
+note 43=4300
+note 44=4400
+note 45=4500
+note 46=4600
+note 47=4701
+note 48=4800
+note 49=4900
+note 50=5000
+note 51=5100
+note 52=5200
+note 53=5300
+note 54=5400
+note 55=5500
+note 56=5600
+note 57=5700
+note 58=5800
+note 59=5901
+note 60=6000
+note 61=6100
+note 62=6200
+note 63=6300
+note 64=6400
+note 65=6500
+note 66=6600
+note 67=6700
+note 68=6800
+note 69=6900
+note 70=7000
+note 71=7101
+note 72=7200
+note 73=7300
+note 74=7400
+note 75=7500
+note 76=7600
+note 77=7700
+note 78=7800
+note 79=7900
+note 80=8000
+note 81=8100
+note 82=8200
+note 83=8301
+note 84=8400
+note 85=8500
+note 86=8600
+note 87=8700
+note 88=8800
+note 89=8900
+note 90=9000
+note 91=9100
+note 92=9200
+note 93=9300
+note 94=9400
+note 95=9501
+note 96=9600
+note 97=9700
+note 98=9800
+note 99=9900
+note 100=10000
+note 101=10100
+note 102=10200
+note 103=10300
+note 104=10400
+note 105=10500
+note 106=10600
+note 107=10701
+note 108=10800
+note 109=10900
+note 110=11000
+note 111=11100
+note 112=11200
+note 113=11300
+note 114=11400
+note 115=11500
+note 116=11600
+note 117=11700
+note 118=11800
+note 119=11901
+note 120=12000
+note 121=12100
+note 122=12200
+note 123=12300
+note 124=12400
+note 125=12500
+note 126=12600
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ellis_eb.tun"
+ID= "ID_ellis_eb.tun"
+Filename= "ellis_eb.scl"
+Description= "Ellis' new equal beating temperament for pianofortes (1885)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 100.207620
+note 2= 199.935110
+note 3= 300.366520
+note 4= 400.304200
+note 5= 499.944150
+note 6= 600.125130
+note 7= 699.747850
+note 8= 800.079680
+note 9= 899.923830
+note 10= 1000.466120
+note 11= 1100.507920
+note 12= 1200.000000
+note 13= 1300.207620
+note 14= 1399.935110
+note 15= 1500.366520
+note 16= 1600.304200
+note 17= 1699.944150
+note 18= 1800.125130
+note 19= 1899.747850
+note 20= 2000.079680
+note 21= 2099.923830
+note 22= 2200.466120
+note 23= 2300.507920
+note 24= 2400.000000
+note 25= 2500.207620
+note 26= 2599.935110
+note 27= 2700.366520
+note 28= 2800.304200
+note 29= 2899.944150
+note 30= 3000.125130
+note 31= 3099.747850
+note 32= 3200.079680
+note 33= 3299.923830
+note 34= 3400.466120
+note 35= 3500.507920
+note 36= 3600.000000
+note 37= 3700.207620
+note 38= 3799.935110
+note 39= 3900.366520
+note 40= 4000.304200
+note 41= 4099.944150
+note 42= 4200.125130
+note 43= 4299.747850
+note 44= 4400.079680
+note 45= 4499.923830
+note 46= 4600.466120
+note 47= 4700.507920
+note 48= 4800.000000
+note 49= 4900.207620
+note 50= 4999.935110
+note 51= 5100.366520
+note 52= 5200.304200
+note 53= 5299.944150
+note 54= 5400.125130
+note 55= 5499.747850
+note 56= 5600.079680
+note 57= 5699.923830
+note 58= 5800.466120
+note 59= 5900.507920
+note 60= 6000.000000
+note 61= 6100.207620
+note 62= 6199.935110
+note 63= 6300.366520
+note 64= 6400.304200
+note 65= 6499.944150
+note 66= 6600.125130
+note 67= 6699.747850
+note 68= 6800.079680
+note 69= 6899.923830
+note 70= 7000.466120
+note 71= 7100.507920
+note 72= 7200.000000
+note 73= 7300.207620
+note 74= 7399.935110
+note 75= 7500.366520
+note 76= 7600.304200
+note 77= 7699.944150
+note 78= 7800.125130
+note 79= 7899.747850
+note 80= 8000.079680
+note 81= 8099.923830
+note 82= 8200.466120
+note 83= 8300.507920
+note 84= 8400.000000
+note 85= 8500.207620
+note 86= 8599.935110
+note 87= 8700.366520
+note 88= 8800.304200
+note 89= 8899.944150
+note 90= 9000.125130
+note 91= 9099.747850
+note 92= 9200.079680
+note 93= 9299.923830
+note 94= 9400.466120
+note 95= 9500.507920
+note 96= 9600.000000
+note 97= 9700.207620
+note 98= 9799.935110
+note 99= 9900.366520
+note 100= 10000.304200
+note 101= 10099.944150
+note 102= 10200.125130
+note 103= 10299.747850
+note 104= 10400.079680
+note 105= 10499.923830
+note 106= 10600.466120
+note 107= 10700.507920
+note 108= 10800.000000
+note 109= 10900.207620
+note 110= 10999.935110
+note 111= 11100.366520
+note 112= 11200.304200
+note 113= 11299.944150
+note 114= 11400.125130
+note 115= 11499.747850
+note 116= 11600.079680
+note 117= 11699.923830
+note 118= 11800.466120
+note 119= 11900.507920
+note 120= 12000.000000
+note 121= 12100.207620
+note 122= 12199.935110
+note 123= 12300.366520
+note 124= 12400.304200
+note 125= 12499.944150
+note 126= 12600.125130
+note 127= 12699.747850
+
+[Functional Tuning]
+note 1="#=0 % 100.207620"
+note 2="#=0 % 199.935110"
+note 3="#=0 % 300.366520"
+note 4="#=0 % 400.304200"
+note 5="#=0 % 499.944150"
+note 6="#=0 % 600.125130"
+note 7="#=0 % 699.747850"
+note 8="#=0 % 800.079680"
+note 9="#=0 % 899.923830"
+note 10="#=0 % 1000.466120"
+note 11="#=0 % 1100.507920"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

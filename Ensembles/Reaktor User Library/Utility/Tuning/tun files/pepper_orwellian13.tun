@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; A trivalent scale in orwellian temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=434
+note 1=544
+note 2=661
+note 3=705
+note 4=822
+note 5=932
+note 6=975
+note 7=1093
+note 8=1202
+note 9=1246
+note 10=1363
+note 11=1473
+note 12=1590
+note 13=1634
+note 14=1743
+note 15=1861
+note 16=1904
+note 17=2022
+note 18=2131
+note 19=2175
+note 20=2292
+note 21=2402
+note 22=2445
+note 23=2563
+note 24=2672
+note 25=2790
+note 26=2833
+note 27=2943
+note 28=3060
+note 29=3104
+note 30=3221
+note 31=3331
+note 32=3374
+note 33=3492
+note 34=3601
+note 35=3644
+note 36=3762
+note 37=3872
+note 38=3989
+note 39=4032
+note 40=4142
+note 41=4260
+note 42=4303
+note 43=4420
+note 44=4530
+note 45=4573
+note 46=4691
+note 47=4801
+note 48=4844
+note 49=4961
+note 50=5071
+note 51=5189
+note 52=5232
+note 53=5342
+note 54=5459
+note 55=5502
+note 56=5620
+note 57=5730
+note 58=5773
+note 59=5890
+note 60=6000
+note 61=6043
+note 62=6161
+note 63=6270
+note 64=6388
+note 65=6431
+note 66=6541
+note 67=6658
+note 68=6702
+note 69=6819
+note 70=6929
+note 71=6972
+note 72=7090
+note 73=7199
+note 74=7243
+note 75=7360
+note 76=7470
+note 77=7587
+note 78=7631
+note 79=7740
+note 80=7858
+note 81=7901
+note 82=8019
+note 83=8128
+note 84=8172
+note 85=8289
+note 86=8399
+note 87=8442
+note 88=8560
+note 89=8669
+note 90=8787
+note 91=8830
+note 92=8940
+note 93=9057
+note 94=9101
+note 95=9218
+note 96=9328
+note 97=9371
+note 98=9489
+note 99=9598
+note 100=9642
+note 101=9759
+note 102=9869
+note 103=9986
+note 104=10030
+note 105=10139
+note 106=10257
+note 107=10300
+note 108=10418
+note 109=10527
+note 110=10571
+note 111=10688
+note 112=10798
+note 113=10841
+note 114=10959
+note 115=11068
+note 116=11186
+note 117=11229
+note 118=11339
+note 119=11456
+note 120=11499
+note 121=11617
+note 122=11727
+note 123=11770
+note 124=11887
+note 125=11997
+note 126=12040
+note 127=12158
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pepper_orwellian13.tun"
+ID= "ID_pepper_orwellian13.tun"
+Filename= "pepper_orwellian13.scl"
+Description= "A trivalent scale in orwellian temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 434.239550
+note 1= 543.853290
+note 2= 661.378770
+note 3= 704.712850
+note 4= 822.238320
+note 5= 931.852060
+note 6= 975.186140
+note 7= 1092.711620
+note 8= 1202.325360
+note 9= 1245.659440
+note 10= 1363.184910
+note 11= 1472.798660
+note 12= 1590.324130
+note 13= 1633.658210
+note 14= 1743.271950
+note 15= 1860.797430
+note 16= 1904.131510
+note 17= 2021.656980
+note 18= 2131.270720
+note 19= 2174.604800
+note 20= 2292.130280
+note 21= 2401.744020
+note 22= 2445.078100
+note 23= 2562.603570
+note 24= 2672.217320
+note 25= 2789.742790
+note 26= 2833.076870
+note 27= 2942.690610
+note 28= 3060.216090
+note 29= 3103.550170
+note 30= 3221.075640
+note 31= 3330.689380
+note 32= 3374.023460
+note 33= 3491.548940
+note 34= 3601.162680
+note 35= 3644.496760
+note 36= 3762.022230
+note 37= 3871.635980
+note 38= 3989.161450
+note 39= 4032.495530
+note 40= 4142.109270
+note 41= 4259.634750
+note 42= 4302.968830
+note 43= 4420.494300
+note 44= 4530.108040
+note 45= 4573.442120
+note 46= 4690.967600
+note 47= 4800.581340
+note 48= 4843.915420
+note 49= 4961.440890
+note 50= 5071.054640
+note 51= 5188.580110
+note 52= 5231.914190
+note 53= 5341.527930
+note 54= 5459.053410
+note 55= 5502.387490
+note 56= 5619.912960
+note 57= 5729.526700
+note 58= 5772.860780
+note 59= 5890.386260
+note 60= 6000.000000
+note 61= 6043.334080
+note 62= 6160.859550
+note 63= 6270.473300
+note 64= 6387.998770
+note 65= 6431.332850
+note 66= 6540.946590
+note 67= 6658.472070
+note 68= 6701.806150
+note 69= 6819.331620
+note 70= 6928.945360
+note 71= 6972.279440
+note 72= 7089.804920
+note 73= 7199.418660
+note 74= 7242.752740
+note 75= 7360.278210
+note 76= 7469.891960
+note 77= 7587.417430
+note 78= 7630.751510
+note 79= 7740.365250
+note 80= 7857.890730
+note 81= 7901.224810
+note 82= 8018.750280
+note 83= 8128.364020
+note 84= 8171.698100
+note 85= 8289.223580
+note 86= 8398.837320
+note 87= 8442.171400
+note 88= 8559.696870
+note 89= 8669.310620
+note 90= 8786.836090
+note 91= 8830.170170
+note 92= 8939.783910
+note 93= 9057.309390
+note 94= 9100.643470
+note 95= 9218.168940
+note 96= 9327.782680
+note 97= 9371.116760
+note 98= 9488.642240
+note 99= 9598.255980
+note 100= 9641.590060
+note 101= 9759.115530
+note 102= 9868.729280
+note 103= 9986.254750
+note 104= 10029.588830
+note 105= 10139.202570
+note 106= 10256.728050
+note 107= 10300.062130
+note 108= 10417.587600
+note 109= 10527.201340
+note 110= 10570.535420
+note 111= 10688.060900
+note 112= 10797.674640
+note 113= 10841.008720
+note 114= 10958.534190
+note 115= 11068.147940
+note 116= 11185.673410
+note 117= 11229.007490
+note 118= 11338.621230
+note 119= 11456.146710
+note 120= 11499.480790
+note 121= 11617.006260
+note 122= 11726.620000
+note 123= 11769.954080
+note 124= 11887.479560
+note 125= 11997.093300
+note 126= 12040.427380
+note 127= 12157.952850
+
+[Functional Tuning]
+note 1="#=0 % 43.334080"
+note 2="#=0 % 160.859550"
+note 3="#=0 % 270.473300"
+note 4="#=0 % 387.998770"
+note 5="#=0 % 431.332850"
+note 6="#=0 % 540.946590"
+note 7="#=0 % 658.472070"
+note 8="#=0 % 701.806150"
+note 9="#=0 % 819.331620"
+note 10="#=0 % 928.945360"
+note 11="#=0 % 972.279440"
+note 12="#=0 % 1089.804920"
+note 13="#>-13 % 1199.418660 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

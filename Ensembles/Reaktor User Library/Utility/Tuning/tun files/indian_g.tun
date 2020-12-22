@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Shruti/Mathieu's Magic Mode scale in 94-et (garibaldi) temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=2719
+note 1=2783
+note 2=2809
+note 3=2898
+note 4=2923
+note 5=2987
+note 6=3013
+note 7=3102
+note 8=3191
+note 9=3217
+note 10=3281
+note 11=3306
+note 12=3396
+note 13=3421
+note 14=3485
+note 15=3511
+note 16=3600
+note 17=3689
+note 18=3715
+note 19=3779
+note 20=3804
+note 21=3894
+note 22=3919
+note 23=3983
+note 24=4009
+note 25=4098
+note 26=4123
+note 27=4187
+note 28=4213
+note 29=4302
+note 30=4391
+note 31=4417
+note 32=4481
+note 33=4506
+note 34=4596
+note 35=4621
+note 36=4685
+note 37=4711
+note 38=4800
+note 39=4889
+note 40=4915
+note 41=4979
+note 42=5004
+note 43=5094
+note 44=5119
+note 45=5183
+note 46=5209
+note 47=5298
+note 48=5323
+note 49=5387
+note 50=5413
+note 51=5502
+note 52=5591
+note 53=5617
+note 54=5681
+note 55=5706
+note 56=5796
+note 57=5821
+note 58=5885
+note 59=5911
+note 60=6000
+note 61=6089
+note 62=6115
+note 63=6179
+note 64=6204
+note 65=6294
+note 66=6319
+note 67=6383
+note 68=6409
+note 69=6498
+note 70=6523
+note 71=6587
+note 72=6613
+note 73=6702
+note 74=6791
+note 75=6817
+note 76=6881
+note 77=6906
+note 78=6996
+note 79=7021
+note 80=7085
+note 81=7111
+note 82=7200
+note 83=7289
+note 84=7315
+note 85=7379
+note 86=7404
+note 87=7494
+note 88=7519
+note 89=7583
+note 90=7609
+note 91=7698
+note 92=7723
+note 93=7787
+note 94=7813
+note 95=7902
+note 96=7991
+note 97=8017
+note 98=8081
+note 99=8106
+note 100=8196
+note 101=8221
+note 102=8285
+note 103=8311
+note 104=8400
+note 105=8489
+note 106=8515
+note 107=8579
+note 108=8604
+note 109=8694
+note 110=8719
+note 111=8783
+note 112=8809
+note 113=8898
+note 114=8923
+note 115=8987
+note 116=9013
+note 117=9102
+note 118=9191
+note 119=9217
+note 120=9281
+note 121=9306
+note 122=9396
+note 123=9421
+note 124=9485
+note 125=9511
+note 126=9600
+note 127=9689
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian_g.tun"
+ID= "ID_indian_g.tun"
+Filename= "indian_g.scl"
+Description= "Shruti/Mathieu's Magic Mode scale in 94-et (garibaldi) temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2719.148940
+note 1= 2782.978720
+note 2= 2808.510640
+note 3= 2897.872340
+note 4= 2923.404260
+note 5= 2987.234040
+note 6= 3012.765960
+note 7= 3102.127660
+note 8= 3191.489360
+note 9= 3217.021280
+note 10= 3280.851060
+note 11= 3306.382980
+note 12= 3395.744680
+note 13= 3421.276600
+note 14= 3485.106380
+note 15= 3510.638300
+note 16= 3600.000000
+note 17= 3689.361700
+note 18= 3714.893620
+note 19= 3778.723400
+note 20= 3804.255320
+note 21= 3893.617020
+note 22= 3919.148940
+note 23= 3982.978720
+note 24= 4008.510640
+note 25= 4097.872340
+note 26= 4123.404260
+note 27= 4187.234040
+note 28= 4212.765960
+note 29= 4302.127660
+note 30= 4391.489360
+note 31= 4417.021280
+note 32= 4480.851060
+note 33= 4506.382980
+note 34= 4595.744680
+note 35= 4621.276600
+note 36= 4685.106380
+note 37= 4710.638300
+note 38= 4800.000000
+note 39= 4889.361700
+note 40= 4914.893620
+note 41= 4978.723400
+note 42= 5004.255320
+note 43= 5093.617020
+note 44= 5119.148940
+note 45= 5182.978720
+note 46= 5208.510640
+note 47= 5297.872340
+note 48= 5323.404260
+note 49= 5387.234040
+note 50= 5412.765960
+note 51= 5502.127660
+note 52= 5591.489360
+note 53= 5617.021280
+note 54= 5680.851060
+note 55= 5706.382980
+note 56= 5795.744680
+note 57= 5821.276600
+note 58= 5885.106380
+note 59= 5910.638300
+note 60= 6000.000000
+note 61= 6089.361700
+note 62= 6114.893620
+note 63= 6178.723400
+note 64= 6204.255320
+note 65= 6293.617020
+note 66= 6319.148940
+note 67= 6382.978720
+note 68= 6408.510640
+note 69= 6497.872340
+note 70= 6523.404260
+note 71= 6587.234040
+note 72= 6612.765960
+note 73= 6702.127660
+note 74= 6791.489360
+note 75= 6817.021280
+note 76= 6880.851060
+note 77= 6906.382980
+note 78= 6995.744680
+note 79= 7021.276600
+note 80= 7085.106380
+note 81= 7110.638300
+note 82= 7200.000000
+note 83= 7289.361700
+note 84= 7314.893620
+note 85= 7378.723400
+note 86= 7404.255320
+note 87= 7493.617020
+note 88= 7519.148940
+note 89= 7582.978720
+note 90= 7608.510640
+note 91= 7697.872340
+note 92= 7723.404260
+note 93= 7787.234040
+note 94= 7812.765960
+note 95= 7902.127660
+note 96= 7991.489360
+note 97= 8017.021280
+note 98= 8080.851060
+note 99= 8106.382980
+note 100= 8195.744680
+note 101= 8221.276600
+note 102= 8285.106380
+note 103= 8310.638300
+note 104= 8400.000000
+note 105= 8489.361700
+note 106= 8514.893620
+note 107= 8578.723400
+note 108= 8604.255320
+note 109= 8693.617020
+note 110= 8719.148940
+note 111= 8782.978720
+note 112= 8808.510640
+note 113= 8897.872340
+note 114= 8923.404260
+note 115= 8987.234040
+note 116= 9012.765960
+note 117= 9102.127660
+note 118= 9191.489360
+note 119= 9217.021280
+note 120= 9280.851060
+note 121= 9306.382980
+note 122= 9395.744680
+note 123= 9421.276600
+note 124= 9485.106380
+note 125= 9510.638300
+note 126= 9600.000000
+note 127= 9689.361700
+
+[Functional Tuning]
+note 1="#=0 % 89.361700"
+note 2="#=0 % 114.893620"
+note 3="#=0 % 178.723400"
+note 4="#=0 % 204.255320"
+note 5="#=0 % 293.617020"
+note 6="#=0 % 319.148940"
+note 7="#=0 % 382.978720"
+note 8="#=0 % 408.510640"
+note 9="#=0 % 497.872340"
+note 10="#=0 % 523.404260"
+note 11="#=0 % 587.234040"
+note 12="#=0 % 612.765960"
+note 13="#=0 % 702.127660"
+note 14="#=0 % 791.489360"
+note 15="#=0 % 817.021280"
+note 16="#=0 % 880.851060"
+note 17="#=0 % 906.382980"
+note 18="#=0 % 995.744680"
+note 19="#=0 % 1021.276600"
+note 20="#=0 % 1085.106380"
+note 21="#=0 % 1110.638300"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

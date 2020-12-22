@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Adaptation by Gene Ward Smith with more consonant chords, TL 25-10-2002
+;
+; VAZ Plus section
+[Tuning]
+note 0=2284
+note 1=2299
+note 2=2352
+note 3=2400
+note 4=2484
+note 5=2552
+note 6=2600
+note 7=2668
+note 8=2784
+note 9=2799
+note 10=2868
+note 11=2900
+note 12=2984
+note 13=3052
+note 14=3100
+note 15=3168
+note 16=3252
+note 17=3300
+note 18=3368
+note 19=3484
+note 20=3499
+note 21=3552
+note 22=3600
+note 23=3684
+note 24=3752
+note 25=3800
+note 26=3868
+note 27=3984
+note 28=3999
+note 29=4068
+note 30=4100
+note 31=4184
+note 32=4252
+note 33=4300
+note 34=4368
+note 35=4452
+note 36=4500
+note 37=4568
+note 38=4684
+note 39=4699
+note 40=4752
+note 41=4800
+note 42=4884
+note 43=4952
+note 44=5000
+note 45=5068
+note 46=5184
+note 47=5199
+note 48=5268
+note 49=5300
+note 50=5384
+note 51=5452
+note 52=5500
+note 53=5568
+note 54=5652
+note 55=5700
+note 56=5768
+note 57=5884
+note 58=5899
+note 59=5952
+note 60=6000
+note 61=6084
+note 62=6152
+note 63=6200
+note 64=6268
+note 65=6384
+note 66=6399
+note 67=6468
+note 68=6500
+note 69=6584
+note 70=6652
+note 71=6700
+note 72=6768
+note 73=6852
+note 74=6900
+note 75=6968
+note 76=7084
+note 77=7099
+note 78=7152
+note 79=7200
+note 80=7284
+note 81=7352
+note 82=7400
+note 83=7468
+note 84=7584
+note 85=7599
+note 86=7668
+note 87=7700
+note 88=7784
+note 89=7852
+note 90=7900
+note 91=7968
+note 92=8052
+note 93=8100
+note 94=8168
+note 95=8284
+note 96=8299
+note 97=8352
+note 98=8400
+note 99=8484
+note 100=8552
+note 101=8600
+note 102=8668
+note 103=8784
+note 104=8799
+note 105=8868
+note 106=8900
+note 107=8984
+note 108=9052
+note 109=9100
+note 110=9168
+note 111=9252
+note 112=9300
+note 113=9368
+note 114=9484
+note 115=9499
+note 116=9552
+note 117=9600
+note 118=9684
+note 119=9752
+note 120=9800
+note 121=9868
+note 122=9984
+note 123=9999
+note 124=10068
+note 125=10100
+note 126=10184
+note 127=10252
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "phillips_19a.tun"
+ID= "ID_phillips_19a.tun"
+Filename= "phillips_19a.scl"
+Description= "Adaptation by Gene Ward Smith with more consonant chords, TL 25-10-2002"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2283.993660
+note 1= 2299.207610
+note 2= 2352.456420
+note 3= 2400.000000
+note 4= 2483.676700
+note 5= 2552.139460
+note 6= 2599.683040
+note 7= 2668.145800
+note 8= 2784.152140
+note 9= 2799.366090
+note 10= 2867.828840
+note 11= 2900.158480
+note 12= 2983.835180
+note 13= 3052.297940
+note 14= 3099.841520
+note 15= 3168.304280
+note 16= 3251.980980
+note 17= 3299.524560
+note 18= 3367.987320
+note 19= 3483.993660
+note 20= 3499.207610
+note 21= 3552.456420
+note 22= 3600.000000
+note 23= 3683.676700
+note 24= 3752.139460
+note 25= 3799.683040
+note 26= 3868.145800
+note 27= 3984.152140
+note 28= 3999.366090
+note 29= 4067.828840
+note 30= 4100.158480
+note 31= 4183.835180
+note 32= 4252.297940
+note 33= 4299.841520
+note 34= 4368.304280
+note 35= 4451.980980
+note 36= 4499.524560
+note 37= 4567.987320
+note 38= 4683.993660
+note 39= 4699.207610
+note 40= 4752.456420
+note 41= 4800.000000
+note 42= 4883.676700
+note 43= 4952.139460
+note 44= 4999.683040
+note 45= 5068.145800
+note 46= 5184.152140
+note 47= 5199.366090
+note 48= 5267.828840
+note 49= 5300.158480
+note 50= 5383.835180
+note 51= 5452.297940
+note 52= 5499.841520
+note 53= 5568.304280
+note 54= 5651.980980
+note 55= 5699.524560
+note 56= 5767.987320
+note 57= 5883.993660
+note 58= 5899.207610
+note 59= 5952.456420
+note 60= 6000.000000
+note 61= 6083.676700
+note 62= 6152.139460
+note 63= 6199.683040
+note 64= 6268.145800
+note 65= 6384.152140
+note 66= 6399.366090
+note 67= 6467.828840
+note 68= 6500.158480
+note 69= 6583.835180
+note 70= 6652.297940
+note 71= 6699.841520
+note 72= 6768.304280
+note 73= 6851.980980
+note 74= 6899.524560
+note 75= 6967.987320
+note 76= 7083.993660
+note 77= 7099.207610
+note 78= 7152.456420
+note 79= 7200.000000
+note 80= 7283.676700
+note 81= 7352.139460
+note 82= 7399.683040
+note 83= 7468.145800
+note 84= 7584.152140
+note 85= 7599.366090
+note 86= 7667.828840
+note 87= 7700.158480
+note 88= 7783.835180
+note 89= 7852.297940
+note 90= 7899.841520
+note 91= 7968.304280
+note 92= 8051.980980
+note 93= 8099.524560
+note 94= 8167.987320
+note 95= 8283.993660
+note 96= 8299.207610
+note 97= 8352.456420
+note 98= 8400.000000
+note 99= 8483.676700
+note 100= 8552.139460
+note 101= 8599.683040
+note 102= 8668.145800
+note 103= 8784.152140
+note 104= 8799.366090
+note 105= 8867.828840
+note 106= 8900.158480
+note 107= 8983.835180
+note 108= 9052.297940
+note 109= 9099.841520
+note 110= 9168.304280
+note 111= 9251.980980
+note 112= 9299.524560
+note 113= 9367.987320
+note 114= 9483.993660
+note 115= 9499.207610
+note 116= 9552.456420
+note 117= 9600.000000
+note 118= 9683.676700
+note 119= 9752.139460
+note 120= 9799.683040
+note 121= 9868.145800
+note 122= 9984.152140
+note 123= 9999.366090
+note 124= 10067.828840
+note 125= 10100.158480
+note 126= 10183.835180
+note 127= 10252.297940
+
+[Functional Tuning]
+note 1="#=0 % 83.676700"
+note 2="#=0 % 152.139460"
+note 3="#=0 % 199.683040"
+note 4="#=0 % 268.145800"
+note 5="#=0 % 384.152140"
+note 6="#=0 % 399.366090"
+note 7="#=0 % 467.828840"
+note 8="#=0 % 500.158480"
+note 9="#=0 % 583.835180"
+note 10="#=0 % 652.297940"
+note 11="#=0 % 699.841520"
+note 12="#=0 % 768.304280"
+note 13="#=0 % 851.980980"
+note 14="#=0 % 899.524560"
+note 15="#=0 % 967.987320"
+note 16="#=0 % 1083.993660"
+note 17="#=0 % 1099.207610"
+note 18="#=0 % 1152.456420"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

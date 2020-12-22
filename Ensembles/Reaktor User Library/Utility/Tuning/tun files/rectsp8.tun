@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rectangle minimal beats spectrum of order 8
+;
+; VAZ Plus section
+[Tuning]
+note 0=2835
+note 1=2898
+note 2=2951
+note 3=2983
+note 4=3017
+note 5=3102
+note 6=3182
+note 7=3214
+note 8=3241
+note 9=3284
+note 10=3333
+note 11=3369
+note 12=3418
+note 13=3449
+note 14=3472
+note 15=3488
+note 16=3600
+note 17=3804
+note 18=3831
+note 19=3867
+note 20=3916
+note 21=3986
+note 22=4035
+note 23=4098
+note 24=4151
+note 25=4183
+note 26=4217
+note 27=4302
+note 28=4382
+note 29=4414
+note 30=4441
+note 31=4484
+note 32=4533
+note 33=4569
+note 34=4618
+note 35=4649
+note 36=4672
+note 37=4688
+note 38=4800
+note 39=5004
+note 40=5031
+note 41=5067
+note 42=5116
+note 43=5186
+note 44=5235
+note 45=5298
+note 46=5351
+note 47=5383
+note 48=5417
+note 49=5502
+note 50=5582
+note 51=5614
+note 52=5641
+note 53=5684
+note 54=5733
+note 55=5769
+note 56=5818
+note 57=5849
+note 58=5872
+note 59=5888
+note 60=6000
+note 61=6204
+note 62=6231
+note 63=6267
+note 64=6316
+note 65=6386
+note 66=6435
+note 67=6498
+note 68=6551
+note 69=6583
+note 70=6617
+note 71=6702
+note 72=6782
+note 73=6814
+note 74=6841
+note 75=6884
+note 76=6933
+note 77=6969
+note 78=7018
+note 79=7049
+note 80=7072
+note 81=7088
+note 82=7200
+note 83=7404
+note 84=7431
+note 85=7467
+note 86=7516
+note 87=7586
+note 88=7635
+note 89=7698
+note 90=7751
+note 91=7783
+note 92=7817
+note 93=7902
+note 94=7982
+note 95=8014
+note 96=8041
+note 97=8084
+note 98=8133
+note 99=8169
+note 100=8218
+note 101=8249
+note 102=8272
+note 103=8288
+note 104=8400
+note 105=8604
+note 106=8631
+note 107=8667
+note 108=8716
+note 109=8786
+note 110=8835
+note 111=8898
+note 112=8951
+note 113=8983
+note 114=9017
+note 115=9102
+note 116=9182
+note 117=9214
+note 118=9241
+note 119=9284
+note 120=9333
+note 121=9369
+note 122=9418
+note 123=9449
+note 124=9472
+note 125=9488
+note 126=9600
+note 127=9804
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "rectsp8.tun"
+ID= "ID_rectsp8.tun"
+Filename= "rectsp8.scl"
+Description= "Rectangle minimal beats spectrum of order 8"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2835.084095
+note 1= 2898.044999
+note 2= 2951.317942
+note 3= 2982.512193
+note 4= 3017.487807
+note 5= 3101.955001
+note 6= 3182.492036
+note 7= 3213.686286
+note 8= 3240.527662
+note 9= 3284.358713
+note 10= 3333.129094
+note 11= 3368.825906
+note 12= 3417.596288
+note 13= 3449.362941
+note 14= 3471.701755
+note 15= 3488.268715
+note 16= 3600.000000
+note 17= 3803.910002
+note 18= 3831.174094
+note 19= 3866.870906
+note 20= 3915.641287
+note 21= 3986.313714
+note 22= 4035.084095
+note 23= 4098.044999
+note 24= 4151.317942
+note 25= 4182.512193
+note 26= 4217.487807
+note 27= 4301.955001
+note 28= 4382.492036
+note 29= 4413.686286
+note 30= 4440.527662
+note 31= 4484.358713
+note 32= 4533.129094
+note 33= 4568.825906
+note 34= 4617.596288
+note 35= 4649.362941
+note 36= 4671.701755
+note 37= 4688.268715
+note 38= 4800.000000
+note 39= 5003.910002
+note 40= 5031.174094
+note 41= 5066.870906
+note 42= 5115.641287
+note 43= 5186.313714
+note 44= 5235.084095
+note 45= 5298.044999
+note 46= 5351.317942
+note 47= 5382.512193
+note 48= 5417.487807
+note 49= 5501.955001
+note 50= 5582.492036
+note 51= 5613.686286
+note 52= 5640.527662
+note 53= 5684.358713
+note 54= 5733.129094
+note 55= 5768.825906
+note 56= 5817.596288
+note 57= 5849.362941
+note 58= 5871.701755
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6203.910002
+note 62= 6231.174094
+note 63= 6266.870906
+note 64= 6315.641287
+note 65= 6386.313714
+note 66= 6435.084095
+note 67= 6498.044999
+note 68= 6551.317942
+note 69= 6582.512193
+note 70= 6617.487807
+note 71= 6701.955001
+note 72= 6782.492036
+note 73= 6813.686286
+note 74= 6840.527662
+note 75= 6884.358713
+note 76= 6933.129094
+note 77= 6968.825906
+note 78= 7017.596288
+note 79= 7049.362941
+note 80= 7071.701755
+note 81= 7088.268715
+note 82= 7200.000000
+note 83= 7403.910002
+note 84= 7431.174094
+note 85= 7466.870906
+note 86= 7515.641287
+note 87= 7586.313714
+note 88= 7635.084095
+note 89= 7698.044999
+note 90= 7751.317942
+note 91= 7782.512193
+note 92= 7817.487807
+note 93= 7901.955001
+note 94= 7982.492036
+note 95= 8013.686286
+note 96= 8040.527662
+note 97= 8084.358713
+note 98= 8133.129094
+note 99= 8168.825906
+note 100= 8217.596288
+note 101= 8249.362941
+note 102= 8271.701755
+note 103= 8288.268715
+note 104= 8400.000000
+note 105= 8603.910002
+note 106= 8631.174094
+note 107= 8666.870906
+note 108= 8715.641287
+note 109= 8786.313714
+note 110= 8835.084095
+note 111= 8898.044999
+note 112= 8951.317942
+note 113= 8982.512193
+note 114= 9017.487807
+note 115= 9101.955001
+note 116= 9182.492036
+note 117= 9213.686286
+note 118= 9240.527662
+note 119= 9284.358713
+note 120= 9333.129094
+note 121= 9368.825906
+note 122= 9417.596288
+note 123= 9449.362941
+note 124= 9471.701755
+note 125= 9488.268715
+note 126= 9600.000000
+note 127= 9803.910002
+
+[Functional Tuning]
+note 1="#=0 * 9/8"
+note 2="#=0 * 8/7"
+note 3="#=0 * 7/6"
+note 4="#=0 * 6/5"
+note 5="#=0 * 5/4"
+note 6="#=0 * 9/7"
+note 7="#=0 * 4/3"
+note 8="#=0 * 11/8"
+note 9="#=0 * 7/5"
+note 10="#=0 * 10/7"
+note 11="#=0 * 3/2"
+note 12="#=0 * 11/7"
+note 13="#=0 * 8/5"
+note 14="#=0 * 13/8"
+note 15="#=0 * 5/3"
+note 16="#=0 * 12/7"
+note 17="#=0 * 7/4"
+note 18="#=0 * 9/5"
+note 19="#=0 * 11/6"
+note 20="#=0 * 13/7"
+note 21="#=0 * 15/8"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

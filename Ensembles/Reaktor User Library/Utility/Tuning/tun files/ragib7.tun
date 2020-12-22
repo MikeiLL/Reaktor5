@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 7-limit version of Idris Rag'ib Bey scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=3003
+note 1=3053
+note 2=3102
+note 3=3165
+note 4=3208
+note 5=3270
+note 6=3342
+note 7=3369
+note 8=3396
+note 9=3439
+note 10=3474
+note 11=3529
+note 12=3600
+note 13=3656
+note 14=3726
+note 15=3768
+note 16=3804
+note 17=3858
+note 18=3902
+note 19=3972
+note 20=4035
+note 21=4062
+note 22=4098
+note 23=4155
+note 24=4203
+note 25=4253
+note 26=4302
+note 27=4365
+note 28=4408
+note 29=4470
+note 30=4542
+note 31=4569
+note 32=4596
+note 33=4639
+note 34=4674
+note 35=4729
+note 36=4800
+note 37=4856
+note 38=4926
+note 39=4968
+note 40=5004
+note 41=5058
+note 42=5102
+note 43=5172
+note 44=5235
+note 45=5262
+note 46=5298
+note 47=5355
+note 48=5403
+note 49=5453
+note 50=5502
+note 51=5565
+note 52=5608
+note 53=5670
+note 54=5742
+note 55=5769
+note 56=5796
+note 57=5839
+note 58=5874
+note 59=5929
+note 60=6000
+note 61=6056
+note 62=6126
+note 63=6168
+note 64=6204
+note 65=6258
+note 66=6302
+note 67=6372
+note 68=6435
+note 69=6462
+note 70=6498
+note 71=6555
+note 72=6603
+note 73=6653
+note 74=6702
+note 75=6765
+note 76=6808
+note 77=6870
+note 78=6942
+note 79=6969
+note 80=6996
+note 81=7039
+note 82=7074
+note 83=7129
+note 84=7200
+note 85=7256
+note 86=7326
+note 87=7368
+note 88=7404
+note 89=7458
+note 90=7502
+note 91=7572
+note 92=7635
+note 93=7662
+note 94=7698
+note 95=7755
+note 96=7803
+note 97=7853
+note 98=7902
+note 99=7965
+note 100=8008
+note 101=8070
+note 102=8142
+note 103=8169
+note 104=8196
+note 105=8239
+note 106=8274
+note 107=8329
+note 108=8400
+note 109=8456
+note 110=8526
+note 111=8568
+note 112=8604
+note 113=8658
+note 114=8702
+note 115=8772
+note 116=8835
+note 117=8862
+note 118=8898
+note 119=8955
+note 120=9003
+note 121=9053
+note 122=9102
+note 123=9165
+note 124=9208
+note 125=9270
+note 126=9342
+note 127=9369
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ragib7.tun"
+ID= "ID_ragib7.tun"
+Filename= "ragib7.scl"
+Description= "7-limit version of Idris Rag'ib Bey scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3003.297285
+note 1= 3053.184619
+note 2= 3101.955001
+note 3= 3164.915905
+note 4= 3207.603043
+note 5= 3270.168191
+note 6= 3341.561815
+note 7= 3368.825906
+note 8= 3396.089998
+note 9= 3439.498333
+note 10= 3474.473948
+note 11= 3529.327573
+note 12= 3600.000000
+note 13= 3656.481904
+note 14= 3725.526052
+note 15= 3768.213190
+note 16= 3803.910002
+note 17= 3858.438185
+note 18= 3901.846520
+note 19= 3972.123191
+note 20= 4035.084095
+note 21= 4062.348187
+note 22= 4098.044999
+note 23= 4154.526904
+note 24= 4203.297285
+note 25= 4253.184619
+note 26= 4301.955001
+note 27= 4364.915905
+note 28= 4407.603043
+note 29= 4470.168191
+note 30= 4541.561815
+note 31= 4568.825906
+note 32= 4596.089998
+note 33= 4639.498333
+note 34= 4674.473948
+note 35= 4729.327573
+note 36= 4800.000000
+note 37= 4856.481904
+note 38= 4925.526052
+note 39= 4968.213190
+note 40= 5003.910002
+note 41= 5058.438185
+note 42= 5101.846520
+note 43= 5172.123191
+note 44= 5235.084095
+note 45= 5262.348187
+note 46= 5298.044999
+note 47= 5354.526904
+note 48= 5403.297285
+note 49= 5453.184619
+note 50= 5501.955001
+note 51= 5564.915905
+note 52= 5607.603043
+note 53= 5670.168191
+note 54= 5741.561815
+note 55= 5768.825906
+note 56= 5796.089998
+note 57= 5839.498333
+note 58= 5874.473948
+note 59= 5929.327573
+note 60= 6000.000000
+note 61= 6056.481904
+note 62= 6125.526052
+note 63= 6168.213190
+note 64= 6203.910002
+note 65= 6258.438185
+note 66= 6301.846520
+note 67= 6372.123191
+note 68= 6435.084095
+note 69= 6462.348187
+note 70= 6498.044999
+note 71= 6554.526904
+note 72= 6603.297285
+note 73= 6653.184619
+note 74= 6701.955001
+note 75= 6764.915905
+note 76= 6807.603043
+note 77= 6870.168191
+note 78= 6941.561815
+note 79= 6968.825906
+note 80= 6996.089998
+note 81= 7039.498333
+note 82= 7074.473948
+note 83= 7129.327573
+note 84= 7200.000000
+note 85= 7256.481904
+note 86= 7325.526052
+note 87= 7368.213190
+note 88= 7403.910002
+note 89= 7458.438185
+note 90= 7501.846520
+note 91= 7572.123191
+note 92= 7635.084095
+note 93= 7662.348187
+note 94= 7698.044999
+note 95= 7754.526904
+note 96= 7803.297285
+note 97= 7853.184619
+note 98= 7901.955001
+note 99= 7964.915905
+note 100= 8007.603043
+note 101= 8070.168191
+note 102= 8141.561815
+note 103= 8168.825906
+note 104= 8196.089998
+note 105= 8239.498333
+note 106= 8274.473948
+note 107= 8329.327573
+note 108= 8400.000000
+note 109= 8456.481904
+note 110= 8525.526052
+note 111= 8568.213190
+note 112= 8603.910002
+note 113= 8658.438185
+note 114= 8701.846520
+note 115= 8772.123191
+note 116= 8835.084095
+note 117= 8862.348187
+note 118= 8898.044999
+note 119= 8954.526904
+note 120= 9003.297285
+note 121= 9053.184619
+note 122= 9101.955001
+note 123= 9164.915905
+note 124= 9207.603043
+note 125= 9270.168191
+note 126= 9341.561815
+note 127= 9368.825906
+
+[Functional Tuning]
+note 1="#=0 * 405/392"
+note 2="#=0 * 672/625"
+note 3="#=0 * 54/49"
+note 4="#=0 * 9/8"
+note 5="#=0 * 512/441"
+note 6="#=0 * 25/21"
+note 7="#=0 * 243/196"
+note 8="#=0 * 9/7"
+note 9="#=0 * 64/49"
+note 10="#=0 * 4/3"
+note 11="#=0 * 135/98"
+note 12="#=0 * 486/343"
+note 13="#=0 * 35/24"
+note 14="#=0 * 3/2"
+note 15="#=0 * 14/9"
+note 16="#=0 * 625/392"
+note 17="#=0 * 81/49"
+note 18="#=0 * 441/256"
+note 19="#=0 * 7/4"
+note 20="#=0 * 16/9"
+note 21="#=0 * 175/96"
+note 22="#=0 * 625/336"
+note 23="#=0 * 48/25"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

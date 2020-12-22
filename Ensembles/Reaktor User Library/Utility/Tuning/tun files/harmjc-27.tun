@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rationalized JC Sub-27 Harmonia on C. MD=27, No planetary assignment.
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=65
+note 2=204
+note 3=278
+note 4=355
+note 5=520
+note 6=608
+note 7=702
+note 8=801
+note 9=906
+note 10=1018
+note 11=1137
+note 12=1200
+note 13=1265
+note 14=1404
+note 15=1478
+note 16=1555
+note 17=1720
+note 18=1808
+note 19=1902
+note 20=2001
+note 21=2106
+note 22=2218
+note 23=2337
+note 24=2400
+note 25=2465
+note 26=2604
+note 27=2678
+note 28=2755
+note 29=2920
+note 30=3008
+note 31=3102
+note 32=3201
+note 33=3306
+note 34=3418
+note 35=3537
+note 36=3600
+note 37=3665
+note 38=3804
+note 39=3878
+note 40=3955
+note 41=4120
+note 42=4208
+note 43=4302
+note 44=4401
+note 45=4506
+note 46=4618
+note 47=4737
+note 48=4800
+note 49=4865
+note 50=5004
+note 51=5078
+note 52=5155
+note 53=5320
+note 54=5408
+note 55=5502
+note 56=5601
+note 57=5706
+note 58=5818
+note 59=5937
+note 60=6000
+note 61=6065
+note 62=6204
+note 63=6278
+note 64=6355
+note 65=6520
+note 66=6608
+note 67=6702
+note 68=6801
+note 69=6906
+note 70=7018
+note 71=7137
+note 72=7200
+note 73=7265
+note 74=7404
+note 75=7478
+note 76=7555
+note 77=7720
+note 78=7808
+note 79=7902
+note 80=8001
+note 81=8106
+note 82=8218
+note 83=8337
+note 84=8400
+note 85=8465
+note 86=8604
+note 87=8678
+note 88=8755
+note 89=8920
+note 90=9008
+note 91=9102
+note 92=9201
+note 93=9306
+note 94=9418
+note 95=9537
+note 96=9600
+note 97=9665
+note 98=9804
+note 99=9878
+note 100=9955
+note 101=10120
+note 102=10208
+note 103=10302
+note 104=10401
+note 105=10506
+note 106=10618
+note 107=10737
+note 108=10800
+note 109=10865
+note 110=11004
+note 111=11078
+note 112=11155
+note 113=11320
+note 114=11408
+note 115=11502
+note 116=11601
+note 117=11706
+note 118=11818
+note 119=11937
+note 120=12000
+note 121=12065
+note 122=12204
+note 123=12278
+note 124=12355
+note 125=12520
+note 126=12608
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "harmjc-27.tun"
+ID= "ID_harmjc-27.tun"
+Filename= "harmjc-27.scl"
+Description= "Rationalized JC Sub-27 Harmonia on C. MD=27, No planetary assignment."
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 65.337341
+note 2= 203.910002
+note 3= 277.590655
+note 4= 354.547060
+note 5= 519.551289
+note 6= 608.351986
+note 7= 701.955001
+note 8= 800.909593
+note 9= 905.865003
+note 10= 1017.596288
+note 11= 1137.039096
+note 12= 1200.000000
+note 13= 1265.337341
+note 14= 1403.910002
+note 15= 1477.590655
+note 16= 1554.547060
+note 17= 1719.551289
+note 18= 1808.351986
+note 19= 1901.955001
+note 20= 2000.909593
+note 21= 2105.865003
+note 22= 2217.596288
+note 23= 2337.039096
+note 24= 2400.000000
+note 25= 2465.337341
+note 26= 2603.910002
+note 27= 2677.590655
+note 28= 2754.547060
+note 29= 2919.551289
+note 30= 3008.351986
+note 31= 3101.955001
+note 32= 3200.909593
+note 33= 3305.865003
+note 34= 3417.596288
+note 35= 3537.039096
+note 36= 3600.000000
+note 37= 3665.337341
+note 38= 3803.910002
+note 39= 3877.590655
+note 40= 3954.547060
+note 41= 4119.551289
+note 42= 4208.351986
+note 43= 4301.955001
+note 44= 4400.909593
+note 45= 4505.865003
+note 46= 4617.596288
+note 47= 4737.039096
+note 48= 4800.000000
+note 49= 4865.337341
+note 50= 5003.910002
+note 51= 5077.590655
+note 52= 5154.547060
+note 53= 5319.551289
+note 54= 5408.351986
+note 55= 5501.955001
+note 56= 5600.909593
+note 57= 5705.865003
+note 58= 5817.596288
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6065.337341
+note 62= 6203.910002
+note 63= 6277.590655
+note 64= 6354.547060
+note 65= 6519.551289
+note 66= 6608.351986
+note 67= 6701.955001
+note 68= 6800.909593
+note 69= 6905.865003
+note 70= 7017.596288
+note 71= 7137.039096
+note 72= 7200.000000
+note 73= 7265.337341
+note 74= 7403.910002
+note 75= 7477.590655
+note 76= 7554.547060
+note 77= 7719.551289
+note 78= 7808.351986
+note 79= 7901.955001
+note 80= 8000.909593
+note 81= 8105.865003
+note 82= 8217.596288
+note 83= 8337.039096
+note 84= 8400.000000
+note 85= 8465.337341
+note 86= 8603.910002
+note 87= 8677.590655
+note 88= 8754.547060
+note 89= 8919.551289
+note 90= 9008.351986
+note 91= 9101.955001
+note 92= 9200.909593
+note 93= 9305.865003
+note 94= 9417.596288
+note 95= 9537.039096
+note 96= 9600.000000
+note 97= 9665.337341
+note 98= 9803.910002
+note 99= 9877.590655
+note 100= 9954.547060
+note 101= 10119.551289
+note 102= 10208.351986
+note 103= 10301.955001
+note 104= 10400.909593
+note 105= 10505.865003
+note 106= 10617.596288
+note 107= 10737.039096
+note 108= 10800.000000
+note 109= 10865.337341
+note 110= 11003.910002
+note 111= 11077.590655
+note 112= 11154.547060
+note 113= 11319.551289
+note 114= 11408.351986
+note 115= 11501.955001
+note 116= 11600.909593
+note 117= 11705.865003
+note 118= 11817.596288
+note 119= 11937.039096
+note 120= 12000.000000
+note 121= 12065.337341
+note 122= 12203.910002
+note 123= 12277.590655
+note 124= 12354.547060
+note 125= 12519.551289
+note 126= 12608.351986
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 27/26"
+note 2="#=0 * 9/8"
+note 3="#=0 * 27/23"
+note 4="#=0 * 27/22"
+note 5="#=0 * 27/20"
+note 6="#=0 * 27/19"
+note 7="#=0 * 3/2"
+note 8="#=0 * 27/17"
+note 9="#=0 * 27/16"
+note 10="#=0 * 9/5"
+note 11="#=0 * 27/14"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

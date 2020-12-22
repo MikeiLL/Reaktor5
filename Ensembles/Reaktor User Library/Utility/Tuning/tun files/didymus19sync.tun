@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Didymus[19] hobbit (81/80) in synchronized tuning ! 3-2x, 5-x, 7-2x, where x is the smaller root of 16x^4 - 96x^3 + 216x^2 - 200x + 1
+;
+; VAZ Plus section
+[Tuning]
+note 0=2208
+note 1=2281
+note 2=2359
+note 3=2400
+note 4=2441
+note 5=2519
+note 6=2592
+note 7=2634
+note 8=2712
+note 9=2785
+note 10=2862
+note 11=2904
+note 12=2945
+note 13=3055
+note 14=3096
+note 15=3138
+note 16=3215
+note 17=3288
+note 18=3366
+note 19=3408
+note 20=3481
+note 21=3559
+note 22=3600
+note 23=3641
+note 24=3719
+note 25=3792
+note 26=3834
+note 27=3912
+note 28=3985
+note 29=4062
+note 30=4104
+note 31=4145
+note 32=4255
+note 33=4296
+note 34=4338
+note 35=4415
+note 36=4488
+note 37=4566
+note 38=4608
+note 39=4681
+note 40=4759
+note 41=4800
+note 42=4841
+note 43=4919
+note 44=4992
+note 45=5034
+note 46=5112
+note 47=5185
+note 48=5262
+note 49=5304
+note 50=5345
+note 51=5455
+note 52=5496
+note 53=5538
+note 54=5615
+note 55=5688
+note 56=5766
+note 57=5808
+note 58=5881
+note 59=5959
+note 60=6000
+note 61=6041
+note 62=6119
+note 63=6192
+note 64=6234
+note 65=6312
+note 66=6385
+note 67=6462
+note 68=6504
+note 69=6545
+note 70=6655
+note 71=6696
+note 72=6738
+note 73=6815
+note 74=6888
+note 75=6966
+note 76=7008
+note 77=7081
+note 78=7159
+note 79=7200
+note 80=7241
+note 81=7319
+note 82=7392
+note 83=7434
+note 84=7512
+note 85=7585
+note 86=7662
+note 87=7704
+note 88=7745
+note 89=7855
+note 90=7896
+note 91=7938
+note 92=8015
+note 93=8088
+note 94=8166
+note 95=8208
+note 96=8281
+note 97=8359
+note 98=8400
+note 99=8441
+note 100=8519
+note 101=8592
+note 102=8634
+note 103=8712
+note 104=8785
+note 105=8862
+note 106=8904
+note 107=8945
+note 108=9055
+note 109=9096
+note 110=9138
+note 111=9215
+note 112=9288
+note 113=9366
+note 114=9408
+note 115=9481
+note 116=9559
+note 117=9600
+note 118=9641
+note 119=9719
+note 120=9792
+note 121=9834
+note 122=9912
+note 123=9985
+note 124=10062
+note 125=10104
+note 126=10145
+note 127=10255
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "didymus19sync.tun"
+ID= "ID_didymus19sync.tun"
+Filename= "didymus19sync.scl"
+Description= "Didymus[19] hobbit (81/80) in synchronized tuning ! 3-2x, 5-x, 7-2x, where x is the smaller root of 16x^4 - 96x^3 + 216x^2 - 200x + 1"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2207.713910
+note 1= 2280.715220
+note 2= 2358.623540
+note 3= 2400.000000
+note 4= 2441.376460
+note 5= 2519.284780
+note 6= 2592.286090
+note 7= 2633.662540
+note 8= 2711.570870
+note 9= 2784.572170
+note 10= 2862.480500
+note 11= 2903.856960
+note 12= 2945.233410
+note 13= 3054.766590
+note 14= 3096.143040
+note 15= 3137.519500
+note 16= 3215.427830
+note 17= 3288.429130
+note 18= 3366.337460
+note 19= 3407.713910
+note 20= 3480.715220
+note 21= 3558.623540
+note 22= 3600.000000
+note 23= 3641.376460
+note 24= 3719.284780
+note 25= 3792.286090
+note 26= 3833.662540
+note 27= 3911.570870
+note 28= 3984.572170
+note 29= 4062.480500
+note 30= 4103.856960
+note 31= 4145.233410
+note 32= 4254.766590
+note 33= 4296.143040
+note 34= 4337.519500
+note 35= 4415.427830
+note 36= 4488.429130
+note 37= 4566.337460
+note 38= 4607.713910
+note 39= 4680.715220
+note 40= 4758.623540
+note 41= 4800.000000
+note 42= 4841.376460
+note 43= 4919.284780
+note 44= 4992.286090
+note 45= 5033.662540
+note 46= 5111.570870
+note 47= 5184.572170
+note 48= 5262.480500
+note 49= 5303.856960
+note 50= 5345.233410
+note 51= 5454.766590
+note 52= 5496.143040
+note 53= 5537.519500
+note 54= 5615.427830
+note 55= 5688.429130
+note 56= 5766.337460
+note 57= 5807.713910
+note 58= 5880.715220
+note 59= 5958.623540
+note 60= 6000.000000
+note 61= 6041.376460
+note 62= 6119.284780
+note 63= 6192.286090
+note 64= 6233.662540
+note 65= 6311.570870
+note 66= 6384.572170
+note 67= 6462.480500
+note 68= 6503.856960
+note 69= 6545.233410
+note 70= 6654.766590
+note 71= 6696.143040
+note 72= 6737.519500
+note 73= 6815.427830
+note 74= 6888.429130
+note 75= 6966.337460
+note 76= 7007.713910
+note 77= 7080.715220
+note 78= 7158.623540
+note 79= 7200.000000
+note 80= 7241.376460
+note 81= 7319.284780
+note 82= 7392.286090
+note 83= 7433.662540
+note 84= 7511.570870
+note 85= 7584.572170
+note 86= 7662.480500
+note 87= 7703.856960
+note 88= 7745.233410
+note 89= 7854.766590
+note 90= 7896.143040
+note 91= 7937.519500
+note 92= 8015.427830
+note 93= 8088.429130
+note 94= 8166.337460
+note 95= 8207.713910
+note 96= 8280.715220
+note 97= 8358.623540
+note 98= 8400.000000
+note 99= 8441.376460
+note 100= 8519.284780
+note 101= 8592.286090
+note 102= 8633.662540
+note 103= 8711.570870
+note 104= 8784.572170
+note 105= 8862.480500
+note 106= 8903.856960
+note 107= 8945.233410
+note 108= 9054.766590
+note 109= 9096.143040
+note 110= 9137.519500
+note 111= 9215.427830
+note 112= 9288.429130
+note 113= 9366.337460
+note 114= 9407.713910
+note 115= 9480.715220
+note 116= 9558.623540
+note 117= 9600.000000
+note 118= 9641.376460
+note 119= 9719.284780
+note 120= 9792.286090
+note 121= 9833.662540
+note 122= 9911.570870
+note 123= 9984.572170
+note 124= 10062.480500
+note 125= 10103.856960
+note 126= 10145.233410
+note 127= 10254.766590
+
+[Functional Tuning]
+note 1="#=0 % 41.376460"
+note 2="#=0 % 119.284780"
+note 3="#=0 % 192.286090"
+note 4="#=0 % 233.662540"
+note 5="#=0 % 311.570870"
+note 6="#=0 % 384.572170"
+note 7="#=0 % 462.480500"
+note 8="#=0 % 503.856960"
+note 9="#=0 % 545.233410"
+note 10="#=0 % 654.766590"
+note 11="#=0 % 696.143040"
+note 12="#=0 % 737.519500"
+note 13="#=0 % 815.427830"
+note 14="#=0 % 888.429130"
+note 15="#=0 % 966.337460"
+note 16="#=0 % 1007.713910"
+note 17="#=0 % 1080.715220"
+note 18="#=0 % 1158.623540"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

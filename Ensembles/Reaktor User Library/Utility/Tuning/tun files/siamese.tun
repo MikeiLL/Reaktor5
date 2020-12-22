@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Siamese Tuning, after Clem Fortuna's Microtonal Guide
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=50
+note 2=172
+note 3=215
+note 4=344
+note 5=515
+note 6=565
+note 7=686
+note 8=736
+note 9=858
+note 10=915
+note 11=1029
+note 12=1200
+note 13=1250
+note 14=1372
+note 15=1415
+note 16=1544
+note 17=1715
+note 18=1765
+note 19=1886
+note 20=1936
+note 21=2058
+note 22=2115
+note 23=2229
+note 24=2400
+note 25=2450
+note 26=2572
+note 27=2615
+note 28=2744
+note 29=2915
+note 30=2965
+note 31=3086
+note 32=3136
+note 33=3258
+note 34=3315
+note 35=3429
+note 36=3600
+note 37=3650
+note 38=3772
+note 39=3815
+note 40=3944
+note 41=4115
+note 42=4165
+note 43=4286
+note 44=4336
+note 45=4458
+note 46=4515
+note 47=4629
+note 48=4800
+note 49=4850
+note 50=4972
+note 51=5015
+note 52=5144
+note 53=5315
+note 54=5365
+note 55=5486
+note 56=5536
+note 57=5658
+note 58=5715
+note 59=5829
+note 60=6000
+note 61=6050
+note 62=6172
+note 63=6215
+note 64=6344
+note 65=6515
+note 66=6565
+note 67=6686
+note 68=6736
+note 69=6858
+note 70=6915
+note 71=7029
+note 72=7200
+note 73=7250
+note 74=7372
+note 75=7415
+note 76=7544
+note 77=7715
+note 78=7765
+note 79=7886
+note 80=7936
+note 81=8058
+note 82=8115
+note 83=8229
+note 84=8400
+note 85=8450
+note 86=8572
+note 87=8615
+note 88=8744
+note 89=8915
+note 90=8965
+note 91=9086
+note 92=9136
+note 93=9258
+note 94=9315
+note 95=9429
+note 96=9600
+note 97=9650
+note 98=9772
+note 99=9815
+note 100=9944
+note 101=10115
+note 102=10165
+note 103=10286
+note 104=10336
+note 105=10458
+note 106=10515
+note 107=10629
+note 108=10800
+note 109=10850
+note 110=10972
+note 111=11015
+note 112=11144
+note 113=11315
+note 114=11365
+note 115=11486
+note 116=11536
+note 117=11658
+note 118=11715
+note 119=11829
+note 120=12000
+note 121=12050
+note 122=12172
+note 123=12215
+note 124=12344
+note 125=12515
+note 126=12565
+note 127=12686
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "siamese.tun"
+ID= "ID_siamese.tun"
+Filename= "siamese.scl"
+Description= "Siamese Tuning, after Clem Fortuna's Microtonal Guide"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 49.800000
+note 2= 172.000000
+note 3= 215.000000
+note 4= 344.000000
+note 5= 515.000000
+note 6= 564.800000
+note 7= 685.800000
+note 8= 735.800000
+note 9= 857.800000
+note 10= 914.800000
+note 11= 1028.800000
+note 12= 1200.000000
+note 13= 1249.800000
+note 14= 1372.000000
+note 15= 1415.000000
+note 16= 1544.000000
+note 17= 1715.000000
+note 18= 1764.800000
+note 19= 1885.800000
+note 20= 1935.800000
+note 21= 2057.800000
+note 22= 2114.800000
+note 23= 2228.800000
+note 24= 2400.000000
+note 25= 2449.800000
+note 26= 2572.000000
+note 27= 2615.000000
+note 28= 2744.000000
+note 29= 2915.000000
+note 30= 2964.800000
+note 31= 3085.800000
+note 32= 3135.800000
+note 33= 3257.800000
+note 34= 3314.800000
+note 35= 3428.800000
+note 36= 3600.000000
+note 37= 3649.800000
+note 38= 3772.000000
+note 39= 3815.000000
+note 40= 3944.000000
+note 41= 4115.000000
+note 42= 4164.800000
+note 43= 4285.800000
+note 44= 4335.800000
+note 45= 4457.800000
+note 46= 4514.800000
+note 47= 4628.800000
+note 48= 4800.000000
+note 49= 4849.800000
+note 50= 4972.000000
+note 51= 5015.000000
+note 52= 5144.000000
+note 53= 5315.000000
+note 54= 5364.800000
+note 55= 5485.800000
+note 56= 5535.800000
+note 57= 5657.800000
+note 58= 5714.800000
+note 59= 5828.800000
+note 60= 6000.000000
+note 61= 6049.800000
+note 62= 6172.000000
+note 63= 6215.000000
+note 64= 6344.000000
+note 65= 6515.000000
+note 66= 6564.800000
+note 67= 6685.800000
+note 68= 6735.800000
+note 69= 6857.800000
+note 70= 6914.800000
+note 71= 7028.800000
+note 72= 7200.000000
+note 73= 7249.800000
+note 74= 7372.000000
+note 75= 7415.000000
+note 76= 7544.000000
+note 77= 7715.000000
+note 78= 7764.800000
+note 79= 7885.800000
+note 80= 7935.800000
+note 81= 8057.800000
+note 82= 8114.800000
+note 83= 8228.800000
+note 84= 8400.000000
+note 85= 8449.800000
+note 86= 8572.000000
+note 87= 8615.000000
+note 88= 8744.000000
+note 89= 8915.000000
+note 90= 8964.800000
+note 91= 9085.800000
+note 92= 9135.800000
+note 93= 9257.800000
+note 94= 9314.800000
+note 95= 9428.800000
+note 96= 9600.000000
+note 97= 9649.800000
+note 98= 9772.000000
+note 99= 9815.000000
+note 100= 9944.000000
+note 101= 10115.000000
+note 102= 10164.800000
+note 103= 10285.800000
+note 104= 10335.800000
+note 105= 10457.800000
+note 106= 10514.800000
+note 107= 10628.800000
+note 108= 10800.000000
+note 109= 10849.800000
+note 110= 10972.000000
+note 111= 11015.000000
+note 112= 11144.000000
+note 113= 11315.000000
+note 114= 11364.800000
+note 115= 11485.800000
+note 116= 11535.800000
+note 117= 11657.800000
+note 118= 11714.800000
+note 119= 11828.800000
+note 120= 12000.000000
+note 121= 12049.800000
+note 122= 12172.000000
+note 123= 12215.000000
+note 124= 12344.000000
+note 125= 12515.000000
+note 126= 12564.800000
+note 127= 12685.800000
+
+[Functional Tuning]
+note 1="#=0 % 49.800000"
+note 2="#=0 % 172.000000"
+note 3="#=0 % 215.000000"
+note 4="#=0 % 344.000000"
+note 5="#=0 % 515.000000"
+note 6="#=0 % 564.800000"
+note 7="#=0 % 685.800000"
+note 8="#=0 % 735.800000"
+note 9="#=0 % 857.800000"
+note 10="#=0 % 914.800000"
+note 11="#=0 % 1028.800000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

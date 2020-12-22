@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Mohajeri Shahin Iranian style scale, TL 9-4-2006
+;
+; VAZ Plus section
+[Tuning]
+note 0=2001
+note 1=2053
+note 2=2106
+note 3=2189
+note 4=2247
+note 5=2306
+note 6=2400
+note 7=2499
+note 8=2533
+note 9=2604
+note 10=2697
+note 11=2735
+note 12=2794
+note 13=2898
+note 14=2941
+note 15=3008
+note 16=3031
+note 17=3102
+note 18=3201
+note 19=3253
+note 20=3306
+note 21=3389
+note 22=3447
+note 23=3506
+note 24=3600
+note 25=3699
+note 26=3733
+note 27=3804
+note 28=3897
+note 29=3935
+note 30=3994
+note 31=4098
+note 32=4141
+note 33=4208
+note 34=4231
+note 35=4302
+note 36=4401
+note 37=4453
+note 38=4506
+note 39=4589
+note 40=4647
+note 41=4706
+note 42=4800
+note 43=4899
+note 44=4933
+note 45=5004
+note 46=5097
+note 47=5135
+note 48=5194
+note 49=5298
+note 50=5341
+note 51=5408
+note 52=5431
+note 53=5502
+note 54=5601
+note 55=5653
+note 56=5706
+note 57=5789
+note 58=5847
+note 59=5906
+note 60=6000
+note 61=6099
+note 62=6133
+note 63=6204
+note 64=6297
+note 65=6335
+note 66=6394
+note 67=6498
+note 68=6541
+note 69=6608
+note 70=6631
+note 71=6702
+note 72=6801
+note 73=6853
+note 74=6906
+note 75=6989
+note 76=7047
+note 77=7106
+note 78=7200
+note 79=7299
+note 80=7333
+note 81=7404
+note 82=7497
+note 83=7535
+note 84=7594
+note 85=7698
+note 86=7741
+note 87=7808
+note 88=7831
+note 89=7902
+note 90=8001
+note 91=8053
+note 92=8106
+note 93=8189
+note 94=8247
+note 95=8306
+note 96=8400
+note 97=8499
+note 98=8533
+note 99=8604
+note 100=8697
+note 101=8735
+note 102=8794
+note 103=8898
+note 104=8941
+note 105=9008
+note 106=9031
+note 107=9102
+note 108=9201
+note 109=9253
+note 110=9306
+note 111=9389
+note 112=9447
+note 113=9506
+note 114=9600
+note 115=9699
+note 116=9733
+note 117=9804
+note 118=9897
+note 119=9935
+note 120=9994
+note 121=10098
+note 122=10141
+note 123=10208
+note 124=10231
+note 125=10302
+note 126=10401
+note 127=10453
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "shahin.tun"
+ID= "ID_shahin.tun"
+Filename= "shahin.scl"
+Description= "Mohajeri Shahin Iranian style scale, TL 9-4-2006"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2000.909593
+note 1= 2052.592059
+note 2= 2105.865003
+note 3= 2188.980198
+note 4= 2246.693343
+note 5= 2306.396986
+note 6= 2400.000000
+note 7= 2498.954592
+note 8= 2533.237575
+note 9= 2603.910002
+note 10= 2696.511434
+note 11= 2734.984885
+note 12= 2794.347297
+note 13= 2898.044999
+note 14= 2941.328105
+note 15= 3008.351986
+note 16= 3031.282574
+note 17= 3101.955001
+note 18= 3200.909593
+note 19= 3252.592059
+note 20= 3305.865003
+note 21= 3388.980198
+note 22= 3446.693343
+note 23= 3506.396986
+note 24= 3600.000000
+note 25= 3698.954592
+note 26= 3733.237575
+note 27= 3803.910002
+note 28= 3896.511434
+note 29= 3934.984885
+note 30= 3994.347297
+note 31= 4098.044999
+note 32= 4141.328105
+note 33= 4208.351986
+note 34= 4231.282574
+note 35= 4301.955001
+note 36= 4400.909593
+note 37= 4452.592059
+note 38= 4505.865003
+note 39= 4588.980198
+note 40= 4646.693343
+note 41= 4706.396986
+note 42= 4800.000000
+note 43= 4898.954592
+note 44= 4933.237575
+note 45= 5003.910002
+note 46= 5096.511434
+note 47= 5134.984885
+note 48= 5194.347297
+note 49= 5298.044999
+note 50= 5341.328105
+note 51= 5408.351986
+note 52= 5431.282574
+note 53= 5501.955001
+note 54= 5600.909593
+note 55= 5652.592059
+note 56= 5705.865003
+note 57= 5788.980198
+note 58= 5846.693343
+note 59= 5906.396986
+note 60= 6000.000000
+note 61= 6098.954592
+note 62= 6133.237575
+note 63= 6203.910002
+note 64= 6296.511434
+note 65= 6334.984885
+note 66= 6394.347297
+note 67= 6498.044999
+note 68= 6541.328105
+note 69= 6608.351986
+note 70= 6631.282574
+note 71= 6701.955001
+note 72= 6800.909593
+note 73= 6852.592059
+note 74= 6905.865003
+note 75= 6988.980198
+note 76= 7046.693343
+note 77= 7106.396986
+note 78= 7200.000000
+note 79= 7298.954592
+note 80= 7333.237575
+note 81= 7403.910002
+note 82= 7496.511434
+note 83= 7534.984885
+note 84= 7594.347297
+note 85= 7698.044999
+note 86= 7741.328105
+note 87= 7808.351986
+note 88= 7831.282574
+note 89= 7901.955001
+note 90= 8000.909593
+note 91= 8052.592059
+note 92= 8105.865003
+note 93= 8188.980198
+note 94= 8246.693343
+note 95= 8306.396986
+note 96= 8400.000000
+note 97= 8498.954592
+note 98= 8533.237575
+note 99= 8603.910002
+note 100= 8696.511434
+note 101= 8734.984885
+note 102= 8794.347297
+note 103= 8898.044999
+note 104= 8941.328105
+note 105= 9008.351986
+note 106= 9031.282574
+note 107= 9101.955001
+note 108= 9200.909593
+note 109= 9252.592059
+note 110= 9305.865003
+note 111= 9388.980198
+note 112= 9446.693343
+note 113= 9506.396986
+note 114= 9600.000000
+note 115= 9698.954592
+note 116= 9733.237575
+note 117= 9803.910002
+note 118= 9896.511434
+note 119= 9934.984885
+note 120= 9994.347297
+note 121= 10098.044999
+note 122= 10141.328105
+note 123= 10208.351986
+note 124= 10231.282574
+note 125= 10301.955001
+note 126= 10400.909593
+note 127= 10452.592059
+
+[Functional Tuning]
+note 1="#=0 * 18/17"
+note 2="#=0 * 27/25"
+note 3="#=0 * 9/8"
+note 4="#=0 * 108/91"
+note 5="#=0 * 108/89"
+note 6="#=0 * 54/43"
+note 7="#=0 * 4/3"
+note 8="#=0 * 108/79"
+note 9="#=0 * 27/19"
+note 10="#=0 * 36/25"
+note 11="#=0 * 3/2"
+note 12="#=0 * 27/17"
+note 13="#=0 * 18/11"
+note 14="#=0 * 27/16"
+note 15="#=0 * 108/61"
+note 16="#=0 * 108/59"
+note 17="#=0 * 36/19"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

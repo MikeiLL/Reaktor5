@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Raja S.M. Tagore's sruti vina, measured by Ellis and Hipkins, 1886. 1/1=241.2
+;
+; VAZ Plus section
+[Tuning]
+note 0=2656
+note 1=2729
+note 2=2776
+note 3=2846
+note 4=2884
+note 5=2923
+note 6=2981
+note 7=3053
+note 8=3089
+note 9=3147
+note 10=3195
+note 11=3257
+note 12=3294
+note 13=3353
+note 14=3417
+note 15=3476
+note 16=3560
+note 17=3605
+note 18=3671
+note 19=3729
+note 20=3783
+note 21=3828
+note 22=3876
+note 23=3949
+note 24=3996
+note 25=4066
+note 26=4104
+note 27=4143
+note 28=4201
+note 29=4272
+note 30=4309
+note 31=4367
+note 32=4415
+note 33=4477
+note 34=4514
+note 35=4573
+note 36=4637
+note 37=4696
+note 38=4780
+note 39=4825
+note 40=4891
+note 41=4949
+note 42=5003
+note 43=5048
+note 44=5096
+note 45=5169
+note 46=5216
+note 47=5286
+note 48=5324
+note 49=5363
+note 50=5421
+note 51=5492
+note 52=5529
+note 53=5587
+note 54=5635
+note 55=5697
+note 56=5734
+note 57=5793
+note 58=5857
+note 59=5916
+note 60=6000
+note 61=6045
+note 62=6111
+note 63=6169
+note 64=6223
+note 65=6267
+note 66=6316
+note 67=6389
+note 68=6436
+note 69=6506
+note 70=6544
+note 71=6583
+note 72=6641
+note 73=6712
+note 74=6749
+note 75=6807
+note 76=6855
+note 77=6917
+note 78=6954
+note 79=7013
+note 80=7077
+note 81=7136
+note 82=7220
+note 83=7265
+note 84=7331
+note 85=7389
+note 86=7443
+note 87=7487
+note 88=7536
+note 89=7609
+note 90=7656
+note 91=7726
+note 92=7764
+note 93=7803
+note 94=7861
+note 95=7932
+note 96=7969
+note 97=8027
+note 98=8075
+note 99=8137
+note 100=8174
+note 101=8233
+note 102=8297
+note 103=8356
+note 104=8440
+note 105=8485
+note 106=8551
+note 107=8609
+note 108=8663
+note 109=8707
+note 110=8756
+note 111=8829
+note 112=8876
+note 113=8946
+note 114=8984
+note 115=9023
+note 116=9081
+note 117=9152
+note 118=9189
+note 119=9247
+note 120=9295
+note 121=9357
+note 122=9394
+note 123=9453
+note 124=9517
+note 125=9576
+note 126=9660
+note 127=9705
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian-srutivina.tun"
+ID= "ID_indian-srutivina.tun"
+Filename= "indian-srutivina.scl"
+Description= "Raja S.M. Tagore's sruti vina, measured by Ellis and Hipkins, 1886. 1/1=241.2"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2656.057000
+note 1= 2729.239000
+note 2= 2776.178000
+note 3= 2845.622000
+note 4= 2884.313000
+note 5= 2923.184000
+note 6= 2980.645000
+note 7= 3052.507000
+note 8= 3089.213000
+note 9= 3146.911000
+note 10= 3195.319000
+note 11= 3256.840000
+note 12= 3294.054000
+note 13= 3352.622000
+note 14= 3416.996000
+note 15= 3476.458000
+note 16= 3560.038000
+note 17= 3605.376000
+note 18= 3671.231000
+note 19= 3729.474000
+note 20= 3782.668000
+note 21= 3827.524000
+note 22= 3876.038000
+note 23= 3949.220000
+note 24= 3996.159000
+note 25= 4065.603000
+note 26= 4104.294000
+note 27= 4143.165000
+note 28= 4200.626000
+note 29= 4272.488000
+note 30= 4309.194000
+note 31= 4366.892000
+note 32= 4415.300000
+note 33= 4476.821000
+note 34= 4514.035000
+note 35= 4572.603000
+note 36= 4636.977000
+note 37= 4696.439000
+note 38= 4780.019000
+note 39= 4825.357000
+note 40= 4891.212000
+note 41= 4949.455000
+note 42= 5002.649000
+note 43= 5047.505000
+note 44= 5096.019000
+note 45= 5169.201000
+note 46= 5216.140000
+note 47= 5285.584000
+note 48= 5324.275000
+note 49= 5363.146000
+note 50= 5420.607000
+note 51= 5492.469000
+note 52= 5529.175000
+note 53= 5586.873000
+note 54= 5635.281000
+note 55= 5696.802000
+note 56= 5734.016000
+note 57= 5792.584000
+note 58= 5856.958000
+note 59= 5916.420000
+note 60= 6000.000000
+note 61= 6045.338000
+note 62= 6111.193000
+note 63= 6169.436000
+note 64= 6222.630000
+note 65= 6267.486000
+note 66= 6316.000000
+note 67= 6389.182000
+note 68= 6436.121000
+note 69= 6505.565000
+note 70= 6544.256000
+note 71= 6583.127000
+note 72= 6640.588000
+note 73= 6712.450000
+note 74= 6749.156000
+note 75= 6806.854000
+note 76= 6855.262000
+note 77= 6916.783000
+note 78= 6953.997000
+note 79= 7012.565000
+note 80= 7076.939000
+note 81= 7136.401000
+note 82= 7219.981000
+note 83= 7265.319000
+note 84= 7331.174000
+note 85= 7389.417000
+note 86= 7442.611000
+note 87= 7487.467000
+note 88= 7535.981000
+note 89= 7609.163000
+note 90= 7656.102000
+note 91= 7725.546000
+note 92= 7764.237000
+note 93= 7803.108000
+note 94= 7860.569000
+note 95= 7932.431000
+note 96= 7969.137000
+note 97= 8026.835000
+note 98= 8075.243000
+note 99= 8136.764000
+note 100= 8173.978000
+note 101= 8232.546000
+note 102= 8296.920000
+note 103= 8356.382000
+note 104= 8439.962000
+note 105= 8485.300000
+note 106= 8551.155000
+note 107= 8609.398000
+note 108= 8662.592000
+note 109= 8707.448000
+note 110= 8755.962000
+note 111= 8829.144000
+note 112= 8876.083000
+note 113= 8945.527000
+note 114= 8984.218000
+note 115= 9023.089000
+note 116= 9080.550000
+note 117= 9152.412000
+note 118= 9189.118000
+note 119= 9246.816000
+note 120= 9295.224000
+note 121= 9356.745000
+note 122= 9393.959000
+note 123= 9452.527000
+note 124= 9516.901000
+note 125= 9576.363000
+note 126= 9659.943000
+note 127= 9705.281000
+
+[Functional Tuning]
+note 1="#=0 % 45.338000"
+note 2="#=0 % 111.193000"
+note 3="#=0 % 169.436000"
+note 4="#=0 % 222.630000"
+note 5="#=0 % 267.486000"
+note 6="#=0 % 316.000000"
+note 7="#=0 % 389.182000"
+note 8="#=0 % 436.121000"
+note 9="#=0 % 505.565000"
+note 10="#=0 % 544.256000"
+note 11="#=0 % 583.127000"
+note 12="#=0 % 640.588000"
+note 13="#=0 % 712.450000"
+note 14="#=0 % 749.156000"
+note 15="#=0 % 806.854000"
+note 16="#=0 % 855.262000"
+note 17="#=0 % 916.783000"
+note 18="#=0 % 953.997000"
+note 19="#=0 % 1012.565000"
+note 20="#=0 % 1076.939000"
+note 21="#=0 % 1136.401000"
+note 22="#>-22 % 1219.981000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

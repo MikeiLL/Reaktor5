@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Erv Wilson scale from Rast/Bayyati matrix (27/22, 11/9)
+;
+; VAZ Plus section
+[Tuning]
+note 0=2988
+note 1=3049
+note 2=3102
+note 3=3139
+note 4=3192
+note 5=3253
+note 6=3306
+note 7=3343
+note 8=3396
+note 9=3457
+note 10=3486
+note 11=3547
+note 12=3600
+note 13=3637
+note 14=3690
+note 15=3751
+note 16=3804
+note 17=3841
+note 18=3894
+note 19=3955
+note 20=3984
+note 21=4045
+note 22=4098
+note 23=4158
+note 24=4188
+note 25=4249
+note 26=4302
+note 27=4339
+note 28=4392
+note 29=4453
+note 30=4506
+note 31=4543
+note 32=4596
+note 33=4657
+note 34=4686
+note 35=4747
+note 36=4800
+note 37=4837
+note 38=4890
+note 39=4951
+note 40=5004
+note 41=5041
+note 42=5094
+note 43=5155
+note 44=5184
+note 45=5245
+note 46=5298
+note 47=5358
+note 48=5388
+note 49=5449
+note 50=5502
+note 51=5539
+note 52=5592
+note 53=5653
+note 54=5706
+note 55=5743
+note 56=5796
+note 57=5857
+note 58=5886
+note 59=5947
+note 60=6000
+note 61=6037
+note 62=6090
+note 63=6151
+note 64=6204
+note 65=6241
+note 66=6294
+note 67=6355
+note 68=6384
+note 69=6445
+note 70=6498
+note 71=6558
+note 72=6588
+note 73=6649
+note 74=6702
+note 75=6739
+note 76=6792
+note 77=6853
+note 78=6906
+note 79=6943
+note 80=6996
+note 81=7057
+note 82=7086
+note 83=7147
+note 84=7200
+note 85=7237
+note 86=7290
+note 87=7351
+note 88=7404
+note 89=7441
+note 90=7494
+note 91=7555
+note 92=7584
+note 93=7645
+note 94=7698
+note 95=7758
+note 96=7788
+note 97=7849
+note 98=7902
+note 99=7939
+note 100=7992
+note 101=8053
+note 102=8106
+note 103=8143
+note 104=8196
+note 105=8257
+note 106=8286
+note 107=8347
+note 108=8400
+note 109=8437
+note 110=8490
+note 111=8551
+note 112=8604
+note 113=8641
+note 114=8694
+note 115=8755
+note 116=8784
+note 117=8845
+note 118=8898
+note 119=8958
+note 120=8988
+note 121=9049
+note 122=9102
+note 123=9139
+note 124=9192
+note 125=9253
+note 126=9306
+note 127=9343
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wilson-rastbayyati24.tun"
+ID= "ID_wilson-rastbayyati24.tun"
+Filename= "wilson-rastbayyati24.scl"
+Description= "Erv Wilson scale from Rast/Bayyati matrix (27/22, 11/9)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2988.269995
+note 1= 3048.682058
+note 2= 3101.955001
+note 3= 3138.907053
+note 4= 3192.179997
+note 5= 3252.592059
+note 6= 3305.865003
+note 7= 3342.817055
+note 8= 3396.089998
+note 9= 3456.502061
+note 10= 3486.314994
+note 11= 3546.727057
+note 12= 3600.000000
+note 13= 3636.952052
+note 14= 3690.224996
+note 15= 3750.637059
+note 16= 3803.910002
+note 17= 3840.862054
+note 18= 3894.134997
+note 19= 3954.547060
+note 20= 3984.359993
+note 21= 4044.772056
+note 22= 4098.044999
+note 23= 4158.457062
+note 24= 4188.269995
+note 25= 4248.682058
+note 26= 4301.955001
+note 27= 4338.907053
+note 28= 4392.179997
+note 29= 4452.592059
+note 30= 4505.865003
+note 31= 4542.817055
+note 32= 4596.089998
+note 33= 4656.502061
+note 34= 4686.314994
+note 35= 4746.727057
+note 36= 4800.000000
+note 37= 4836.952052
+note 38= 4890.224996
+note 39= 4950.637059
+note 40= 5003.910002
+note 41= 5040.862054
+note 42= 5094.134997
+note 43= 5154.547060
+note 44= 5184.359993
+note 45= 5244.772056
+note 46= 5298.044999
+note 47= 5358.457062
+note 48= 5388.269995
+note 49= 5448.682058
+note 50= 5501.955001
+note 51= 5538.907053
+note 52= 5592.179997
+note 53= 5652.592059
+note 54= 5705.865003
+note 55= 5742.817055
+note 56= 5796.089998
+note 57= 5856.502061
+note 58= 5886.314994
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6036.952052
+note 62= 6090.224996
+note 63= 6150.637059
+note 64= 6203.910002
+note 65= 6240.862054
+note 66= 6294.134997
+note 67= 6354.547060
+note 68= 6384.359993
+note 69= 6444.772056
+note 70= 6498.044999
+note 71= 6558.457062
+note 72= 6588.269995
+note 73= 6648.682058
+note 74= 6701.955001
+note 75= 6738.907053
+note 76= 6792.179997
+note 77= 6852.592059
+note 78= 6905.865003
+note 79= 6942.817055
+note 80= 6996.089998
+note 81= 7056.502061
+note 82= 7086.314994
+note 83= 7146.727057
+note 84= 7200.000000
+note 85= 7236.952052
+note 86= 7290.224996
+note 87= 7350.637059
+note 88= 7403.910002
+note 89= 7440.862054
+note 90= 7494.134997
+note 91= 7554.547060
+note 92= 7584.359993
+note 93= 7644.772056
+note 94= 7698.044999
+note 95= 7758.457062
+note 96= 7788.269995
+note 97= 7848.682058
+note 98= 7901.955001
+note 99= 7938.907053
+note 100= 7992.179997
+note 101= 8052.592059
+note 102= 8105.865003
+note 103= 8142.817055
+note 104= 8196.089998
+note 105= 8256.502061
+note 106= 8286.314994
+note 107= 8346.727057
+note 108= 8400.000000
+note 109= 8436.952052
+note 110= 8490.224996
+note 111= 8550.637059
+note 112= 8603.910002
+note 113= 8640.862054
+note 114= 8694.134997
+note 115= 8754.547060
+note 116= 8784.359993
+note 117= 8844.772056
+note 118= 8898.044999
+note 119= 8958.457062
+note 120= 8988.269995
+note 121= 9048.682058
+note 122= 9101.955001
+note 123= 9138.907053
+note 124= 9192.179997
+note 125= 9252.592059
+note 126= 9305.865003
+note 127= 9342.817055
+
+[Functional Tuning]
+note 1="#=0 * 8192/8019"
+note 2="#=0 * 256/243"
+note 3="#=0 * 12/11"
+note 4="#=0 * 9/8"
+note 5="#=0 * 1024/891"
+note 6="#=0 * 32/27"
+note 7="#=0 * 27/22"
+note 8="#=0 * 8192/6561"
+note 9="#=0 * 128/99"
+note 10="#=0 * 4/3"
+note 11="#=0 * 243/176"
+note 12="#=0 * 1024/729"
+note 13="#=0 * 16/11"
+note 14="#=0 * 3/2"
+note 15="#=0 * 4096/2673"
+note 16="#=0 * 128/81"
+note 17="#=0 * 18/11"
+note 18="#=0 * 27/16"
+note 19="#=0 * 512/297"
+note 20="#=0 * 16/9"
+note 21="#=0 * 81/44"
+note 22="#=0 * 4096/2187"
+note 23="#=0 * 64/33"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

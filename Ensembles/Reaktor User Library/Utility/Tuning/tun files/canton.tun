@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jake Freivald, a 2.3.11/7.13/7 subgroup scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=128
+note 2=204
+note 3=289
+note 4=418
+note 5=498
+note 6=574
+note 7=702
+note 8=782
+note 9=911
+note 10=996
+note 11=1072
+note 12=1200
+note 13=1328
+note 14=1404
+note 15=1489
+note 16=1618
+note 17=1698
+note 18=1774
+note 19=1902
+note 20=1982
+note 21=2111
+note 22=2196
+note 23=2272
+note 24=2400
+note 25=2528
+note 26=2604
+note 27=2689
+note 28=2818
+note 29=2898
+note 30=2974
+note 31=3102
+note 32=3182
+note 33=3311
+note 34=3396
+note 35=3472
+note 36=3600
+note 37=3728
+note 38=3804
+note 39=3889
+note 40=4018
+note 41=4098
+note 42=4174
+note 43=4302
+note 44=4382
+note 45=4511
+note 46=4596
+note 47=4672
+note 48=4800
+note 49=4928
+note 50=5004
+note 51=5089
+note 52=5218
+note 53=5298
+note 54=5374
+note 55=5502
+note 56=5582
+note 57=5711
+note 58=5796
+note 59=5872
+note 60=6000
+note 61=6128
+note 62=6204
+note 63=6289
+note 64=6418
+note 65=6498
+note 66=6574
+note 67=6702
+note 68=6782
+note 69=6911
+note 70=6996
+note 71=7072
+note 72=7200
+note 73=7328
+note 74=7404
+note 75=7489
+note 76=7618
+note 77=7698
+note 78=7774
+note 79=7902
+note 80=7982
+note 81=8111
+note 82=8196
+note 83=8272
+note 84=8400
+note 85=8528
+note 86=8604
+note 87=8689
+note 88=8818
+note 89=8898
+note 90=8974
+note 91=9102
+note 92=9182
+note 93=9311
+note 94=9396
+note 95=9472
+note 96=9600
+note 97=9728
+note 98=9804
+note 99=9889
+note 100=10018
+note 101=10098
+note 102=10174
+note 103=10302
+note 104=10382
+note 105=10511
+note 106=10596
+note 107=10672
+note 108=10800
+note 109=10928
+note 110=11004
+note 111=11089
+note 112=11218
+note 113=11298
+note 114=11374
+note 115=11502
+note 116=11582
+note 117=11711
+note 118=11796
+note 119=11872
+note 120=12000
+note 121=12128
+note 122=12204
+note 123=12289
+note 124=12418
+note 125=12498
+note 126=12574
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "canton.tun"
+ID= "ID_canton.tun"
+Filename= "canton.scl"
+Description= "Jake Freivald, a 2.3.11/7.13/7 subgroup scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 128.298245
+note 2= 203.910002
+note 3= 289.209719
+note 4= 417.507964
+note 5= 498.044999
+note 6= 573.656756
+note 7= 701.955001
+note 8= 782.492036
+note 9= 910.790281
+note 10= 996.089998
+note 11= 1071.701755
+note 12= 1200.000000
+note 13= 1328.298245
+note 14= 1403.910002
+note 15= 1489.209719
+note 16= 1617.507964
+note 17= 1698.044999
+note 18= 1773.656756
+note 19= 1901.955001
+note 20= 1982.492036
+note 21= 2110.790281
+note 22= 2196.089998
+note 23= 2271.701755
+note 24= 2400.000000
+note 25= 2528.298245
+note 26= 2603.910002
+note 27= 2689.209719
+note 28= 2817.507964
+note 29= 2898.044999
+note 30= 2973.656756
+note 31= 3101.955001
+note 32= 3182.492036
+note 33= 3310.790281
+note 34= 3396.089998
+note 35= 3471.701755
+note 36= 3600.000000
+note 37= 3728.298245
+note 38= 3803.910002
+note 39= 3889.209719
+note 40= 4017.507964
+note 41= 4098.044999
+note 42= 4173.656756
+note 43= 4301.955001
+note 44= 4382.492036
+note 45= 4510.790281
+note 46= 4596.089998
+note 47= 4671.701755
+note 48= 4800.000000
+note 49= 4928.298245
+note 50= 5003.910002
+note 51= 5089.209719
+note 52= 5217.507964
+note 53= 5298.044999
+note 54= 5373.656756
+note 55= 5501.955001
+note 56= 5582.492036
+note 57= 5710.790281
+note 58= 5796.089998
+note 59= 5871.701755
+note 60= 6000.000000
+note 61= 6128.298245
+note 62= 6203.910002
+note 63= 6289.209719
+note 64= 6417.507964
+note 65= 6498.044999
+note 66= 6573.656756
+note 67= 6701.955001
+note 68= 6782.492036
+note 69= 6910.790281
+note 70= 6996.089998
+note 71= 7071.701755
+note 72= 7200.000000
+note 73= 7328.298245
+note 74= 7403.910002
+note 75= 7489.209719
+note 76= 7617.507964
+note 77= 7698.044999
+note 78= 7773.656756
+note 79= 7901.955001
+note 80= 7982.492036
+note 81= 8110.790281
+note 82= 8196.089998
+note 83= 8271.701755
+note 84= 8400.000000
+note 85= 8528.298245
+note 86= 8603.910002
+note 87= 8689.209719
+note 88= 8817.507964
+note 89= 8898.044999
+note 90= 8973.656756
+note 91= 9101.955001
+note 92= 9182.492036
+note 93= 9310.790281
+note 94= 9396.089998
+note 95= 9471.701755
+note 96= 9600.000000
+note 97= 9728.298245
+note 98= 9803.910002
+note 99= 9889.209719
+note 100= 10017.507964
+note 101= 10098.044999
+note 102= 10173.656756
+note 103= 10301.955001
+note 104= 10382.492036
+note 105= 10510.790281
+note 106= 10596.089998
+note 107= 10671.701755
+note 108= 10800.000000
+note 109= 10928.298245
+note 110= 11003.910002
+note 111= 11089.209719
+note 112= 11217.507964
+note 113= 11298.044999
+note 114= 11373.656756
+note 115= 11501.955001
+note 116= 11582.492036
+note 117= 11710.790281
+note 118= 11796.089998
+note 119= 11871.701755
+note 120= 12000.000000
+note 121= 12128.298245
+note 122= 12203.910002
+note 123= 12289.209719
+note 124= 12417.507964
+note 125= 12498.044999
+note 126= 12573.656756
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 14/13"
+note 2="#=0 * 9/8"
+note 3="#=0 * 13/11"
+note 4="#=0 * 14/11"
+note 5="#=0 * 4/3"
+note 6="#=0 * 39/28"
+note 7="#=0 * 3/2"
+note 8="#=0 * 11/7"
+note 9="#=0 * 22/13"
+note 10="#=0 * 16/9"
+note 11="#=0 * 13/7"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

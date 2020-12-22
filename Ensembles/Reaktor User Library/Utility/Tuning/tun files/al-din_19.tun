@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Pythagorean Arabic scale by Safi al-Din
+;
+; VAZ Plus section
+[Tuning]
+note 0=2196
+note 1=2286
+note 2=2377
+note 3=2400
+note 4=2490
+note 5=2580
+note 6=2604
+note 7=2694
+note 8=2784
+note 9=2808
+note 10=2875
+note 11=2898
+note 12=2988
+note 13=3078
+note 14=3102
+note 15=3192
+note 16=3282
+note 17=3306
+note 18=3373
+note 19=3396
+note 20=3486
+note 21=3577
+note 22=3600
+note 23=3690
+note 24=3780
+note 25=3804
+note 26=3894
+note 27=3984
+note 28=4008
+note 29=4075
+note 30=4098
+note 31=4188
+note 32=4278
+note 33=4302
+note 34=4392
+note 35=4482
+note 36=4506
+note 37=4573
+note 38=4596
+note 39=4686
+note 40=4777
+note 41=4800
+note 42=4890
+note 43=4980
+note 44=5004
+note 45=5094
+note 46=5184
+note 47=5208
+note 48=5275
+note 49=5298
+note 50=5388
+note 51=5478
+note 52=5502
+note 53=5592
+note 54=5682
+note 55=5706
+note 56=5773
+note 57=5796
+note 58=5886
+note 59=5977
+note 60=6000
+note 61=6090
+note 62=6180
+note 63=6204
+note 64=6294
+note 65=6384
+note 66=6408
+note 67=6475
+note 68=6498
+note 69=6588
+note 70=6678
+note 71=6702
+note 72=6792
+note 73=6882
+note 74=6906
+note 75=6973
+note 76=6996
+note 77=7086
+note 78=7177
+note 79=7200
+note 80=7290
+note 81=7380
+note 82=7404
+note 83=7494
+note 84=7584
+note 85=7608
+note 86=7675
+note 87=7698
+note 88=7788
+note 89=7878
+note 90=7902
+note 91=7992
+note 92=8082
+note 93=8106
+note 94=8173
+note 95=8196
+note 96=8286
+note 97=8377
+note 98=8400
+note 99=8490
+note 100=8580
+note 101=8604
+note 102=8694
+note 103=8784
+note 104=8808
+note 105=8875
+note 106=8898
+note 107=8988
+note 108=9078
+note 109=9102
+note 110=9192
+note 111=9282
+note 112=9306
+note 113=9373
+note 114=9396
+note 115=9486
+note 116=9577
+note 117=9600
+note 118=9690
+note 119=9780
+note 120=9804
+note 121=9894
+note 122=9984
+note 123=10008
+note 124=10075
+note 125=10098
+note 126=10188
+note 127=10278
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "al-din_19.tun"
+ID= "ID_al-din_19.tun"
+Filename= "al-din_19.scl"
+Description= "Pythagorean Arabic scale by Safi al-Din"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2196.089998
+note 1= 2286.314994
+note 2= 2376.539990
+note 3= 2400.000000
+note 4= 2490.224996
+note 5= 2580.449991
+note 6= 2603.910002
+note 7= 2694.134997
+note 8= 2784.359993
+note 9= 2807.820003
+note 10= 2874.584989
+note 11= 2898.044999
+note 12= 2988.269995
+note 13= 3078.494990
+note 14= 3101.955001
+note 15= 3192.179997
+note 16= 3282.404992
+note 17= 3305.865003
+note 18= 3372.629988
+note 19= 3396.089998
+note 20= 3486.314994
+note 21= 3576.539990
+note 22= 3600.000000
+note 23= 3690.224996
+note 24= 3780.449991
+note 25= 3803.910002
+note 26= 3894.134997
+note 27= 3984.359993
+note 28= 4007.820003
+note 29= 4074.584989
+note 30= 4098.044999
+note 31= 4188.269995
+note 32= 4278.494990
+note 33= 4301.955001
+note 34= 4392.179997
+note 35= 4482.404992
+note 36= 4505.865003
+note 37= 4572.629988
+note 38= 4596.089998
+note 39= 4686.314994
+note 40= 4776.539990
+note 41= 4800.000000
+note 42= 4890.224996
+note 43= 4980.449991
+note 44= 5003.910002
+note 45= 5094.134997
+note 46= 5184.359993
+note 47= 5207.820003
+note 48= 5274.584989
+note 49= 5298.044999
+note 50= 5388.269995
+note 51= 5478.494990
+note 52= 5501.955001
+note 53= 5592.179997
+note 54= 5682.404992
+note 55= 5705.865003
+note 56= 5772.629988
+note 57= 5796.089998
+note 58= 5886.314994
+note 59= 5976.539990
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6180.449991
+note 63= 6203.910002
+note 64= 6294.134997
+note 65= 6384.359993
+note 66= 6407.820003
+note 67= 6474.584989
+note 68= 6498.044999
+note 69= 6588.269995
+note 70= 6678.494990
+note 71= 6701.955001
+note 72= 6792.179997
+note 73= 6882.404992
+note 74= 6905.865003
+note 75= 6972.629988
+note 76= 6996.089998
+note 77= 7086.314994
+note 78= 7176.539990
+note 79= 7200.000000
+note 80= 7290.224996
+note 81= 7380.449991
+note 82= 7403.910002
+note 83= 7494.134997
+note 84= 7584.359993
+note 85= 7607.820003
+note 86= 7674.584989
+note 87= 7698.044999
+note 88= 7788.269995
+note 89= 7878.494990
+note 90= 7901.955001
+note 91= 7992.179997
+note 92= 8082.404992
+note 93= 8105.865003
+note 94= 8172.629988
+note 95= 8196.089998
+note 96= 8286.314994
+note 97= 8376.539990
+note 98= 8400.000000
+note 99= 8490.224996
+note 100= 8580.449991
+note 101= 8603.910002
+note 102= 8694.134997
+note 103= 8784.359993
+note 104= 8807.820003
+note 105= 8874.584989
+note 106= 8898.044999
+note 107= 8988.269995
+note 108= 9078.494990
+note 109= 9101.955001
+note 110= 9192.179997
+note 111= 9282.404992
+note 112= 9305.865003
+note 113= 9372.629988
+note 114= 9396.089998
+note 115= 9486.314994
+note 116= 9576.539990
+note 117= 9600.000000
+note 118= 9690.224996
+note 119= 9780.449991
+note 120= 9803.910002
+note 121= 9894.134997
+note 122= 9984.359993
+note 123= 10007.820003
+note 124= 10074.584989
+note 125= 10098.044999
+note 126= 10188.269995
+note 127= 10278.494990
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 65536/59049"
+note 3="#=0 * 9/8"
+note 4="#=0 * 32/27"
+note 5="#=0 * 8192/6561"
+note 6="#=0 * 81/64"
+note 7="#=0 * 2097152/1594323"
+note 8="#=0 * 4/3"
+note 9="#=0 * 1024/729"
+note 10="#=0 * 262144/177147"
+note 11="#=0 * 3/2"
+note 12="#=0 * 128/81"
+note 13="#=0 * 32768/19683"
+note 14="#=0 * 27/16"
+note 15="#=0 * 8388608/4782969"
+note 16="#=0 * 16/9"
+note 17="#=0 * 4096/2187"
+note 18="#=0 * 1048576/531441"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Equal beating Victorian piano temperament, interpr. by Bill Bremmer (improved)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=197
+note 3=299
+note 4=394
+note 5=498
+note 6=593
+note 7=699
+note 8=797
+note 9=896
+note 10=999
+note 11=1096
+note 12=1200
+note 13=1295
+note 14=1397
+note 15=1499
+note 16=1594
+note 17=1698
+note 18=1793
+note 19=1899
+note 20=1997
+note 21=2096
+note 22=2199
+note 23=2296
+note 24=2400
+note 25=2495
+note 26=2597
+note 27=2699
+note 28=2794
+note 29=2898
+note 30=2993
+note 31=3099
+note 32=3197
+note 33=3296
+note 34=3399
+note 35=3496
+note 36=3600
+note 37=3695
+note 38=3797
+note 39=3899
+note 40=3994
+note 41=4098
+note 42=4193
+note 43=4299
+note 44=4397
+note 45=4496
+note 46=4599
+note 47=4696
+note 48=4800
+note 49=4895
+note 50=4997
+note 51=5099
+note 52=5194
+note 53=5298
+note 54=5393
+note 55=5499
+note 56=5597
+note 57=5696
+note 58=5799
+note 59=5896
+note 60=6000
+note 61=6095
+note 62=6197
+note 63=6299
+note 64=6394
+note 65=6498
+note 66=6593
+note 67=6699
+note 68=6797
+note 69=6896
+note 70=6999
+note 71=7096
+note 72=7200
+note 73=7295
+note 74=7397
+note 75=7499
+note 76=7594
+note 77=7698
+note 78=7793
+note 79=7899
+note 80=7997
+note 81=8096
+note 82=8199
+note 83=8296
+note 84=8400
+note 85=8495
+note 86=8597
+note 87=8699
+note 88=8794
+note 89=8898
+note 90=8993
+note 91=9099
+note 92=9197
+note 93=9296
+note 94=9399
+note 95=9496
+note 96=9600
+note 97=9695
+note 98=9797
+note 99=9899
+note 100=9994
+note 101=10098
+note 102=10193
+note 103=10299
+note 104=10397
+note 105=10496
+note 106=10599
+note 107=10696
+note 108=10800
+note 109=10895
+note 110=10997
+note 111=11099
+note 112=11194
+note 113=11298
+note 114=11393
+note 115=11499
+note 116=11597
+note 117=11696
+note 118=11799
+note 119=11896
+note 120=12000
+note 121=12095
+note 122=12197
+note 123=12299
+note 124=12394
+note 125=12498
+note 126=12593
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "victor_eb.tun"
+ID= "ID_victor_eb.tun"
+Filename= "victor_eb.scl"
+Description= "Equal beating Victorian piano temperament, interpr. by Bill Bremmer (improved)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 95.436900
+note 2= 197.058980
+note 3= 299.346910
+note 4= 394.218910
+note 5= 498.044999
+note 6= 593.481900
+note 7= 699.311890
+note 8= 797.391900
+note 9= 896.203010
+note 10= 998.564250
+note 11= 1096.173910
+note 12= 1200.000000
+note 13= 1295.436900
+note 14= 1397.058980
+note 15= 1499.346910
+note 16= 1594.218910
+note 17= 1698.044999
+note 18= 1793.481900
+note 19= 1899.311890
+note 20= 1997.391900
+note 21= 2096.203010
+note 22= 2198.564250
+note 23= 2296.173910
+note 24= 2400.000000
+note 25= 2495.436900
+note 26= 2597.058980
+note 27= 2699.346910
+note 28= 2794.218910
+note 29= 2898.044999
+note 30= 2993.481900
+note 31= 3099.311890
+note 32= 3197.391900
+note 33= 3296.203010
+note 34= 3398.564250
+note 35= 3496.173910
+note 36= 3600.000000
+note 37= 3695.436900
+note 38= 3797.058980
+note 39= 3899.346910
+note 40= 3994.218910
+note 41= 4098.044999
+note 42= 4193.481900
+note 43= 4299.311890
+note 44= 4397.391900
+note 45= 4496.203010
+note 46= 4598.564250
+note 47= 4696.173910
+note 48= 4800.000000
+note 49= 4895.436900
+note 50= 4997.058980
+note 51= 5099.346910
+note 52= 5194.218910
+note 53= 5298.044999
+note 54= 5393.481900
+note 55= 5499.311890
+note 56= 5597.391900
+note 57= 5696.203010
+note 58= 5798.564250
+note 59= 5896.173910
+note 60= 6000.000000
+note 61= 6095.436900
+note 62= 6197.058980
+note 63= 6299.346910
+note 64= 6394.218910
+note 65= 6498.044999
+note 66= 6593.481900
+note 67= 6699.311890
+note 68= 6797.391900
+note 69= 6896.203010
+note 70= 6998.564250
+note 71= 7096.173910
+note 72= 7200.000000
+note 73= 7295.436900
+note 74= 7397.058980
+note 75= 7499.346910
+note 76= 7594.218910
+note 77= 7698.044999
+note 78= 7793.481900
+note 79= 7899.311890
+note 80= 7997.391900
+note 81= 8096.203010
+note 82= 8198.564250
+note 83= 8296.173910
+note 84= 8400.000000
+note 85= 8495.436900
+note 86= 8597.058980
+note 87= 8699.346910
+note 88= 8794.218910
+note 89= 8898.044999
+note 90= 8993.481900
+note 91= 9099.311890
+note 92= 9197.391900
+note 93= 9296.203010
+note 94= 9398.564250
+note 95= 9496.173910
+note 96= 9600.000000
+note 97= 9695.436900
+note 98= 9797.058980
+note 99= 9899.346910
+note 100= 9994.218910
+note 101= 10098.044999
+note 102= 10193.481900
+note 103= 10299.311890
+note 104= 10397.391900
+note 105= 10496.203010
+note 106= 10598.564250
+note 107= 10696.173910
+note 108= 10800.000000
+note 109= 10895.436900
+note 110= 10997.058980
+note 111= 11099.346910
+note 112= 11194.218910
+note 113= 11298.044999
+note 114= 11393.481900
+note 115= 11499.311890
+note 116= 11597.391900
+note 117= 11696.203010
+note 118= 11798.564250
+note 119= 11896.173910
+note 120= 12000.000000
+note 121= 12095.436900
+note 122= 12197.058980
+note 123= 12299.346910
+note 124= 12394.218910
+note 125= 12498.044999
+note 126= 12593.481900
+note 127= 12699.311890
+
+[Functional Tuning]
+note 1="#=0 % 95.436900"
+note 2="#=0 % 197.058980"
+note 3="#=0 % 299.346910"
+note 4="#=0 % 394.218910"
+note 5="#=0 * 4/3"
+note 6="#=0 % 593.481900"
+note 7="#=0 % 699.311890"
+note 8="#=0 % 797.391900"
+note 9="#=0 % 896.203010"
+note 10="#=0 % 998.564250"
+note 11="#=0 % 1096.173910"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

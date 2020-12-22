@@ -1,0 +1,319 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Symmetrical 13-limit Fokker block containing all of the primes as scale degrees
+;
+; VAZ Plus section
+[Tuning]
+note 0=4054
+note 1=4098
+note 2=4110
+note 3=4151
+note 4=4191
+note 5=4209
+note 6=4249
+note 7=4290
+note 8=4302
+note 9=4346
+note 10=4387
+note 11=4414
+note 12=4441
+note 13=4480
+note 14=4511
+note 15=4533
+note 16=4569
+note 17=4591
+note 18=4649
+note 19=4661
+note 20=4688
+note 21=4747
+note 22=4761
+note 23=4800
+note 24=4839
+note 25=4853
+note 26=4912
+note 27=4939
+note 28=4951
+note 29=5009
+note 30=5031
+note 31=5067
+note 32=5089
+note 33=5120
+note 34=5159
+note 35=5186
+note 36=5213
+note 37=5254
+note 38=5298
+note 39=5310
+note 40=5351
+note 41=5391
+note 42=5409
+note 43=5449
+note 44=5490
+note 45=5502
+note 46=5546
+note 47=5587
+note 48=5614
+note 49=5641
+note 50=5680
+note 51=5711
+note 52=5733
+note 53=5769
+note 54=5791
+note 55=5849
+note 56=5861
+note 57=5888
+note 58=5947
+note 59=5961
+note 60=6000
+note 61=6039
+note 62=6053
+note 63=6112
+note 64=6139
+note 65=6151
+note 66=6209
+note 67=6231
+note 68=6267
+note 69=6289
+note 70=6320
+note 71=6359
+note 72=6386
+note 73=6413
+note 74=6454
+note 75=6498
+note 76=6510
+note 77=6551
+note 78=6591
+note 79=6609
+note 80=6649
+note 81=6690
+note 82=6702
+note 83=6746
+note 84=6787
+note 85=6814
+note 86=6841
+note 87=6880
+note 88=6911
+note 89=6933
+note 90=6969
+note 91=6991
+note 92=7049
+note 93=7061
+note 94=7088
+note 95=7147
+note 96=7161
+note 97=7200
+note 98=7239
+note 99=7253
+note 100=7312
+note 101=7339
+note 102=7351
+note 103=7409
+note 104=7431
+note 105=7467
+note 106=7489
+note 107=7520
+note 108=7559
+note 109=7586
+note 110=7613
+note 111=7654
+note 112=7698
+note 113=7710
+note 114=7751
+note 115=7791
+note 116=7809
+note 117=7849
+note 118=7890
+note 119=7902
+note 120=7946
+note 121=7987
+note 122=8014
+note 123=8041
+note 124=8080
+note 125=8111
+note 126=8133
+note 127=8169
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_monzoblock37.tun"
+ID= "ID_smithgw_monzoblock37.tun"
+Filename= "smithgw_monzoblock37.scl"
+Description= "Symmetrical 13-limit Fokker block containing all of the primes as scale degrees"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4054.213948
+note 1= 4098.044999
+note 2= 4110.109397
+note 3= 4151.317942
+note 4= 4190.646432
+note 5= 4209.353568
+note 6= 4248.682058
+note 7= 4289.890603
+note 8= 4301.955001
+note 9= 4345.786052
+note 10= 4387.254719
+note 11= 4413.686286
+note 12= 4440.527662
+note 13= 4479.856151
+note 14= 4510.790281
+note 15= 4533.129094
+note 16= 4568.825906
+note 17= 4591.164720
+note 18= 4649.362941
+note 19= 4661.427339
+note 20= 4688.268715
+note 21= 4746.727057
+note 22= 4760.671511
+note 23= 4800.000000
+note 24= 4839.328489
+note 25= 4853.272943
+note 26= 4911.731285
+note 27= 4938.572661
+note 28= 4950.637059
+note 29= 5008.835280
+note 30= 5031.174094
+note 31= 5066.870906
+note 32= 5089.209719
+note 33= 5120.143849
+note 34= 5159.472338
+note 35= 5186.313714
+note 36= 5212.745281
+note 37= 5254.213948
+note 38= 5298.044999
+note 39= 5310.109397
+note 40= 5351.317942
+note 41= 5390.646432
+note 42= 5409.353568
+note 43= 5448.682058
+note 44= 5489.890603
+note 45= 5501.955001
+note 46= 5545.786052
+note 47= 5587.254719
+note 48= 5613.686286
+note 49= 5640.527662
+note 50= 5679.856151
+note 51= 5710.790281
+note 52= 5733.129094
+note 53= 5768.825906
+note 54= 5791.164720
+note 55= 5849.362941
+note 56= 5861.427339
+note 57= 5888.268715
+note 58= 5946.727057
+note 59= 5960.671511
+note 60= 6000.000000
+note 61= 6039.328489
+note 62= 6053.272943
+note 63= 6111.731285
+note 64= 6138.572661
+note 65= 6150.637059
+note 66= 6208.835280
+note 67= 6231.174094
+note 68= 6266.870906
+note 69= 6289.209719
+note 70= 6320.143849
+note 71= 6359.472338
+note 72= 6386.313714
+note 73= 6412.745281
+note 74= 6454.213948
+note 75= 6498.044999
+note 76= 6510.109397
+note 77= 6551.317942
+note 78= 6590.646432
+note 79= 6609.353568
+note 80= 6648.682058
+note 81= 6689.890603
+note 82= 6701.955001
+note 83= 6745.786052
+note 84= 6787.254719
+note 85= 6813.686286
+note 86= 6840.527662
+note 87= 6879.856151
+note 88= 6910.790281
+note 89= 6933.129094
+note 90= 6968.825906
+note 91= 6991.164720
+note 92= 7049.362941
+note 93= 7061.427339
+note 94= 7088.268715
+note 95= 7146.727057
+note 96= 7160.671511
+note 97= 7200.000000
+note 98= 7239.328489
+note 99= 7253.272943
+note 100= 7311.731285
+note 101= 7338.572661
+note 102= 7350.637059
+note 103= 7408.835280
+note 104= 7431.174094
+note 105= 7466.870906
+note 106= 7489.209719
+note 107= 7520.143849
+note 108= 7559.472338
+note 109= 7586.313714
+note 110= 7612.745281
+note 111= 7654.213948
+note 112= 7698.044999
+note 113= 7710.109397
+note 114= 7751.317942
+note 115= 7790.646432
+note 116= 7809.353568
+note 117= 7848.682058
+note 118= 7889.890603
+note 119= 7901.955001
+note 120= 7945.786052
+note 121= 7987.254719
+note 122= 8013.686286
+note 123= 8040.527662
+note 124= 8079.856151
+note 125= 8110.790281
+note 126= 8133.129094
+note 127= 8168.825906
+
+[Functional Tuning]
+note 1="#=0 * 1024/1001"
+note 2="#=0 * 33/32"
+note 3="#=0 * 16/15"
+note 4="#=0 * 13/12"
+note 5="#=0 * 12/11"
+note 6="#=0 * 44/39"
+note 7="#=0 * 8/7"
+note 8="#=0 * 7/6"
+note 9="#=0 * 13/11"
+note 10="#=0 * 77/64"
+note 11="#=0 * 16/13"
+note 12="#=0 * 5/4"
+note 13="#=0 * 33/26"
+note 14="#=0 * 13/10"
+note 15="#=0 * 4/3"
+note 16="#=0 * 192/143"
+note 17="#=0 * 11/8"
+note 18="#=0 * 128/91"
+note 19="#=0 * 91/64"
+note 20="#=0 * 16/11"
+note 21="#=0 * 143/96"
+note 22="#=0 * 3/2"
+note 23="#=0 * 20/13"
+note 24="#=0 * 52/33"
+note 25="#=0 * 8/5"
+note 26="#=0 * 13/8"
+note 27="#=0 * 128/77"
+note 28="#=0 * 22/13"
+note 29="#=0 * 12/7"
+note 30="#=0 * 7/4"
+note 31="#=0 * 39/22"
+note 32="#=0 * 11/6"
+note 33="#=0 * 24/13"
+note 34="#=0 * 15/8"
+note 35="#=0 * 64/33"
+note 36="#=0 * 1001/512"
+note 37="#>-37 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

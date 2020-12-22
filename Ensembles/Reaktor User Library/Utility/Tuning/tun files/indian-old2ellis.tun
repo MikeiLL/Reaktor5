@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ellis Old Indian Chrom2, Helmholtz, p. 517. This is a 4 cent appr. to #73
+;
+; VAZ Plus section
+[Tuning]
+note 0=2728
+note 1=2786
+note 2=2843
+note 3=2898
+note 4=2951
+note 5=3003
+note 6=3049
+note 7=3102
+note 8=3154
+note 9=3201
+note 10=3253
+note 11=3306
+note 12=3369
+note 13=3430
+note 14=3488
+note 15=3541
+note 16=3600
+note 17=3655
+note 18=3705
+note 19=3751
+note 20=3804
+note 21=3867
+note 22=3928
+note 23=3986
+note 24=4043
+note 25=4098
+note 26=4151
+note 27=4203
+note 28=4249
+note 29=4302
+note 30=4354
+note 31=4401
+note 32=4453
+note 33=4506
+note 34=4569
+note 35=4630
+note 36=4688
+note 37=4741
+note 38=4800
+note 39=4855
+note 40=4905
+note 41=4951
+note 42=5004
+note 43=5067
+note 44=5128
+note 45=5186
+note 46=5243
+note 47=5298
+note 48=5351
+note 49=5403
+note 50=5449
+note 51=5502
+note 52=5554
+note 53=5601
+note 54=5653
+note 55=5706
+note 56=5769
+note 57=5830
+note 58=5888
+note 59=5941
+note 60=6000
+note 61=6055
+note 62=6105
+note 63=6151
+note 64=6204
+note 65=6267
+note 66=6328
+note 67=6386
+note 68=6443
+note 69=6498
+note 70=6551
+note 71=6603
+note 72=6649
+note 73=6702
+note 74=6754
+note 75=6801
+note 76=6853
+note 77=6906
+note 78=6969
+note 79=7030
+note 80=7088
+note 81=7141
+note 82=7200
+note 83=7255
+note 84=7305
+note 85=7351
+note 86=7404
+note 87=7467
+note 88=7528
+note 89=7586
+note 90=7643
+note 91=7698
+note 92=7751
+note 93=7803
+note 94=7849
+note 95=7902
+note 96=7954
+note 97=8001
+note 98=8053
+note 99=8106
+note 100=8169
+note 101=8230
+note 102=8288
+note 103=8341
+note 104=8400
+note 105=8455
+note 106=8505
+note 107=8551
+note 108=8604
+note 109=8667
+note 110=8728
+note 111=8786
+note 112=8843
+note 113=8898
+note 114=8951
+note 115=9003
+note 116=9049
+note 117=9102
+note 118=9154
+note 119=9201
+note 120=9253
+note 121=9306
+note 122=9369
+note 123=9430
+note 124=9488
+note 125=9541
+note 126=9600
+note 127=9655
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian-old2ellis.tun"
+ID= "ID_indian-old2ellis.tun"
+Filename= "indian-old2ellis.scl"
+Description= "Ellis Old Indian Chrom2, Helmholtz, p. 517. This is a 4 cent appr. to #73"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2727.622193
+note 1= 2786.313714
+note 2= 2843.080572
+note 3= 2898.044999
+note 4= 2951.317942
+note 5= 3003.000409
+note 6= 3048.682058
+note 7= 3101.955001
+note 8= 3153.637467
+note 9= 3200.909593
+note 10= 3252.592059
+note 11= 3305.865003
+note 12= 3368.825906
+note 13= 3429.577194
+note 14= 3488.268715
+note 15= 3541.308479
+note 16= 3600.000000
+note 17= 3654.964428
+note 18= 3704.955410
+note 19= 3750.637059
+note 20= 3803.910002
+note 21= 3866.870906
+note 22= 3927.622193
+note 23= 3986.313714
+note 24= 4043.080572
+note 25= 4098.044999
+note 26= 4151.317942
+note 27= 4203.000409
+note 28= 4248.682058
+note 29= 4301.955001
+note 30= 4353.637467
+note 31= 4400.909593
+note 32= 4452.592059
+note 33= 4505.865003
+note 34= 4568.825906
+note 35= 4629.577194
+note 36= 4688.268715
+note 37= 4741.308479
+note 38= 4800.000000
+note 39= 4854.964428
+note 40= 4904.955410
+note 41= 4950.637059
+note 42= 5003.910002
+note 43= 5066.870906
+note 44= 5127.622193
+note 45= 5186.313714
+note 46= 5243.080572
+note 47= 5298.044999
+note 48= 5351.317942
+note 49= 5403.000409
+note 50= 5448.682058
+note 51= 5501.955001
+note 52= 5553.637467
+note 53= 5600.909593
+note 54= 5652.592059
+note 55= 5705.865003
+note 56= 5768.825906
+note 57= 5829.577194
+note 58= 5888.268715
+note 59= 5941.308479
+note 60= 6000.000000
+note 61= 6054.964428
+note 62= 6104.955410
+note 63= 6150.637059
+note 64= 6203.910002
+note 65= 6266.870906
+note 66= 6327.622193
+note 67= 6386.313714
+note 68= 6443.080572
+note 69= 6498.044999
+note 70= 6551.317942
+note 71= 6603.000409
+note 72= 6648.682058
+note 73= 6701.955001
+note 74= 6753.637467
+note 75= 6800.909593
+note 76= 6852.592059
+note 77= 6905.865003
+note 78= 6968.825906
+note 79= 7029.577194
+note 80= 7088.268715
+note 81= 7141.308479
+note 82= 7200.000000
+note 83= 7254.964428
+note 84= 7304.955410
+note 85= 7350.637059
+note 86= 7403.910002
+note 87= 7466.870906
+note 88= 7527.622193
+note 89= 7586.313714
+note 90= 7643.080572
+note 91= 7698.044999
+note 92= 7751.317942
+note 93= 7803.000409
+note 94= 7848.682058
+note 95= 7901.955001
+note 96= 7953.637467
+note 97= 8000.909593
+note 98= 8052.592059
+note 99= 8105.865003
+note 100= 8168.825906
+note 101= 8229.577194
+note 102= 8288.268715
+note 103= 8341.308479
+note 104= 8400.000000
+note 105= 8454.964428
+note 106= 8504.955410
+note 107= 8550.637059
+note 108= 8603.910002
+note 109= 8666.870906
+note 110= 8727.622193
+note 111= 8786.313714
+note 112= 8843.080572
+note 113= 8898.044999
+note 114= 8951.317942
+note 115= 9003.000409
+note 116= 9048.682058
+note 117= 9101.955001
+note 118= 9153.637467
+note 119= 9200.909593
+note 120= 9252.592059
+note 121= 9305.865003
+note 122= 9368.825906
+note 123= 9429.577194
+note 124= 9488.268715
+note 125= 9541.308479
+note 126= 9600.000000
+note 127= 9654.964428
+
+[Functional Tuning]
+note 1="#=0 * 32/31"
+note 2="#=0 * 17/16"
+note 3="#=0 * 12/11"
+note 4="#=0 * 9/8"
+note 5="#=0 * 7/6"
+note 6="#=0 * 29/24"
+note 7="#=0 * 5/4"
+note 8="#=0 * 31/24"
+note 9="#=0 * 4/3"
+note 10="#=0 * 11/8"
+note 11="#=0 * 17/12"
+note 12="#=0 * 16/11"
+note 13="#=0 * 3/2"
+note 14="#=0 * 17/11"
+note 15="#=0 * 27/17"
+note 16="#=0 * 18/11"
+note 17="#=0 * 27/16"
+note 18="#=0 * 7/4"
+note 19="#=0 * 29/16"
+note 20="#=0 * 15/8"
+note 21="#=0 * 29/15"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

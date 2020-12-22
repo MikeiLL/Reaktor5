@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Observed South Indian tuning of a vina, Ellis
+;
+; VAZ Plus section
+[Tuning]
+note 0=-35
+note 1=62
+note 2=160
+note 3=277
+note 4=362
+note 5=480
+note 6=561
+note 7=657
+note 8=747
+note 9=848
+note 10=962
+note 11=1057
+note 12=1172
+note 13=1269
+note 14=1367
+note 15=1484
+note 16=1569
+note 17=1687
+note 18=1768
+note 19=1864
+note 20=1954
+note 21=2055
+note 22=2169
+note 23=2264
+note 24=2379
+note 25=2476
+note 26=2574
+note 27=2691
+note 28=2776
+note 29=2894
+note 30=2975
+note 31=3071
+note 32=3161
+note 33=3262
+note 34=3376
+note 35=3471
+note 36=3586
+note 37=3683
+note 38=3781
+note 39=3898
+note 40=3983
+note 41=4101
+note 42=4182
+note 43=4278
+note 44=4368
+note 45=4469
+note 46=4583
+note 47=4678
+note 48=4793
+note 49=4890
+note 50=4988
+note 51=5105
+note 52=5190
+note 53=5308
+note 54=5389
+note 55=5485
+note 56=5575
+note 57=5676
+note 58=5790
+note 59=5885
+note 60=6000
+note 61=6097
+note 62=6195
+note 63=6312
+note 64=6397
+note 65=6515
+note 66=6596
+note 67=6692
+note 68=6782
+note 69=6883
+note 70=6997
+note 71=7092
+note 72=7207
+note 73=7304
+note 74=7402
+note 75=7519
+note 76=7604
+note 77=7722
+note 78=7803
+note 79=7899
+note 80=7989
+note 81=8090
+note 82=8204
+note 83=8299
+note 84=8414
+note 85=8511
+note 86=8609
+note 87=8726
+note 88=8811
+note 89=8929
+note 90=9010
+note 91=9106
+note 92=9196
+note 93=9297
+note 94=9411
+note 95=9506
+note 96=9621
+note 97=9718
+note 98=9816
+note 99=9933
+note 100=10018
+note 101=10136
+note 102=10217
+note 103=10313
+note 104=10403
+note 105=10504
+note 106=10618
+note 107=10713
+note 108=10828
+note 109=10925
+note 110=11023
+note 111=11140
+note 112=11225
+note 113=11343
+note 114=11424
+note 115=11520
+note 116=11610
+note 117=11711
+note 118=11825
+note 119=11920
+note 120=12035
+note 121=12132
+note 122=12230
+note 123=12347
+note 124=12432
+note 125=12550
+note 126=12631
+note 127=12727
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "indian-vina.tun"
+ID= "ID_indian-vina.tun"
+Filename= "indian-vina.scl"
+Description= "Observed South Indian tuning of a vina, Ellis"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-35.000000
+note 1= 62.000000
+note 2= 160.000000
+note 3= 277.000000
+note 4= 362.000000
+note 5= 480.000000
+note 6= 561.000000
+note 7= 657.000000
+note 8= 747.000000
+note 9= 848.000000
+note 10= 962.000000
+note 11= 1057.000000
+note 12= 1172.000000
+note 13= 1269.000000
+note 14= 1367.000000
+note 15= 1484.000000
+note 16= 1569.000000
+note 17= 1687.000000
+note 18= 1768.000000
+note 19= 1864.000000
+note 20= 1954.000000
+note 21= 2055.000000
+note 22= 2169.000000
+note 23= 2264.000000
+note 24= 2379.000000
+note 25= 2476.000000
+note 26= 2574.000000
+note 27= 2691.000000
+note 28= 2776.000000
+note 29= 2894.000000
+note 30= 2975.000000
+note 31= 3071.000000
+note 32= 3161.000000
+note 33= 3262.000000
+note 34= 3376.000000
+note 35= 3471.000000
+note 36= 3586.000000
+note 37= 3683.000000
+note 38= 3781.000000
+note 39= 3898.000000
+note 40= 3983.000000
+note 41= 4101.000000
+note 42= 4182.000000
+note 43= 4278.000000
+note 44= 4368.000000
+note 45= 4469.000000
+note 46= 4583.000000
+note 47= 4678.000000
+note 48= 4793.000000
+note 49= 4890.000000
+note 50= 4988.000000
+note 51= 5105.000000
+note 52= 5190.000000
+note 53= 5308.000000
+note 54= 5389.000000
+note 55= 5485.000000
+note 56= 5575.000000
+note 57= 5676.000000
+note 58= 5790.000000
+note 59= 5885.000000
+note 60= 6000.000000
+note 61= 6097.000000
+note 62= 6195.000000
+note 63= 6312.000000
+note 64= 6397.000000
+note 65= 6515.000000
+note 66= 6596.000000
+note 67= 6692.000000
+note 68= 6782.000000
+note 69= 6883.000000
+note 70= 6997.000000
+note 71= 7092.000000
+note 72= 7207.000000
+note 73= 7304.000000
+note 74= 7402.000000
+note 75= 7519.000000
+note 76= 7604.000000
+note 77= 7722.000000
+note 78= 7803.000000
+note 79= 7899.000000
+note 80= 7989.000000
+note 81= 8090.000000
+note 82= 8204.000000
+note 83= 8299.000000
+note 84= 8414.000000
+note 85= 8511.000000
+note 86= 8609.000000
+note 87= 8726.000000
+note 88= 8811.000000
+note 89= 8929.000000
+note 90= 9010.000000
+note 91= 9106.000000
+note 92= 9196.000000
+note 93= 9297.000000
+note 94= 9411.000000
+note 95= 9506.000000
+note 96= 9621.000000
+note 97= 9718.000000
+note 98= 9816.000000
+note 99= 9933.000000
+note 100= 10018.000000
+note 101= 10136.000000
+note 102= 10217.000000
+note 103= 10313.000000
+note 104= 10403.000000
+note 105= 10504.000000
+note 106= 10618.000000
+note 107= 10713.000000
+note 108= 10828.000000
+note 109= 10925.000000
+note 110= 11023.000000
+note 111= 11140.000000
+note 112= 11225.000000
+note 113= 11343.000000
+note 114= 11424.000000
+note 115= 11520.000000
+note 116= 11610.000000
+note 117= 11711.000000
+note 118= 11825.000000
+note 119= 11920.000000
+note 120= 12035.000000
+note 121= 12132.000000
+note 122= 12230.000000
+note 123= 12347.000000
+note 124= 12432.000000
+note 125= 12550.000000
+note 126= 12631.000000
+note 127= 12727.000000
+
+[Functional Tuning]
+note 1="#=0 % 97.000000"
+note 2="#=0 % 195.000000"
+note 3="#=0 % 312.000000"
+note 4="#=0 % 397.000000"
+note 5="#=0 % 515.000000"
+note 6="#=0 % 596.000000"
+note 7="#=0 % 692.000000"
+note 8="#=0 % 782.000000"
+note 9="#=0 % 883.000000"
+note 10="#=0 % 997.000000"
+note 11="#=0 % 1092.000000"
+note 12="#>-12 % 1207.000000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

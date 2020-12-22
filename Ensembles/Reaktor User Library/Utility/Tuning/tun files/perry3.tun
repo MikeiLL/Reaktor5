@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Robin Perry, symmetrical 3,5,17 scale, TL 22-10-2006
+;
+; VAZ Plus section
+[Tuning]
+note 0=498
+note 1=597
+note 2=603
+note 3=702
+note 4=814
+note 5=919
+note 6=996
+note 7=1095
+note 8=1200
+note 9=1305
+note 10=1404
+note 11=1481
+note 12=1586
+note 13=1698
+note 14=1797
+note 15=1803
+note 16=1902
+note 17=2014
+note 18=2119
+note 19=2196
+note 20=2295
+note 21=2400
+note 22=2505
+note 23=2604
+note 24=2681
+note 25=2786
+note 26=2898
+note 27=2997
+note 28=3003
+note 29=3102
+note 30=3214
+note 31=3319
+note 32=3396
+note 33=3495
+note 34=3600
+note 35=3705
+note 36=3804
+note 37=3881
+note 38=3986
+note 39=4098
+note 40=4197
+note 41=4203
+note 42=4302
+note 43=4414
+note 44=4519
+note 45=4596
+note 46=4695
+note 47=4800
+note 48=4905
+note 49=5004
+note 50=5081
+note 51=5186
+note 52=5298
+note 53=5397
+note 54=5403
+note 55=5502
+note 56=5614
+note 57=5719
+note 58=5796
+note 59=5895
+note 60=6000
+note 61=6105
+note 62=6204
+note 63=6281
+note 64=6386
+note 65=6498
+note 66=6597
+note 67=6603
+note 68=6702
+note 69=6814
+note 70=6919
+note 71=6996
+note 72=7095
+note 73=7200
+note 74=7305
+note 75=7404
+note 76=7481
+note 77=7586
+note 78=7698
+note 79=7797
+note 80=7803
+note 81=7902
+note 82=8014
+note 83=8119
+note 84=8196
+note 85=8295
+note 86=8400
+note 87=8505
+note 88=8604
+note 89=8681
+note 90=8786
+note 91=8898
+note 92=8997
+note 93=9003
+note 94=9102
+note 95=9214
+note 96=9319
+note 97=9396
+note 98=9495
+note 99=9600
+note 100=9705
+note 101=9804
+note 102=9881
+note 103=9986
+note 104=10098
+note 105=10197
+note 106=10203
+note 107=10302
+note 108=10414
+note 109=10519
+note 110=10596
+note 111=10695
+note 112=10800
+note 113=10905
+note 114=11004
+note 115=11081
+note 116=11186
+note 117=11298
+note 118=11397
+note 119=11403
+note 120=11502
+note 121=11614
+note 122=11719
+note 123=11796
+note 124=11895
+note 125=12000
+note 126=12105
+note 127=12204
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "perry3.tun"
+ID= "ID_perry3.tun"
+Filename= "perry3.scl"
+Description= "Robin Perry, symmetrical 3,5,17 scale, TL 22-10-2006"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 498.044999
+note 1= 596.999591
+note 2= 603.000409
+note 3= 701.955001
+note 4= 813.686286
+note 5= 918.641696
+note 6= 996.089998
+note 7= 1095.044590
+note 8= 1200.000000
+note 9= 1304.955410
+note 10= 1403.910002
+note 11= 1481.358304
+note 12= 1586.313714
+note 13= 1698.044999
+note 14= 1796.999591
+note 15= 1803.000409
+note 16= 1901.955001
+note 17= 2013.686286
+note 18= 2118.641696
+note 19= 2196.089998
+note 20= 2295.044590
+note 21= 2400.000000
+note 22= 2504.955410
+note 23= 2603.910002
+note 24= 2681.358304
+note 25= 2786.313714
+note 26= 2898.044999
+note 27= 2996.999591
+note 28= 3003.000409
+note 29= 3101.955001
+note 30= 3213.686286
+note 31= 3318.641696
+note 32= 3396.089998
+note 33= 3495.044590
+note 34= 3600.000000
+note 35= 3704.955410
+note 36= 3803.910002
+note 37= 3881.358304
+note 38= 3986.313714
+note 39= 4098.044999
+note 40= 4196.999591
+note 41= 4203.000409
+note 42= 4301.955001
+note 43= 4413.686286
+note 44= 4518.641696
+note 45= 4596.089998
+note 46= 4695.044590
+note 47= 4800.000000
+note 48= 4904.955410
+note 49= 5003.910002
+note 50= 5081.358304
+note 51= 5186.313714
+note 52= 5298.044999
+note 53= 5396.999591
+note 54= 5403.000409
+note 55= 5501.955001
+note 56= 5613.686286
+note 57= 5718.641696
+note 58= 5796.089998
+note 59= 5895.044590
+note 60= 6000.000000
+note 61= 6104.955410
+note 62= 6203.910002
+note 63= 6281.358304
+note 64= 6386.313714
+note 65= 6498.044999
+note 66= 6596.999591
+note 67= 6603.000409
+note 68= 6701.955001
+note 69= 6813.686286
+note 70= 6918.641696
+note 71= 6996.089998
+note 72= 7095.044590
+note 73= 7200.000000
+note 74= 7304.955410
+note 75= 7403.910002
+note 76= 7481.358304
+note 77= 7586.313714
+note 78= 7698.044999
+note 79= 7796.999591
+note 80= 7803.000409
+note 81= 7901.955001
+note 82= 8013.686286
+note 83= 8118.641696
+note 84= 8196.089998
+note 85= 8295.044590
+note 86= 8400.000000
+note 87= 8504.955410
+note 88= 8603.910002
+note 89= 8681.358304
+note 90= 8786.313714
+note 91= 8898.044999
+note 92= 8996.999591
+note 93= 9003.000409
+note 94= 9101.955001
+note 95= 9213.686286
+note 96= 9318.641696
+note 97= 9396.089998
+note 98= 9495.044590
+note 99= 9600.000000
+note 100= 9704.955410
+note 101= 9803.910002
+note 102= 9881.358304
+note 103= 9986.313714
+note 104= 10098.044999
+note 105= 10196.999591
+note 106= 10203.000409
+note 107= 10301.955001
+note 108= 10413.686286
+note 109= 10518.641696
+note 110= 10596.089998
+note 111= 10695.044590
+note 112= 10800.000000
+note 113= 10904.955410
+note 114= 11003.910002
+note 115= 11081.358304
+note 116= 11186.313714
+note 117= 11298.044999
+note 118= 11396.999591
+note 119= 11403.000409
+note 120= 11501.955001
+note 121= 11613.686286
+note 122= 11718.641696
+note 123= 11796.089998
+note 124= 11895.044590
+note 125= 12000.000000
+note 126= 12104.955410
+note 127= 12203.910002
+
+[Functional Tuning]
+note 1="#=0 * 17/16"
+note 2="#=0 * 9/8"
+note 3="#=0 * 20/17"
+note 4="#=0 * 5/4"
+note 5="#=0 * 4/3"
+note 6="#=0 * 24/17"
+note 7="#=0 * 17/12"
+note 8="#=0 * 3/2"
+note 9="#=0 * 8/5"
+note 10="#=0 * 17/10"
+note 11="#=0 * 16/9"
+note 12="#=0 * 32/17"
+note 13="#>-13 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

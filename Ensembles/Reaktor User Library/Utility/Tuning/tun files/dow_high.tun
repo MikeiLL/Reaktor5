@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Highest octave of Dowlands lute tuning, strings 5,6. 1/1=G (1610)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1665
+note 1=1770
+note 2=1878
+note 3=1974
+note 4=2054
+note 5=2153
+note 6=2163
+note 7=2258
+note 8=2339
+note 9=2367
+note 10=2442
+note 11=2462
+note 12=2543
+note 13=2552
+note 14=2651
+note 15=2756
+note 16=2865
+note 17=2960
+note 18=3041
+note 19=3140
+note 20=3149
+note 21=3245
+note 22=3325
+note 23=3353
+note 24=3429
+note 25=3449
+note 26=3529
+note 27=3539
+note 28=3638
+note 29=3743
+note 30=3851
+note 31=3947
+note 32=4027
+note 33=4126
+note 34=4135
+note 35=4231
+note 36=4312
+note 37=4339
+note 38=4415
+note 39=4435
+note 40=4516
+note 41=4525
+note 42=4624
+note 43=4729
+note 44=4837
+note 45=4933
+note 46=5014
+note 47=5113
+note 48=5122
+note 49=5218
+note 50=5298
+note 51=5326
+note 52=5402
+note 53=5421
+note 54=5502
+note 55=5512
+note 56=5611
+note 57=5716
+note 58=5824
+note 59=5919
+note 60=6000
+note 61=6099
+note 62=6108
+note 63=6204
+note 64=6284
+note 65=6312
+note 66=6388
+note 67=6408
+note 68=6488
+note 69=6498
+note 70=6597
+note 71=6702
+note 72=6810
+note 73=6906
+note 74=6986
+note 75=7085
+note 76=7095
+note 77=7190
+note 78=7271
+note 79=7299
+note 80=7374
+note 81=7394
+note 82=7475
+note 83=7484
+note 84=7583
+note 85=7688
+note 86=7797
+note 87=7892
+note 88=7973
+note 89=8072
+note 90=8081
+note 91=8177
+note 92=8257
+note 93=8285
+note 94=8361
+note 95=8381
+note 96=8461
+note 97=8471
+note 98=8570
+note 99=8675
+note 100=8783
+note 101=8879
+note 102=8959
+note 103=9058
+note 104=9067
+note 105=9163
+note 106=9244
+note 107=9271
+note 108=9347
+note 109=9367
+note 110=9448
+note 111=9457
+note 112=9556
+note 113=9661
+note 114=9769
+note 115=9865
+note 116=9946
+note 117=10045
+note 118=10054
+note 119=10150
+note 120=10230
+note 121=10258
+note 122=10334
+note 123=10353
+note 124=10434
+note 125=10444
+note 126=10543
+note 127=10648
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dow_high.tun"
+ID= "ID_dow_high.tun"
+Filename= "dow_high.scl"
+Description= "Highest octave of Dowlands lute tuning, strings 5,6. 1/1=G (1610)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1664.989403
+note 1= 1769.944813
+note 2= 1878.182183
+note 3= 1973.854814
+note 4= 2054.391849
+note 5= 2153.346442
+note 6= 2162.629220
+note 7= 2258.301851
+note 8= 2338.838886
+note 9= 2366.539222
+note 10= 2442.345766
+note 11= 2462.211853
+note 12= 2542.748888
+note 13= 2552.436849
+note 14= 2651.391441
+note 15= 2756.346850
+note 16= 2864.584221
+note 17= 2960.256852
+note 18= 3040.793887
+note 19= 3139.748479
+note 20= 3149.031258
+note 21= 3244.703889
+note 22= 3325.240924
+note 23= 3352.941260
+note 24= 3428.747804
+note 25= 3448.613891
+note 26= 3529.150926
+note 27= 3538.838886
+note 28= 3637.793478
+note 29= 3742.748888
+note 30= 3850.986259
+note 31= 3946.658890
+note 32= 4027.195925
+note 33= 4126.150517
+note 34= 4135.433296
+note 35= 4231.105926
+note 36= 4311.642962
+note 37= 4339.343297
+note 38= 4415.149842
+note 39= 4435.015928
+note 40= 4515.552963
+note 41= 4525.240924
+note 42= 4624.195516
+note 43= 4729.150926
+note 44= 4837.388296
+note 45= 4933.060927
+note 46= 5013.597962
+note 47= 5112.552555
+note 48= 5121.835333
+note 49= 5217.507964
+note 50= 5298.044999
+note 51= 5325.745335
+note 52= 5401.551879
+note 53= 5421.417966
+note 54= 5501.955001
+note 55= 5511.642962
+note 56= 5610.597554
+note 57= 5715.552963
+note 58= 5823.790334
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6098.954592
+note 62= 6108.237371
+note 63= 6203.910002
+note 64= 6284.447037
+note 65= 6312.147372
+note 66= 6387.953917
+note 67= 6407.820003
+note 68= 6488.357038
+note 69= 6498.044999
+note 70= 6596.999591
+note 71= 6701.955001
+note 72= 6810.192372
+note 73= 6905.865003
+note 74= 6986.402038
+note 75= 7085.356630
+note 76= 7094.639408
+note 77= 7190.312039
+note 78= 7270.849074
+note 79= 7298.549410
+note 80= 7374.355954
+note 81= 7394.222041
+note 82= 7474.759076
+note 83= 7484.447037
+note 84= 7583.401629
+note 85= 7688.357038
+note 86= 7796.594409
+note 87= 7892.267040
+note 88= 7972.804075
+note 89= 8071.758667
+note 90= 8081.041446
+note 91= 8176.714077
+note 92= 8257.251112
+note 93= 8284.951448
+note 94= 8360.757992
+note 95= 8380.624079
+note 96= 8461.161114
+note 97= 8470.849074
+note 98= 8569.803667
+note 99= 8674.759076
+note 100= 8782.996447
+note 101= 8878.669078
+note 102= 8959.206113
+note 103= 9058.160705
+note 104= 9067.443484
+note 105= 9163.116115
+note 106= 9243.653150
+note 107= 9271.353485
+note 108= 9347.160030
+note 109= 9367.026116
+note 110= 9447.563151
+note 111= 9457.251112
+note 112= 9556.205704
+note 113= 9661.161114
+note 114= 9769.398485
+note 115= 9865.071115
+note 116= 9945.608151
+note 117= 10044.562743
+note 118= 10053.845521
+note 119= 10149.518152
+note 120= 10230.055187
+note 121= 10257.755523
+note 122= 10333.562067
+note 123= 10353.428154
+note 124= 10433.965189
+note 125= 10443.653150
+note 126= 10542.607742
+note 127= 10647.563151
+
+[Functional Tuning]
+note 1="#=0 * 18/17"
+note 2="#=0 * 33/31"
+note 3="#=0 * 9/8"
+note 4="#=0 * 33/28"
+note 5="#=0 * 297/248"
+note 6="#=0 * 264/211"
+note 7="#=0 * 81/64"
+note 8="#=0 * 297/224"
+note 9="#=0 * 4/3"
+note 10="#=0 * 24/17"
+note 11="#=0 * 3/2"
+note 12="#=0 * 99/62"
+note 13="#=0 * 27/16"
+note 14="#>-14 * 99/56 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

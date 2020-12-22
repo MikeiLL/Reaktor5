@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; George Secor's 24-triad proportional-beating well-temperament (24d)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=96
+note 2=197
+note 3=298
+note 4=393
+note 5=501
+note 6=594
+note 7=698
+note 8=796
+note 9=896
+note 10=1000
+note 11=1092
+note 12=1200
+note 13=1296
+note 14=1397
+note 15=1498
+note 16=1593
+note 17=1701
+note 18=1794
+note 19=1898
+note 20=1996
+note 21=2096
+note 22=2200
+note 23=2292
+note 24=2400
+note 25=2496
+note 26=2597
+note 27=2698
+note 28=2793
+note 29=2901
+note 30=2994
+note 31=3098
+note 32=3196
+note 33=3296
+note 34=3400
+note 35=3492
+note 36=3600
+note 37=3696
+note 38=3797
+note 39=3898
+note 40=3993
+note 41=4101
+note 42=4194
+note 43=4298
+note 44=4396
+note 45=4496
+note 46=4600
+note 47=4692
+note 48=4800
+note 49=4896
+note 50=4997
+note 51=5098
+note 52=5193
+note 53=5301
+note 54=5394
+note 55=5498
+note 56=5596
+note 57=5696
+note 58=5800
+note 59=5892
+note 60=6000
+note 61=6096
+note 62=6197
+note 63=6298
+note 64=6393
+note 65=6501
+note 66=6594
+note 67=6698
+note 68=6796
+note 69=6896
+note 70=7000
+note 71=7092
+note 72=7200
+note 73=7296
+note 74=7397
+note 75=7498
+note 76=7593
+note 77=7701
+note 78=7794
+note 79=7898
+note 80=7996
+note 81=8096
+note 82=8200
+note 83=8292
+note 84=8400
+note 85=8496
+note 86=8597
+note 87=8698
+note 88=8793
+note 89=8901
+note 90=8994
+note 91=9098
+note 92=9196
+note 93=9296
+note 94=9400
+note 95=9492
+note 96=9600
+note 97=9696
+note 98=9797
+note 99=9898
+note 100=9993
+note 101=10101
+note 102=10194
+note 103=10298
+note 104=10396
+note 105=10496
+note 106=10600
+note 107=10692
+note 108=10800
+note 109=10896
+note 110=10997
+note 111=11098
+note 112=11193
+note 113=11301
+note 114=11394
+note 115=11498
+note 116=11596
+note 117=11696
+note 118=11800
+note 119=11892
+note 120=12000
+note 121=12096
+note 122=12197
+note 123=12298
+note 124=12393
+note 125=12501
+note 126=12594
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "secor_wtpb-24d.tun"
+ID= "ID_secor_wtpb-24d.tun"
+Filename= "secor_wtpb-24d.scl"
+Description= "George Secor's 24-triad proportional-beating well-temperament (24d)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 96.047398
+note 2= 197.442926
+note 3= 298.124436
+note 4= 393.271127
+note 5= 500.947320
+note 6= 594.092397
+note 7= 698.077655
+note 8= 796.169435
+note 9= 895.938917
+note 10= 1000.079436
+note 11= 1092.137396
+note 12= 1200.000000
+note 13= 1296.047398
+note 14= 1397.442926
+note 15= 1498.124436
+note 16= 1593.271127
+note 17= 1700.947320
+note 18= 1794.092397
+note 19= 1898.077655
+note 20= 1996.169435
+note 21= 2095.938917
+note 22= 2200.079436
+note 23= 2292.137396
+note 24= 2400.000000
+note 25= 2496.047398
+note 26= 2597.442926
+note 27= 2698.124436
+note 28= 2793.271127
+note 29= 2900.947320
+note 30= 2994.092397
+note 31= 3098.077655
+note 32= 3196.169435
+note 33= 3295.938917
+note 34= 3400.079436
+note 35= 3492.137396
+note 36= 3600.000000
+note 37= 3696.047398
+note 38= 3797.442926
+note 39= 3898.124436
+note 40= 3993.271127
+note 41= 4100.947320
+note 42= 4194.092397
+note 43= 4298.077655
+note 44= 4396.169435
+note 45= 4495.938917
+note 46= 4600.079436
+note 47= 4692.137396
+note 48= 4800.000000
+note 49= 4896.047398
+note 50= 4997.442926
+note 51= 5098.124436
+note 52= 5193.271127
+note 53= 5300.947320
+note 54= 5394.092397
+note 55= 5498.077655
+note 56= 5596.169435
+note 57= 5695.938917
+note 58= 5800.079436
+note 59= 5892.137396
+note 60= 6000.000000
+note 61= 6096.047398
+note 62= 6197.442926
+note 63= 6298.124436
+note 64= 6393.271127
+note 65= 6500.947320
+note 66= 6594.092397
+note 67= 6698.077655
+note 68= 6796.169435
+note 69= 6895.938917
+note 70= 7000.079436
+note 71= 7092.137396
+note 72= 7200.000000
+note 73= 7296.047398
+note 74= 7397.442926
+note 75= 7498.124436
+note 76= 7593.271127
+note 77= 7700.947320
+note 78= 7794.092397
+note 79= 7898.077655
+note 80= 7996.169435
+note 81= 8095.938917
+note 82= 8200.079436
+note 83= 8292.137396
+note 84= 8400.000000
+note 85= 8496.047398
+note 86= 8597.442926
+note 87= 8698.124436
+note 88= 8793.271127
+note 89= 8900.947320
+note 90= 8994.092397
+note 91= 9098.077655
+note 92= 9196.169435
+note 93= 9295.938917
+note 94= 9400.079436
+note 95= 9492.137396
+note 96= 9600.000000
+note 97= 9696.047398
+note 98= 9797.442926
+note 99= 9898.124436
+note 100= 9993.271127
+note 101= 10100.947320
+note 102= 10194.092397
+note 103= 10298.077655
+note 104= 10396.169435
+note 105= 10495.938917
+note 106= 10600.079436
+note 107= 10692.137396
+note 108= 10800.000000
+note 109= 10896.047398
+note 110= 10997.442926
+note 111= 11098.124436
+note 112= 11193.271127
+note 113= 11300.947320
+note 114= 11394.092397
+note 115= 11498.077655
+note 116= 11596.169435
+note 117= 11695.938917
+note 118= 11800.079436
+note 119= 11892.137396
+note 120= 12000.000000
+note 121= 12096.047398
+note 122= 12197.442926
+note 123= 12298.124436
+note 124= 12393.271127
+note 125= 12500.947320
+note 126= 12594.092397
+note 127= 12698.077655
+
+[Functional Tuning]
+note 1="#=0 * 315/298"
+note 2="#=0 * 167/149"
+note 3="#=0 * 177/149"
+note 4="#=0 * 187/149"
+note 5="#=0 * 199/149"
+note 6="#=0 * 210/149"
+note 7="#=0 * 223/149"
+note 8="#=0 * 236/149"
+note 9="#=0 * 250/149"
+note 10="#=0 * 531/298"
+note 11="#=0 * 280/149"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

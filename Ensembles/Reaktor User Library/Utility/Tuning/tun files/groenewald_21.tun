@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jürgen Grönewald, just tuning (2000)
+;
+; VAZ Plus section
+[Tuning]
+note 0=2582
+note 1=2604
+note 2=2694
+note 3=2716
+note 4=2786
+note 5=2806
+note 6=2898
+note 7=2990
+note 8=3010
+note 9=3102
+note 10=3194
+note 11=3214
+note 12=3284
+note 13=3306
+note 14=3396
+note 15=3418
+note 16=3488
+note 17=3508
+note 18=3600
+note 19=3692
+note 20=3712
+note 21=3782
+note 22=3804
+note 23=3894
+note 24=3916
+note 25=3986
+note 26=4006
+note 27=4098
+note 28=4190
+note 29=4210
+note 30=4302
+note 31=4394
+note 32=4414
+note 33=4484
+note 34=4506
+note 35=4596
+note 36=4618
+note 37=4688
+note 38=4708
+note 39=4800
+note 40=4892
+note 41=4912
+note 42=4982
+note 43=5004
+note 44=5094
+note 45=5116
+note 46=5186
+note 47=5206
+note 48=5298
+note 49=5390
+note 50=5410
+note 51=5502
+note 52=5594
+note 53=5614
+note 54=5684
+note 55=5706
+note 56=5796
+note 57=5818
+note 58=5888
+note 59=5908
+note 60=6000
+note 61=6092
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6294
+note 66=6316
+note 67=6386
+note 68=6406
+note 69=6498
+note 70=6590
+note 71=6610
+note 72=6702
+note 73=6794
+note 74=6814
+note 75=6884
+note 76=6906
+note 77=6996
+note 78=7018
+note 79=7088
+note 80=7108
+note 81=7200
+note 82=7292
+note 83=7312
+note 84=7382
+note 85=7404
+note 86=7494
+note 87=7516
+note 88=7586
+note 89=7606
+note 90=7698
+note 91=7790
+note 92=7810
+note 93=7902
+note 94=7994
+note 95=8014
+note 96=8084
+note 97=8106
+note 98=8196
+note 99=8218
+note 100=8288
+note 101=8308
+note 102=8400
+note 103=8492
+note 104=8512
+note 105=8582
+note 106=8604
+note 107=8694
+note 108=8716
+note 109=8786
+note 110=8806
+note 111=8898
+note 112=8990
+note 113=9010
+note 114=9102
+note 115=9194
+note 116=9214
+note 117=9284
+note 118=9306
+note 119=9396
+note 120=9418
+note 121=9488
+note 122=9508
+note 123=9600
+note 124=9692
+note 125=9712
+note 126=9782
+note 127=9804
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "groenewald_21.tun"
+ID= "ID_groenewald_21.tun"
+Filename= "groenewald_21.scl"
+Description= "Jürgen Grönewald, just tuning (2000)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2582.403712
+note 1= 2603.910002
+note 2= 2694.134997
+note 3= 2715.641287
+note 4= 2786.313714
+note 5= 2805.866283
+note 6= 2898.044999
+note 7= 2990.223716
+note 8= 3009.776284
+note 9= 3101.955001
+note 10= 3194.133717
+note 11= 3213.686286
+note 12= 3284.358713
+note 13= 3305.865003
+note 14= 3396.089998
+note 15= 3417.596288
+note 16= 3488.268715
+note 17= 3507.821284
+note 18= 3600.000000
+note 19= 3692.178716
+note 20= 3711.731285
+note 21= 3782.403712
+note 22= 3803.910002
+note 23= 3894.134997
+note 24= 3915.641287
+note 25= 3986.313714
+note 26= 4005.866283
+note 27= 4098.044999
+note 28= 4190.223716
+note 29= 4209.776284
+note 30= 4301.955001
+note 31= 4394.133717
+note 32= 4413.686286
+note 33= 4484.358713
+note 34= 4505.865003
+note 35= 4596.089998
+note 36= 4617.596288
+note 37= 4688.268715
+note 38= 4707.821284
+note 39= 4800.000000
+note 40= 4892.178716
+note 41= 4911.731285
+note 42= 4982.403712
+note 43= 5003.910002
+note 44= 5094.134997
+note 45= 5115.641287
+note 46= 5186.313714
+note 47= 5205.866283
+note 48= 5298.044999
+note 49= 5390.223716
+note 50= 5409.776284
+note 51= 5501.955001
+note 52= 5594.133717
+note 53= 5613.686286
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5796.089998
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5907.821284
+note 60= 6000.000000
+note 61= 6092.178716
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6294.134997
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6405.866283
+note 69= 6498.044999
+note 70= 6590.223716
+note 71= 6609.776284
+note 72= 6701.955001
+note 73= 6794.133717
+note 74= 6813.686286
+note 75= 6884.358713
+note 76= 6905.865003
+note 77= 6996.089998
+note 78= 7017.596288
+note 79= 7088.268715
+note 80= 7107.821284
+note 81= 7200.000000
+note 82= 7292.178716
+note 83= 7311.731285
+note 84= 7382.403712
+note 85= 7403.910002
+note 86= 7494.134997
+note 87= 7515.641287
+note 88= 7586.313714
+note 89= 7605.866283
+note 90= 7698.044999
+note 91= 7790.223716
+note 92= 7809.776284
+note 93= 7901.955001
+note 94= 7994.133717
+note 95= 8013.686286
+note 96= 8084.358713
+note 97= 8105.865003
+note 98= 8196.089998
+note 99= 8217.596288
+note 100= 8288.268715
+note 101= 8307.821284
+note 102= 8400.000000
+note 103= 8492.178716
+note 104= 8511.731285
+note 105= 8582.403712
+note 106= 8603.910002
+note 107= 8694.134997
+note 108= 8715.641287
+note 109= 8786.313714
+note 110= 8805.866283
+note 111= 8898.044999
+note 112= 8990.223716
+note 113= 9009.776284
+note 114= 9101.955001
+note 115= 9194.133717
+note 116= 9213.686286
+note 117= 9284.358713
+note 118= 9305.865003
+note 119= 9396.089998
+note 120= 9417.596288
+note 121= 9488.268715
+note 122= 9507.821284
+note 123= 9600.000000
+note 124= 9692.178716
+note 125= 9711.731285
+note 126= 9782.403712
+note 127= 9803.910002
+
+[Functional Tuning]
+note 1="#=0 * 135/128"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 32/27"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 512/405"
+note 9="#=0 * 4/3"
+note 10="#=0 * 45/32"
+note 11="#=0 * 64/45"
+note 12="#=0 * 3/2"
+note 13="#=0 * 405/256"
+note 14="#=0 * 8/5"
+note 15="#=0 * 5/3"
+note 16="#=0 * 27/16"
+note 17="#=0 * 16/9"
+note 18="#=0 * 9/5"
+note 19="#=0 * 15/8"
+note 20="#=0 * 256/135"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

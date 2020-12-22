@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Neo-Gothic 3/17-flavor JI (keyboards 459:448 apart)
+;
+; VAZ Plus section
+[Tuning]
+note 0=3012
+note 1=3054
+note 2=3102
+note 3=3144
+note 4=3216
+note 5=3258
+note 6=3306
+note 7=3348
+note 8=3396
+note 9=3438
+note 10=3510
+note 11=3552
+note 12=3600
+note 13=3642
+note 14=3714
+note 15=3756
+note 16=3804
+note 17=3846
+note 18=3894
+note 19=3936
+note 20=4008
+note 21=4050
+note 22=4098
+note 23=4140
+note 24=4212
+note 25=4254
+note 26=4302
+note 27=4344
+note 28=4416
+note 29=4458
+note 30=4506
+note 31=4548
+note 32=4596
+note 33=4638
+note 34=4710
+note 35=4752
+note 36=4800
+note 37=4842
+note 38=4914
+note 39=4956
+note 40=5004
+note 41=5046
+note 42=5094
+note 43=5136
+note 44=5208
+note 45=5250
+note 46=5298
+note 47=5340
+note 48=5412
+note 49=5454
+note 50=5502
+note 51=5544
+note 52=5616
+note 53=5658
+note 54=5706
+note 55=5748
+note 56=5796
+note 57=5838
+note 58=5910
+note 59=5952
+note 60=6000
+note 61=6042
+note 62=6114
+note 63=6156
+note 64=6204
+note 65=6246
+note 66=6294
+note 67=6336
+note 68=6408
+note 69=6450
+note 70=6498
+note 71=6540
+note 72=6612
+note 73=6654
+note 74=6702
+note 75=6744
+note 76=6816
+note 77=6858
+note 78=6906
+note 79=6948
+note 80=6996
+note 81=7038
+note 82=7110
+note 83=7152
+note 84=7200
+note 85=7242
+note 86=7314
+note 87=7356
+note 88=7404
+note 89=7446
+note 90=7494
+note 91=7536
+note 92=7608
+note 93=7650
+note 94=7698
+note 95=7740
+note 96=7812
+note 97=7854
+note 98=7902
+note 99=7944
+note 100=8016
+note 101=8058
+note 102=8106
+note 103=8148
+note 104=8196
+note 105=8238
+note 106=8310
+note 107=8352
+note 108=8400
+note 109=8442
+note 110=8514
+note 111=8556
+note 112=8604
+note 113=8646
+note 114=8694
+note 115=8736
+note 116=8808
+note 117=8850
+note 118=8898
+note 119=8940
+note 120=9012
+note 121=9054
+note 122=9102
+note 123=9144
+note 124=9216
+note 125=9258
+note 126=9306
+note 127=9348
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schulter_xenogj24.tun"
+ID= "ID_schulter_xenogj24.tun"
+Filename= "schulter_xenogj24.scl"
+Description= "Neo-Gothic 3/17-flavor JI (keyboards 459:448 apart)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3011.730005
+note 1= 3053.724511
+note 2= 3101.955001
+note 3= 3143.949506
+note 4= 3215.640007
+note 5= 3257.634513
+note 6= 3305.865003
+note 7= 3347.859508
+note 8= 3396.089998
+note 9= 3438.084504
+note 10= 3509.775004
+note 11= 3551.769510
+note 12= 3600.000000
+note 13= 3641.994506
+note 14= 3713.685006
+note 15= 3755.679512
+note 16= 3803.910002
+note 17= 3845.904507
+note 18= 3894.134997
+note 19= 3936.129503
+note 20= 4007.820003
+note 21= 4049.814509
+note 22= 4098.044999
+note 23= 4140.039505
+note 24= 4211.730005
+note 25= 4253.724511
+note 26= 4301.955001
+note 27= 4343.949506
+note 28= 4415.640007
+note 29= 4457.634513
+note 30= 4505.865003
+note 31= 4547.859508
+note 32= 4596.089998
+note 33= 4638.084504
+note 34= 4709.775004
+note 35= 4751.769510
+note 36= 4800.000000
+note 37= 4841.994506
+note 38= 4913.685006
+note 39= 4955.679512
+note 40= 5003.910002
+note 41= 5045.904507
+note 42= 5094.134997
+note 43= 5136.129503
+note 44= 5207.820003
+note 45= 5249.814509
+note 46= 5298.044999
+note 47= 5340.039505
+note 48= 5411.730005
+note 49= 5453.724511
+note 50= 5501.955001
+note 51= 5543.949506
+note 52= 5615.640007
+note 53= 5657.634513
+note 54= 5705.865003
+note 55= 5747.859508
+note 56= 5796.089998
+note 57= 5838.084504
+note 58= 5909.775004
+note 59= 5951.769510
+note 60= 6000.000000
+note 61= 6041.994506
+note 62= 6113.685006
+note 63= 6155.679512
+note 64= 6203.910002
+note 65= 6245.904507
+note 66= 6294.134997
+note 67= 6336.129503
+note 68= 6407.820003
+note 69= 6449.814509
+note 70= 6498.044999
+note 71= 6540.039505
+note 72= 6611.730005
+note 73= 6653.724511
+note 74= 6701.955001
+note 75= 6743.949506
+note 76= 6815.640007
+note 77= 6857.634513
+note 78= 6905.865003
+note 79= 6947.859508
+note 80= 6996.089998
+note 81= 7038.084504
+note 82= 7109.775004
+note 83= 7151.769510
+note 84= 7200.000000
+note 85= 7241.994506
+note 86= 7313.685006
+note 87= 7355.679512
+note 88= 7403.910002
+note 89= 7445.904507
+note 90= 7494.134997
+note 91= 7536.129503
+note 92= 7607.820003
+note 93= 7649.814509
+note 94= 7698.044999
+note 95= 7740.039505
+note 96= 7811.730005
+note 97= 7853.724511
+note 98= 7901.955001
+note 99= 7943.949506
+note 100= 8015.640007
+note 101= 8057.634513
+note 102= 8105.865003
+note 103= 8147.859508
+note 104= 8196.089998
+note 105= 8238.084504
+note 106= 8309.775004
+note 107= 8351.769510
+note 108= 8400.000000
+note 109= 8441.994506
+note 110= 8513.685006
+note 111= 8555.679512
+note 112= 8603.910002
+note 113= 8645.904507
+note 114= 8694.134997
+note 115= 8736.129503
+note 116= 8807.820003
+note 117= 8849.814509
+note 118= 8898.044999
+note 119= 8940.039505
+note 120= 9011.730005
+note 121= 9053.724511
+note 122= 9101.955001
+note 123= 9143.949506
+note 124= 9215.640007
+note 125= 9257.634513
+note 126= 9305.865003
+note 127= 9347.859508
+
+[Functional Tuning]
+note 1="#=0 * 459/448"
+note 2="#=0 * 2187/2048"
+note 3="#=0 * 1003833/917504"
+note 4="#=0 * 9/8"
+note 5="#=0 * 4131/3584"
+note 6="#=0 * 32/27"
+note 7="#=0 * 17/14"
+note 8="#=0 * 81/64"
+note 9="#=0 * 37179/28672"
+note 10="#=0 * 4/3"
+note 11="#=0 * 153/112"
+note 12="#=0 * 729/512"
+note 13="#=0 * 334611/229376"
+note 14="#=0 * 3/2"
+note 15="#=0 * 1377/896"
+note 16="#=0 * 6561/4096"
+note 17="#=0 * 3011499/1835008"
+note 18="#=0 * 27/16"
+note 19="#=0 * 12393/7168"
+note 20="#=0 * 16/9"
+note 21="#=0 * 51/28"
+note 22="#=0 * 243/128"
+note 23="#=0 * 111537/57344"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

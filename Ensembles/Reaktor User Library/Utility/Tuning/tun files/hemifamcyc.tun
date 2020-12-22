@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Hemifamity cycle of thirds scale, nearest to proper
+;
+; VAZ Plus section
+[Tuning]
+note 0=884
+note 1=969
+note 2=994
+note 3=1105
+note 4=1200
+note 5=1286
+note 6=1381
+note 7=1492
+note 8=1586
+note 9=1602
+note 10=1697
+note 11=1808
+note 12=1903
+note 13=1989
+note 14=2084
+note 15=2169
+note 16=2194
+note 17=2305
+note 18=2400
+note 19=2486
+note 20=2581
+note 21=2692
+note 22=2786
+note 23=2802
+note 24=2897
+note 25=3008
+note 26=3103
+note 27=3189
+note 28=3284
+note 29=3369
+note 30=3394
+note 31=3505
+note 32=3600
+note 33=3686
+note 34=3781
+note 35=3892
+note 36=3986
+note 37=4002
+note 38=4097
+note 39=4208
+note 40=4303
+note 41=4389
+note 42=4484
+note 43=4569
+note 44=4594
+note 45=4705
+note 46=4800
+note 47=4886
+note 48=4981
+note 49=5092
+note 50=5186
+note 51=5202
+note 52=5297
+note 53=5408
+note 54=5503
+note 55=5589
+note 56=5684
+note 57=5769
+note 58=5794
+note 59=5905
+note 60=6000
+note 61=6086
+note 62=6181
+note 63=6292
+note 64=6386
+note 65=6402
+note 66=6497
+note 67=6608
+note 68=6703
+note 69=6789
+note 70=6884
+note 71=6969
+note 72=6994
+note 73=7105
+note 74=7200
+note 75=7286
+note 76=7381
+note 77=7492
+note 78=7586
+note 79=7602
+note 80=7697
+note 81=7808
+note 82=7903
+note 83=7989
+note 84=8084
+note 85=8169
+note 86=8194
+note 87=8305
+note 88=8400
+note 89=8486
+note 90=8581
+note 91=8692
+note 92=8786
+note 93=8802
+note 94=8897
+note 95=9008
+note 96=9103
+note 97=9189
+note 98=9284
+note 99=9369
+note 100=9394
+note 101=9505
+note 102=9600
+note 103=9686
+note 104=9781
+note 105=9892
+note 106=9986
+note 107=10002
+note 108=10097
+note 109=10208
+note 110=10303
+note 111=10389
+note 112=10484
+note 113=10569
+note 114=10594
+note 115=10705
+note 116=10800
+note 117=10886
+note 118=10981
+note 119=11092
+note 120=11186
+note 121=11202
+note 122=11297
+note 123=11408
+note 124=11503
+note 125=11589
+note 126=11684
+note 127=11769
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "hemifamcyc.tun"
+ID= "ID_hemifamcyc.tun"
+Filename= "hemifamcyc.scl"
+Description= "Hemifamity cycle of thirds scale, nearest to proper"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 883.615819
+note 1= 969.491525
+note 2= 994.350282
+note 3= 1105.084746
+note 4= 1200.000000
+note 5= 1285.875706
+note 6= 1380.790960
+note 7= 1491.525424
+note 8= 1586.440678
+note 9= 1602.259887
+note 10= 1697.175141
+note 11= 1807.909605
+note 12= 1902.824859
+note 13= 1988.700565
+note 14= 2083.615819
+note 15= 2169.491525
+note 16= 2194.350282
+note 17= 2305.084746
+note 18= 2400.000000
+note 19= 2485.875706
+note 20= 2580.790960
+note 21= 2691.525424
+note 22= 2786.440678
+note 23= 2802.259887
+note 24= 2897.175141
+note 25= 3007.909605
+note 26= 3102.824859
+note 27= 3188.700565
+note 28= 3283.615819
+note 29= 3369.491525
+note 30= 3394.350282
+note 31= 3505.084746
+note 32= 3600.000000
+note 33= 3685.875706
+note 34= 3780.790960
+note 35= 3891.525424
+note 36= 3986.440678
+note 37= 4002.259887
+note 38= 4097.175141
+note 39= 4207.909605
+note 40= 4302.824859
+note 41= 4388.700565
+note 42= 4483.615819
+note 43= 4569.491525
+note 44= 4594.350282
+note 45= 4705.084746
+note 46= 4800.000000
+note 47= 4885.875706
+note 48= 4980.790960
+note 49= 5091.525424
+note 50= 5186.440678
+note 51= 5202.259887
+note 52= 5297.175141
+note 53= 5407.909605
+note 54= 5502.824859
+note 55= 5588.700565
+note 56= 5683.615819
+note 57= 5769.491525
+note 58= 5794.350282
+note 59= 5905.084746
+note 60= 6000.000000
+note 61= 6085.875706
+note 62= 6180.790960
+note 63= 6291.525424
+note 64= 6386.440678
+note 65= 6402.259887
+note 66= 6497.175141
+note 67= 6607.909605
+note 68= 6702.824859
+note 69= 6788.700565
+note 70= 6883.615819
+note 71= 6969.491525
+note 72= 6994.350282
+note 73= 7105.084746
+note 74= 7200.000000
+note 75= 7285.875706
+note 76= 7380.790960
+note 77= 7491.525424
+note 78= 7586.440678
+note 79= 7602.259887
+note 80= 7697.175141
+note 81= 7807.909605
+note 82= 7902.824859
+note 83= 7988.700565
+note 84= 8083.615819
+note 85= 8169.491525
+note 86= 8194.350282
+note 87= 8305.084746
+note 88= 8400.000000
+note 89= 8485.875706
+note 90= 8580.790960
+note 91= 8691.525424
+note 92= 8786.440678
+note 93= 8802.259887
+note 94= 8897.175141
+note 95= 9007.909605
+note 96= 9102.824859
+note 97= 9188.700565
+note 98= 9283.615819
+note 99= 9369.491525
+note 100= 9394.350282
+note 101= 9505.084746
+note 102= 9600.000000
+note 103= 9685.875706
+note 104= 9780.790960
+note 105= 9891.525424
+note 106= 9986.440678
+note 107= 10002.259887
+note 108= 10097.175141
+note 109= 10207.909605
+note 110= 10302.824859
+note 111= 10388.700565
+note 112= 10483.615819
+note 113= 10569.491525
+note 114= 10594.350282
+note 115= 10705.084746
+note 116= 10800.000000
+note 117= 10885.875706
+note 118= 10980.790960
+note 119= 11091.525424
+note 120= 11186.440678
+note 121= 11202.259887
+note 122= 11297.175141
+note 123= 11407.909605
+note 124= 11502.824859
+note 125= 11588.700565
+note 126= 11683.615819
+note 127= 11769.491525
+
+[Functional Tuning]
+note 1="#=0 % 85.875706"
+note 2="#=0 % 180.790960"
+note 3="#=0 % 291.525424"
+note 4="#=0 % 386.440678"
+note 5="#=0 % 402.259887"
+note 6="#=0 % 497.175141"
+note 7="#=0 % 607.909605"
+note 8="#=0 % 702.824859"
+note 9="#=0 % 788.700565"
+note 10="#=0 % 883.615819"
+note 11="#=0 % 969.491525"
+note 12="#=0 % 994.350282"
+note 13="#=0 % 1105.084746"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

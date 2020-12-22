@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im süddeutschen Orgelbau p. 412
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=86
+note 2=198
+note 3=303
+note 4=392
+note 5=498
+note 6=590
+note 7=702
+note 8=784
+note 9=894
+note 10=999
+note 11=1092
+note 12=1200
+note 13=1286
+note 14=1398
+note 15=1503
+note 16=1592
+note 17=1698
+note 18=1790
+note 19=1902
+note 20=1984
+note 21=2094
+note 22=2199
+note 23=2292
+note 24=2400
+note 25=2486
+note 26=2598
+note 27=2703
+note 28=2792
+note 29=2898
+note 30=2990
+note 31=3102
+note 32=3184
+note 33=3294
+note 34=3399
+note 35=3492
+note 36=3600
+note 37=3686
+note 38=3798
+note 39=3903
+note 40=3992
+note 41=4098
+note 42=4190
+note 43=4302
+note 44=4384
+note 45=4494
+note 46=4599
+note 47=4692
+note 48=4800
+note 49=4886
+note 50=4998
+note 51=5103
+note 52=5192
+note 53=5298
+note 54=5390
+note 55=5502
+note 56=5584
+note 57=5694
+note 58=5799
+note 59=5892
+note 60=6000
+note 61=6086
+note 62=6198
+note 63=6303
+note 64=6392
+note 65=6498
+note 66=6590
+note 67=6702
+note 68=6784
+note 69=6894
+note 70=6999
+note 71=7092
+note 72=7200
+note 73=7286
+note 74=7398
+note 75=7503
+note 76=7592
+note 77=7698
+note 78=7790
+note 79=7902
+note 80=7984
+note 81=8094
+note 82=8199
+note 83=8292
+note 84=8400
+note 85=8486
+note 86=8598
+note 87=8703
+note 88=8792
+note 89=8898
+note 90=8990
+note 91=9102
+note 92=9184
+note 93=9294
+note 94=9399
+note 95=9492
+note 96=9600
+note 97=9686
+note 98=9798
+note 99=9903
+note 100=9992
+note 101=10098
+note 102=10190
+note 103=10302
+note 104=10384
+note 105=10494
+note 106=10599
+note 107=10692
+note 108=10800
+note 109=10886
+note 110=10998
+note 111=11103
+note 112=11192
+note 113=11298
+note 114=11390
+note 115=11502
+note 116=11584
+note 117=11694
+note 118=11799
+note 119=11892
+note 120=12000
+note 121=12086
+note 122=12198
+note 123=12303
+note 124=12392
+note 125=12498
+note 126=12590
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ammerbach.tun"
+ID= "ID_ammerbach.tun"
+Filename= "ammerbach.scl"
+Description= "Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im süddeutschen Orgelbau p. 412"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 86.314990
+note 2= 198.045000
+note 3= 302.932500
+note 4= 392.180000
+note 5= 498.044999
+note 6= 590.225000
+note 7= 701.955001
+note 8= 784.359990
+note 9= 894.135000
+note 10= 999.022500
+note 11= 1092.180000
+note 12= 1200.000000
+note 13= 1286.314990
+note 14= 1398.045000
+note 15= 1502.932500
+note 16= 1592.180000
+note 17= 1698.044999
+note 18= 1790.225000
+note 19= 1901.955001
+note 20= 1984.359990
+note 21= 2094.135000
+note 22= 2199.022500
+note 23= 2292.180000
+note 24= 2400.000000
+note 25= 2486.314990
+note 26= 2598.045000
+note 27= 2702.932500
+note 28= 2792.180000
+note 29= 2898.044999
+note 30= 2990.225000
+note 31= 3101.955001
+note 32= 3184.359990
+note 33= 3294.135000
+note 34= 3399.022500
+note 35= 3492.180000
+note 36= 3600.000000
+note 37= 3686.314990
+note 38= 3798.045000
+note 39= 3902.932500
+note 40= 3992.180000
+note 41= 4098.044999
+note 42= 4190.225000
+note 43= 4301.955001
+note 44= 4384.359990
+note 45= 4494.135000
+note 46= 4599.022500
+note 47= 4692.180000
+note 48= 4800.000000
+note 49= 4886.314990
+note 50= 4998.045000
+note 51= 5102.932500
+note 52= 5192.180000
+note 53= 5298.044999
+note 54= 5390.225000
+note 55= 5501.955001
+note 56= 5584.359990
+note 57= 5694.135000
+note 58= 5799.022500
+note 59= 5892.180000
+note 60= 6000.000000
+note 61= 6086.314990
+note 62= 6198.045000
+note 63= 6302.932500
+note 64= 6392.180000
+note 65= 6498.044999
+note 66= 6590.225000
+note 67= 6701.955001
+note 68= 6784.359990
+note 69= 6894.135000
+note 70= 6999.022500
+note 71= 7092.180000
+note 72= 7200.000000
+note 73= 7286.314990
+note 74= 7398.045000
+note 75= 7502.932500
+note 76= 7592.180000
+note 77= 7698.044999
+note 78= 7790.225000
+note 79= 7901.955001
+note 80= 7984.359990
+note 81= 8094.135000
+note 82= 8199.022500
+note 83= 8292.180000
+note 84= 8400.000000
+note 85= 8486.314990
+note 86= 8598.045000
+note 87= 8702.932500
+note 88= 8792.180000
+note 89= 8898.044999
+note 90= 8990.225000
+note 91= 9101.955001
+note 92= 9184.359990
+note 93= 9294.135000
+note 94= 9399.022500
+note 95= 9492.180000
+note 96= 9600.000000
+note 97= 9686.314990
+note 98= 9798.045000
+note 99= 9902.932500
+note 100= 9992.180000
+note 101= 10098.044999
+note 102= 10190.225000
+note 103= 10301.955001
+note 104= 10384.359990
+note 105= 10494.135000
+note 106= 10599.022500
+note 107= 10692.180000
+note 108= 10800.000000
+note 109= 10886.314990
+note 110= 10998.045000
+note 111= 11102.932500
+note 112= 11192.180000
+note 113= 11298.044999
+note 114= 11390.225000
+note 115= 11501.955001
+note 116= 11584.359990
+note 117= 11694.135000
+note 118= 11799.022500
+note 119= 11892.180000
+note 120= 12000.000000
+note 121= 12086.314990
+note 122= 12198.045000
+note 123= 12302.932500
+note 124= 12392.180000
+note 125= 12498.044999
+note 126= 12590.225000
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 % 86.314990"
+note 2="#=0 % 198.045000"
+note 3="#=0 % 302.932500"
+note 4="#=0 % 392.180000"
+note 5="#=0 * 4/3"
+note 6="#=0 % 590.225000"
+note 7="#=0 * 3/2"
+note 8="#=0 % 784.359990"
+note 9="#=0 % 894.135000"
+note 10="#=0 % 999.022500"
+note 11="#=0 % 1092.180000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

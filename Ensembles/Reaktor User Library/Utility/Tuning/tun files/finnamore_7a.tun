@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; David J. Finnamore, TL 1 Sept '98. 7-tone Pyth. with 9/8 div. in 15/14 &21/20
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=119
+note 2=204
+note 3=323
+note 4=408
+note 5=498
+note 6=617
+note 7=702
+note 8=821
+note 9=906
+note 10=1025
+note 11=1110
+note 12=1200
+note 13=1319
+note 14=1404
+note 15=1523
+note 16=1608
+note 17=1698
+note 18=1817
+note 19=1902
+note 20=2021
+note 21=2106
+note 22=2225
+note 23=2310
+note 24=2400
+note 25=2519
+note 26=2604
+note 27=2723
+note 28=2808
+note 29=2898
+note 30=3017
+note 31=3102
+note 32=3221
+note 33=3306
+note 34=3425
+note 35=3510
+note 36=3600
+note 37=3719
+note 38=3804
+note 39=3923
+note 40=4008
+note 41=4098
+note 42=4217
+note 43=4302
+note 44=4421
+note 45=4506
+note 46=4625
+note 47=4710
+note 48=4800
+note 49=4919
+note 50=5004
+note 51=5123
+note 52=5208
+note 53=5298
+note 54=5417
+note 55=5502
+note 56=5621
+note 57=5706
+note 58=5825
+note 59=5910
+note 60=6000
+note 61=6119
+note 62=6204
+note 63=6323
+note 64=6408
+note 65=6498
+note 66=6617
+note 67=6702
+note 68=6821
+note 69=6906
+note 70=7025
+note 71=7110
+note 72=7200
+note 73=7319
+note 74=7404
+note 75=7523
+note 76=7608
+note 77=7698
+note 78=7817
+note 79=7902
+note 80=8021
+note 81=8106
+note 82=8225
+note 83=8310
+note 84=8400
+note 85=8519
+note 86=8604
+note 87=8723
+note 88=8808
+note 89=8898
+note 90=9017
+note 91=9102
+note 92=9221
+note 93=9306
+note 94=9425
+note 95=9510
+note 96=9600
+note 97=9719
+note 98=9804
+note 99=9923
+note 100=10008
+note 101=10098
+note 102=10217
+note 103=10302
+note 104=10421
+note 105=10506
+note 106=10625
+note 107=10710
+note 108=10800
+note 109=10919
+note 110=11004
+note 111=11123
+note 112=11208
+note 113=11298
+note 114=11417
+note 115=11502
+note 116=11621
+note 117=11706
+note 118=11825
+note 119=11910
+note 120=12000
+note 121=12119
+note 122=12204
+note 123=12323
+note 124=12408
+note 125=12498
+note 126=12617
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "finnamore_7a.tun"
+ID= "ID_finnamore_7a.tun"
+Filename= "finnamore_7a.scl"
+Description= "David J. Finnamore, TL 1 Sept '98. 7-tone Pyth. with 9/8 div. in 15/14 &21/20"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 119.442808
+note 2= 203.910002
+note 3= 323.352810
+note 4= 407.820003
+note 5= 498.044999
+note 6= 617.487807
+note 7= 701.955001
+note 8= 821.397809
+note 9= 905.865003
+note 10= 1025.307811
+note 11= 1109.775004
+note 12= 1200.000000
+note 13= 1319.442808
+note 14= 1403.910002
+note 15= 1523.352810
+note 16= 1607.820003
+note 17= 1698.044999
+note 18= 1817.487807
+note 19= 1901.955001
+note 20= 2021.397809
+note 21= 2105.865003
+note 22= 2225.307811
+note 23= 2309.775004
+note 24= 2400.000000
+note 25= 2519.442808
+note 26= 2603.910002
+note 27= 2723.352810
+note 28= 2807.820003
+note 29= 2898.044999
+note 30= 3017.487807
+note 31= 3101.955001
+note 32= 3221.397809
+note 33= 3305.865003
+note 34= 3425.307811
+note 35= 3509.775004
+note 36= 3600.000000
+note 37= 3719.442808
+note 38= 3803.910002
+note 39= 3923.352810
+note 40= 4007.820003
+note 41= 4098.044999
+note 42= 4217.487807
+note 43= 4301.955001
+note 44= 4421.397809
+note 45= 4505.865003
+note 46= 4625.307811
+note 47= 4709.775004
+note 48= 4800.000000
+note 49= 4919.442808
+note 50= 5003.910002
+note 51= 5123.352810
+note 52= 5207.820003
+note 53= 5298.044999
+note 54= 5417.487807
+note 55= 5501.955001
+note 56= 5621.397809
+note 57= 5705.865003
+note 58= 5825.307811
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6119.442808
+note 62= 6203.910002
+note 63= 6323.352810
+note 64= 6407.820003
+note 65= 6498.044999
+note 66= 6617.487807
+note 67= 6701.955001
+note 68= 6821.397809
+note 69= 6905.865003
+note 70= 7025.307811
+note 71= 7109.775004
+note 72= 7200.000000
+note 73= 7319.442808
+note 74= 7403.910002
+note 75= 7523.352810
+note 76= 7607.820003
+note 77= 7698.044999
+note 78= 7817.487807
+note 79= 7901.955001
+note 80= 8021.397809
+note 81= 8105.865003
+note 82= 8225.307811
+note 83= 8309.775004
+note 84= 8400.000000
+note 85= 8519.442808
+note 86= 8603.910002
+note 87= 8723.352810
+note 88= 8807.820003
+note 89= 8898.044999
+note 90= 9017.487807
+note 91= 9101.955001
+note 92= 9221.397809
+note 93= 9305.865003
+note 94= 9425.307811
+note 95= 9509.775004
+note 96= 9600.000000
+note 97= 9719.442808
+note 98= 9803.910002
+note 99= 9923.352810
+note 100= 10007.820003
+note 101= 10098.044999
+note 102= 10217.487807
+note 103= 10301.955001
+note 104= 10421.397809
+note 105= 10505.865003
+note 106= 10625.307811
+note 107= 10709.775004
+note 108= 10800.000000
+note 109= 10919.442808
+note 110= 11003.910002
+note 111= 11123.352810
+note 112= 11207.820003
+note 113= 11298.044999
+note 114= 11417.487807
+note 115= 11501.955001
+note 116= 11621.397809
+note 117= 11705.865003
+note 118= 11825.307811
+note 119= 11909.775004
+note 120= 12000.000000
+note 121= 12119.442808
+note 122= 12203.910002
+note 123= 12323.352810
+note 124= 12407.820003
+note 125= 12498.044999
+note 126= 12617.487807
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 15/14"
+note 2="#=0 * 9/8"
+note 3="#=0 * 135/112"
+note 4="#=0 * 81/64"
+note 5="#=0 * 4/3"
+note 6="#=0 * 10/7"
+note 7="#=0 * 3/2"
+note 8="#=0 * 45/28"
+note 9="#=0 * 27/16"
+note 10="#=0 * 405/224"
+note 11="#=0 * 243/128"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

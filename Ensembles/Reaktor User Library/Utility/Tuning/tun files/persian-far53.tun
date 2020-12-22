@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Hormoz Farhat, pitches in The Dastgah Concept in Persian Music in 53-tET
+;
+; VAZ Plus section
+[Tuning]
+note 0=1992
+note 1=2038
+note 2=2106
+note 3=2196
+note 4=2242
+note 5=2309
+note 6=2400
+note 7=2491
+note 8=2536
+note 9=2604
+note 10=2694
+note 11=2740
+note 12=2808
+note 13=2898
+note 14=2966
+note 15=3011
+note 16=3034
+note 17=3102
+note 18=3192
+note 19=3238
+note 20=3306
+note 21=3396
+note 22=3442
+note 23=3509
+note 24=3600
+note 25=3691
+note 26=3736
+note 27=3804
+note 28=3894
+note 29=3940
+note 30=4008
+note 31=4098
+note 32=4166
+note 33=4211
+note 34=4234
+note 35=4302
+note 36=4392
+note 37=4438
+note 38=4506
+note 39=4596
+note 40=4642
+note 41=4709
+note 42=4800
+note 43=4891
+note 44=4936
+note 45=5004
+note 46=5094
+note 47=5140
+note 48=5208
+note 49=5298
+note 50=5366
+note 51=5411
+note 52=5434
+note 53=5502
+note 54=5592
+note 55=5638
+note 56=5706
+note 57=5796
+note 58=5842
+note 59=5909
+note 60=6000
+note 61=6091
+note 62=6136
+note 63=6204
+note 64=6294
+note 65=6340
+note 66=6408
+note 67=6498
+note 68=6566
+note 69=6611
+note 70=6634
+note 71=6702
+note 72=6792
+note 73=6838
+note 74=6906
+note 75=6996
+note 76=7042
+note 77=7109
+note 78=7200
+note 79=7291
+note 80=7336
+note 81=7404
+note 82=7494
+note 83=7540
+note 84=7608
+note 85=7698
+note 86=7766
+note 87=7811
+note 88=7834
+note 89=7902
+note 90=7992
+note 91=8038
+note 92=8106
+note 93=8196
+note 94=8242
+note 95=8309
+note 96=8400
+note 97=8491
+note 98=8536
+note 99=8604
+note 100=8694
+note 101=8740
+note 102=8808
+note 103=8898
+note 104=8966
+note 105=9011
+note 106=9034
+note 107=9102
+note 108=9192
+note 109=9238
+note 110=9306
+note 111=9396
+note 112=9442
+note 113=9509
+note 114=9600
+note 115=9691
+note 116=9736
+note 117=9804
+note 118=9894
+note 119=9940
+note 120=10008
+note 121=10098
+note 122=10166
+note 123=10211
+note 124=10234
+note 125=10302
+note 126=10392
+note 127=10438
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "persian-far53.tun"
+ID= "ID_persian-far53.tun"
+Filename= "persian-far53.scl"
+Description= "Hormoz Farhat, pitches in The Dastgah Concept in Persian Music in 53-tET"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1992.452830
+note 1= 2037.735850
+note 2= 2105.660380
+note 3= 2196.226420
+note 4= 2241.509430
+note 5= 2309.433960
+note 6= 2400.000000
+note 7= 2490.566040
+note 8= 2535.849060
+note 9= 2603.773580
+note 10= 2694.339620
+note 11= 2739.622640
+note 12= 2807.547170
+note 13= 2898.113210
+note 14= 2966.037740
+note 15= 3011.320750
+note 16= 3033.962260
+note 17= 3101.886790
+note 18= 3192.452830
+note 19= 3237.735850
+note 20= 3305.660380
+note 21= 3396.226420
+note 22= 3441.509430
+note 23= 3509.433960
+note 24= 3600.000000
+note 25= 3690.566040
+note 26= 3735.849060
+note 27= 3803.773580
+note 28= 3894.339620
+note 29= 3939.622640
+note 30= 4007.547170
+note 31= 4098.113210
+note 32= 4166.037740
+note 33= 4211.320750
+note 34= 4233.962260
+note 35= 4301.886790
+note 36= 4392.452830
+note 37= 4437.735850
+note 38= 4505.660380
+note 39= 4596.226420
+note 40= 4641.509430
+note 41= 4709.433960
+note 42= 4800.000000
+note 43= 4890.566040
+note 44= 4935.849060
+note 45= 5003.773580
+note 46= 5094.339620
+note 47= 5139.622640
+note 48= 5207.547170
+note 49= 5298.113210
+note 50= 5366.037740
+note 51= 5411.320750
+note 52= 5433.962260
+note 53= 5501.886790
+note 54= 5592.452830
+note 55= 5637.735850
+note 56= 5705.660380
+note 57= 5796.226420
+note 58= 5841.509430
+note 59= 5909.433960
+note 60= 6000.000000
+note 61= 6090.566040
+note 62= 6135.849060
+note 63= 6203.773580
+note 64= 6294.339620
+note 65= 6339.622640
+note 66= 6407.547170
+note 67= 6498.113210
+note 68= 6566.037740
+note 69= 6611.320750
+note 70= 6633.962260
+note 71= 6701.886790
+note 72= 6792.452830
+note 73= 6837.735850
+note 74= 6905.660380
+note 75= 6996.226420
+note 76= 7041.509430
+note 77= 7109.433960
+note 78= 7200.000000
+note 79= 7290.566040
+note 80= 7335.849060
+note 81= 7403.773580
+note 82= 7494.339620
+note 83= 7539.622640
+note 84= 7607.547170
+note 85= 7698.113210
+note 86= 7766.037740
+note 87= 7811.320750
+note 88= 7833.962260
+note 89= 7901.886790
+note 90= 7992.452830
+note 91= 8037.735850
+note 92= 8105.660380
+note 93= 8196.226420
+note 94= 8241.509430
+note 95= 8309.433960
+note 96= 8400.000000
+note 97= 8490.566040
+note 98= 8535.849060
+note 99= 8603.773580
+note 100= 8694.339620
+note 101= 8739.622640
+note 102= 8807.547170
+note 103= 8898.113210
+note 104= 8966.037740
+note 105= 9011.320750
+note 106= 9033.962260
+note 107= 9101.886790
+note 108= 9192.452830
+note 109= 9237.735850
+note 110= 9305.660380
+note 111= 9396.226420
+note 112= 9441.509430
+note 113= 9509.433960
+note 114= 9600.000000
+note 115= 9690.566040
+note 116= 9735.849060
+note 117= 9803.773580
+note 118= 9894.339620
+note 119= 9939.622640
+note 120= 10007.547170
+note 121= 10098.113210
+note 122= 10166.037740
+note 123= 10211.320750
+note 124= 10233.962260
+note 125= 10301.886790
+note 126= 10392.452830
+note 127= 10437.735850
+
+[Functional Tuning]
+note 1="#=0 % 90.566040"
+note 2="#=0 % 135.849060"
+note 3="#=0 % 203.773580"
+note 4="#=0 % 294.339620"
+note 5="#=0 % 339.622640"
+note 6="#=0 % 407.547170"
+note 7="#=0 % 498.113210"
+note 8="#=0 % 566.037740"
+note 9="#=0 % 611.320750"
+note 10="#=0 % 633.962260"
+note 11="#=0 % 701.886790"
+note 12="#=0 % 792.452830"
+note 13="#=0 % 837.735850"
+note 14="#=0 % 905.660380"
+note 15="#=0 % 996.226420"
+note 16="#=0 % 1041.509430"
+note 17="#=0 % 1109.433960"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

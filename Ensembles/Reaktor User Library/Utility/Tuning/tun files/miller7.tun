@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Herman Miller, 7-limit JI. mode of parizek_ji1
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=84
+note 2=204
+note 3=316
+note 4=400
+note 5=520
+note 6=583
+note 7=702
+note 8=786
+note 9=898
+note 10=1018
+note 11=1102
+note 12=1200
+note 13=1284
+note 14=1404
+note 15=1516
+note 16=1600
+note 17=1720
+note 18=1783
+note 19=1902
+note 20=1986
+note 21=2098
+note 22=2218
+note 23=2302
+note 24=2400
+note 25=2484
+note 26=2604
+note 27=2716
+note 28=2800
+note 29=2920
+note 30=2983
+note 31=3102
+note 32=3186
+note 33=3298
+note 34=3418
+note 35=3502
+note 36=3600
+note 37=3684
+note 38=3804
+note 39=3916
+note 40=4000
+note 41=4120
+note 42=4183
+note 43=4302
+note 44=4386
+note 45=4498
+note 46=4618
+note 47=4702
+note 48=4800
+note 49=4884
+note 50=5004
+note 51=5116
+note 52=5200
+note 53=5320
+note 54=5383
+note 55=5502
+note 56=5586
+note 57=5698
+note 58=5818
+note 59=5902
+note 60=6000
+note 61=6084
+note 62=6204
+note 63=6316
+note 64=6400
+note 65=6520
+note 66=6583
+note 67=6702
+note 68=6786
+note 69=6898
+note 70=7018
+note 71=7102
+note 72=7200
+note 73=7284
+note 74=7404
+note 75=7516
+note 76=7600
+note 77=7720
+note 78=7783
+note 79=7902
+note 80=7986
+note 81=8098
+note 82=8218
+note 83=8302
+note 84=8400
+note 85=8484
+note 86=8604
+note 87=8716
+note 88=8800
+note 89=8920
+note 90=8983
+note 91=9102
+note 92=9186
+note 93=9298
+note 94=9418
+note 95=9502
+note 96=9600
+note 97=9684
+note 98=9804
+note 99=9916
+note 100=10000
+note 101=10120
+note 102=10183
+note 103=10302
+note 104=10386
+note 105=10498
+note 106=10618
+note 107=10702
+note 108=10800
+note 109=10884
+note 110=11004
+note 111=11116
+note 112=11200
+note 113=11320
+note 114=11383
+note 115=11502
+note 116=11586
+note 117=11698
+note 118=11818
+note 119=11902
+note 120=12000
+note 121=12084
+note 122=12204
+note 123=12316
+note 124=12400
+note 125=12520
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miller7.tun"
+ID= "ID_miller7.tun"
+Filename= "miller7.scl"
+Description= "Herman Miller, 7-limit JI. mode of parizek_ji1"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 84.467193
+note 2= 203.910002
+note 3= 315.641287
+note 4= 400.108480
+note 5= 519.551289
+note 6= 582.512193
+note 7= 701.955001
+note 8= 786.422194
+note 9= 898.153480
+note 10= 1017.596288
+note 11= 1102.063481
+note 12= 1200.000000
+note 13= 1284.467193
+note 14= 1403.910002
+note 15= 1515.641287
+note 16= 1600.108480
+note 17= 1719.551289
+note 18= 1782.512193
+note 19= 1901.955001
+note 20= 1986.422194
+note 21= 2098.153480
+note 22= 2217.596288
+note 23= 2302.063481
+note 24= 2400.000000
+note 25= 2484.467193
+note 26= 2603.910002
+note 27= 2715.641287
+note 28= 2800.108480
+note 29= 2919.551289
+note 30= 2982.512193
+note 31= 3101.955001
+note 32= 3186.422194
+note 33= 3298.153480
+note 34= 3417.596288
+note 35= 3502.063481
+note 36= 3600.000000
+note 37= 3684.467193
+note 38= 3803.910002
+note 39= 3915.641287
+note 40= 4000.108480
+note 41= 4119.551289
+note 42= 4182.512193
+note 43= 4301.955001
+note 44= 4386.422194
+note 45= 4498.153480
+note 46= 4617.596288
+note 47= 4702.063481
+note 48= 4800.000000
+note 49= 4884.467193
+note 50= 5003.910002
+note 51= 5115.641287
+note 52= 5200.108480
+note 53= 5319.551289
+note 54= 5382.512193
+note 55= 5501.955001
+note 56= 5586.422194
+note 57= 5698.153480
+note 58= 5817.596288
+note 59= 5902.063481
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6203.910002
+note 63= 6315.641287
+note 64= 6400.108480
+note 65= 6519.551289
+note 66= 6582.512193
+note 67= 6701.955001
+note 68= 6786.422194
+note 69= 6898.153480
+note 70= 7017.596288
+note 71= 7102.063481
+note 72= 7200.000000
+note 73= 7284.467193
+note 74= 7403.910002
+note 75= 7515.641287
+note 76= 7600.108480
+note 77= 7719.551289
+note 78= 7782.512193
+note 79= 7901.955001
+note 80= 7986.422194
+note 81= 8098.153480
+note 82= 8217.596288
+note 83= 8302.063481
+note 84= 8400.000000
+note 85= 8484.467193
+note 86= 8603.910002
+note 87= 8715.641287
+note 88= 8800.108480
+note 89= 8919.551289
+note 90= 8982.512193
+note 91= 9101.955001
+note 92= 9186.422194
+note 93= 9298.153480
+note 94= 9417.596288
+note 95= 9502.063481
+note 96= 9600.000000
+note 97= 9684.467193
+note 98= 9803.910002
+note 99= 9915.641287
+note 100= 10000.108480
+note 101= 10119.551289
+note 102= 10182.512193
+note 103= 10301.955001
+note 104= 10386.422194
+note 105= 10498.153480
+note 106= 10617.596288
+note 107= 10702.063481
+note 108= 10800.000000
+note 109= 10884.467193
+note 110= 11003.910002
+note 111= 11115.641287
+note 112= 11200.108480
+note 113= 11319.551289
+note 114= 11382.512193
+note 115= 11501.955001
+note 116= 11586.422194
+note 117= 11698.153480
+note 118= 11817.596288
+note 119= 11902.063481
+note 120= 12000.000000
+note 121= 12084.467193
+note 122= 12203.910002
+note 123= 12315.641287
+note 124= 12400.108480
+note 125= 12519.551289
+note 126= 12582.512193
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 9/8"
+note 3="#=0 * 6/5"
+note 4="#=0 * 63/50"
+note 5="#=0 * 27/20"
+note 6="#=0 * 7/5"
+note 7="#=0 * 3/2"
+note 8="#=0 * 63/40"
+note 9="#=0 * 42/25"
+note 10="#=0 * 9/5"
+note 11="#=0 * 189/100"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

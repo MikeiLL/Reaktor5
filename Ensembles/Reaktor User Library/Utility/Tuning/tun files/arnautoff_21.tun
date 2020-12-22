@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Philip Arnautoff, transposed Archytas enharmonic (2005), 1/1 vol 12/1
+;
+; VAZ Plus section
+[Tuning]
+note 0=2604
+note 1=2667
+note 2=2716
+note 3=2786
+note 4=2835
+note 5=2898
+note 6=2961
+note 7=2990
+note 8=3010
+note 9=3039
+note 10=3102
+note 11=3165
+note 12=3214
+note 13=3284
+note 14=3333
+note 15=3396
+note 16=3488
+note 17=3537
+note 18=3600
+note 19=3663
+note 20=3712
+note 21=3804
+note 22=3867
+note 23=3916
+note 24=3986
+note 25=4035
+note 26=4098
+note 27=4161
+note 28=4190
+note 29=4210
+note 30=4239
+note 31=4302
+note 32=4365
+note 33=4414
+note 34=4484
+note 35=4533
+note 36=4596
+note 37=4688
+note 38=4737
+note 39=4800
+note 40=4863
+note 41=4912
+note 42=5004
+note 43=5067
+note 44=5116
+note 45=5186
+note 46=5235
+note 47=5298
+note 48=5361
+note 49=5390
+note 50=5410
+note 51=5439
+note 52=5502
+note 53=5565
+note 54=5614
+note 55=5684
+note 56=5733
+note 57=5796
+note 58=5888
+note 59=5937
+note 60=6000
+note 61=6063
+note 62=6112
+note 63=6204
+note 64=6267
+note 65=6316
+note 66=6386
+note 67=6435
+note 68=6498
+note 69=6561
+note 70=6590
+note 71=6610
+note 72=6639
+note 73=6702
+note 74=6765
+note 75=6814
+note 76=6884
+note 77=6933
+note 78=6996
+note 79=7088
+note 80=7137
+note 81=7200
+note 82=7263
+note 83=7312
+note 84=7404
+note 85=7467
+note 86=7516
+note 87=7586
+note 88=7635
+note 89=7698
+note 90=7761
+note 91=7790
+note 92=7810
+note 93=7839
+note 94=7902
+note 95=7965
+note 96=8014
+note 97=8084
+note 98=8133
+note 99=8196
+note 100=8288
+note 101=8337
+note 102=8400
+note 103=8463
+note 104=8512
+note 105=8604
+note 106=8667
+note 107=8716
+note 108=8786
+note 109=8835
+note 110=8898
+note 111=8961
+note 112=8990
+note 113=9010
+note 114=9039
+note 115=9102
+note 116=9165
+note 117=9214
+note 118=9284
+note 119=9333
+note 120=9396
+note 121=9488
+note 122=9537
+note 123=9600
+note 124=9663
+note 125=9712
+note 126=9804
+note 127=9867
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "arnautoff_21.tun"
+ID= "ID_arnautoff_21.tun"
+Filename= "arnautoff_21.scl"
+Description= "Philip Arnautoff, transposed Archytas enharmonic (2005), 1/1 vol 12/1"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2603.910002
+note 1= 2666.870906
+note 2= 2715.641287
+note 3= 2786.313714
+note 4= 2835.084095
+note 5= 2898.044999
+note 6= 2961.005903
+note 7= 2990.223716
+note 8= 3009.776284
+note 9= 3038.994097
+note 10= 3101.955001
+note 11= 3164.915905
+note 12= 3213.686286
+note 13= 3284.358713
+note 14= 3333.129094
+note 15= 3396.089998
+note 16= 3488.268715
+note 17= 3537.039096
+note 18= 3600.000000
+note 19= 3662.960904
+note 20= 3711.731285
+note 21= 3803.910002
+note 22= 3866.870906
+note 23= 3915.641287
+note 24= 3986.313714
+note 25= 4035.084095
+note 26= 4098.044999
+note 27= 4161.005903
+note 28= 4190.223716
+note 29= 4209.776284
+note 30= 4238.994097
+note 31= 4301.955001
+note 32= 4364.915905
+note 33= 4413.686286
+note 34= 4484.358713
+note 35= 4533.129094
+note 36= 4596.089998
+note 37= 4688.268715
+note 38= 4737.039096
+note 39= 4800.000000
+note 40= 4862.960904
+note 41= 4911.731285
+note 42= 5003.910002
+note 43= 5066.870906
+note 44= 5115.641287
+note 45= 5186.313714
+note 46= 5235.084095
+note 47= 5298.044999
+note 48= 5361.005903
+note 49= 5390.223716
+note 50= 5409.776284
+note 51= 5438.994097
+note 52= 5501.955001
+note 53= 5564.915905
+note 54= 5613.686286
+note 55= 5684.358713
+note 56= 5733.129094
+note 57= 5796.089998
+note 58= 5888.268715
+note 59= 5937.039096
+note 60= 6000.000000
+note 61= 6062.960904
+note 62= 6111.731285
+note 63= 6203.910002
+note 64= 6266.870906
+note 65= 6315.641287
+note 66= 6386.313714
+note 67= 6435.084095
+note 68= 6498.044999
+note 69= 6561.005903
+note 70= 6590.223716
+note 71= 6609.776284
+note 72= 6638.994097
+note 73= 6701.955001
+note 74= 6764.915905
+note 75= 6813.686286
+note 76= 6884.358713
+note 77= 6933.129094
+note 78= 6996.089998
+note 79= 7088.268715
+note 80= 7137.039096
+note 81= 7200.000000
+note 82= 7262.960904
+note 83= 7311.731285
+note 84= 7403.910002
+note 85= 7466.870906
+note 86= 7515.641287
+note 87= 7586.313714
+note 88= 7635.084095
+note 89= 7698.044999
+note 90= 7761.005903
+note 91= 7790.223716
+note 92= 7809.776284
+note 93= 7838.994097
+note 94= 7901.955001
+note 95= 7964.915905
+note 96= 8013.686286
+note 97= 8084.358713
+note 98= 8133.129094
+note 99= 8196.089998
+note 100= 8288.268715
+note 101= 8337.039096
+note 102= 8400.000000
+note 103= 8462.960904
+note 104= 8511.731285
+note 105= 8603.910002
+note 106= 8666.870906
+note 107= 8715.641287
+note 108= 8786.313714
+note 109= 8835.084095
+note 110= 8898.044999
+note 111= 8961.005903
+note 112= 8990.223716
+note 113= 9009.776284
+note 114= 9038.994097
+note 115= 9101.955001
+note 116= 9164.915905
+note 117= 9213.686286
+note 118= 9284.358713
+note 119= 9333.129094
+note 120= 9396.089998
+note 121= 9488.268715
+note 122= 9537.039096
+note 123= 9600.000000
+note 124= 9662.960904
+note 125= 9711.731285
+note 126= 9803.910002
+note 127= 9866.870906
+
+[Functional Tuning]
+note 1="#=0 * 28/27"
+note 2="#=0 * 16/15"
+note 3="#=0 * 9/8"
+note 4="#=0 * 7/6"
+note 5="#=0 * 6/5"
+note 6="#=0 * 5/4"
+note 7="#=0 * 9/7"
+note 8="#=0 * 4/3"
+note 9="#=0 * 112/81"
+note 10="#=0 * 45/32"
+note 11="#=0 * 64/45"
+note 12="#=0 * 81/56"
+note 13="#=0 * 3/2"
+note 14="#=0 * 14/9"
+note 15="#=0 * 8/5"
+note 16="#=0 * 5/3"
+note 17="#=0 * 12/7"
+note 18="#=0 * 16/9"
+note 19="#=0 * 15/8"
+note 20="#=0 * 27/14"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

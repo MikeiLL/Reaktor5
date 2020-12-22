@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; g=9 steps of 139-tET. Gene Ward Smith "Quartaminorthirds" 7-limit temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=1511
+note 1=1588
+note 2=1666
+note 3=1744
+note 4=1822
+note 5=1899
+note 6=1977
+note 7=2055
+note 8=2132
+note 9=2210
+note 10=2288
+note 11=2365
+note 12=2400
+note 13=2478
+note 14=2555
+note 15=2633
+note 16=2711
+note 17=2788
+note 18=2866
+note 19=2944
+note 20=3022
+note 21=3099
+note 22=3177
+note 23=3255
+note 24=3332
+note 25=3410
+note 26=3488
+note 27=3565
+note 28=3600
+note 29=3678
+note 30=3755
+note 31=3833
+note 32=3911
+note 33=3988
+note 34=4066
+note 35=4144
+note 36=4222
+note 37=4299
+note 38=4377
+note 39=4455
+note 40=4532
+note 41=4610
+note 42=4688
+note 43=4765
+note 44=4800
+note 45=4878
+note 46=4955
+note 47=5033
+note 48=5111
+note 49=5188
+note 50=5266
+note 51=5344
+note 52=5422
+note 53=5499
+note 54=5577
+note 55=5655
+note 56=5732
+note 57=5810
+note 58=5888
+note 59=5965
+note 60=6000
+note 61=6078
+note 62=6155
+note 63=6233
+note 64=6311
+note 65=6388
+note 66=6466
+note 67=6544
+note 68=6622
+note 69=6699
+note 70=6777
+note 71=6855
+note 72=6932
+note 73=7010
+note 74=7088
+note 75=7165
+note 76=7200
+note 77=7278
+note 78=7355
+note 79=7433
+note 80=7511
+note 81=7588
+note 82=7666
+note 83=7744
+note 84=7822
+note 85=7899
+note 86=7977
+note 87=8055
+note 88=8132
+note 89=8210
+note 90=8288
+note 91=8365
+note 92=8400
+note 93=8478
+note 94=8555
+note 95=8633
+note 96=8711
+note 97=8788
+note 98=8866
+note 99=8944
+note 100=9022
+note 101=9099
+note 102=9177
+note 103=9255
+note 104=9332
+note 105=9410
+note 106=9488
+note 107=9565
+note 108=9600
+note 109=9678
+note 110=9755
+note 111=9833
+note 112=9911
+note 113=9988
+note 114=10066
+note 115=10144
+note 116=10222
+note 117=10299
+note 118=10377
+note 119=10455
+note 120=10532
+note 121=10610
+note 122=10688
+note 123=10765
+note 124=10800
+note 125=10878
+note 126=10955
+note 127=11033
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "16-139.tun"
+ID= "ID_16-139.tun"
+Filename= "16-139.scl"
+Description= "g=9 steps of 139-tET. Gene Ward Smith "Quartaminorthirds" 7-limit temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1510.791370
+note 1= 1588.489210
+note 2= 1666.187050
+note 3= 1743.884890
+note 4= 1821.582730
+note 5= 1899.280580
+note 6= 1976.978420
+note 7= 2054.676260
+note 8= 2132.374100
+note 9= 2210.071940
+note 10= 2287.769780
+note 11= 2365.467630
+note 12= 2400.000000
+note 13= 2477.697840
+note 14= 2555.395680
+note 15= 2633.093530
+note 16= 2710.791370
+note 17= 2788.489210
+note 18= 2866.187050
+note 19= 2943.884890
+note 20= 3021.582730
+note 21= 3099.280580
+note 22= 3176.978420
+note 23= 3254.676260
+note 24= 3332.374100
+note 25= 3410.071940
+note 26= 3487.769780
+note 27= 3565.467630
+note 28= 3600.000000
+note 29= 3677.697840
+note 30= 3755.395680
+note 31= 3833.093530
+note 32= 3910.791370
+note 33= 3988.489210
+note 34= 4066.187050
+note 35= 4143.884890
+note 36= 4221.582730
+note 37= 4299.280580
+note 38= 4376.978420
+note 39= 4454.676260
+note 40= 4532.374100
+note 41= 4610.071940
+note 42= 4687.769780
+note 43= 4765.467630
+note 44= 4800.000000
+note 45= 4877.697840
+note 46= 4955.395680
+note 47= 5033.093530
+note 48= 5110.791370
+note 49= 5188.489210
+note 50= 5266.187050
+note 51= 5343.884890
+note 52= 5421.582730
+note 53= 5499.280580
+note 54= 5576.978420
+note 55= 5654.676260
+note 56= 5732.374100
+note 57= 5810.071940
+note 58= 5887.769780
+note 59= 5965.467630
+note 60= 6000.000000
+note 61= 6077.697840
+note 62= 6155.395680
+note 63= 6233.093530
+note 64= 6310.791370
+note 65= 6388.489210
+note 66= 6466.187050
+note 67= 6543.884890
+note 68= 6621.582730
+note 69= 6699.280580
+note 70= 6776.978420
+note 71= 6854.676260
+note 72= 6932.374100
+note 73= 7010.071940
+note 74= 7087.769780
+note 75= 7165.467630
+note 76= 7200.000000
+note 77= 7277.697840
+note 78= 7355.395680
+note 79= 7433.093530
+note 80= 7510.791370
+note 81= 7588.489210
+note 82= 7666.187050
+note 83= 7743.884890
+note 84= 7821.582730
+note 85= 7899.280580
+note 86= 7976.978420
+note 87= 8054.676260
+note 88= 8132.374100
+note 89= 8210.071940
+note 90= 8287.769780
+note 91= 8365.467630
+note 92= 8400.000000
+note 93= 8477.697840
+note 94= 8555.395680
+note 95= 8633.093530
+note 96= 8710.791370
+note 97= 8788.489210
+note 98= 8866.187050
+note 99= 8943.884890
+note 100= 9021.582730
+note 101= 9099.280580
+note 102= 9176.978420
+note 103= 9254.676260
+note 104= 9332.374100
+note 105= 9410.071940
+note 106= 9487.769780
+note 107= 9565.467630
+note 108= 9600.000000
+note 109= 9677.697840
+note 110= 9755.395680
+note 111= 9833.093530
+note 112= 9910.791370
+note 113= 9988.489210
+note 114= 10066.187050
+note 115= 10143.884890
+note 116= 10221.582730
+note 117= 10299.280580
+note 118= 10376.978420
+note 119= 10454.676260
+note 120= 10532.374100
+note 121= 10610.071940
+note 122= 10687.769780
+note 123= 10765.467630
+note 124= 10800.000000
+note 125= 10877.697840
+note 126= 10955.395680
+note 127= 11033.093530
+
+[Functional Tuning]
+note 1="#=0 % 77.697840"
+note 2="#=0 % 155.395680"
+note 3="#=0 % 233.093530"
+note 4="#=0 % 310.791370"
+note 5="#=0 % 388.489210"
+note 6="#=0 % 466.187050"
+note 7="#=0 % 543.884890"
+note 8="#=0 % 621.582730"
+note 9="#=0 % 699.280580"
+note 10="#=0 % 776.978420"
+note 11="#=0 % 854.676260"
+note 12="#=0 % 932.374100"
+note 13="#=0 % 1010.071940"
+note 14="#=0 % 1087.769780"
+note 15="#=0 % 1165.467630"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

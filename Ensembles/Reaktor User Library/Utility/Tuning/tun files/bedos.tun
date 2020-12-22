@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Temperament of Dom François Bédos de Celles (1770), after M. Tessmer
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=75
+note 2=191
+note 3=311
+note 4=386
+note 5=502
+note 6=577
+note 7=698
+note 8=773
+note 9=889
+note 10=1009
+note 11=1084
+note 12=1200
+note 13=1275
+note 14=1391
+note 15=1511
+note 16=1586
+note 17=1702
+note 18=1777
+note 19=1898
+note 20=1973
+note 21=2089
+note 22=2209
+note 23=2284
+note 24=2400
+note 25=2475
+note 26=2591
+note 27=2711
+note 28=2786
+note 29=2902
+note 30=2977
+note 31=3098
+note 32=3173
+note 33=3289
+note 34=3409
+note 35=3484
+note 36=3600
+note 37=3675
+note 38=3791
+note 39=3911
+note 40=3986
+note 41=4102
+note 42=4177
+note 43=4298
+note 44=4373
+note 45=4489
+note 46=4609
+note 47=4684
+note 48=4800
+note 49=4875
+note 50=4991
+note 51=5111
+note 52=5186
+note 53=5302
+note 54=5377
+note 55=5498
+note 56=5573
+note 57=5689
+note 58=5809
+note 59=5884
+note 60=6000
+note 61=6075
+note 62=6191
+note 63=6311
+note 64=6386
+note 65=6502
+note 66=6577
+note 67=6698
+note 68=6773
+note 69=6889
+note 70=7009
+note 71=7084
+note 72=7200
+note 73=7275
+note 74=7391
+note 75=7511
+note 76=7586
+note 77=7702
+note 78=7777
+note 79=7898
+note 80=7973
+note 81=8089
+note 82=8209
+note 83=8284
+note 84=8400
+note 85=8475
+note 86=8591
+note 87=8711
+note 88=8786
+note 89=8902
+note 90=8977
+note 91=9098
+note 92=9173
+note 93=9289
+note 94=9409
+note 95=9484
+note 96=9600
+note 97=9675
+note 98=9791
+note 99=9911
+note 100=9986
+note 101=10102
+note 102=10177
+note 103=10298
+note 104=10373
+note 105=10489
+note 106=10609
+note 107=10684
+note 108=10800
+note 109=10875
+note 110=10991
+note 111=11111
+note 112=11186
+note 113=11302
+note 114=11377
+note 115=11498
+note 116=11573
+note 117=11689
+note 118=11809
+note 119=11884
+note 120=12000
+note 121=12075
+note 122=12191
+note 123=12311
+note 124=12386
+note 125=12502
+note 126=12577
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bedos.tun"
+ID= "ID_bedos.tun"
+Filename= "bedos.scl"
+Description= "Temperament of Dom François Bédos de Celles (1770), after M. Tessmer"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 74.973680
+note 2= 191.006230
+note 3= 311.340030
+note 4= 386.313714
+note 5= 502.346260
+note 6= 577.319940
+note 7= 697.653740
+note 8= 772.627428
+note 9= 888.659970
+note 10= 1008.993770
+note 11= 1083.967460
+note 12= 1200.000000
+note 13= 1274.973680
+note 14= 1391.006230
+note 15= 1511.340030
+note 16= 1586.313714
+note 17= 1702.346260
+note 18= 1777.319940
+note 19= 1897.653740
+note 20= 1972.627428
+note 21= 2088.659970
+note 22= 2208.993770
+note 23= 2283.967460
+note 24= 2400.000000
+note 25= 2474.973680
+note 26= 2591.006230
+note 27= 2711.340030
+note 28= 2786.313714
+note 29= 2902.346260
+note 30= 2977.319940
+note 31= 3097.653740
+note 32= 3172.627428
+note 33= 3288.659970
+note 34= 3408.993770
+note 35= 3483.967460
+note 36= 3600.000000
+note 37= 3674.973680
+note 38= 3791.006230
+note 39= 3911.340030
+note 40= 3986.313714
+note 41= 4102.346260
+note 42= 4177.319940
+note 43= 4297.653740
+note 44= 4372.627428
+note 45= 4488.659970
+note 46= 4608.993770
+note 47= 4683.967460
+note 48= 4800.000000
+note 49= 4874.973680
+note 50= 4991.006230
+note 51= 5111.340030
+note 52= 5186.313714
+note 53= 5302.346260
+note 54= 5377.319940
+note 55= 5497.653740
+note 56= 5572.627428
+note 57= 5688.659970
+note 58= 5808.993770
+note 59= 5883.967460
+note 60= 6000.000000
+note 61= 6074.973680
+note 62= 6191.006230
+note 63= 6311.340030
+note 64= 6386.313714
+note 65= 6502.346260
+note 66= 6577.319940
+note 67= 6697.653740
+note 68= 6772.627428
+note 69= 6888.659970
+note 70= 7008.993770
+note 71= 7083.967460
+note 72= 7200.000000
+note 73= 7274.973680
+note 74= 7391.006230
+note 75= 7511.340030
+note 76= 7586.313714
+note 77= 7702.346260
+note 78= 7777.319940
+note 79= 7897.653740
+note 80= 7972.627428
+note 81= 8088.659970
+note 82= 8208.993770
+note 83= 8283.967460
+note 84= 8400.000000
+note 85= 8474.973680
+note 86= 8591.006230
+note 87= 8711.340030
+note 88= 8786.313714
+note 89= 8902.346260
+note 90= 8977.319940
+note 91= 9097.653740
+note 92= 9172.627428
+note 93= 9288.659970
+note 94= 9408.993770
+note 95= 9483.967460
+note 96= 9600.000000
+note 97= 9674.973680
+note 98= 9791.006230
+note 99= 9911.340030
+note 100= 9986.313714
+note 101= 10102.346260
+note 102= 10177.319940
+note 103= 10297.653740
+note 104= 10372.627428
+note 105= 10488.659970
+note 106= 10608.993770
+note 107= 10683.967460
+note 108= 10800.000000
+note 109= 10874.973680
+note 110= 10991.006230
+note 111= 11111.340030
+note 112= 11186.313714
+note 113= 11302.346260
+note 114= 11377.319940
+note 115= 11497.653740
+note 116= 11572.627428
+note 117= 11688.659970
+note 118= 11808.993770
+note 119= 11883.967460
+note 120= 12000.000000
+note 121= 12074.973680
+note 122= 12191.006230
+note 123= 12311.340030
+note 124= 12386.313714
+note 125= 12502.346260
+note 126= 12577.319940
+note 127= 12697.653740
+
+[Functional Tuning]
+note 1="#=0 % 74.973680"
+note 2="#=0 % 191.006230"
+note 3="#=0 % 311.340030"
+note 4="#=0 * 5/4"
+note 5="#=0 % 502.346260"
+note 6="#=0 % 577.319940"
+note 7="#=0 % 697.653740"
+note 8="#=0 * 25/16"
+note 9="#=0 % 888.659970"
+note 10="#=0 % 1008.993770"
+note 11="#=0 % 1083.967460"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

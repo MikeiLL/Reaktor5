@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bali-Bala[14] (676/675 tempering), equal-beating version
+;
+; VAZ Plus section
+[Tuning]
+note 0=908
+note 1=951
+note 2=995
+note 3=1157
+note 4=1200
+note 5=1243
+note 6=1405
+note 7=1449
+note 8=1492
+note 9=1654
+note 10=1697
+note 11=1859
+note 12=1903
+note 13=1946
+note 14=2108
+note 15=2151
+note 16=2195
+note 17=2357
+note 18=2400
+note 19=2443
+note 20=2605
+note 21=2649
+note 22=2692
+note 23=2854
+note 24=2897
+note 25=3059
+note 26=3103
+note 27=3146
+note 28=3308
+note 29=3351
+note 30=3395
+note 31=3557
+note 32=3600
+note 33=3643
+note 34=3805
+note 35=3849
+note 36=3892
+note 37=4054
+note 38=4097
+note 39=4259
+note 40=4303
+note 41=4346
+note 42=4508
+note 43=4551
+note 44=4595
+note 45=4757
+note 46=4800
+note 47=4843
+note 48=5005
+note 49=5049
+note 50=5092
+note 51=5254
+note 52=5297
+note 53=5459
+note 54=5503
+note 55=5546
+note 56=5708
+note 57=5751
+note 58=5795
+note 59=5957
+note 60=6000
+note 61=6043
+note 62=6205
+note 63=6249
+note 64=6292
+note 65=6454
+note 66=6497
+note 67=6659
+note 68=6703
+note 69=6746
+note 70=6908
+note 71=6951
+note 72=6995
+note 73=7157
+note 74=7200
+note 75=7243
+note 76=7405
+note 77=7449
+note 78=7492
+note 79=7654
+note 80=7697
+note 81=7859
+note 82=7903
+note 83=7946
+note 84=8108
+note 85=8151
+note 86=8195
+note 87=8357
+note 88=8400
+note 89=8443
+note 90=8605
+note 91=8649
+note 92=8692
+note 93=8854
+note 94=8897
+note 95=9059
+note 96=9103
+note 97=9146
+note 98=9308
+note 99=9351
+note 100=9395
+note 101=9557
+note 102=9600
+note 103=9643
+note 104=9805
+note 105=9849
+note 106=9892
+note 107=10054
+note 108=10097
+note 109=10259
+note 110=10303
+note 111=10346
+note 112=10508
+note 113=10551
+note 114=10595
+note 115=10757
+note 116=10800
+note 117=10843
+note 118=11005
+note 119=11049
+note 120=11092
+note 121=11254
+note 122=11297
+note 123=11459
+note 124=11503
+note 125=11546
+note 126=11708
+note 127=11751
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_bali-balaeb_14.tun"
+ID= "ID_dudon_bali-balaeb_14.tun"
+Filename= "dudon_bali-balaeb_14.scl"
+Description= "Bali-Bala[14] (676/675 tempering), equal-beating version"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 908.086099
+note 1= 951.347683
+note 2= 994.609267
+note 3= 1156.738416
+note 4= 1200.000000
+note 5= 1243.261584
+note 6= 1405.390733
+note 7= 1448.652317
+note 8= 1491.913901
+note 9= 1654.043049
+note 10= 1697.304634
+note 11= 1859.433782
+note 12= 1902.695366
+note 13= 1945.956951
+note 14= 2108.086099
+note 15= 2151.347683
+note 16= 2194.609267
+note 17= 2356.738416
+note 18= 2400.000000
+note 19= 2443.261584
+note 20= 2605.390733
+note 21= 2648.652317
+note 22= 2691.913901
+note 23= 2854.043049
+note 24= 2897.304634
+note 25= 3059.433782
+note 26= 3102.695366
+note 27= 3145.956951
+note 28= 3308.086099
+note 29= 3351.347683
+note 30= 3394.609267
+note 31= 3556.738416
+note 32= 3600.000000
+note 33= 3643.261584
+note 34= 3805.390733
+note 35= 3848.652317
+note 36= 3891.913901
+note 37= 4054.043049
+note 38= 4097.304634
+note 39= 4259.433782
+note 40= 4302.695366
+note 41= 4345.956951
+note 42= 4508.086099
+note 43= 4551.347683
+note 44= 4594.609267
+note 45= 4756.738416
+note 46= 4800.000000
+note 47= 4843.261584
+note 48= 5005.390733
+note 49= 5048.652317
+note 50= 5091.913901
+note 51= 5254.043049
+note 52= 5297.304634
+note 53= 5459.433782
+note 54= 5502.695366
+note 55= 5545.956951
+note 56= 5708.086099
+note 57= 5751.347683
+note 58= 5794.609267
+note 59= 5956.738416
+note 60= 6000.000000
+note 61= 6043.261584
+note 62= 6205.390733
+note 63= 6248.652317
+note 64= 6291.913901
+note 65= 6454.043049
+note 66= 6497.304634
+note 67= 6659.433782
+note 68= 6702.695366
+note 69= 6745.956951
+note 70= 6908.086099
+note 71= 6951.347683
+note 72= 6994.609267
+note 73= 7156.738416
+note 74= 7200.000000
+note 75= 7243.261584
+note 76= 7405.390733
+note 77= 7448.652317
+note 78= 7491.913901
+note 79= 7654.043049
+note 80= 7697.304634
+note 81= 7859.433782
+note 82= 7902.695366
+note 83= 7945.956951
+note 84= 8108.086099
+note 85= 8151.347683
+note 86= 8194.609267
+note 87= 8356.738416
+note 88= 8400.000000
+note 89= 8443.261584
+note 90= 8605.390733
+note 91= 8648.652317
+note 92= 8691.913901
+note 93= 8854.043049
+note 94= 8897.304634
+note 95= 9059.433782
+note 96= 9102.695366
+note 97= 9145.956951
+note 98= 9308.086099
+note 99= 9351.347683
+note 100= 9394.609267
+note 101= 9556.738416
+note 102= 9600.000000
+note 103= 9643.261584
+note 104= 9805.390733
+note 105= 9848.652317
+note 106= 9891.913901
+note 107= 10054.043049
+note 108= 10097.304634
+note 109= 10259.433782
+note 110= 10302.695366
+note 111= 10345.956951
+note 112= 10508.086099
+note 113= 10551.347683
+note 114= 10594.609267
+note 115= 10756.738416
+note 116= 10800.000000
+note 117= 10843.261584
+note 118= 11005.390733
+note 119= 11048.652317
+note 120= 11091.913901
+note 121= 11254.043049
+note 122= 11297.304634
+note 123= 11459.433782
+note 124= 11502.695366
+note 125= 11545.956951
+note 126= 11708.086099
+note 127= 11751.347683
+
+[Functional Tuning]
+note 1="#=0 % 43.261584"
+note 2="#=0 % 205.390733"
+note 3="#=0 % 248.652317"
+note 4="#=0 % 291.913901"
+note 5="#=0 % 454.043049"
+note 6="#=0 % 497.304634"
+note 7="#=0 % 659.433782"
+note 8="#=0 % 702.695366"
+note 9="#=0 % 745.956951"
+note 10="#=0 % 908.086099"
+note 11="#=0 % 951.347683"
+note 12="#=0 % 994.609267"
+note 13="#=0 % 1156.738416"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

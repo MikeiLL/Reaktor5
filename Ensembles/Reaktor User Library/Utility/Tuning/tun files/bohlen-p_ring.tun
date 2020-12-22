@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Todd Harrop, symmetrical ring of Bohlen-Pierce enharmonics using 4 major and 8 minor dieses (2012)
+;
+; VAZ Plus section
+[Tuning]
+note 0=-2794
+note 1=-2640
+note 2=-2478
+note 3=-2324
+note 4=-2176
+note 5=-2057
+note 6=-1888
+note 7=-1755
+note 8=-1608
+note 9=-1460
+note 10=-1327
+note 11=-1159
+note 12=-1039
+note 13=-892
+note 14=-738
+note 15=-576
+note 16=-422
+note 17=-274
+note 18=-155
+note 19=13
+note 20=147
+note 21=294
+note 22=442
+note 23=575
+note 24=743
+note 25=862
+note 26=1010
+note 27=1164
+note 28=1326
+note 29=1480
+note 30=1628
+note 31=1747
+note 32=1915
+note 33=2049
+note 34=2196
+note 35=2344
+note 36=2477
+note 37=2645
+note 38=2764
+note 39=2912
+note 40=3066
+note 41=3228
+note 42=3382
+note 43=3530
+note 44=3649
+note 45=3817
+note 46=3951
+note 47=4098
+note 48=4245
+note 49=4379
+note 50=4547
+note 51=4666
+note 52=4814
+note 53=4968
+note 54=5130
+note 55=5284
+note 56=5432
+note 57=5551
+note 58=5719
+note 59=5853
+note 60=6000
+note 61=6147
+note 62=6281
+note 63=6449
+note 64=6568
+note 65=6716
+note 66=6870
+note 67=7032
+note 68=7186
+note 69=7334
+note 70=7453
+note 71=7621
+note 72=7755
+note 73=7902
+note 74=8049
+note 75=8183
+note 76=8351
+note 77=8470
+note 78=8618
+note 79=8772
+note 80=8934
+note 81=9088
+note 82=9236
+note 83=9355
+note 84=9523
+note 85=9656
+note 86=9804
+note 87=9951
+note 88=10085
+note 89=10253
+note 90=10372
+note 91=10520
+note 92=10674
+note 93=10836
+note 94=10990
+note 95=11138
+note 96=11257
+note 97=11425
+note 98=11558
+note 99=11706
+note 100=11853
+note 101=11987
+note 102=12155
+note 103=12274
+note 104=12422
+note 105=12576
+note 106=12738
+note 107=12892
+note 108=13039
+note 109=13159
+note 110=13327
+note 111=13460
+note 112=13608
+note 113=13755
+note 114=13888
+note 115=14057
+note 116=14176
+note 117=14324
+note 118=14478
+note 119=14640
+note 120=14794
+note 121=14941
+note 122=15061
+note 123=15229
+note 124=15362
+note 125=15510
+note 126=15657
+note 127=15790
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bohlen-p_ring.tun"
+ID= "ID_bohlen-p_ring.tun"
+Filename= "bohlen-p_ring.scl"
+Description= "Todd Harrop, symmetrical ring of Bohlen-Pierce enharmonics using 4 major and 8 minor dieses (2012)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-2794.025237
+note 1=-2639.606814
+note 2=-2477.988194
+note 3=-2323.569771
+note 4=-2176.141674
+note 5=-2057.094621
+note 6=-1888.485676
+note 7=-1755.248101
+note 8=-1607.820003
+note 9=-1460.391906
+note 10=-1327.154331
+note 11=-1158.545386
+note 12=-1039.498333
+note 13=-892.070236
+note 14=-737.651813
+note 15=-576.033193
+note 16=-421.614770
+note 17=-274.186673
+note 18=-155.139620
+note 19= 13.469325
+note 20= 146.706900
+note 21= 294.134997
+note 22= 441.563095
+note 23= 574.800670
+note 24= 743.409615
+note 25= 862.456668
+note 26= 1009.884765
+note 27= 1164.303188
+note 28= 1325.921808
+note 29= 1480.340231
+note 30= 1627.768328
+note 31= 1746.815381
+note 32= 1915.424326
+note 33= 2048.661901
+note 34= 2196.089998
+note 35= 2343.518096
+note 36= 2476.755670
+note 37= 2645.364616
+note 38= 2764.411668
+note 39= 2911.839766
+note 40= 3066.258189
+note 41= 3227.876809
+note 42= 3382.295232
+note 43= 3529.723329
+note 44= 3648.770381
+note 45= 3817.379327
+note 46= 3950.616902
+note 47= 4098.044999
+note 48= 4245.473096
+note 49= 4378.710671
+note 50= 4547.319617
+note 51= 4666.366669
+note 52= 4813.794767
+note 53= 4968.213190
+note 54= 5129.831809
+note 55= 5284.250233
+note 56= 5431.678330
+note 57= 5550.725382
+note 58= 5719.334328
+note 59= 5852.571903
+note 60= 6000.000000
+note 61= 6147.428097
+note 62= 6280.665672
+note 63= 6449.274618
+note 64= 6568.321670
+note 65= 6715.749767
+note 66= 6870.168191
+note 67= 7031.786810
+note 68= 7186.205233
+note 69= 7333.633331
+note 70= 7452.680383
+note 71= 7621.289329
+note 72= 7754.526904
+note 73= 7901.955001
+note 74= 8049.383098
+note 75= 8182.620673
+note 76= 8351.229619
+note 77= 8470.276671
+note 78= 8617.704768
+note 79= 8772.123191
+note 80= 8933.741811
+note 81= 9088.160234
+note 82= 9235.588332
+note 83= 9354.635384
+note 84= 9523.244330
+note 85= 9656.481904
+note 86= 9803.910002
+note 87= 9951.338099
+note 88= 10084.575674
+note 89= 10253.184619
+note 90= 10372.231672
+note 91= 10519.659769
+note 92= 10674.078192
+note 93= 10835.696812
+note 94= 10990.115235
+note 95= 11137.543332
+note 96= 11256.590385
+note 97= 11425.199330
+note 98= 11558.436905
+note 99= 11705.865003
+note 100= 11853.293100
+note 101= 11986.530675
+note 102= 12155.139620
+note 103= 12274.186673
+note 104= 12421.614770
+note 105= 12576.033193
+note 106= 12737.651813
+note 107= 12892.070236
+note 108= 13039.498333
+note 109= 13158.545386
+note 110= 13327.154331
+note 111= 13460.391906
+note 112= 13607.820003
+note 113= 13755.248101
+note 114= 13888.485676
+note 115= 14057.094621
+note 116= 14176.141674
+note 117= 14323.569771
+note 118= 14477.988194
+note 119= 14639.606814
+note 120= 14794.025237
+note 121= 14941.453334
+note 122= 15060.500387
+note 123= 15229.109332
+note 124= 15362.346907
+note 125= 15509.775004
+note 126= 15657.203102
+note 127= 15790.440677
+
+[Functional Tuning]
+note 1="#=0 * 49/45"
+note 2="#=0 * 147/125"
+note 3="#=0 * 35/27"
+note 4="#=0 * 243/175"
+note 5="#=0 * 189/125"
+note 6="#=0 * 81/49"
+note 7="#=0 * 49/27"
+note 8="#=0 * 125/63"
+note 9="#=0 * 175/81"
+note 10="#=0 * 81/35"
+note 11="#=0 * 125/49"
+note 12="#=0 * 135/49"
+note 13="#>-13 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

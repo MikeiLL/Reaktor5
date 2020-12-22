@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Buzz Kimball 18-note just scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1973
+note 1=2084
+note 2=2106
+note 3=2177
+note 4=2196
+note 5=2288
+note 6=2400
+note 7=2471
+note 8=2492
+note 9=2582
+note 10=2604
+note 11=2675
+note 12=2786
+note 13=2808
+note 14=2898
+note 15=2969
+note 16=2990
+note 17=3102
+note 18=3173
+note 19=3284
+note 20=3306
+note 21=3377
+note 22=3396
+note 23=3488
+note 24=3600
+note 25=3671
+note 26=3692
+note 27=3782
+note 28=3804
+note 29=3875
+note 30=3986
+note 31=4008
+note 32=4098
+note 33=4169
+note 34=4190
+note 35=4302
+note 36=4373
+note 37=4484
+note 38=4506
+note 39=4577
+note 40=4596
+note 41=4688
+note 42=4800
+note 43=4871
+note 44=4892
+note 45=4982
+note 46=5004
+note 47=5075
+note 48=5186
+note 49=5208
+note 50=5298
+note 51=5369
+note 52=5390
+note 53=5502
+note 54=5573
+note 55=5684
+note 56=5706
+note 57=5777
+note 58=5796
+note 59=5888
+note 60=6000
+note 61=6071
+note 62=6092
+note 63=6182
+note 64=6204
+note 65=6275
+note 66=6386
+note 67=6408
+note 68=6498
+note 69=6569
+note 70=6590
+note 71=6702
+note 72=6773
+note 73=6884
+note 74=6906
+note 75=6977
+note 76=6996
+note 77=7088
+note 78=7200
+note 79=7271
+note 80=7292
+note 81=7382
+note 82=7404
+note 83=7475
+note 84=7586
+note 85=7608
+note 86=7698
+note 87=7769
+note 88=7790
+note 89=7902
+note 90=7973
+note 91=8084
+note 92=8106
+note 93=8177
+note 94=8196
+note 95=8288
+note 96=8400
+note 97=8471
+note 98=8492
+note 99=8582
+note 100=8604
+note 101=8675
+note 102=8786
+note 103=8808
+note 104=8898
+note 105=8969
+note 106=8990
+note 107=9102
+note 108=9173
+note 109=9284
+note 110=9306
+note 111=9377
+note 112=9396
+note 113=9488
+note 114=9600
+note 115=9671
+note 116=9692
+note 117=9782
+note 118=9804
+note 119=9875
+note 120=9986
+note 121=10008
+note 122=10098
+note 123=10169
+note 124=10190
+note 125=10302
+note 126=10373
+note 127=10484
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kimball.tun"
+ID= "ID_kimball.tun"
+Filename= "kimball.scl"
+Description= "Buzz Kimball 18-note just scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1972.627428
+note 1= 2084.358713
+note 2= 2105.865003
+note 3= 2176.537429
+note 4= 2196.089998
+note 5= 2288.268715
+note 6= 2400.000000
+note 7= 2470.672427
+note 8= 2492.178716
+note 9= 2582.403712
+note 10= 2603.910002
+note 11= 2674.582429
+note 12= 2786.313714
+note 13= 2807.820003
+note 14= 2898.044999
+note 15= 2968.717426
+note 16= 2990.223716
+note 17= 3101.955001
+note 18= 3172.627428
+note 19= 3284.358713
+note 20= 3305.865003
+note 21= 3376.537429
+note 22= 3396.089998
+note 23= 3488.268715
+note 24= 3600.000000
+note 25= 3670.672427
+note 26= 3692.178716
+note 27= 3782.403712
+note 28= 3803.910002
+note 29= 3874.582429
+note 30= 3986.313714
+note 31= 4007.820003
+note 32= 4098.044999
+note 33= 4168.717426
+note 34= 4190.223716
+note 35= 4301.955001
+note 36= 4372.627428
+note 37= 4484.358713
+note 38= 4505.865003
+note 39= 4576.537429
+note 40= 4596.089998
+note 41= 4688.268715
+note 42= 4800.000000
+note 43= 4870.672427
+note 44= 4892.178716
+note 45= 4982.403712
+note 46= 5003.910002
+note 47= 5074.582429
+note 48= 5186.313714
+note 49= 5207.820003
+note 50= 5298.044999
+note 51= 5368.717426
+note 52= 5390.223716
+note 53= 5501.955001
+note 54= 5572.627428
+note 55= 5684.358713
+note 56= 5705.865003
+note 57= 5776.537429
+note 58= 5796.089998
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6092.178716
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6274.582429
+note 66= 6386.313714
+note 67= 6407.820003
+note 68= 6498.044999
+note 69= 6568.717426
+note 70= 6590.223716
+note 71= 6701.955001
+note 72= 6772.627428
+note 73= 6884.358713
+note 74= 6905.865003
+note 75= 6976.537429
+note 76= 6996.089998
+note 77= 7088.268715
+note 78= 7200.000000
+note 79= 7270.672427
+note 80= 7292.178716
+note 81= 7382.403712
+note 82= 7403.910002
+note 83= 7474.582429
+note 84= 7586.313714
+note 85= 7607.820003
+note 86= 7698.044999
+note 87= 7768.717426
+note 88= 7790.223716
+note 89= 7901.955001
+note 90= 7972.627428
+note 91= 8084.358713
+note 92= 8105.865003
+note 93= 8176.537429
+note 94= 8196.089998
+note 95= 8288.268715
+note 96= 8400.000000
+note 97= 8470.672427
+note 98= 8492.178716
+note 99= 8582.403712
+note 100= 8603.910002
+note 101= 8674.582429
+note 102= 8786.313714
+note 103= 8807.820003
+note 104= 8898.044999
+note 105= 8968.717426
+note 106= 8990.223716
+note 107= 9101.955001
+note 108= 9172.627428
+note 109= 9284.358713
+note 110= 9305.865003
+note 111= 9376.537429
+note 112= 9396.089998
+note 113= 9488.268715
+note 114= 9600.000000
+note 115= 9670.672427
+note 116= 9692.178716
+note 117= 9782.403712
+note 118= 9803.910002
+note 119= 9874.582429
+note 120= 9986.313714
+note 121= 10007.820003
+note 122= 10098.044999
+note 123= 10168.717426
+note 124= 10190.223716
+note 125= 10301.955001
+note 126= 10372.627428
+note 127= 10484.358713
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 135/128"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 75/64"
+note 6="#=0 * 5/4"
+note 7="#=0 * 81/64"
+note 8="#=0 * 4/3"
+note 9="#=0 * 25/18"
+note 10="#=0 * 45/32"
+note 11="#=0 * 3/2"
+note 12="#=0 * 25/16"
+note 13="#=0 * 5/3"
+note 14="#=0 * 27/16"
+note 15="#=0 * 225/128"
+note 16="#=0 * 16/9"
+note 17="#=0 * 15/8"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

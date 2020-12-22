@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Common denominator=240 Farey approximation to 22-tET, no 7-limit harmonic waste
+;
+; VAZ Plus section
+[Tuning]
+note 0=2730
+note 1=2786
+note 2=2841
+note 3=2895
+note 4=2946
+note 5=3006
+note 6=3055
+note 7=3111
+note 8=3166
+note 9=3219
+note 10=3279
+note 11=3328
+note 12=3385
+note 13=3439
+note 14=3492
+note 15=3550
+note 16=3600
+note 17=3655
+note 18=3708
+note 19=3760
+note 20=3822
+note 21=3871
+note 22=3930
+note 23=3986
+note 24=4041
+note 25=4095
+note 26=4146
+note 27=4206
+note 28=4255
+note 29=4311
+note 30=4366
+note 31=4419
+note 32=4479
+note 33=4528
+note 34=4585
+note 35=4639
+note 36=4692
+note 37=4750
+note 38=4800
+note 39=4855
+note 40=4908
+note 41=4960
+note 42=5022
+note 43=5071
+note 44=5130
+note 45=5186
+note 46=5241
+note 47=5295
+note 48=5346
+note 49=5406
+note 50=5455
+note 51=5511
+note 52=5566
+note 53=5619
+note 54=5679
+note 55=5728
+note 56=5785
+note 57=5839
+note 58=5892
+note 59=5950
+note 60=6000
+note 61=6055
+note 62=6108
+note 63=6160
+note 64=6222
+note 65=6271
+note 66=6330
+note 67=6386
+note 68=6441
+note 69=6495
+note 70=6546
+note 71=6606
+note 72=6655
+note 73=6711
+note 74=6766
+note 75=6819
+note 76=6879
+note 77=6928
+note 78=6985
+note 79=7039
+note 80=7092
+note 81=7150
+note 82=7200
+note 83=7255
+note 84=7308
+note 85=7360
+note 86=7422
+note 87=7471
+note 88=7530
+note 89=7586
+note 90=7641
+note 91=7695
+note 92=7746
+note 93=7806
+note 94=7855
+note 95=7911
+note 96=7966
+note 97=8019
+note 98=8079
+note 99=8128
+note 100=8185
+note 101=8239
+note 102=8292
+note 103=8350
+note 104=8400
+note 105=8455
+note 106=8508
+note 107=8560
+note 108=8622
+note 109=8671
+note 110=8730
+note 111=8786
+note 112=8841
+note 113=8895
+note 114=8946
+note 115=9006
+note 116=9055
+note 117=9111
+note 118=9166
+note 119=9219
+note 120=9279
+note 121=9328
+note 122=9385
+note 123=9439
+note 124=9492
+note 125=9550
+note 126=9600
+note 127=9655
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "farey22_248.tun"
+ID= "ID_farey22_248.tun"
+Filename= "farey22_248.scl"
+Description= "Common denominator=240 Farey approximation to 22-tET, no 7-limit harmonic waste"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2729.546856
+note 1= 2786.313714
+note 2= 2841.278141
+note 3= 2894.551085
+note 4= 2946.233551
+note 5= 3006.282370
+note 6= 3054.779492
+note 7= 3111.237779
+note 8= 3165.912872
+note 9= 3218.913972
+note 10= 3278.765060
+note 11= 3328.468973
+note 12= 3384.708899
+note 13= 3439.179182
+note 14= 3491.987801
+note 15= 3550.431631
+note 16= 3600.000000
+note 17= 3654.964428
+note 18= 3708.237371
+note 19= 3759.919837
+note 20= 3822.426050
+note 21= 3870.855336
+note 22= 3929.546856
+note 23= 3986.313714
+note 24= 4041.278141
+note 25= 4094.551085
+note 26= 4146.233551
+note 27= 4206.282370
+note 28= 4254.779492
+note 29= 4311.237779
+note 30= 4365.912872
+note 31= 4418.913972
+note 32= 4478.765060
+note 33= 4528.468973
+note 34= 4584.708899
+note 35= 4639.179182
+note 36= 4691.987801
+note 37= 4750.431631
+note 38= 4800.000000
+note 39= 4854.964428
+note 40= 4908.237371
+note 41= 4959.919837
+note 42= 5022.426050
+note 43= 5070.855336
+note 44= 5129.546856
+note 45= 5186.313714
+note 46= 5241.278141
+note 47= 5294.551085
+note 48= 5346.233551
+note 49= 5406.282370
+note 50= 5454.779492
+note 51= 5511.237779
+note 52= 5565.912872
+note 53= 5618.913972
+note 54= 5678.765060
+note 55= 5728.468973
+note 56= 5784.708899
+note 57= 5839.179182
+note 58= 5891.987801
+note 59= 5950.431631
+note 60= 6000.000000
+note 61= 6054.964428
+note 62= 6108.237371
+note 63= 6159.919837
+note 64= 6222.426050
+note 65= 6270.855336
+note 66= 6329.546856
+note 67= 6386.313714
+note 68= 6441.278141
+note 69= 6494.551085
+note 70= 6546.233551
+note 71= 6606.282370
+note 72= 6654.779492
+note 73= 6711.237779
+note 74= 6765.912872
+note 75= 6818.913972
+note 76= 6878.765060
+note 77= 6928.468973
+note 78= 6984.708899
+note 79= 7039.179182
+note 80= 7091.987801
+note 81= 7150.431631
+note 82= 7200.000000
+note 83= 7254.964428
+note 84= 7308.237371
+note 85= 7359.919837
+note 86= 7422.426050
+note 87= 7470.855336
+note 88= 7529.546856
+note 89= 7586.313714
+note 90= 7641.278141
+note 91= 7694.551085
+note 92= 7746.233551
+note 93= 7806.282370
+note 94= 7854.779492
+note 95= 7911.237779
+note 96= 7965.912872
+note 97= 8018.913972
+note 98= 8078.765060
+note 99= 8128.468973
+note 100= 8184.708899
+note 101= 8239.179182
+note 102= 8291.987801
+note 103= 8350.431631
+note 104= 8400.000000
+note 105= 8454.964428
+note 106= 8508.237371
+note 107= 8559.919837
+note 108= 8622.426050
+note 109= 8670.855336
+note 110= 8729.546856
+note 111= 8786.313714
+note 112= 8841.278141
+note 113= 8894.551085
+note 114= 8946.233551
+note 115= 9006.282370
+note 116= 9054.779492
+note 117= 9111.237779
+note 118= 9165.912872
+note 119= 9218.913972
+note 120= 9278.765060
+note 121= 9328.468973
+note 122= 9384.708899
+note 123= 9439.179182
+note 124= 9491.987801
+note 125= 9550.431631
+note 126= 9600.000000
+note 127= 9654.964428
+
+[Functional Tuning]
+note 1="#=0 * 32/31"
+note 2="#=0 * 33/31"
+note 3="#=0 * 34/31"
+note 4="#=0 * 141/124"
+note 5="#=0 * 145/124"
+note 6="#=0 * 75/62"
+note 7="#=0 * 5/4"
+note 8="#=0 * 40/31"
+note 9="#=0 * 165/124"
+note 10="#=0 * 85/62"
+note 11="#=0 * 44/31"
+note 12="#=0 * 181/124"
+note 13="#=0 * 187/124"
+note 14="#=0 * 193/124"
+note 15="#=0 * 199/124"
+note 16="#=0 * 103/62"
+note 17="#=0 * 53/31"
+note 18="#=0 * 219/124"
+note 19="#=0 * 113/62"
+note 20="#=0 * 233/124"
+note 21="#=0 * 241/124"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

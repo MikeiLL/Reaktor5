@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Phi root of 2 generator, WF=Fibonacci series. Jacky Ligon/Aaron Johnson
+;
+; VAZ Plus section
+[Tuning]
+note 0=500
+note 1=567
+note 2=675
+note 3=742
+note 4=850
+note 5=958
+note 6=1025
+note 7=1133
+note 8=1200
+note 9=1308
+note 10=1416
+note 11=1483
+note 12=1591
+note 13=1700
+note 14=1767
+note 15=1875
+note 16=1942
+note 17=2050
+note 18=2158
+note 19=2225
+note 20=2333
+note 21=2400
+note 22=2508
+note 23=2616
+note 24=2683
+note 25=2791
+note 26=2900
+note 27=2967
+note 28=3075
+note 29=3142
+note 30=3250
+note 31=3358
+note 32=3425
+note 33=3533
+note 34=3600
+note 35=3708
+note 36=3816
+note 37=3883
+note 38=3991
+note 39=4100
+note 40=4167
+note 41=4275
+note 42=4342
+note 43=4450
+note 44=4558
+note 45=4625
+note 46=4733
+note 47=4800
+note 48=4908
+note 49=5016
+note 50=5083
+note 51=5191
+note 52=5300
+note 53=5367
+note 54=5475
+note 55=5542
+note 56=5650
+note 57=5758
+note 58=5825
+note 59=5933
+note 60=6000
+note 61=6108
+note 62=6216
+note 63=6283
+note 64=6391
+note 65=6500
+note 66=6567
+note 67=6675
+note 68=6742
+note 69=6850
+note 70=6958
+note 71=7025
+note 72=7133
+note 73=7200
+note 74=7308
+note 75=7416
+note 76=7483
+note 77=7591
+note 78=7700
+note 79=7767
+note 80=7875
+note 81=7942
+note 82=8050
+note 83=8158
+note 84=8225
+note 85=8333
+note 86=8400
+note 87=8508
+note 88=8616
+note 89=8683
+note 90=8791
+note 91=8900
+note 92=8967
+note 93=9075
+note 94=9142
+note 95=9250
+note 96=9358
+note 97=9425
+note 98=9533
+note 99=9600
+note 100=9708
+note 101=9816
+note 102=9883
+note 103=9991
+note 104=10100
+note 105=10167
+note 106=10275
+note 107=10342
+note 108=10450
+note 109=10558
+note 110=10625
+note 111=10733
+note 112=10800
+note 113=10908
+note 114=11016
+note 115=11083
+note 116=11191
+note 117=11300
+note 118=11367
+note 119=11475
+note 120=11542
+note 121=11650
+note 122=11758
+note 123=11825
+note 124=11933
+note 125=12000
+note 126=12108
+note 127=12216
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "phi_inv_13.tun"
+ID= "ID_phi_inv_13.tun"
+Filename= "phi_inv_13.scl"
+Description= "Phi root of 2 generator, WF=Fibonacci series. Jacky Ligon/Aaron Johnson"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 499.689440
+note 1= 566.563150
+note 2= 674.767080
+note 3= 741.640790
+note 4= 849.844720
+note 5= 958.048650
+note 6= 1024.922360
+note 7= 1133.126290
+note 8= 1200.000000
+note 9= 1308.203930
+note 10= 1416.407860
+note 11= 1483.281570
+note 12= 1591.485510
+note 13= 1699.689440
+note 14= 1766.563150
+note 15= 1874.767080
+note 16= 1941.640790
+note 17= 2049.844720
+note 18= 2158.048650
+note 19= 2224.922360
+note 20= 2333.126290
+note 21= 2400.000000
+note 22= 2508.203930
+note 23= 2616.407860
+note 24= 2683.281570
+note 25= 2791.485510
+note 26= 2899.689440
+note 27= 2966.563150
+note 28= 3074.767080
+note 29= 3141.640790
+note 30= 3249.844720
+note 31= 3358.048650
+note 32= 3424.922360
+note 33= 3533.126290
+note 34= 3600.000000
+note 35= 3708.203930
+note 36= 3816.407860
+note 37= 3883.281570
+note 38= 3991.485510
+note 39= 4099.689440
+note 40= 4166.563150
+note 41= 4274.767080
+note 42= 4341.640790
+note 43= 4449.844720
+note 44= 4558.048650
+note 45= 4624.922360
+note 46= 4733.126290
+note 47= 4800.000000
+note 48= 4908.203930
+note 49= 5016.407860
+note 50= 5083.281570
+note 51= 5191.485510
+note 52= 5299.689440
+note 53= 5366.563150
+note 54= 5474.767080
+note 55= 5541.640790
+note 56= 5649.844720
+note 57= 5758.048650
+note 58= 5824.922360
+note 59= 5933.126290
+note 60= 6000.000000
+note 61= 6108.203930
+note 62= 6216.407860
+note 63= 6283.281570
+note 64= 6391.485510
+note 65= 6499.689440
+note 66= 6566.563150
+note 67= 6674.767080
+note 68= 6741.640790
+note 69= 6849.844720
+note 70= 6958.048650
+note 71= 7024.922360
+note 72= 7133.126290
+note 73= 7200.000000
+note 74= 7308.203930
+note 75= 7416.407860
+note 76= 7483.281570
+note 77= 7591.485510
+note 78= 7699.689440
+note 79= 7766.563150
+note 80= 7874.767080
+note 81= 7941.640790
+note 82= 8049.844720
+note 83= 8158.048650
+note 84= 8224.922360
+note 85= 8333.126290
+note 86= 8400.000000
+note 87= 8508.203930
+note 88= 8616.407860
+note 89= 8683.281570
+note 90= 8791.485510
+note 91= 8899.689440
+note 92= 8966.563150
+note 93= 9074.767080
+note 94= 9141.640790
+note 95= 9249.844720
+note 96= 9358.048650
+note 97= 9424.922360
+note 98= 9533.126290
+note 99= 9600.000000
+note 100= 9708.203930
+note 101= 9816.407860
+note 102= 9883.281570
+note 103= 9991.485510
+note 104= 10099.689440
+note 105= 10166.563150
+note 106= 10274.767080
+note 107= 10341.640790
+note 108= 10449.844720
+note 109= 10558.048650
+note 110= 10624.922360
+note 111= 10733.126290
+note 112= 10800.000000
+note 113= 10908.203930
+note 114= 11016.407860
+note 115= 11083.281570
+note 116= 11191.485510
+note 117= 11299.689440
+note 118= 11366.563150
+note 119= 11474.767080
+note 120= 11541.640790
+note 121= 11649.844720
+note 122= 11758.048650
+note 123= 11824.922360
+note 124= 11933.126290
+note 125= 12000.000000
+note 126= 12108.203930
+note 127= 12216.407860
+
+[Functional Tuning]
+note 1="#=0 % 108.203930"
+note 2="#=0 % 216.407860"
+note 3="#=0 % 283.281570"
+note 4="#=0 % 391.485510"
+note 5="#=0 % 499.689440"
+note 6="#=0 % 566.563150"
+note 7="#=0 % 674.767080"
+note 8="#=0 % 741.640790"
+note 9="#=0 % 849.844720"
+note 10="#=0 % 958.048650"
+note 11="#=0 % 1024.922360"
+note 12="#=0 % 1133.126290"
+note 13="#>-13 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

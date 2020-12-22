@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Francesco Antonio Vallotti temperament, 1/6-comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=96
+note 2=197
+note 3=300
+note 4=393
+note 5=502
+note 6=594
+note 7=698
+note 8=798
+note 9=895
+note 10=1002
+note 11=1092
+note 12=1200
+note 13=1296
+note 14=1397
+note 15=1500
+note 16=1593
+note 17=1702
+note 18=1794
+note 19=1898
+note 20=1998
+note 21=2095
+note 22=2202
+note 23=2292
+note 24=2400
+note 25=2496
+note 26=2597
+note 27=2700
+note 28=2793
+note 29=2902
+note 30=2994
+note 31=3098
+note 32=3198
+note 33=3295
+note 34=3402
+note 35=3492
+note 36=3600
+note 37=3696
+note 38=3797
+note 39=3900
+note 40=3993
+note 41=4102
+note 42=4194
+note 43=4298
+note 44=4398
+note 45=4495
+note 46=4602
+note 47=4692
+note 48=4800
+note 49=4896
+note 50=4997
+note 51=5100
+note 52=5193
+note 53=5302
+note 54=5394
+note 55=5498
+note 56=5598
+note 57=5695
+note 58=5802
+note 59=5892
+note 60=6000
+note 61=6096
+note 62=6197
+note 63=6300
+note 64=6393
+note 65=6502
+note 66=6594
+note 67=6698
+note 68=6798
+note 69=6895
+note 70=7002
+note 71=7092
+note 72=7200
+note 73=7296
+note 74=7397
+note 75=7500
+note 76=7593
+note 77=7702
+note 78=7794
+note 79=7898
+note 80=7998
+note 81=8095
+note 82=8202
+note 83=8292
+note 84=8400
+note 85=8496
+note 86=8597
+note 87=8700
+note 88=8793
+note 89=8902
+note 90=8994
+note 91=9098
+note 92=9198
+note 93=9295
+note 94=9402
+note 95=9492
+note 96=9600
+note 97=9696
+note 98=9797
+note 99=9900
+note 100=9993
+note 101=10102
+note 102=10194
+note 103=10298
+note 104=10398
+note 105=10495
+note 106=10602
+note 107=10692
+note 108=10800
+note 109=10896
+note 110=10997
+note 111=11100
+note 112=11193
+note 113=11302
+note 114=11394
+note 115=11498
+note 116=11598
+note 117=11695
+note 118=11802
+note 119=11892
+note 120=12000
+note 121=12096
+note 122=12197
+note 123=12300
+note 124=12393
+note 125=12502
+note 126=12594
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vallotti2.tun"
+ID= "ID_vallotti2.tun"
+Filename= "vallotti2.scl"
+Description= "Francesco Antonio Vallotti temperament, 1/6-comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 95.763100
+note 2= 196.741240
+note 3= 299.673100
+note 4= 393.482480
+note 5= 501.629380
+note 6= 593.808100
+note 7= 698.370620
+note 8= 797.718100
+note 9= 895.111860
+note 10= 1001.628100
+note 11= 1091.853100
+note 12= 1200.000000
+note 13= 1295.763100
+note 14= 1396.741240
+note 15= 1499.673100
+note 16= 1593.482480
+note 17= 1701.629380
+note 18= 1793.808100
+note 19= 1898.370620
+note 20= 1997.718100
+note 21= 2095.111860
+note 22= 2201.628100
+note 23= 2291.853100
+note 24= 2400.000000
+note 25= 2495.763100
+note 26= 2596.741240
+note 27= 2699.673100
+note 28= 2793.482480
+note 29= 2901.629380
+note 30= 2993.808100
+note 31= 3098.370620
+note 32= 3197.718100
+note 33= 3295.111860
+note 34= 3401.628100
+note 35= 3491.853100
+note 36= 3600.000000
+note 37= 3695.763100
+note 38= 3796.741240
+note 39= 3899.673100
+note 40= 3993.482480
+note 41= 4101.629380
+note 42= 4193.808100
+note 43= 4298.370620
+note 44= 4397.718100
+note 45= 4495.111860
+note 46= 4601.628100
+note 47= 4691.853100
+note 48= 4800.000000
+note 49= 4895.763100
+note 50= 4996.741240
+note 51= 5099.673100
+note 52= 5193.482480
+note 53= 5301.629380
+note 54= 5393.808100
+note 55= 5498.370620
+note 56= 5597.718100
+note 57= 5695.111860
+note 58= 5801.628100
+note 59= 5891.853100
+note 60= 6000.000000
+note 61= 6095.763100
+note 62= 6196.741240
+note 63= 6299.673100
+note 64= 6393.482480
+note 65= 6501.629380
+note 66= 6593.808100
+note 67= 6698.370620
+note 68= 6797.718100
+note 69= 6895.111860
+note 70= 7001.628100
+note 71= 7091.853100
+note 72= 7200.000000
+note 73= 7295.763100
+note 74= 7396.741240
+note 75= 7499.673100
+note 76= 7593.482480
+note 77= 7701.629380
+note 78= 7793.808100
+note 79= 7898.370620
+note 80= 7997.718100
+note 81= 8095.111860
+note 82= 8201.628100
+note 83= 8291.853100
+note 84= 8400.000000
+note 85= 8495.763100
+note 86= 8596.741240
+note 87= 8699.673100
+note 88= 8793.482480
+note 89= 8901.629380
+note 90= 8993.808100
+note 91= 9098.370620
+note 92= 9197.718100
+note 93= 9295.111860
+note 94= 9401.628100
+note 95= 9491.853100
+note 96= 9600.000000
+note 97= 9695.763100
+note 98= 9796.741240
+note 99= 9899.673100
+note 100= 9993.482480
+note 101= 10101.629380
+note 102= 10193.808100
+note 103= 10298.370620
+note 104= 10397.718100
+note 105= 10495.111860
+note 106= 10601.628100
+note 107= 10691.853100
+note 108= 10800.000000
+note 109= 10895.763100
+note 110= 10996.741240
+note 111= 11099.673100
+note 112= 11193.482480
+note 113= 11301.629380
+note 114= 11393.808100
+note 115= 11498.370620
+note 116= 11597.718100
+note 117= 11695.111860
+note 118= 11801.628100
+note 119= 11891.853100
+note 120= 12000.000000
+note 121= 12095.763100
+note 122= 12196.741240
+note 123= 12299.673100
+note 124= 12393.482480
+note 125= 12501.629380
+note 126= 12593.808100
+note 127= 12698.370620
+
+[Functional Tuning]
+note 1="#=0 % 95.763100"
+note 2="#=0 % 196.741240"
+note 3="#=0 % 299.673100"
+note 4="#=0 % 393.482480"
+note 5="#=0 % 501.629380"
+note 6="#=0 % 593.808100"
+note 7="#=0 % 698.370620"
+note 8="#=0 % 797.718100"
+note 9="#=0 % 895.111860"
+note 10="#=0 % 1001.628100"
+note 11="#=0 % 1091.853100"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

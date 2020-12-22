@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Overtempered circular tuning (1/1 is F)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=78
+note 2=198
+note 3=282
+note 4=388
+note 5=494
+note 6=584
+note 7=704
+note 8=777
+note 9=892
+note 10=988
+note 11=1090
+note 12=1200
+note 13=1278
+note 14=1398
+note 15=1482
+note 16=1588
+note 17=1694
+note 18=1784
+note 19=1904
+note 20=1977
+note 21=2092
+note 22=2188
+note 23=2290
+note 24=2400
+note 25=2478
+note 26=2598
+note 27=2682
+note 28=2788
+note 29=2894
+note 30=2984
+note 31=3104
+note 32=3177
+note 33=3292
+note 34=3388
+note 35=3490
+note 36=3600
+note 37=3678
+note 38=3798
+note 39=3882
+note 40=3988
+note 41=4094
+note 42=4184
+note 43=4304
+note 44=4377
+note 45=4492
+note 46=4588
+note 47=4690
+note 48=4800
+note 49=4878
+note 50=4998
+note 51=5082
+note 52=5188
+note 53=5294
+note 54=5384
+note 55=5504
+note 56=5577
+note 57=5692
+note 58=5788
+note 59=5890
+note 60=6000
+note 61=6078
+note 62=6198
+note 63=6282
+note 64=6388
+note 65=6494
+note 66=6584
+note 67=6704
+note 68=6777
+note 69=6892
+note 70=6988
+note 71=7090
+note 72=7200
+note 73=7278
+note 74=7398
+note 75=7482
+note 76=7588
+note 77=7694
+note 78=7784
+note 79=7904
+note 80=7977
+note 81=8092
+note 82=8188
+note 83=8290
+note 84=8400
+note 85=8478
+note 86=8598
+note 87=8682
+note 88=8788
+note 89=8894
+note 90=8984
+note 91=9104
+note 92=9177
+note 93=9292
+note 94=9388
+note 95=9490
+note 96=9600
+note 97=9678
+note 98=9798
+note 99=9882
+note 100=9988
+note 101=10094
+note 102=10184
+note 103=10304
+note 104=10377
+note 105=10492
+note 106=10588
+note 107=10690
+note 108=10800
+note 109=10878
+note 110=10998
+note 111=11082
+note 112=11188
+note 113=11294
+note 114=11384
+note 115=11504
+note 116=11577
+note 117=11692
+note 118=11788
+note 119=11890
+note 120=12000
+note 121=12078
+note 122=12198
+note 123=12282
+note 124=12388
+note 125=12494
+note 126=12584
+note 127=12704
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "parizek_cirot.tun"
+ID= "ID_parizek_cirot.tun"
+Filename= "parizek_cirot.scl"
+Description= "Overtempered circular tuning (1/1 is F)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 78.494990
+note 2= 198.045000
+note 3= 282.404990
+note 4= 388.269990
+note 5= 494.135000
+note 6= 584.359990
+note 7= 703.910000
+note 8= 776.539990
+note 9= 892.180000
+note 10= 988.269990
+note 11= 1090.225000
+note 12= 1200.000000
+note 13= 1278.494990
+note 14= 1398.045000
+note 15= 1482.404990
+note 16= 1588.269990
+note 17= 1694.135000
+note 18= 1784.359990
+note 19= 1903.910000
+note 20= 1976.539990
+note 21= 2092.180000
+note 22= 2188.269990
+note 23= 2290.225000
+note 24= 2400.000000
+note 25= 2478.494990
+note 26= 2598.045000
+note 27= 2682.404990
+note 28= 2788.269990
+note 29= 2894.135000
+note 30= 2984.359990
+note 31= 3103.910000
+note 32= 3176.539990
+note 33= 3292.180000
+note 34= 3388.269990
+note 35= 3490.225000
+note 36= 3600.000000
+note 37= 3678.494990
+note 38= 3798.045000
+note 39= 3882.404990
+note 40= 3988.269990
+note 41= 4094.135000
+note 42= 4184.359990
+note 43= 4303.910000
+note 44= 4376.539990
+note 45= 4492.180000
+note 46= 4588.269990
+note 47= 4690.225000
+note 48= 4800.000000
+note 49= 4878.494990
+note 50= 4998.045000
+note 51= 5082.404990
+note 52= 5188.269990
+note 53= 5294.135000
+note 54= 5384.359990
+note 55= 5503.910000
+note 56= 5576.539990
+note 57= 5692.180000
+note 58= 5788.269990
+note 59= 5890.225000
+note 60= 6000.000000
+note 61= 6078.494990
+note 62= 6198.045000
+note 63= 6282.404990
+note 64= 6388.269990
+note 65= 6494.135000
+note 66= 6584.359990
+note 67= 6703.910000
+note 68= 6776.539990
+note 69= 6892.180000
+note 70= 6988.269990
+note 71= 7090.225000
+note 72= 7200.000000
+note 73= 7278.494990
+note 74= 7398.045000
+note 75= 7482.404990
+note 76= 7588.269990
+note 77= 7694.135000
+note 78= 7784.359990
+note 79= 7903.910000
+note 80= 7976.539990
+note 81= 8092.180000
+note 82= 8188.269990
+note 83= 8290.225000
+note 84= 8400.000000
+note 85= 8478.494990
+note 86= 8598.045000
+note 87= 8682.404990
+note 88= 8788.269990
+note 89= 8894.135000
+note 90= 8984.359990
+note 91= 9103.910000
+note 92= 9176.539990
+note 93= 9292.180000
+note 94= 9388.269990
+note 95= 9490.225000
+note 96= 9600.000000
+note 97= 9678.494990
+note 98= 9798.045000
+note 99= 9882.404990
+note 100= 9988.269990
+note 101= 10094.135000
+note 102= 10184.359990
+note 103= 10303.910000
+note 104= 10376.539990
+note 105= 10492.180000
+note 106= 10588.269990
+note 107= 10690.225000
+note 108= 10800.000000
+note 109= 10878.494990
+note 110= 10998.045000
+note 111= 11082.404990
+note 112= 11188.269990
+note 113= 11294.135000
+note 114= 11384.359990
+note 115= 11503.910000
+note 116= 11576.539990
+note 117= 11692.180000
+note 118= 11788.269990
+note 119= 11890.225000
+note 120= 12000.000000
+note 121= 12078.494990
+note 122= 12198.045000
+note 123= 12282.404990
+note 124= 12388.269990
+note 125= 12494.135000
+note 126= 12584.359990
+note 127= 12703.910000
+
+[Functional Tuning]
+note 1="#=0 % 78.494990"
+note 2="#=0 % 198.045000"
+note 3="#=0 % 282.404990"
+note 4="#=0 % 388.269990"
+note 5="#=0 % 494.135000"
+note 6="#=0 % 584.359990"
+note 7="#=0 % 703.910000"
+note 8="#=0 % 776.539990"
+note 9="#=0 % 892.180000"
+note 10="#=0 % 988.269990"
+note 11="#=0 % 1090.225000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

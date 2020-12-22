@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Helmholtz's two-keyboard harmonium tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=3010
+note 1=3081
+note 2=3102
+note 3=3173
+note 4=3193
+note 5=3285
+note 6=3305
+note 7=3376
+note 8=3397
+note 9=3488
+note 10=3509
+note 11=3579
+note 12=3600
+note 13=3691
+note 14=3712
+note 15=3783
+note 16=3803
+note 17=3874
+note 18=3895
+note 19=3986
+note 20=4007
+note 21=4078
+note 22=4098
+note 23=4190
+note 24=4210
+note 25=4281
+note 26=4302
+note 27=4373
+note 28=4393
+note 29=4485
+note 30=4505
+note 31=4576
+note 32=4597
+note 33=4688
+note 34=4709
+note 35=4779
+note 36=4800
+note 37=4891
+note 38=4912
+note 39=4983
+note 40=5003
+note 41=5074
+note 42=5095
+note 43=5186
+note 44=5207
+note 45=5278
+note 46=5298
+note 47=5390
+note 48=5410
+note 49=5481
+note 50=5502
+note 51=5573
+note 52=5593
+note 53=5685
+note 54=5705
+note 55=5776
+note 56=5797
+note 57=5888
+note 58=5909
+note 59=5979
+note 60=6000
+note 61=6091
+note 62=6112
+note 63=6183
+note 64=6203
+note 65=6274
+note 66=6295
+note 67=6386
+note 68=6407
+note 69=6478
+note 70=6498
+note 71=6590
+note 72=6610
+note 73=6681
+note 74=6702
+note 75=6773
+note 76=6793
+note 77=6885
+note 78=6905
+note 79=6976
+note 80=6997
+note 81=7088
+note 82=7109
+note 83=7179
+note 84=7200
+note 85=7291
+note 86=7312
+note 87=7383
+note 88=7403
+note 89=7474
+note 90=7495
+note 91=7586
+note 92=7607
+note 93=7678
+note 94=7698
+note 95=7790
+note 96=7810
+note 97=7881
+note 98=7902
+note 99=7973
+note 100=7993
+note 101=8085
+note 102=8105
+note 103=8176
+note 104=8197
+note 105=8288
+note 106=8309
+note 107=8379
+note 108=8400
+note 109=8491
+note 110=8512
+note 111=8583
+note 112=8603
+note 113=8674
+note 114=8695
+note 115=8786
+note 116=8807
+note 117=8878
+note 118=8898
+note 119=8990
+note 120=9010
+note 121=9081
+note 122=9102
+note 123=9173
+note 124=9193
+note 125=9285
+note 126=9305
+note 127=9376
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "helmholtz_temp.tun"
+ID= "ID_helmholtz_temp.tun"
+Filename= "helmholtz_temp.scl"
+Description= "Helmholtz's two-keyboard harmonium tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3010.265000
+note 1= 3081.181000
+note 2= 3101.711000
+note 3= 3172.627428
+note 4= 3193.157000
+note 5= 3284.603000
+note 6= 3305.132000
+note 7= 3376.049000
+note 8= 3396.578000
+note 9= 3488.025000
+note 10= 3508.554000
+note 11= 3579.471000
+note 12= 3600.000000
+note 13= 3691.446000
+note 14= 3711.976000
+note 15= 3782.892000
+note 16= 3803.422000
+note 17= 3874.338000
+note 18= 3894.868000
+note 19= 3986.313714
+note 20= 4006.843000
+note 21= 4077.760000
+note 22= 4098.289000
+note 23= 4189.735000
+note 24= 4210.265000
+note 25= 4281.181000
+note 26= 4301.711000
+note 27= 4372.627428
+note 28= 4393.157000
+note 29= 4484.603000
+note 30= 4505.132000
+note 31= 4576.049000
+note 32= 4596.578000
+note 33= 4688.025000
+note 34= 4708.554000
+note 35= 4779.471000
+note 36= 4800.000000
+note 37= 4891.446000
+note 38= 4911.976000
+note 39= 4982.892000
+note 40= 5003.422000
+note 41= 5074.338000
+note 42= 5094.868000
+note 43= 5186.313714
+note 44= 5206.843000
+note 45= 5277.760000
+note 46= 5298.289000
+note 47= 5389.735000
+note 48= 5410.265000
+note 49= 5481.181000
+note 50= 5501.711000
+note 51= 5572.627428
+note 52= 5593.157000
+note 53= 5684.603000
+note 54= 5705.132000
+note 55= 5776.049000
+note 56= 5796.578000
+note 57= 5888.025000
+note 58= 5908.554000
+note 59= 5979.471000
+note 60= 6000.000000
+note 61= 6091.446000
+note 62= 6111.976000
+note 63= 6182.892000
+note 64= 6203.422000
+note 65= 6274.338000
+note 66= 6294.868000
+note 67= 6386.313714
+note 68= 6406.843000
+note 69= 6477.760000
+note 70= 6498.289000
+note 71= 6589.735000
+note 72= 6610.265000
+note 73= 6681.181000
+note 74= 6701.711000
+note 75= 6772.627428
+note 76= 6793.157000
+note 77= 6884.603000
+note 78= 6905.132000
+note 79= 6976.049000
+note 80= 6996.578000
+note 81= 7088.025000
+note 82= 7108.554000
+note 83= 7179.471000
+note 84= 7200.000000
+note 85= 7291.446000
+note 86= 7311.976000
+note 87= 7382.892000
+note 88= 7403.422000
+note 89= 7474.338000
+note 90= 7494.868000
+note 91= 7586.313714
+note 92= 7606.843000
+note 93= 7677.760000
+note 94= 7698.289000
+note 95= 7789.735000
+note 96= 7810.265000
+note 97= 7881.181000
+note 98= 7901.711000
+note 99= 7972.627428
+note 100= 7993.157000
+note 101= 8084.603000
+note 102= 8105.132000
+note 103= 8176.049000
+note 104= 8196.578000
+note 105= 8288.025000
+note 106= 8308.554000
+note 107= 8379.471000
+note 108= 8400.000000
+note 109= 8491.446000
+note 110= 8511.976000
+note 111= 8582.892000
+note 112= 8603.422000
+note 113= 8674.338000
+note 114= 8694.868000
+note 115= 8786.313714
+note 116= 8806.843000
+note 117= 8877.760000
+note 118= 8898.289000
+note 119= 8989.735000
+note 120= 9010.265000
+note 121= 9081.181000
+note 122= 9101.711000
+note 123= 9172.627428
+note 124= 9193.157000
+note 125= 9284.603000
+note 126= 9305.132000
+note 127= 9376.049000
+
+[Functional Tuning]
+note 1="#=0 % 91.446000"
+note 2="#=0 % 111.976000"
+note 3="#=0 % 182.892000"
+note 4="#=0 % 203.422000"
+note 5="#=0 % 274.338000"
+note 6="#=0 % 294.868000"
+note 7="#=0 * 5/4"
+note 8="#=0 % 406.843000"
+note 9="#=0 % 477.760000"
+note 10="#=0 % 498.289000"
+note 11="#=0 % 589.735000"
+note 12="#=0 % 610.265000"
+note 13="#=0 % 681.181000"
+note 14="#=0 % 701.711000"
+note 15="#=0 * 25/16"
+note 16="#=0 % 793.157000"
+note 17="#=0 % 884.603000"
+note 18="#=0 % 905.132000"
+note 19="#=0 % 976.049000"
+note 20="#=0 % 996.578000"
+note 21="#=0 % 1088.025000"
+note 22="#=0 % 1108.554000"
+note 23="#=0 % 1179.471000"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

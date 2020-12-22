@@ -1,0 +1,302 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Single Cubic Corner 7-limit = superstellated three out of 1 3 5 7 tetrany
+;
+; VAZ Plus section
+[Tuning]
+note 0=2400
+note 1=2555
+note 2=2604
+note 3=2640
+note 4=2675
+note 5=2786
+note 6=2871
+note 7=2906
+note 8=2941
+note 9=2990
+note 10=3102
+note 11=3138
+note 12=3173
+note 13=3257
+note 14=3306
+note 15=3369
+note 16=3488
+note 17=3524
+note 18=3559
+note 19=3573
+note 20=3600
+note 21=3755
+note 22=3804
+note 23=3840
+note 24=3875
+note 25=3986
+note 26=4071
+note 27=4106
+note 28=4141
+note 29=4190
+note 30=4302
+note 31=4338
+note 32=4373
+note 33=4457
+note 34=4506
+note 35=4569
+note 36=4688
+note 37=4724
+note 38=4759
+note 39=4773
+note 40=4800
+note 41=4955
+note 42=5004
+note 43=5040
+note 44=5075
+note 45=5186
+note 46=5271
+note 47=5306
+note 48=5341
+note 49=5390
+note 50=5502
+note 51=5538
+note 52=5573
+note 53=5657
+note 54=5706
+note 55=5769
+note 56=5888
+note 57=5924
+note 58=5959
+note 59=5973
+note 60=6000
+note 61=6155
+note 62=6204
+note 63=6240
+note 64=6275
+note 65=6386
+note 66=6471
+note 67=6506
+note 68=6541
+note 69=6590
+note 70=6702
+note 71=6738
+note 72=6773
+note 73=6857
+note 74=6906
+note 75=6969
+note 76=7088
+note 77=7124
+note 78=7159
+note 79=7173
+note 80=7200
+note 81=7355
+note 82=7404
+note 83=7440
+note 84=7475
+note 85=7586
+note 86=7671
+note 87=7706
+note 88=7741
+note 89=7790
+note 90=7902
+note 91=7938
+note 92=7973
+note 93=8057
+note 94=8106
+note 95=8169
+note 96=8288
+note 97=8324
+note 98=8359
+note 99=8373
+note 100=8400
+note 101=8555
+note 102=8604
+note 103=8640
+note 104=8675
+note 105=8786
+note 106=8871
+note 107=8906
+note 108=8941
+note 109=8990
+note 110=9102
+note 111=9138
+note 112=9173
+note 113=9257
+note 114=9306
+note 115=9369
+note 116=9488
+note 117=9524
+note 118=9559
+note 119=9573
+note 120=9600
+note 121=9755
+note 122=9804
+note 123=9840
+note 124=9875
+note 125=9986
+note 126=10071
+note 127=10106
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "prod7s.tun"
+ID= "ID_prod7s.tun"
+Filename= "prod7s.scl"
+Description= "Single Cubic Corner 7-limit = superstellated three out of 1 3 5 7 tetrany"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2400.000000
+note 1= 2555.139620
+note 2= 2603.910002
+note 3= 2639.606814
+note 4= 2674.582429
+note 5= 2786.313714
+note 6= 2870.780907
+note 7= 2906.477719
+note 8= 2941.453334
+note 9= 2990.223716
+note 10= 3101.955001
+note 11= 3137.651813
+note 12= 3172.627428
+note 13= 3257.094621
+note 14= 3305.865003
+note 15= 3368.825906
+note 16= 3488.268715
+note 17= 3523.965527
+note 18= 3558.941142
+note 19= 3572.735908
+note 20= 3600.000000
+note 21= 3755.139620
+note 22= 3803.910002
+note 23= 3839.606814
+note 24= 3874.582429
+note 25= 3986.313714
+note 26= 4070.780907
+note 27= 4106.477719
+note 28= 4141.453334
+note 29= 4190.223716
+note 30= 4301.955001
+note 31= 4337.651813
+note 32= 4372.627428
+note 33= 4457.094621
+note 34= 4505.865003
+note 35= 4568.825906
+note 36= 4688.268715
+note 37= 4723.965527
+note 38= 4758.941142
+note 39= 4772.735908
+note 40= 4800.000000
+note 41= 4955.139620
+note 42= 5003.910002
+note 43= 5039.606814
+note 44= 5074.582429
+note 45= 5186.313714
+note 46= 5270.780907
+note 47= 5306.477719
+note 48= 5341.453334
+note 49= 5390.223716
+note 50= 5501.955001
+note 51= 5537.651813
+note 52= 5572.627428
+note 53= 5657.094621
+note 54= 5705.865003
+note 55= 5768.825906
+note 56= 5888.268715
+note 57= 5923.965527
+note 58= 5958.941142
+note 59= 5972.735908
+note 60= 6000.000000
+note 61= 6155.139620
+note 62= 6203.910002
+note 63= 6239.606814
+note 64= 6274.582429
+note 65= 6386.313714
+note 66= 6470.780907
+note 67= 6506.477719
+note 68= 6541.453334
+note 69= 6590.223716
+note 70= 6701.955001
+note 71= 6737.651813
+note 72= 6772.627428
+note 73= 6857.094621
+note 74= 6905.865003
+note 75= 6968.825906
+note 76= 7088.268715
+note 77= 7123.965527
+note 78= 7158.941142
+note 79= 7172.735908
+note 80= 7200.000000
+note 81= 7355.139620
+note 82= 7403.910002
+note 83= 7439.606814
+note 84= 7474.582429
+note 85= 7586.313714
+note 86= 7670.780907
+note 87= 7706.477719
+note 88= 7741.453334
+note 89= 7790.223716
+note 90= 7901.955001
+note 91= 7937.651813
+note 92= 7972.627428
+note 93= 8057.094621
+note 94= 8105.865003
+note 95= 8168.825906
+note 96= 8288.268715
+note 97= 8323.965527
+note 98= 8358.941142
+note 99= 8372.735908
+note 100= 8400.000000
+note 101= 8555.139620
+note 102= 8603.910002
+note 103= 8639.606814
+note 104= 8674.582429
+note 105= 8786.313714
+note 106= 8870.780907
+note 107= 8906.477719
+note 108= 8941.453334
+note 109= 8990.223716
+note 110= 9101.955001
+note 111= 9137.651813
+note 112= 9172.627428
+note 113= 9257.094621
+note 114= 9305.865003
+note 115= 9368.825906
+note 116= 9488.268715
+note 117= 9523.965527
+note 118= 9558.941142
+note 119= 9572.735908
+note 120= 9600.000000
+note 121= 9755.139620
+note 122= 9803.910002
+note 123= 9839.606814
+note 124= 9874.582429
+note 125= 9986.313714
+note 126= 10070.780907
+note 127= 10106.477719
+
+[Functional Tuning]
+note 1="#=0 * 35/32"
+note 2="#=0 * 9/8"
+note 3="#=0 * 147/128"
+note 4="#=0 * 75/64"
+note 5="#=0 * 5/4"
+note 6="#=0 * 21/16"
+note 7="#=0 * 343/256"
+note 8="#=0 * 175/128"
+note 9="#=0 * 45/32"
+note 10="#=0 * 3/2"
+note 11="#=0 * 49/32"
+note 12="#=0 * 25/16"
+note 13="#=0 * 105/64"
+note 14="#=0 * 27/16"
+note 15="#=0 * 7/4"
+note 16="#=0 * 15/8"
+note 17="#=0 * 245/128"
+note 18="#=0 * 125/64"
+note 19="#=0 * 63/32"
+note 20="#>-20 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

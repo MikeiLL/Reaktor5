@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Michael Sheiman's Silver scale, TL 26-03-2010
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=139
+note 2=204
+note 3=342
+note 4=493
+note 5=621
+note 6=702
+note 7=773
+note 8=884
+note 9=996
+note 10=1061
+note 11=1132
+note 12=1200
+note 13=1339
+note 14=1404
+note 15=1542
+note 16=1693
+note 17=1821
+note 18=1902
+note 19=1973
+note 20=2084
+note 21=2196
+note 22=2261
+note 23=2332
+note 24=2400
+note 25=2539
+note 26=2604
+note 27=2742
+note 28=2893
+note 29=3021
+note 30=3102
+note 31=3173
+note 32=3284
+note 33=3396
+note 34=3461
+note 35=3532
+note 36=3600
+note 37=3739
+note 38=3804
+note 39=3942
+note 40=4093
+note 41=4221
+note 42=4302
+note 43=4373
+note 44=4484
+note 45=4596
+note 46=4661
+note 47=4732
+note 48=4800
+note 49=4939
+note 50=5004
+note 51=5142
+note 52=5293
+note 53=5421
+note 54=5502
+note 55=5573
+note 56=5684
+note 57=5796
+note 58=5861
+note 59=5932
+note 60=6000
+note 61=6139
+note 62=6204
+note 63=6342
+note 64=6493
+note 65=6621
+note 66=6702
+note 67=6773
+note 68=6884
+note 69=6996
+note 70=7061
+note 71=7132
+note 72=7200
+note 73=7339
+note 74=7404
+note 75=7542
+note 76=7693
+note 77=7821
+note 78=7902
+note 79=7973
+note 80=8084
+note 81=8196
+note 82=8261
+note 83=8332
+note 84=8400
+note 85=8539
+note 86=8604
+note 87=8742
+note 88=8893
+note 89=9021
+note 90=9102
+note 91=9173
+note 92=9284
+note 93=9396
+note 94=9461
+note 95=9532
+note 96=9600
+note 97=9739
+note 98=9804
+note 99=9942
+note 100=10093
+note 101=10221
+note 102=10302
+note 103=10373
+note 104=10484
+note 105=10596
+note 106=10661
+note 107=10732
+note 108=10800
+note 109=10939
+note 110=11004
+note 111=11142
+note 112=11293
+note 113=11421
+note 114=11502
+note 115=11573
+note 116=11684
+note 117=11796
+note 118=11861
+note 119=11932
+note 120=12000
+note 121=12139
+note 122=12204
+note 123=12342
+note 124=12493
+note 125=12621
+note 126=12702
+note 127=12773
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sheiman_silver.tun"
+ID= "ID_sheiman_silver.tun"
+Filename= "sheiman_silver.scl"
+Description= "Michael Sheiman's Silver scale, TL 26-03-2010"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 138.572661
+note 2= 203.910002
+note 3= 342.482663
+note 4= 493.119721
+note 5= 621.417966
+note 6= 701.955001
+note 7= 772.627428
+note 8= 884.358713
+note 9= 996.089998
+note 10= 1061.427339
+note 11= 1132.099766
+note 12= 1200.000000
+note 13= 1338.572661
+note 14= 1403.910002
+note 15= 1542.482663
+note 16= 1693.119721
+note 17= 1821.417966
+note 18= 1901.955001
+note 19= 1972.627428
+note 20= 2084.358713
+note 21= 2196.089998
+note 22= 2261.427339
+note 23= 2332.099766
+note 24= 2400.000000
+note 25= 2538.572661
+note 26= 2603.910002
+note 27= 2742.482663
+note 28= 2893.119721
+note 29= 3021.417966
+note 30= 3101.955001
+note 31= 3172.627428
+note 32= 3284.358713
+note 33= 3396.089998
+note 34= 3461.427339
+note 35= 3532.099766
+note 36= 3600.000000
+note 37= 3738.572661
+note 38= 3803.910002
+note 39= 3942.482663
+note 40= 4093.119721
+note 41= 4221.417966
+note 42= 4301.955001
+note 43= 4372.627428
+note 44= 4484.358713
+note 45= 4596.089998
+note 46= 4661.427339
+note 47= 4732.099766
+note 48= 4800.000000
+note 49= 4938.572661
+note 50= 5003.910002
+note 51= 5142.482663
+note 52= 5293.119721
+note 53= 5421.417966
+note 54= 5501.955001
+note 55= 5572.627428
+note 56= 5684.358713
+note 57= 5796.089998
+note 58= 5861.427339
+note 59= 5932.099766
+note 60= 6000.000000
+note 61= 6138.572661
+note 62= 6203.910002
+note 63= 6342.482663
+note 64= 6493.119721
+note 65= 6621.417966
+note 66= 6701.955001
+note 67= 6772.627428
+note 68= 6884.358713
+note 69= 6996.089998
+note 70= 7061.427339
+note 71= 7132.099766
+note 72= 7200.000000
+note 73= 7338.572661
+note 74= 7403.910002
+note 75= 7542.482663
+note 76= 7693.119721
+note 77= 7821.417966
+note 78= 7901.955001
+note 79= 7972.627428
+note 80= 8084.358713
+note 81= 8196.089998
+note 82= 8261.427339
+note 83= 8332.099766
+note 84= 8400.000000
+note 85= 8538.572661
+note 86= 8603.910002
+note 87= 8742.482663
+note 88= 8893.119721
+note 89= 9021.417966
+note 90= 9101.955001
+note 91= 9172.627428
+note 92= 9284.358713
+note 93= 9396.089998
+note 94= 9461.427339
+note 95= 9532.099766
+note 96= 9600.000000
+note 97= 9738.572661
+note 98= 9803.910002
+note 99= 9942.482663
+note 100= 10093.119721
+note 101= 10221.417966
+note 102= 10301.955001
+note 103= 10372.627428
+note 104= 10484.358713
+note 105= 10596.089998
+note 106= 10661.427339
+note 107= 10732.099766
+note 108= 10800.000000
+note 109= 10938.572661
+note 110= 11003.910002
+note 111= 11142.482663
+note 112= 11293.119721
+note 113= 11421.417966
+note 114= 11501.955001
+note 115= 11572.627428
+note 116= 11684.358713
+note 117= 11796.089998
+note 118= 11861.427339
+note 119= 11932.099766
+note 120= 12000.000000
+note 121= 12138.572661
+note 122= 12203.910002
+note 123= 12342.482663
+note 124= 12493.119721
+note 125= 12621.417966
+note 126= 12701.955001
+note 127= 12772.627428
+
+[Functional Tuning]
+note 1="#=0 * 13/12"
+note 2="#=0 * 9/8"
+note 3="#=0 * 39/32"
+note 4="#=0 * 117/88"
+note 5="#=0 * 63/44"
+note 6="#=0 * 3/2"
+note 7="#=0 * 25/16"
+note 8="#=0 * 5/3"
+note 9="#=0 * 16/9"
+note 10="#=0 * 24/13"
+note 11="#=0 * 25/13"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

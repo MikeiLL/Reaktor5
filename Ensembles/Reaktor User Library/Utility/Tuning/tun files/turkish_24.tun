@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ra'uf Yekta, 24-tone Pythagorean Turkish Theoretical Gamut, 1/1=D (perde yegah) at 294 Hz
+;
+; VAZ Plus section
+[Tuning]
+note 0=3012
+note 1=3078
+note 2=3102
+note 3=3192
+note 4=3216
+note 5=3282
+note 6=3306
+note 7=3373
+note 8=3396
+note 9=3486
+note 10=3510
+note 11=3577
+note 12=3600
+note 13=3690
+note 14=3714
+note 15=3780
+note 16=3804
+note 17=3894
+note 18=3918
+note 19=3984
+note 20=4008
+note 21=4075
+note 22=4098
+note 23=4188
+note 24=4212
+note 25=4278
+note 26=4302
+note 27=4392
+note 28=4416
+note 29=4482
+note 30=4506
+note 31=4573
+note 32=4596
+note 33=4686
+note 34=4710
+note 35=4777
+note 36=4800
+note 37=4890
+note 38=4914
+note 39=4980
+note 40=5004
+note 41=5094
+note 42=5118
+note 43=5184
+note 44=5208
+note 45=5275
+note 46=5298
+note 47=5388
+note 48=5412
+note 49=5478
+note 50=5502
+note 51=5592
+note 52=5616
+note 53=5682
+note 54=5706
+note 55=5773
+note 56=5796
+note 57=5886
+note 58=5910
+note 59=5977
+note 60=6000
+note 61=6090
+note 62=6114
+note 63=6180
+note 64=6204
+note 65=6294
+note 66=6318
+note 67=6384
+note 68=6408
+note 69=6475
+note 70=6498
+note 71=6588
+note 72=6612
+note 73=6678
+note 74=6702
+note 75=6792
+note 76=6816
+note 77=6882
+note 78=6906
+note 79=6973
+note 80=6996
+note 81=7086
+note 82=7110
+note 83=7177
+note 84=7200
+note 85=7290
+note 86=7314
+note 87=7380
+note 88=7404
+note 89=7494
+note 90=7518
+note 91=7584
+note 92=7608
+note 93=7675
+note 94=7698
+note 95=7788
+note 96=7812
+note 97=7878
+note 98=7902
+note 99=7992
+note 100=8016
+note 101=8082
+note 102=8106
+note 103=8173
+note 104=8196
+note 105=8286
+note 106=8310
+note 107=8377
+note 108=8400
+note 109=8490
+note 110=8514
+note 111=8580
+note 112=8604
+note 113=8694
+note 114=8718
+note 115=8784
+note 116=8808
+note 117=8875
+note 118=8898
+note 119=8988
+note 120=9012
+note 121=9078
+note 122=9102
+note 123=9192
+note 124=9216
+note 125=9282
+note 126=9306
+note 127=9373
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "turkish_24.tun"
+ID= "ID_turkish_24.tun"
+Filename= "turkish_24.scl"
+Description= "Ra'uf Yekta, 24-tone Pythagorean Turkish Theoretical Gamut, 1/1=D (perde yegah) at 294 Hz"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3011.730005
+note 1= 3078.494990
+note 2= 3101.955001
+note 3= 3192.179997
+note 4= 3215.640007
+note 5= 3282.404992
+note 6= 3305.865003
+note 7= 3372.629988
+note 8= 3396.089998
+note 9= 3486.314994
+note 10= 3509.775004
+note 11= 3576.539990
+note 12= 3600.000000
+note 13= 3690.224996
+note 14= 3713.685006
+note 15= 3780.449991
+note 16= 3803.910002
+note 17= 3894.134997
+note 18= 3917.595008
+note 19= 3984.359993
+note 20= 4007.820003
+note 21= 4074.584989
+note 22= 4098.044999
+note 23= 4188.269995
+note 24= 4211.730005
+note 25= 4278.494990
+note 26= 4301.955001
+note 27= 4392.179997
+note 28= 4415.640007
+note 29= 4482.404992
+note 30= 4505.865003
+note 31= 4572.629988
+note 32= 4596.089998
+note 33= 4686.314994
+note 34= 4709.775004
+note 35= 4776.539990
+note 36= 4800.000000
+note 37= 4890.224996
+note 38= 4913.685006
+note 39= 4980.449991
+note 40= 5003.910002
+note 41= 5094.134997
+note 42= 5117.595008
+note 43= 5184.359993
+note 44= 5207.820003
+note 45= 5274.584989
+note 46= 5298.044999
+note 47= 5388.269995
+note 48= 5411.730005
+note 49= 5478.494990
+note 50= 5501.955001
+note 51= 5592.179997
+note 52= 5615.640007
+note 53= 5682.404992
+note 54= 5705.865003
+note 55= 5772.629988
+note 56= 5796.089998
+note 57= 5886.314994
+note 58= 5909.775004
+note 59= 5976.539990
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6113.685006
+note 63= 6180.449991
+note 64= 6203.910002
+note 65= 6294.134997
+note 66= 6317.595008
+note 67= 6384.359993
+note 68= 6407.820003
+note 69= 6474.584989
+note 70= 6498.044999
+note 71= 6588.269995
+note 72= 6611.730005
+note 73= 6678.494990
+note 74= 6701.955001
+note 75= 6792.179997
+note 76= 6815.640007
+note 77= 6882.404992
+note 78= 6905.865003
+note 79= 6972.629988
+note 80= 6996.089998
+note 81= 7086.314994
+note 82= 7109.775004
+note 83= 7176.539990
+note 84= 7200.000000
+note 85= 7290.224996
+note 86= 7313.685006
+note 87= 7380.449991
+note 88= 7403.910002
+note 89= 7494.134997
+note 90= 7517.595008
+note 91= 7584.359993
+note 92= 7607.820003
+note 93= 7674.584989
+note 94= 7698.044999
+note 95= 7788.269995
+note 96= 7811.730005
+note 97= 7878.494990
+note 98= 7901.955001
+note 99= 7992.179997
+note 100= 8015.640007
+note 101= 8082.404992
+note 102= 8105.865003
+note 103= 8172.629988
+note 104= 8196.089998
+note 105= 8286.314994
+note 106= 8309.775004
+note 107= 8376.539990
+note 108= 8400.000000
+note 109= 8490.224996
+note 110= 8513.685006
+note 111= 8580.449991
+note 112= 8603.910002
+note 113= 8694.134997
+note 114= 8717.595008
+note 115= 8784.359993
+note 116= 8807.820003
+note 117= 8874.584989
+note 118= 8898.044999
+note 119= 8988.269995
+note 120= 9011.730005
+note 121= 9078.494990
+note 122= 9101.955001
+note 123= 9192.179997
+note 124= 9215.640007
+note 125= 9282.404992
+note 126= 9305.865003
+note 127= 9372.629988
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 2187/2048"
+note 3="#=0 * 65536/59049"
+note 4="#=0 * 9/8"
+note 5="#=0 * 32/27"
+note 6="#=0 * 19683/16384"
+note 7="#=0 * 8192/6561"
+note 8="#=0 * 81/64"
+note 9="#=0 * 2097152/1594323"
+note 10="#=0 * 4/3"
+note 11="#=0 * 1024/729"
+note 12="#=0 * 729/512"
+note 13="#=0 * 262144/177147"
+note 14="#=0 * 3/2"
+note 15="#=0 * 128/81"
+note 16="#=0 * 6561/4096"
+note 17="#=0 * 32768/19683"
+note 18="#=0 * 27/16"
+note 19="#=0 * 8388608/4782969"
+note 20="#=0 * 16/9"
+note 21="#=0 * 4096/2187"
+note 22="#=0 * 243/128"
+note 23="#=0 * 1048576/531441"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

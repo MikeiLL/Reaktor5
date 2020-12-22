@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Unequal 22-note compromise between decatonic & Indian srutis, Paul Erlich
+;
+; VAZ Plus section
+[Tuning]
+note 0=2722
+note 1=2783
+note 2=2828
+note 3=2894
+note 4=2939
+note 5=2995
+note 6=3050
+note 7=3106
+note 8=3161
+note 9=3217
+note 10=3272
+note 11=3317
+note 12=3383
+note 13=3428
+note 14=3489
+note 15=3539
+note 16=3600
+note 17=3650
+note 18=3706
+note 19=3761
+note 20=3812
+note 21=3872
+note 22=3923
+note 23=3983
+note 24=4028
+note 25=4094
+note 26=4139
+note 27=4195
+note 28=4250
+note 29=4306
+note 30=4361
+note 31=4417
+note 32=4472
+note 33=4517
+note 34=4583
+note 35=4628
+note 36=4689
+note 37=4739
+note 38=4800
+note 39=4850
+note 40=4906
+note 41=4961
+note 42=5012
+note 43=5072
+note 44=5123
+note 45=5183
+note 46=5228
+note 47=5294
+note 48=5339
+note 49=5395
+note 50=5450
+note 51=5506
+note 52=5561
+note 53=5617
+note 54=5672
+note 55=5717
+note 56=5783
+note 57=5828
+note 58=5889
+note 59=5939
+note 60=6000
+note 61=6050
+note 62=6106
+note 63=6161
+note 64=6212
+note 65=6272
+note 66=6323
+note 67=6383
+note 68=6428
+note 69=6494
+note 70=6539
+note 71=6595
+note 72=6650
+note 73=6706
+note 74=6761
+note 75=6817
+note 76=6872
+note 77=6917
+note 78=6983
+note 79=7028
+note 80=7089
+note 81=7139
+note 82=7200
+note 83=7250
+note 84=7306
+note 85=7361
+note 86=7412
+note 87=7472
+note 88=7523
+note 89=7583
+note 90=7628
+note 91=7694
+note 92=7739
+note 93=7795
+note 94=7850
+note 95=7906
+note 96=7961
+note 97=8017
+note 98=8072
+note 99=8117
+note 100=8183
+note 101=8228
+note 102=8289
+note 103=8339
+note 104=8400
+note 105=8450
+note 106=8506
+note 107=8561
+note 108=8612
+note 109=8672
+note 110=8722
+note 111=8783
+note 112=8828
+note 113=8894
+note 114=8939
+note 115=8995
+note 116=9050
+note 117=9106
+note 118=9161
+note 119=9217
+note 120=9272
+note 121=9317
+note 122=9383
+note 123=9428
+note 124=9489
+note 125=9539
+note 126=9600
+note 127=9650
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "erlich5.tun"
+ID= "ID_erlich5.tun"
+Filename= "erlich5.scl"
+Description= "Unequal 22-note compromise between decatonic & Indian srutis, Paul Erlich"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2722.500000
+note 1= 2783.250000
+note 2= 2828.250000
+note 3= 2894.250000
+note 4= 2939.250000
+note 5= 2994.750000
+note 6= 3050.250000
+note 7= 3105.750000
+note 8= 3161.250000
+note 9= 3216.750000
+note 10= 3272.250000
+note 11= 3317.250000
+note 12= 3383.250000
+note 13= 3428.250000
+note 14= 3489.000000
+note 15= 3539.250000
+note 16= 3600.000000
+note 17= 3650.250000
+note 18= 3705.750000
+note 19= 3761.250000
+note 20= 3811.500000
+note 21= 3872.250000
+note 22= 3922.500000
+note 23= 3983.250000
+note 24= 4028.250000
+note 25= 4094.250000
+note 26= 4139.250000
+note 27= 4194.750000
+note 28= 4250.250000
+note 29= 4305.750000
+note 30= 4361.250000
+note 31= 4416.750000
+note 32= 4472.250000
+note 33= 4517.250000
+note 34= 4583.250000
+note 35= 4628.250000
+note 36= 4689.000000
+note 37= 4739.250000
+note 38= 4800.000000
+note 39= 4850.250000
+note 40= 4905.750000
+note 41= 4961.250000
+note 42= 5011.500000
+note 43= 5072.250000
+note 44= 5122.500000
+note 45= 5183.250000
+note 46= 5228.250000
+note 47= 5294.250000
+note 48= 5339.250000
+note 49= 5394.750000
+note 50= 5450.250000
+note 51= 5505.750000
+note 52= 5561.250000
+note 53= 5616.750000
+note 54= 5672.250000
+note 55= 5717.250000
+note 56= 5783.250000
+note 57= 5828.250000
+note 58= 5889.000000
+note 59= 5939.250000
+note 60= 6000.000000
+note 61= 6050.250000
+note 62= 6105.750000
+note 63= 6161.250000
+note 64= 6211.500000
+note 65= 6272.250000
+note 66= 6322.500000
+note 67= 6383.250000
+note 68= 6428.250000
+note 69= 6494.250000
+note 70= 6539.250000
+note 71= 6594.750000
+note 72= 6650.250000
+note 73= 6705.750000
+note 74= 6761.250000
+note 75= 6816.750000
+note 76= 6872.250000
+note 77= 6917.250000
+note 78= 6983.250000
+note 79= 7028.250000
+note 80= 7089.000000
+note 81= 7139.250000
+note 82= 7200.000000
+note 83= 7250.250000
+note 84= 7305.750000
+note 85= 7361.250000
+note 86= 7411.500000
+note 87= 7472.250000
+note 88= 7522.500000
+note 89= 7583.250000
+note 90= 7628.250000
+note 91= 7694.250000
+note 92= 7739.250000
+note 93= 7794.750000
+note 94= 7850.250000
+note 95= 7905.750000
+note 96= 7961.250000
+note 97= 8016.750000
+note 98= 8072.250000
+note 99= 8117.250000
+note 100= 8183.250000
+note 101= 8228.250000
+note 102= 8289.000000
+note 103= 8339.250000
+note 104= 8400.000000
+note 105= 8450.250000
+note 106= 8505.750000
+note 107= 8561.250000
+note 108= 8611.500000
+note 109= 8672.250000
+note 110= 8722.500000
+note 111= 8783.250000
+note 112= 8828.250000
+note 113= 8894.250000
+note 114= 8939.250000
+note 115= 8994.750000
+note 116= 9050.250000
+note 117= 9105.750000
+note 118= 9161.250000
+note 119= 9216.750000
+note 120= 9272.250000
+note 121= 9317.250000
+note 122= 9383.250000
+note 123= 9428.250000
+note 124= 9489.000000
+note 125= 9539.250000
+note 126= 9600.000000
+note 127= 9650.250000
+
+[Functional Tuning]
+note 1="#=0 % 50.250000"
+note 2="#=0 % 105.750000"
+note 3="#=0 % 161.250000"
+note 4="#=0 % 211.500000"
+note 5="#=0 % 272.250000"
+note 6="#=0 % 322.500000"
+note 7="#=0 % 383.250000"
+note 8="#=0 % 428.250000"
+note 9="#=0 % 494.250000"
+note 10="#=0 % 539.250000"
+note 11="#=0 % 594.750000"
+note 12="#=0 % 650.250000"
+note 13="#=0 % 705.750000"
+note 14="#=0 % 761.250000"
+note 15="#=0 % 816.750000"
+note 16="#=0 % 872.250000"
+note 17="#=0 % 917.250000"
+note 18="#=0 % 983.250000"
+note 19="#=0 % 1028.250000"
+note 20="#=0 % 1089.000000"
+note 21="#=0 % 1139.250000"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

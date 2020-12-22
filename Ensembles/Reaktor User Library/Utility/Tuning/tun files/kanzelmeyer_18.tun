@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bruce Kanzelmeyer, 18 harmonics from 32 to 64. Base 388.3614815 Hz
+;
+; VAZ Plus section
+[Tuning]
+note 0=2074
+note 1=2169
+note 2=2230
+note 3=2259
+note 4=2317
+note 5=2345
+note 6=2400
+note 7=2505
+note 8=2651
+note 9=2698
+note 10=2786
+note 11=2829
+note 12=2912
+note 13=2951
+note 14=3028
+note 15=3066
+note 16=3102
+note 17=3241
+note 18=3274
+note 19=3369
+note 20=3430
+note 21=3459
+note 22=3517
+note 23=3545
+note 24=3600
+note 25=3705
+note 26=3851
+note 27=3898
+note 28=3986
+note 29=4029
+note 30=4112
+note 31=4151
+note 32=4228
+note 33=4266
+note 34=4302
+note 35=4441
+note 36=4474
+note 37=4569
+note 38=4630
+note 39=4659
+note 40=4717
+note 41=4745
+note 42=4800
+note 43=4905
+note 44=5051
+note 45=5098
+note 46=5186
+note 47=5229
+note 48=5312
+note 49=5351
+note 50=5428
+note 51=5466
+note 52=5502
+note 53=5641
+note 54=5674
+note 55=5769
+note 56=5830
+note 57=5859
+note 58=5917
+note 59=5945
+note 60=6000
+note 61=6105
+note 62=6251
+note 63=6298
+note 64=6386
+note 65=6429
+note 66=6512
+note 67=6551
+note 68=6628
+note 69=6666
+note 70=6702
+note 71=6841
+note 72=6874
+note 73=6969
+note 74=7030
+note 75=7059
+note 76=7117
+note 77=7145
+note 78=7200
+note 79=7305
+note 80=7451
+note 81=7498
+note 82=7586
+note 83=7629
+note 84=7712
+note 85=7751
+note 86=7828
+note 87=7866
+note 88=7902
+note 89=8041
+note 90=8074
+note 91=8169
+note 92=8230
+note 93=8259
+note 94=8317
+note 95=8345
+note 96=8400
+note 97=8505
+note 98=8651
+note 99=8698
+note 100=8786
+note 101=8829
+note 102=8912
+note 103=8951
+note 104=9028
+note 105=9066
+note 106=9102
+note 107=9241
+note 108=9274
+note 109=9369
+note 110=9430
+note 111=9459
+note 112=9517
+note 113=9545
+note 114=9600
+note 115=9705
+note 116=9851
+note 117=9898
+note 118=9986
+note 119=10029
+note 120=10112
+note 121=10151
+note 122=10228
+note 123=10266
+note 124=10302
+note 125=10441
+note 126=10474
+note 127=10569
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "kanzelmeyer_18.tun"
+ID= "ID_kanzelmeyer_18.tun"
+Filename= "kanzelmeyer_18.scl"
+Description= "Bruce Kanzelmeyer, 18 harmonics from 32 to 64. Base 388.3614815 Hz"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2073.504545
+note 1= 2168.825906
+note 2= 2229.577194
+note 3= 2259.171659
+note 4= 2316.884805
+note 5= 2345.035572
+note 6= 2400.000000
+note 7= 2504.955410
+note 8= 2651.344039
+note 9= 2697.513016
+note 10= 2786.313714
+note 11= 2829.062406
+note 12= 2911.517706
+note 13= 2951.317942
+note 14= 3028.274347
+note 15= 3065.506622
+note 16= 3101.955001
+note 17= 3240.527662
+note 18= 3273.504545
+note 19= 3368.825906
+note 20= 3429.577194
+note 21= 3459.171659
+note 22= 3516.884805
+note 23= 3545.035572
+note 24= 3600.000000
+note 25= 3704.955410
+note 26= 3851.344039
+note 27= 3897.513016
+note 28= 3986.313714
+note 29= 4029.062406
+note 30= 4111.517706
+note 31= 4151.317942
+note 32= 4228.274347
+note 33= 4265.506622
+note 34= 4301.955001
+note 35= 4440.527662
+note 36= 4473.504545
+note 37= 4568.825906
+note 38= 4629.577194
+note 39= 4659.171659
+note 40= 4716.884805
+note 41= 4745.035572
+note 42= 4800.000000
+note 43= 4904.955410
+note 44= 5051.344039
+note 45= 5097.513016
+note 46= 5186.313714
+note 47= 5229.062406
+note 48= 5311.517706
+note 49= 5351.317942
+note 50= 5428.274347
+note 51= 5465.506622
+note 52= 5501.955001
+note 53= 5640.527662
+note 54= 5673.504545
+note 55= 5768.825906
+note 56= 5829.577194
+note 57= 5859.171659
+note 58= 5916.884805
+note 59= 5945.035572
+note 60= 6000.000000
+note 61= 6104.955410
+note 62= 6251.344039
+note 63= 6297.513016
+note 64= 6386.313714
+note 65= 6429.062406
+note 66= 6511.517706
+note 67= 6551.317942
+note 68= 6628.274347
+note 69= 6665.506622
+note 70= 6701.955001
+note 71= 6840.527662
+note 72= 6873.504545
+note 73= 6968.825906
+note 74= 7029.577194
+note 75= 7059.171659
+note 76= 7116.884805
+note 77= 7145.035572
+note 78= 7200.000000
+note 79= 7304.955410
+note 80= 7451.344039
+note 81= 7497.513016
+note 82= 7586.313714
+note 83= 7629.062406
+note 84= 7711.517706
+note 85= 7751.317942
+note 86= 7828.274347
+note 87= 7865.506622
+note 88= 7901.955001
+note 89= 8040.527662
+note 90= 8073.504545
+note 91= 8168.825906
+note 92= 8229.577194
+note 93= 8259.171659
+note 94= 8316.884805
+note 95= 8345.035572
+note 96= 8400.000000
+note 97= 8504.955410
+note 98= 8651.344039
+note 99= 8697.513016
+note 100= 8786.313714
+note 101= 8829.062406
+note 102= 8911.517706
+note 103= 8951.317942
+note 104= 9028.274347
+note 105= 9065.506622
+note 106= 9101.955001
+note 107= 9240.527662
+note 108= 9273.504545
+note 109= 9368.825906
+note 110= 9429.577194
+note 111= 9459.171659
+note 112= 9516.884805
+note 113= 9545.035572
+note 114= 9600.000000
+note 115= 9704.955410
+note 116= 9851.344039
+note 117= 9897.513016
+note 118= 9986.313714
+note 119= 10029.062406
+note 120= 10111.517706
+note 121= 10151.317942
+note 122= 10228.274347
+note 123= 10265.506622
+note 124= 10301.955001
+note 125= 10440.527662
+note 126= 10473.504545
+note 127= 10568.825906
+
+[Functional Tuning]
+note 1="#=0 * 17/16"
+note 2="#=0 * 37/32"
+note 3="#=0 * 19/16"
+note 4="#=0 * 5/4"
+note 5="#=0 * 41/32"
+note 6="#=0 * 43/32"
+note 7="#=0 * 11/8"
+note 8="#=0 * 23/16"
+note 9="#=0 * 47/32"
+note 10="#=0 * 3/2"
+note 11="#=0 * 13/8"
+note 12="#=0 * 53/32"
+note 13="#=0 * 7/4"
+note 14="#=0 * 29/16"
+note 15="#=0 * 59/32"
+note 16="#=0 * 61/32"
+note 17="#=0 * 31/16"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Nonoctave Ennealimmal, [3, 5/3] just tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=-1608
+note 1=-1475
+note 2=-1341
+note 3=-1208
+note 4=-1124
+note 5=-990
+note 6=-857
+note 7=-723
+note 8=-590
+note 9=-457
+note 10=-323
+note 11=-190
+note 12=-106
+note 13=27
+note 14=161
+note 15=294
+note 16=427
+note 17=561
+note 18=694
+note 19=778
+note 20=912
+note 21=1045
+note 22=1178
+note 23=1312
+note 24=1445
+note 25=1579
+note 26=1712
+note 27=1796
+note 28=1929
+note 29=2063
+note 30=2196
+note 31=2329
+note 32=2463
+note 33=2596
+note 34=2680
+note 35=2814
+note 36=2947
+note 37=3080
+note 38=3214
+note 39=3347
+note 40=3481
+note 41=3614
+note 42=3698
+note 43=3831
+note 44=3965
+note 45=4098
+note 46=4231
+note 47=4365
+note 48=4498
+note 49=4582
+note 50=4716
+note 51=4849
+note 52=4982
+note 53=5116
+note 54=5249
+note 55=5383
+note 56=5516
+note 57=5600
+note 58=5733
+note 59=5867
+note 60=6000
+note 61=6133
+note 62=6267
+note 63=6400
+note 64=6484
+note 65=6617
+note 66=6751
+note 67=6884
+note 68=7018
+note 69=7151
+note 70=7284
+note 71=7418
+note 72=7502
+note 73=7635
+note 74=7769
+note 75=7902
+note 76=8035
+note 77=8169
+note 78=8302
+note 79=8386
+note 80=8519
+note 81=8653
+note 82=8786
+note 83=8920
+note 84=9053
+note 85=9186
+note 86=9320
+note 87=9404
+note 88=9537
+note 89=9671
+note 90=9804
+note 91=9937
+note 92=10071
+note 93=10204
+note 94=10288
+note 95=10421
+note 96=10555
+note 97=10688
+note 98=10822
+note 99=10955
+note 100=11088
+note 101=11222
+note 102=11306
+note 103=11439
+note 104=11573
+note 105=11706
+note 106=11839
+note 107=11973
+note 108=12106
+note 109=12190
+note 110=12323
+note 111=12457
+note 112=12590
+note 113=12723
+note 114=12857
+note 115=12990
+note 116=13124
+note 117=13208
+note 118=13341
+note 119=13475
+note 120=13608
+note 121=13741
+note 122=13875
+note 123=14008
+note 124=14092
+note 125=14225
+note 126=14359
+note 127=14492
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_ennon15.tun"
+ID= "ID_smithgw_ennon15.tun"
+Filename= "smithgw_ennon15.scl"
+Description= "Nonoctave Ennealimmal, [3, 5/3] just tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-1607.820003
+note 1=-1474.582429
+note 2=-1340.949098
+note 3=-1207.711523
+note 4=-1123.569771
+note 5=-990.332196
+note 6=-857.094621
+note 7=-723.461290
+note 8=-590.223716
+note 9=-456.590385
+note 10=-323.352810
+note 11=-189.719479
+note 12=-105.973483
+note 13= 27.264092
+note 14= 160.897423
+note 15= 294.134997
+note 16= 427.372572
+note 17= 561.005903
+note 18= 694.243478
+note 19= 778.385230
+note 20= 911.622805
+note 21= 1044.860380
+note 22= 1178.493710
+note 23= 1311.731285
+note 24= 1445.364616
+note 25= 1578.602191
+note 26= 1712.235522
+note 27= 1795.981518
+note 28= 1929.219093
+note 29= 2062.852423
+note 30= 2196.089998
+note 31= 2329.327573
+note 32= 2462.960904
+note 33= 2596.198479
+note 34= 2680.340231
+note 35= 2813.577806
+note 36= 2946.815381
+note 37= 3080.448711
+note 38= 3213.686286
+note 39= 3347.319617
+note 40= 3480.557192
+note 41= 3614.190522
+note 42= 3697.936519
+note 43= 3831.174094
+note 44= 3964.807424
+note 45= 4098.044999
+note 46= 4231.282574
+note 47= 4364.915905
+note 48= 4498.153480
+note 49= 4582.295232
+note 50= 4715.532807
+note 51= 4848.770381
+note 52= 4982.403712
+note 53= 5115.641287
+note 54= 5249.274618
+note 55= 5382.512193
+note 56= 5516.145523
+note 57= 5599.891520
+note 58= 5733.129094
+note 59= 5866.762425
+note 60= 6000.000000
+note 61= 6133.237575
+note 62= 6266.870906
+note 63= 6400.108480
+note 64= 6484.250233
+note 65= 6617.487807
+note 66= 6750.725382
+note 67= 6884.358713
+note 68= 7017.596288
+note 69= 7151.229619
+note 70= 7284.467193
+note 71= 7418.100524
+note 72= 7501.846520
+note 73= 7635.084095
+note 74= 7768.717426
+note 75= 7901.955001
+note 76= 8035.192576
+note 77= 8168.825906
+note 78= 8302.063481
+note 79= 8386.205233
+note 80= 8519.442808
+note 81= 8652.680383
+note 82= 8786.313714
+note 83= 8919.551289
+note 84= 9053.184619
+note 85= 9186.422194
+note 86= 9320.055525
+note 87= 9403.801521
+note 88= 9537.039096
+note 89= 9670.672427
+note 90= 9803.910002
+note 91= 9937.147577
+note 92= 10070.780907
+note 93= 10204.018482
+note 94= 10288.160234
+note 95= 10421.397809
+note 96= 10554.635384
+note 97= 10688.268715
+note 98= 10821.506290
+note 99= 10955.139620
+note 100= 11088.377195
+note 101= 11222.010526
+note 102= 11305.756522
+note 103= 11438.994097
+note 104= 11572.627428
+note 105= 11705.865003
+note 106= 11839.102577
+note 107= 11972.735908
+note 108= 12105.973483
+note 109= 12190.115235
+note 110= 12323.352810
+note 111= 12456.590385
+note 112= 12590.223716
+note 113= 12723.461290
+note 114= 12857.094621
+note 115= 12990.332196
+note 116= 13123.965527
+note 117= 13207.711523
+note 118= 13340.949098
+note 119= 13474.582429
+note 120= 13607.820003
+note 121= 13741.057578
+note 122= 13874.690909
+note 123= 14007.928484
+note 124= 14092.070236
+note 125= 14225.307811
+note 126= 14358.545386
+note 127= 14492.178716
+
+[Functional Tuning]
+note 1="#=0 * 27/25"
+note 2="#=0 * 7/6"
+note 3="#=0 * 63/50"
+note 4="#=0 * 250/189"
+note 5="#=0 * 10/7"
+note 6="#=0 * 54/35"
+note 7="#=0 * 5/3"
+note 8="#=0 * 9/5"
+note 9="#=0 * 35/18"
+note 10="#=0 * 21/10"
+note 11="#=0 * 245/108"
+note 12="#=0 * 50/21"
+note 13="#=0 * 18/7"
+note 14="#=0 * 25/9"
+note 15="#>-15 * 3/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

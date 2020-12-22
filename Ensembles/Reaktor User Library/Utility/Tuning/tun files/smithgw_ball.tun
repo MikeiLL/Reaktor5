@@ -1,0 +1,320 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Ball 2 around tetrad lattice hole
+;
+; VAZ Plus section
+[Tuning]
+note 0=4106
+note 1=4141
+note 2=4183
+note 3=4190
+note 4=4217
+note 5=4253
+note 6=4302
+note 7=4338
+note 8=4373
+note 9=4386
+note 10=4421
+note 11=4457
+note 12=4484
+note 13=4533
+note 14=4569
+note 15=4604
+note 16=4618
+note 17=4639
+note 18=4653
+note 19=4688
+note 20=4724
+note 21=4773
+note 22=4800
+note 23=4836
+note 24=4871
+note 25=4884
+note 26=4919
+note 27=4955
+note 28=5004
+note 29=5040
+note 30=5067
+note 31=5075
+note 32=5116
+note 33=5151
+note 34=5186
+note 35=5222
+note 36=5235
+note 37=5271
+note 38=5306
+note 39=5341
+note 40=5383
+note 41=5390
+note 42=5417
+note 43=5453
+note 44=5502
+note 45=5538
+note 46=5573
+note 47=5586
+note 48=5621
+note 49=5657
+note 50=5684
+note 51=5733
+note 52=5769
+note 53=5804
+note 54=5818
+note 55=5839
+note 56=5853
+note 57=5888
+note 58=5924
+note 59=5973
+note 60=6000
+note 61=6036
+note 62=6071
+note 63=6084
+note 64=6119
+note 65=6155
+note 66=6204
+note 67=6240
+note 68=6267
+note 69=6275
+note 70=6316
+note 71=6351
+note 72=6386
+note 73=6422
+note 74=6435
+note 75=6471
+note 76=6506
+note 77=6541
+note 78=6583
+note 79=6590
+note 80=6617
+note 81=6653
+note 82=6702
+note 83=6738
+note 84=6773
+note 85=6786
+note 86=6821
+note 87=6857
+note 88=6884
+note 89=6933
+note 90=6969
+note 91=7004
+note 92=7018
+note 93=7039
+note 94=7053
+note 95=7088
+note 96=7124
+note 97=7173
+note 98=7200
+note 99=7236
+note 100=7271
+note 101=7284
+note 102=7319
+note 103=7355
+note 104=7404
+note 105=7440
+note 106=7467
+note 107=7475
+note 108=7516
+note 109=7551
+note 110=7586
+note 111=7622
+note 112=7635
+note 113=7671
+note 114=7706
+note 115=7741
+note 116=7783
+note 117=7790
+note 118=7817
+note 119=7853
+note 120=7902
+note 121=7938
+note 122=7973
+note 123=7986
+note 124=8021
+note 125=8057
+note 126=8084
+note 127=8133
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "smithgw_ball.tun"
+ID= "ID_smithgw_ball.tun"
+Filename= "smithgw_ball.scl"
+Description= "Ball 2 around tetrad lattice hole"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 4105.756522
+note 1= 4141.453334
+note 2= 4182.512193
+note 3= 4190.223716
+note 4= 4217.487807
+note 5= 4253.184619
+note 6= 4301.955001
+note 7= 4337.651813
+note 8= 4372.627428
+note 9= 4386.422194
+note 10= 4421.397809
+note 11= 4457.094621
+note 12= 4484.358713
+note 13= 4533.129094
+note 14= 4568.825906
+note 15= 4603.801521
+note 16= 4617.596288
+note 17= 4639.498333
+note 18= 4653.293100
+note 19= 4688.268715
+note 20= 4723.965527
+note 21= 4772.735908
+note 22= 4800.000000
+note 23= 4835.696812
+note 24= 4870.672427
+note 25= 4884.467193
+note 26= 4919.442808
+note 27= 4955.139620
+note 28= 5003.910002
+note 29= 5039.606814
+note 30= 5066.870906
+note 31= 5074.582429
+note 32= 5115.641287
+note 33= 5151.338099
+note 34= 5186.313714
+note 35= 5222.010526
+note 36= 5235.084095
+note 37= 5270.780907
+note 38= 5305.756522
+note 39= 5341.453334
+note 40= 5382.512193
+note 41= 5390.223716
+note 42= 5417.487807
+note 43= 5453.184619
+note 44= 5501.955001
+note 45= 5537.651813
+note 46= 5572.627428
+note 47= 5586.422194
+note 48= 5621.397809
+note 49= 5657.094621
+note 50= 5684.358713
+note 51= 5733.129094
+note 52= 5768.825906
+note 53= 5803.801521
+note 54= 5817.596288
+note 55= 5839.498333
+note 56= 5853.293100
+note 57= 5888.268715
+note 58= 5923.965527
+note 59= 5972.735908
+note 60= 6000.000000
+note 61= 6035.696812
+note 62= 6070.672427
+note 63= 6084.467193
+note 64= 6119.442808
+note 65= 6155.139620
+note 66= 6203.910002
+note 67= 6239.606814
+note 68= 6266.870906
+note 69= 6274.582429
+note 70= 6315.641287
+note 71= 6351.338099
+note 72= 6386.313714
+note 73= 6422.010526
+note 74= 6435.084095
+note 75= 6470.780907
+note 76= 6505.756522
+note 77= 6541.453334
+note 78= 6582.512193
+note 79= 6590.223716
+note 80= 6617.487807
+note 81= 6653.184619
+note 82= 6701.955001
+note 83= 6737.651813
+note 84= 6772.627428
+note 85= 6786.422194
+note 86= 6821.397809
+note 87= 6857.094621
+note 88= 6884.358713
+note 89= 6933.129094
+note 90= 6968.825906
+note 91= 7003.801521
+note 92= 7017.596288
+note 93= 7039.498333
+note 94= 7053.293100
+note 95= 7088.268715
+note 96= 7123.965527
+note 97= 7172.735908
+note 98= 7200.000000
+note 99= 7235.696812
+note 100= 7270.672427
+note 101= 7284.467193
+note 102= 7319.442808
+note 103= 7355.139620
+note 104= 7403.910002
+note 105= 7439.606814
+note 106= 7466.870906
+note 107= 7474.582429
+note 108= 7515.641287
+note 109= 7551.338099
+note 110= 7586.313714
+note 111= 7622.010526
+note 112= 7635.084095
+note 113= 7670.780907
+note 114= 7705.756522
+note 115= 7741.453334
+note 116= 7782.512193
+note 117= 7790.223716
+note 118= 7817.487807
+note 119= 7853.184619
+note 120= 7901.955001
+note 121= 7937.651813
+note 122= 7972.627428
+note 123= 7986.422194
+note 124= 8021.397809
+note 125= 8057.094621
+note 126= 8084.358713
+note 127= 8133.129094
+
+[Functional Tuning]
+note 1="#=0 * 49/48"
+note 2="#=0 * 25/24"
+note 3="#=0 * 21/20"
+note 4="#=0 * 15/14"
+note 5="#=0 * 35/32"
+note 6="#=0 * 9/8"
+note 7="#=0 * 147/128"
+note 8="#=0 * 7/6"
+note 9="#=0 * 75/64"
+note 10="#=0 * 6/5"
+note 11="#=0 * 49/40"
+note 12="#=0 * 5/4"
+note 13="#=0 * 245/192"
+note 14="#=0 * 9/7"
+note 15="#=0 * 21/16"
+note 16="#=0 * 75/56"
+note 17="#=0 * 175/128"
+note 18="#=0 * 7/5"
+note 19="#=0 * 45/32"
+note 20="#=0 * 10/7"
+note 21="#=0 * 35/24"
+note 22="#=0 * 3/2"
+note 23="#=0 * 49/32"
+note 24="#=0 * 25/16"
+note 25="#=0 * 63/40"
+note 26="#=0 * 45/28"
+note 27="#=0 * 105/64"
+note 28="#=0 * 5/3"
+note 29="#=0 * 12/7"
+note 30="#=0 * 7/4"
+note 31="#=0 * 25/14"
+note 32="#=0 * 9/5"
+note 33="#=0 * 175/96"
+note 34="#=0 * 147/80"
+note 35="#=0 * 15/8"
+note 36="#=0 * 245/128"
+note 37="#=0 * 63/32"
+note 38="#>-38 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

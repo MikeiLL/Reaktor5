@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Tetragam Slendro as 5-tET, Pelog-like pitches on C# E F# A B
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=0
+note 2=240
+note 3=240
+note 4=112
+note 5=480
+note 6=498
+note 7=720
+note 8=960
+note 9=702
+note 10=960
+note 11=814
+note 12=1200
+note 13=1200
+note 14=1440
+note 15=1440
+note 16=1312
+note 17=1680
+note 18=1698
+note 19=1920
+note 20=2160
+note 21=1902
+note 22=2160
+note 23=2014
+note 24=2400
+note 25=2400
+note 26=2640
+note 27=2640
+note 28=2512
+note 29=2880
+note 30=2898
+note 31=3120
+note 32=3360
+note 33=3102
+note 34=3360
+note 35=3214
+note 36=3600
+note 37=3600
+note 38=3840
+note 39=3840
+note 40=3712
+note 41=4080
+note 42=4098
+note 43=4320
+note 44=4560
+note 45=4302
+note 46=4560
+note 47=4414
+note 48=4800
+note 49=4800
+note 50=5040
+note 51=5040
+note 52=4912
+note 53=5280
+note 54=5298
+note 55=5520
+note 56=5760
+note 57=5502
+note 58=5760
+note 59=5614
+note 60=6000
+note 61=6000
+note 62=6240
+note 63=6240
+note 64=6112
+note 65=6480
+note 66=6498
+note 67=6720
+note 68=6960
+note 69=6702
+note 70=6960
+note 71=6814
+note 72=7200
+note 73=7200
+note 74=7440
+note 75=7440
+note 76=7312
+note 77=7680
+note 78=7698
+note 79=7920
+note 80=8160
+note 81=7902
+note 82=8160
+note 83=8014
+note 84=8400
+note 85=8400
+note 86=8640
+note 87=8640
+note 88=8512
+note 89=8880
+note 90=8898
+note 91=9120
+note 92=9360
+note 93=9102
+note 94=9360
+note 95=9214
+note 96=9600
+note 97=9600
+note 98=9840
+note 99=9840
+note 100=9712
+note 101=10080
+note 102=10098
+note 103=10320
+note 104=10560
+note 105=10302
+note 106=10560
+note 107=10414
+note 108=10800
+note 109=10800
+note 110=11040
+note 111=11040
+note 112=10912
+note 113=11280
+note 114=11298
+note 115=11520
+note 116=11760
+note 117=11502
+note 118=11760
+note 119=11614
+note 120=12000
+note 121=12000
+note 122=12240
+note 123=12240
+note 124=12112
+note 125=12480
+note 126=12498
+note 127=12720
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "tetragam-slpe.tun"
+ID= "ID_tetragam-slpe.tun"
+Filename= "tetragam-slpe.scl"
+Description= "Tetragam Slendro as 5-tET, Pelog-like pitches on C# E F# A B"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 0.000000
+note 2= 240.000000
+note 3= 240.000000
+note 4= 111.731285
+note 5= 480.000000
+note 6= 498.044999
+note 7= 720.000000
+note 8= 960.000000
+note 9= 701.955001
+note 10= 960.000000
+note 11= 813.686286
+note 12= 1200.000000
+note 13= 1200.000000
+note 14= 1440.000000
+note 15= 1440.000000
+note 16= 1311.731285
+note 17= 1680.000000
+note 18= 1698.044999
+note 19= 1920.000000
+note 20= 2160.000000
+note 21= 1901.955001
+note 22= 2160.000000
+note 23= 2013.686286
+note 24= 2400.000000
+note 25= 2400.000000
+note 26= 2640.000000
+note 27= 2640.000000
+note 28= 2511.731285
+note 29= 2880.000000
+note 30= 2898.044999
+note 31= 3120.000000
+note 32= 3360.000000
+note 33= 3101.955001
+note 34= 3360.000000
+note 35= 3213.686286
+note 36= 3600.000000
+note 37= 3600.000000
+note 38= 3840.000000
+note 39= 3840.000000
+note 40= 3711.731285
+note 41= 4080.000000
+note 42= 4098.044999
+note 43= 4320.000000
+note 44= 4560.000000
+note 45= 4301.955001
+note 46= 4560.000000
+note 47= 4413.686286
+note 48= 4800.000000
+note 49= 4800.000000
+note 50= 5040.000000
+note 51= 5040.000000
+note 52= 4911.731285
+note 53= 5280.000000
+note 54= 5298.044999
+note 55= 5520.000000
+note 56= 5760.000000
+note 57= 5501.955001
+note 58= 5760.000000
+note 59= 5613.686286
+note 60= 6000.000000
+note 61= 6000.000000
+note 62= 6240.000000
+note 63= 6240.000000
+note 64= 6111.731285
+note 65= 6480.000000
+note 66= 6498.044999
+note 67= 6720.000000
+note 68= 6960.000000
+note 69= 6701.955001
+note 70= 6960.000000
+note 71= 6813.686286
+note 72= 7200.000000
+note 73= 7200.000000
+note 74= 7440.000000
+note 75= 7440.000000
+note 76= 7311.731285
+note 77= 7680.000000
+note 78= 7698.044999
+note 79= 7920.000000
+note 80= 8160.000000
+note 81= 7901.955001
+note 82= 8160.000000
+note 83= 8013.686286
+note 84= 8400.000000
+note 85= 8400.000000
+note 86= 8640.000000
+note 87= 8640.000000
+note 88= 8511.731285
+note 89= 8880.000000
+note 90= 8898.044999
+note 91= 9120.000000
+note 92= 9360.000000
+note 93= 9101.955001
+note 94= 9360.000000
+note 95= 9213.686286
+note 96= 9600.000000
+note 97= 9600.000000
+note 98= 9840.000000
+note 99= 9840.000000
+note 100= 9711.731285
+note 101= 10080.000000
+note 102= 10098.044999
+note 103= 10320.000000
+note 104= 10560.000000
+note 105= 10301.955001
+note 106= 10560.000000
+note 107= 10413.686286
+note 108= 10800.000000
+note 109= 10800.000000
+note 110= 11040.000000
+note 111= 11040.000000
+note 112= 10911.731285
+note 113= 11280.000000
+note 114= 11298.044999
+note 115= 11520.000000
+note 116= 11760.000000
+note 117= 11501.955001
+note 118= 11760.000000
+note 119= 11613.686286
+note 120= 12000.000000
+note 121= 12000.000000
+note 122= 12240.000000
+note 123= 12240.000000
+note 124= 12111.731285
+note 125= 12480.000000
+note 126= 12498.044999
+note 127= 12720.000000
+
+[Functional Tuning]
+note 1="#=0 * 1/1"
+note 2="#=0 % 240.000000"
+note 3="#=0 % 240.000000"
+note 4="#=0 * 16/15"
+note 5="#=0 % 480.000000"
+note 6="#=0 * 4/3"
+note 7="#=0 % 720.000000"
+note 8="#=0 % 960.000000"
+note 9="#=0 * 3/2"
+note 10="#=0 % 960.000000"
+note 11="#=0 * 8/5"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

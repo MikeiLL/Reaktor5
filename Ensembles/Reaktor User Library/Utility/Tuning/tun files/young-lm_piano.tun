@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; LaMonte Young's Well-Tuned Piano
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=177
+note 2=204
+note 3=240
+note 4=444
+note 5=471
+note 6=675
+note 7=702
+note 8=738
+note 9=942
+note 10=969
+note 11=1173
+note 12=1200
+note 13=1377
+note 14=1404
+note 15=1440
+note 16=1644
+note 17=1671
+note 18=1875
+note 19=1902
+note 20=1938
+note 21=2142
+note 22=2169
+note 23=2373
+note 24=2400
+note 25=2577
+note 26=2604
+note 27=2640
+note 28=2844
+note 29=2871
+note 30=3075
+note 31=3102
+note 32=3138
+note 33=3342
+note 34=3369
+note 35=3573
+note 36=3600
+note 37=3777
+note 38=3804
+note 39=3840
+note 40=4044
+note 41=4071
+note 42=4275
+note 43=4302
+note 44=4338
+note 45=4542
+note 46=4569
+note 47=4773
+note 48=4800
+note 49=4977
+note 50=5004
+note 51=5040
+note 52=5244
+note 53=5271
+note 54=5475
+note 55=5502
+note 56=5538
+note 57=5742
+note 58=5769
+note 59=5973
+note 60=6000
+note 61=6177
+note 62=6204
+note 63=6240
+note 64=6444
+note 65=6471
+note 66=6675
+note 67=6702
+note 68=6738
+note 69=6942
+note 70=6969
+note 71=7173
+note 72=7200
+note 73=7377
+note 74=7404
+note 75=7440
+note 76=7644
+note 77=7671
+note 78=7875
+note 79=7902
+note 80=7938
+note 81=8142
+note 82=8169
+note 83=8373
+note 84=8400
+note 85=8577
+note 86=8604
+note 87=8640
+note 88=8844
+note 89=8871
+note 90=9075
+note 91=9102
+note 92=9138
+note 93=9342
+note 94=9369
+note 95=9573
+note 96=9600
+note 97=9777
+note 98=9804
+note 99=9840
+note 100=10044
+note 101=10071
+note 102=10275
+note 103=10302
+note 104=10338
+note 105=10542
+note 106=10569
+note 107=10773
+note 108=10800
+note 109=10977
+note 110=11004
+note 111=11040
+note 112=11244
+note 113=11271
+note 114=11475
+note 115=11502
+note 116=11538
+note 117=11742
+note 118=11769
+note 119=11973
+note 120=12000
+note 121=12177
+note 122=12204
+note 123=12240
+note 124=12444
+note 125=12471
+note 126=12675
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "young-lm_piano.tun"
+ID= "ID_young-lm_piano.tun"
+Filename= "young-lm_piano.scl"
+Description= "LaMonte Young's Well-Tuned Piano"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 176.645910
+note 2= 203.910002
+note 3= 239.606814
+note 4= 443.516816
+note 5= 470.780907
+note 6= 674.690909
+note 7= 701.955001
+note 8= 737.651813
+note 9= 941.561815
+note 10= 968.825906
+note 11= 1172.735908
+note 12= 1200.000000
+note 13= 1376.645910
+note 14= 1403.910002
+note 15= 1439.606814
+note 16= 1643.516816
+note 17= 1670.780907
+note 18= 1874.690909
+note 19= 1901.955001
+note 20= 1937.651813
+note 21= 2141.561815
+note 22= 2168.825906
+note 23= 2372.735908
+note 24= 2400.000000
+note 25= 2576.645910
+note 26= 2603.910002
+note 27= 2639.606814
+note 28= 2843.516816
+note 29= 2870.780907
+note 30= 3074.690909
+note 31= 3101.955001
+note 32= 3137.651813
+note 33= 3341.561815
+note 34= 3368.825906
+note 35= 3572.735908
+note 36= 3600.000000
+note 37= 3776.645910
+note 38= 3803.910002
+note 39= 3839.606814
+note 40= 4043.516816
+note 41= 4070.780907
+note 42= 4274.690909
+note 43= 4301.955001
+note 44= 4337.651813
+note 45= 4541.561815
+note 46= 4568.825906
+note 47= 4772.735908
+note 48= 4800.000000
+note 49= 4976.645910
+note 50= 5003.910002
+note 51= 5039.606814
+note 52= 5243.516816
+note 53= 5270.780907
+note 54= 5474.690909
+note 55= 5501.955001
+note 56= 5537.651813
+note 57= 5741.561815
+note 58= 5768.825906
+note 59= 5972.735908
+note 60= 6000.000000
+note 61= 6176.645910
+note 62= 6203.910002
+note 63= 6239.606814
+note 64= 6443.516816
+note 65= 6470.780907
+note 66= 6674.690909
+note 67= 6701.955001
+note 68= 6737.651813
+note 69= 6941.561815
+note 70= 6968.825906
+note 71= 7172.735908
+note 72= 7200.000000
+note 73= 7376.645910
+note 74= 7403.910002
+note 75= 7439.606814
+note 76= 7643.516816
+note 77= 7670.780907
+note 78= 7874.690909
+note 79= 7901.955001
+note 80= 7937.651813
+note 81= 8141.561815
+note 82= 8168.825906
+note 83= 8372.735908
+note 84= 8400.000000
+note 85= 8576.645910
+note 86= 8603.910002
+note 87= 8639.606814
+note 88= 8843.516816
+note 89= 8870.780907
+note 90= 9074.690909
+note 91= 9101.955001
+note 92= 9137.651813
+note 93= 9341.561815
+note 94= 9368.825906
+note 95= 9572.735908
+note 96= 9600.000000
+note 97= 9776.645910
+note 98= 9803.910002
+note 99= 9839.606814
+note 100= 10043.516816
+note 101= 10070.780907
+note 102= 10274.690909
+note 103= 10301.955001
+note 104= 10337.651813
+note 105= 10541.561815
+note 106= 10568.825906
+note 107= 10772.735908
+note 108= 10800.000000
+note 109= 10976.645910
+note 110= 11003.910002
+note 111= 11039.606814
+note 112= 11243.516816
+note 113= 11270.780907
+note 114= 11474.690909
+note 115= 11501.955001
+note 116= 11537.651813
+note 117= 11741.561815
+note 118= 11768.825906
+note 119= 11972.735908
+note 120= 12000.000000
+note 121= 12176.645910
+note 122= 12203.910002
+note 123= 12239.606814
+note 124= 12443.516816
+note 125= 12470.780907
+note 126= 12674.690909
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 567/512"
+note 2="#=0 * 9/8"
+note 3="#=0 * 147/128"
+note 4="#=0 * 1323/1024"
+note 5="#=0 * 21/16"
+note 6="#=0 * 189/128"
+note 7="#=0 * 3/2"
+note 8="#=0 * 49/32"
+note 9="#=0 * 441/256"
+note 10="#=0 * 7/4"
+note 11="#=0 * 63/32"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

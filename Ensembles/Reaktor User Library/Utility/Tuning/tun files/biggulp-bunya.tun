@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Biggulp tempered in POTE-tuned 13-limit bunya
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=62
+note 2=207
+note 3=269
+note 4=383
+note 5=477
+note 6=559
+note 7=704
+note 8=766
+note 9=911
+note 10=973
+note 11=1087
+note 12=1200
+note 13=1262
+note 14=1407
+note 15=1469
+note 16=1583
+note 17=1677
+note 18=1759
+note 19=1904
+note 20=1966
+note 21=2111
+note 22=2173
+note 23=2287
+note 24=2400
+note 25=2462
+note 26=2607
+note 27=2669
+note 28=2783
+note 29=2877
+note 30=2959
+note 31=3104
+note 32=3166
+note 33=3311
+note 34=3373
+note 35=3487
+note 36=3600
+note 37=3662
+note 38=3807
+note 39=3869
+note 40=3983
+note 41=4077
+note 42=4159
+note 43=4304
+note 44=4366
+note 45=4511
+note 46=4573
+note 47=4687
+note 48=4800
+note 49=4862
+note 50=5007
+note 51=5069
+note 52=5183
+note 53=5277
+note 54=5359
+note 55=5504
+note 56=5566
+note 57=5711
+note 58=5773
+note 59=5887
+note 60=6000
+note 61=6062
+note 62=6207
+note 63=6269
+note 64=6383
+note 65=6477
+note 66=6559
+note 67=6704
+note 68=6766
+note 69=6911
+note 70=6973
+note 71=7087
+note 72=7200
+note 73=7262
+note 74=7407
+note 75=7469
+note 76=7583
+note 77=7677
+note 78=7759
+note 79=7904
+note 80=7966
+note 81=8111
+note 82=8173
+note 83=8287
+note 84=8400
+note 85=8462
+note 86=8607
+note 87=8669
+note 88=8783
+note 89=8877
+note 90=8959
+note 91=9104
+note 92=9166
+note 93=9311
+note 94=9373
+note 95=9487
+note 96=9600
+note 97=9662
+note 98=9807
+note 99=9869
+note 100=9983
+note 101=10077
+note 102=10159
+note 103=10304
+note 104=10366
+note 105=10511
+note 106=10573
+note 107=10687
+note 108=10800
+note 109=10862
+note 110=11007
+note 111=11069
+note 112=11183
+note 113=11277
+note 114=11359
+note 115=11504
+note 116=11566
+note 117=11711
+note 118=11773
+note 119=11887
+note 120=12000
+note 121=12062
+note 122=12207
+note 123=12269
+note 124=12383
+note 125=12477
+note 126=12559
+note 127=12704
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "biggulp-bunya.tun"
+ID= "ID_biggulp-bunya.tun"
+Filename= "biggulp-bunya.scl"
+Description= "Biggulp tempered in POTE-tuned 13-limit bunya"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 62.401230
+note 2= 207.086420
+note 3= 269.487640
+note 4= 382.972220
+note 5= 476.574060
+note 6= 558.858020
+note 7= 703.543210
+note 8= 765.944440
+note 9= 910.629620
+note 10= 973.030850
+note 11= 1086.515430
+note 12= 1200.000000
+note 13= 1262.401230
+note 14= 1407.086420
+note 15= 1469.487640
+note 16= 1582.972220
+note 17= 1676.574060
+note 18= 1758.858020
+note 19= 1903.543210
+note 20= 1965.944440
+note 21= 2110.629620
+note 22= 2173.030850
+note 23= 2286.515430
+note 24= 2400.000000
+note 25= 2462.401230
+note 26= 2607.086420
+note 27= 2669.487640
+note 28= 2782.972220
+note 29= 2876.574060
+note 30= 2958.858020
+note 31= 3103.543210
+note 32= 3165.944440
+note 33= 3310.629620
+note 34= 3373.030850
+note 35= 3486.515430
+note 36= 3600.000000
+note 37= 3662.401230
+note 38= 3807.086420
+note 39= 3869.487640
+note 40= 3982.972220
+note 41= 4076.574060
+note 42= 4158.858020
+note 43= 4303.543210
+note 44= 4365.944440
+note 45= 4510.629620
+note 46= 4573.030850
+note 47= 4686.515430
+note 48= 4800.000000
+note 49= 4862.401230
+note 50= 5007.086420
+note 51= 5069.487640
+note 52= 5182.972220
+note 53= 5276.574060
+note 54= 5358.858020
+note 55= 5503.543210
+note 56= 5565.944440
+note 57= 5710.629620
+note 58= 5773.030850
+note 59= 5886.515430
+note 60= 6000.000000
+note 61= 6062.401230
+note 62= 6207.086420
+note 63= 6269.487640
+note 64= 6382.972220
+note 65= 6476.574060
+note 66= 6558.858020
+note 67= 6703.543210
+note 68= 6765.944440
+note 69= 6910.629620
+note 70= 6973.030850
+note 71= 7086.515430
+note 72= 7200.000000
+note 73= 7262.401230
+note 74= 7407.086420
+note 75= 7469.487640
+note 76= 7582.972220
+note 77= 7676.574060
+note 78= 7758.858020
+note 79= 7903.543210
+note 80= 7965.944440
+note 81= 8110.629620
+note 82= 8173.030850
+note 83= 8286.515430
+note 84= 8400.000000
+note 85= 8462.401230
+note 86= 8607.086420
+note 87= 8669.487640
+note 88= 8782.972220
+note 89= 8876.574060
+note 90= 8958.858020
+note 91= 9103.543210
+note 92= 9165.944440
+note 93= 9310.629620
+note 94= 9373.030850
+note 95= 9486.515430
+note 96= 9600.000000
+note 97= 9662.401230
+note 98= 9807.086420
+note 99= 9869.487640
+note 100= 9982.972220
+note 101= 10076.574060
+note 102= 10158.858020
+note 103= 10303.543210
+note 104= 10365.944440
+note 105= 10510.629620
+note 106= 10573.030850
+note 107= 10686.515430
+note 108= 10800.000000
+note 109= 10862.401230
+note 110= 11007.086420
+note 111= 11069.487640
+note 112= 11182.972220
+note 113= 11276.574060
+note 114= 11358.858020
+note 115= 11503.543210
+note 116= 11565.944440
+note 117= 11710.629620
+note 118= 11773.030850
+note 119= 11886.515430
+note 120= 12000.000000
+note 121= 12062.401230
+note 122= 12207.086420
+note 123= 12269.487640
+note 124= 12382.972220
+note 125= 12476.574060
+note 126= 12558.858020
+note 127= 12703.543210
+
+[Functional Tuning]
+note 1="#=0 % 62.401230"
+note 2="#=0 % 207.086420"
+note 3="#=0 % 269.487640"
+note 4="#=0 % 382.972220"
+note 5="#=0 % 476.574060"
+note 6="#=0 % 558.858020"
+note 7="#=0 % 703.543210"
+note 8="#=0 % 765.944440"
+note 9="#=0 % 910.629620"
+note 10="#=0 % 973.030850"
+note 11="#=0 % 1086.515430"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sine modulated fifths, A=1/6 Pyth, one cycle, f0=-90 degrees
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=100
+note 2=193
+note 3=305
+note 4=391
+note 5=503
+note 6=596
+note 7=696
+note 8=803
+note 9=891
+note 10=1005
+note 11=1093
+note 12=1200
+note 13=1300
+note 14=1393
+note 15=1505
+note 16=1591
+note 17=1703
+note 18=1796
+note 19=1896
+note 20=2003
+note 21=2091
+note 22=2205
+note 23=2293
+note 24=2400
+note 25=2500
+note 26=2593
+note 27=2705
+note 28=2791
+note 29=2903
+note 30=2996
+note 31=3096
+note 32=3203
+note 33=3291
+note 34=3405
+note 35=3493
+note 36=3600
+note 37=3700
+note 38=3793
+note 39=3905
+note 40=3991
+note 41=4103
+note 42=4196
+note 43=4296
+note 44=4403
+note 45=4491
+note 46=4605
+note 47=4693
+note 48=4800
+note 49=4900
+note 50=4993
+note 51=5105
+note 52=5191
+note 53=5303
+note 54=5396
+note 55=5496
+note 56=5603
+note 57=5691
+note 58=5805
+note 59=5893
+note 60=6000
+note 61=6100
+note 62=6193
+note 63=6305
+note 64=6391
+note 65=6503
+note 66=6596
+note 67=6696
+note 68=6803
+note 69=6891
+note 70=7005
+note 71=7093
+note 72=7200
+note 73=7300
+note 74=7393
+note 75=7505
+note 76=7591
+note 77=7703
+note 78=7796
+note 79=7896
+note 80=8003
+note 81=8091
+note 82=8205
+note 83=8293
+note 84=8400
+note 85=8500
+note 86=8593
+note 87=8705
+note 88=8791
+note 89=8903
+note 90=8996
+note 91=9096
+note 92=9203
+note 93=9291
+note 94=9405
+note 95=9493
+note 96=9600
+note 97=9700
+note 98=9793
+note 99=9905
+note 100=9991
+note 101=10103
+note 102=10196
+note 103=10296
+note 104=10403
+note 105=10491
+note 106=10605
+note 107=10693
+note 108=10800
+note 109=10900
+note 110=10993
+note 111=11105
+note 112=11191
+note 113=11303
+note 114=11396
+note 115=11496
+note 116=11603
+note 117=11691
+note 118=11805
+note 119=11893
+note 120=12000
+note 121=12100
+note 122=12193
+note 123=12305
+note 124=12391
+note 125=12503
+note 126=12596
+note 127=12696
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sintemp6.tun"
+ID= "ID_sintemp6.tun"
+Filename= "sintemp6.scl"
+Description= "Sine modulated fifths, A=1/6 Pyth, one cycle, f0=-90 degrees"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 100.000000
+note 2= 192.703840
+note 3= 305.341160
+note 4= 390.748840
+note 5= 503.386160
+note 6= 596.090000
+note 7= 696.090000
+note 8= 803.386160
+note 9= 890.748840
+note 10= 1005.341160
+note 11= 1092.703840
+note 12= 1200.000000
+note 13= 1300.000000
+note 14= 1392.703840
+note 15= 1505.341160
+note 16= 1590.748840
+note 17= 1703.386160
+note 18= 1796.090000
+note 19= 1896.090000
+note 20= 2003.386160
+note 21= 2090.748840
+note 22= 2205.341160
+note 23= 2292.703840
+note 24= 2400.000000
+note 25= 2500.000000
+note 26= 2592.703840
+note 27= 2705.341160
+note 28= 2790.748840
+note 29= 2903.386160
+note 30= 2996.090000
+note 31= 3096.090000
+note 32= 3203.386160
+note 33= 3290.748840
+note 34= 3405.341160
+note 35= 3492.703840
+note 36= 3600.000000
+note 37= 3700.000000
+note 38= 3792.703840
+note 39= 3905.341160
+note 40= 3990.748840
+note 41= 4103.386160
+note 42= 4196.090000
+note 43= 4296.090000
+note 44= 4403.386160
+note 45= 4490.748840
+note 46= 4605.341160
+note 47= 4692.703840
+note 48= 4800.000000
+note 49= 4900.000000
+note 50= 4992.703840
+note 51= 5105.341160
+note 52= 5190.748840
+note 53= 5303.386160
+note 54= 5396.090000
+note 55= 5496.090000
+note 56= 5603.386160
+note 57= 5690.748840
+note 58= 5805.341160
+note 59= 5892.703840
+note 60= 6000.000000
+note 61= 6100.000000
+note 62= 6192.703840
+note 63= 6305.341160
+note 64= 6390.748840
+note 65= 6503.386160
+note 66= 6596.090000
+note 67= 6696.090000
+note 68= 6803.386160
+note 69= 6890.748840
+note 70= 7005.341160
+note 71= 7092.703840
+note 72= 7200.000000
+note 73= 7300.000000
+note 74= 7392.703840
+note 75= 7505.341160
+note 76= 7590.748840
+note 77= 7703.386160
+note 78= 7796.090000
+note 79= 7896.090000
+note 80= 8003.386160
+note 81= 8090.748840
+note 82= 8205.341160
+note 83= 8292.703840
+note 84= 8400.000000
+note 85= 8500.000000
+note 86= 8592.703840
+note 87= 8705.341160
+note 88= 8790.748840
+note 89= 8903.386160
+note 90= 8996.090000
+note 91= 9096.090000
+note 92= 9203.386160
+note 93= 9290.748840
+note 94= 9405.341160
+note 95= 9492.703840
+note 96= 9600.000000
+note 97= 9700.000000
+note 98= 9792.703840
+note 99= 9905.341160
+note 100= 9990.748840
+note 101= 10103.386160
+note 102= 10196.090000
+note 103= 10296.090000
+note 104= 10403.386160
+note 105= 10490.748840
+note 106= 10605.341160
+note 107= 10692.703840
+note 108= 10800.000000
+note 109= 10900.000000
+note 110= 10992.703840
+note 111= 11105.341160
+note 112= 11190.748840
+note 113= 11303.386160
+note 114= 11396.090000
+note 115= 11496.090000
+note 116= 11603.386160
+note 117= 11690.748840
+note 118= 11805.341160
+note 119= 11892.703840
+note 120= 12000.000000
+note 121= 12100.000000
+note 122= 12192.703840
+note 123= 12305.341160
+note 124= 12390.748840
+note 125= 12503.386160
+note 126= 12596.090000
+note 127= 12696.090000
+
+[Functional Tuning]
+note 1="#=0 % 100.000000"
+note 2="#=0 % 192.703840"
+note 3="#=0 % 305.341160"
+note 4="#=0 % 390.748840"
+note 5="#=0 % 503.386160"
+note 6="#=0 % 596.090000"
+note 7="#=0 % 696.090000"
+note 8="#=0 % 803.386160"
+note 9="#=0 % 890.748840"
+note 10="#=0 % 1005.341160"
+note 11="#=0 % 1092.703840"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

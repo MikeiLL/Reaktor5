@@ -1,0 +1,303 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Douglas Walker, 1977, for "out of the fathomless dark/into the limitless light
+;
+; VAZ Plus section
+[Tuning]
+note 0=2604
+note 1=2631
+note 2=2667
+note 3=2694
+note 4=2716
+note 5=2786
+note 6=2835
+note 7=2898
+note 8=3102
+note 9=3165
+note 10=3214
+note 11=3284
+note 12=3306
+note 13=3333
+note 14=3369
+note 15=3396
+note 16=3418
+note 17=3488
+note 18=3600
+note 19=3712
+note 20=3782
+note 21=3804
+note 22=3831
+note 23=3867
+note 24=3894
+note 25=3916
+note 26=3986
+note 27=4035
+note 28=4098
+note 29=4302
+note 30=4365
+note 31=4414
+note 32=4484
+note 33=4506
+note 34=4533
+note 35=4569
+note 36=4596
+note 37=4618
+note 38=4688
+note 39=4800
+note 40=4912
+note 41=4982
+note 42=5004
+note 43=5031
+note 44=5067
+note 45=5094
+note 46=5116
+note 47=5186
+note 48=5235
+note 49=5298
+note 50=5502
+note 51=5565
+note 52=5614
+note 53=5684
+note 54=5706
+note 55=5733
+note 56=5769
+note 57=5796
+note 58=5818
+note 59=5888
+note 60=6000
+note 61=6112
+note 62=6182
+note 63=6204
+note 64=6231
+note 65=6267
+note 66=6294
+note 67=6316
+note 68=6386
+note 69=6435
+note 70=6498
+note 71=6702
+note 72=6765
+note 73=6814
+note 74=6884
+note 75=6906
+note 76=6933
+note 77=6969
+note 78=6996
+note 79=7018
+note 80=7088
+note 81=7200
+note 82=7312
+note 83=7382
+note 84=7404
+note 85=7431
+note 86=7467
+note 87=7494
+note 88=7516
+note 89=7586
+note 90=7635
+note 91=7698
+note 92=7902
+note 93=7965
+note 94=8014
+note 95=8084
+note 96=8106
+note 97=8133
+note 98=8169
+note 99=8196
+note 100=8218
+note 101=8288
+note 102=8400
+note 103=8512
+note 104=8582
+note 105=8604
+note 106=8631
+note 107=8667
+note 108=8694
+note 109=8716
+note 110=8786
+note 111=8835
+note 112=8898
+note 113=9102
+note 114=9165
+note 115=9214
+note 116=9284
+note 117=9306
+note 118=9333
+note 119=9369
+note 120=9396
+note 121=9418
+note 122=9488
+note 123=9600
+note 124=9712
+note 125=9782
+note 126=9804
+note 127=9831
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "walker_21.tun"
+ID= "ID_walker_21.tun"
+Filename= "walker_21.scl"
+Description= "Douglas Walker, 1977, for "out of the fathomless dark/into the limitless light"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2603.910002
+note 1= 2631.174094
+note 2= 2666.870906
+note 3= 2694.134997
+note 4= 2715.641287
+note 5= 2786.313714
+note 6= 2835.084095
+note 7= 2898.044999
+note 8= 3101.955001
+note 9= 3164.915905
+note 10= 3213.686286
+note 11= 3284.358713
+note 12= 3305.865003
+note 13= 3333.129094
+note 14= 3368.825906
+note 15= 3396.089998
+note 16= 3417.596288
+note 17= 3488.268715
+note 18= 3600.000000
+note 19= 3711.731285
+note 20= 3782.403712
+note 21= 3803.910002
+note 22= 3831.174094
+note 23= 3866.870906
+note 24= 3894.134997
+note 25= 3915.641287
+note 26= 3986.313714
+note 27= 4035.084095
+note 28= 4098.044999
+note 29= 4301.955001
+note 30= 4364.915905
+note 31= 4413.686286
+note 32= 4484.358713
+note 33= 4505.865003
+note 34= 4533.129094
+note 35= 4568.825906
+note 36= 4596.089998
+note 37= 4617.596288
+note 38= 4688.268715
+note 39= 4800.000000
+note 40= 4911.731285
+note 41= 4982.403712
+note 42= 5003.910002
+note 43= 5031.174094
+note 44= 5066.870906
+note 45= 5094.134997
+note 46= 5115.641287
+note 47= 5186.313714
+note 48= 5235.084095
+note 49= 5298.044999
+note 50= 5501.955001
+note 51= 5564.915905
+note 52= 5613.686286
+note 53= 5684.358713
+note 54= 5705.865003
+note 55= 5733.129094
+note 56= 5768.825906
+note 57= 5796.089998
+note 58= 5817.596288
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6111.731285
+note 62= 6182.403712
+note 63= 6203.910002
+note 64= 6231.174094
+note 65= 6266.870906
+note 66= 6294.134997
+note 67= 6315.641287
+note 68= 6386.313714
+note 69= 6435.084095
+note 70= 6498.044999
+note 71= 6701.955001
+note 72= 6764.915905
+note 73= 6813.686286
+note 74= 6884.358713
+note 75= 6905.865003
+note 76= 6933.129094
+note 77= 6968.825906
+note 78= 6996.089998
+note 79= 7017.596288
+note 80= 7088.268715
+note 81= 7200.000000
+note 82= 7311.731285
+note 83= 7382.403712
+note 84= 7403.910002
+note 85= 7431.174094
+note 86= 7466.870906
+note 87= 7494.134997
+note 88= 7515.641287
+note 89= 7586.313714
+note 90= 7635.084095
+note 91= 7698.044999
+note 92= 7901.955001
+note 93= 7964.915905
+note 94= 8013.686286
+note 95= 8084.358713
+note 96= 8105.865003
+note 97= 8133.129094
+note 98= 8168.825906
+note 99= 8196.089998
+note 100= 8217.596288
+note 101= 8288.268715
+note 102= 8400.000000
+note 103= 8511.731285
+note 104= 8582.403712
+note 105= 8603.910002
+note 106= 8631.174094
+note 107= 8666.870906
+note 108= 8694.134997
+note 109= 8715.641287
+note 110= 8786.313714
+note 111= 8835.084095
+note 112= 8898.044999
+note 113= 9101.955001
+note 114= 9164.915905
+note 115= 9213.686286
+note 116= 9284.358713
+note 117= 9305.865003
+note 118= 9333.129094
+note 119= 9368.825906
+note 120= 9396.089998
+note 121= 9417.596288
+note 122= 9488.268715
+note 123= 9600.000000
+note 124= 9711.731285
+note 125= 9782.403712
+note 126= 9803.910002
+note 127= 9831.174094
+
+[Functional Tuning]
+note 1="#=0 * 16/15"
+note 2="#=0 * 10/9"
+note 3="#=0 * 9/8"
+note 4="#=0 * 8/7"
+note 5="#=0 * 7/6"
+note 6="#=0 * 32/27"
+note 7="#=0 * 6/5"
+note 8="#=0 * 5/4"
+note 9="#=0 * 9/7"
+note 10="#=0 * 4/3"
+note 11="#=0 * 3/2"
+note 12="#=0 * 14/9"
+note 13="#=0 * 8/5"
+note 14="#=0 * 5/3"
+note 15="#=0 * 27/16"
+note 16="#=0 * 12/7"
+note 17="#=0 * 7/4"
+note 18="#=0 * 16/9"
+note 19="#=0 * 9/5"
+note 20="#=0 * 15/8"
+note 21="#>-21 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

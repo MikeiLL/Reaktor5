@@ -1,0 +1,295 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 7-limit rational 13-equal, Barlow, On the Quantification of Harmony and Metre
+;
+; VAZ Plus section
+[Tuning]
+note 0=471
+note 1=547
+note 2=639
+note 3=723
+note 4=814
+note 5=933
+note 6=1018
+note 7=1110
+note 8=1200
+note 9=1292
+note 10=1404
+note 11=1467
+note 12=1586
+note 13=1671
+note 14=1747
+note 15=1839
+note 16=1923
+note 17=2014
+note 18=2133
+note 19=2218
+note 20=2310
+note 21=2400
+note 22=2492
+note 23=2604
+note 24=2667
+note 25=2786
+note 26=2871
+note 27=2947
+note 28=3039
+note 29=3123
+note 30=3214
+note 31=3333
+note 32=3418
+note 33=3510
+note 34=3600
+note 35=3692
+note 36=3804
+note 37=3867
+note 38=3986
+note 39=4071
+note 40=4147
+note 41=4239
+note 42=4323
+note 43=4414
+note 44=4533
+note 45=4618
+note 46=4710
+note 47=4800
+note 48=4892
+note 49=5004
+note 50=5067
+note 51=5186
+note 52=5271
+note 53=5347
+note 54=5439
+note 55=5523
+note 56=5614
+note 57=5733
+note 58=5818
+note 59=5910
+note 60=6000
+note 61=6092
+note 62=6204
+note 63=6267
+note 64=6386
+note 65=6471
+note 66=6547
+note 67=6639
+note 68=6723
+note 69=6814
+note 70=6933
+note 71=7018
+note 72=7110
+note 73=7200
+note 74=7292
+note 75=7404
+note 76=7467
+note 77=7586
+note 78=7671
+note 79=7747
+note 80=7839
+note 81=7923
+note 82=8014
+note 83=8133
+note 84=8218
+note 85=8310
+note 86=8400
+note 87=8492
+note 88=8604
+note 89=8667
+note 90=8786
+note 91=8871
+note 92=8947
+note 93=9039
+note 94=9123
+note 95=9214
+note 96=9333
+note 97=9418
+note 98=9510
+note 99=9600
+note 100=9692
+note 101=9804
+note 102=9867
+note 103=9986
+note 104=10071
+note 105=10147
+note 106=10239
+note 107=10323
+note 108=10414
+note 109=10533
+note 110=10618
+note 111=10710
+note 112=10800
+note 113=10892
+note 114=11004
+note 115=11067
+note 116=11186
+note 117=11271
+note 118=11347
+note 119=11439
+note 120=11523
+note 121=11614
+note 122=11733
+note 123=11818
+note 124=11910
+note 125=12000
+note 126=12092
+note 127=12204
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "barlow_13.tun"
+ID= "ID_barlow_13.tun"
+Filename= "barlow_13.scl"
+Description= "7-limit rational 13-equal, Barlow, On the Quantification of Harmony and Metre"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 470.780907
+note 1= 546.815381
+note 2= 638.994097
+note 3= 723.461290
+note 4= 813.686286
+note 5= 933.129094
+note 6= 1017.596288
+note 7= 1109.775004
+note 8= 1200.000000
+note 9= 1292.178716
+note 10= 1403.910002
+note 11= 1466.870906
+note 12= 1586.313714
+note 13= 1670.780907
+note 14= 1746.815381
+note 15= 1838.994097
+note 16= 1923.461290
+note 17= 2013.686286
+note 18= 2133.129094
+note 19= 2217.596288
+note 20= 2309.775004
+note 21= 2400.000000
+note 22= 2492.178716
+note 23= 2603.910002
+note 24= 2666.870906
+note 25= 2786.313714
+note 26= 2870.780907
+note 27= 2946.815381
+note 28= 3038.994097
+note 29= 3123.461290
+note 30= 3213.686286
+note 31= 3333.129094
+note 32= 3417.596288
+note 33= 3509.775004
+note 34= 3600.000000
+note 35= 3692.178716
+note 36= 3803.910002
+note 37= 3866.870906
+note 38= 3986.313714
+note 39= 4070.780907
+note 40= 4146.815381
+note 41= 4238.994097
+note 42= 4323.461290
+note 43= 4413.686286
+note 44= 4533.129094
+note 45= 4617.596288
+note 46= 4709.775004
+note 47= 4800.000000
+note 48= 4892.178716
+note 49= 5003.910002
+note 50= 5066.870906
+note 51= 5186.313714
+note 52= 5270.780907
+note 53= 5346.815381
+note 54= 5438.994097
+note 55= 5523.461290
+note 56= 5613.686286
+note 57= 5733.129094
+note 58= 5817.596288
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6092.178716
+note 62= 6203.910002
+note 63= 6266.870906
+note 64= 6386.313714
+note 65= 6470.780907
+note 66= 6546.815381
+note 67= 6638.994097
+note 68= 6723.461290
+note 69= 6813.686286
+note 70= 6933.129094
+note 71= 7017.596288
+note 72= 7109.775004
+note 73= 7200.000000
+note 74= 7292.178716
+note 75= 7403.910002
+note 76= 7466.870906
+note 77= 7586.313714
+note 78= 7670.780907
+note 79= 7746.815381
+note 80= 7838.994097
+note 81= 7923.461290
+note 82= 8013.686286
+note 83= 8133.129094
+note 84= 8217.596288
+note 85= 8309.775004
+note 86= 8400.000000
+note 87= 8492.178716
+note 88= 8603.910002
+note 89= 8666.870906
+note 90= 8786.313714
+note 91= 8870.780907
+note 92= 8946.815381
+note 93= 9038.994097
+note 94= 9123.461290
+note 95= 9213.686286
+note 96= 9333.129094
+note 97= 9417.596288
+note 98= 9509.775004
+note 99= 9600.000000
+note 100= 9692.178716
+note 101= 9803.910002
+note 102= 9866.870906
+note 103= 9986.313714
+note 104= 10070.780907
+note 105= 10146.815381
+note 106= 10238.994097
+note 107= 10323.461290
+note 108= 10413.686286
+note 109= 10533.129094
+note 110= 10617.596288
+note 111= 10709.775004
+note 112= 10800.000000
+note 113= 10892.178716
+note 114= 11003.910002
+note 115= 11066.870906
+note 116= 11186.313714
+note 117= 11270.780907
+note 118= 11346.815381
+note 119= 11438.994097
+note 120= 11523.461290
+note 121= 11613.686286
+note 122= 11733.129094
+note 123= 11817.596288
+note 124= 11909.775004
+note 125= 12000.000000
+note 126= 12092.178716
+note 127= 12203.910002
+
+[Functional Tuning]
+note 1="#=0 * 135/128"
+note 2="#=0 * 9/8"
+note 3="#=0 * 7/6"
+note 4="#=0 * 5/4"
+note 5="#=0 * 21/16"
+note 6="#=0 * 48/35"
+note 7="#=0 * 81/56"
+note 8="#=0 * 243/160"
+note 9="#=0 * 8/5"
+note 10="#=0 * 12/7"
+note 11="#=0 * 9/5"
+note 12="#=0 * 243/128"
+note 13="#>-13 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

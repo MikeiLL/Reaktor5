@@ -1,0 +1,302 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; stellar scale in 1/4 kleismic marvel tempering
+;
+; VAZ Plus section
+[Tuning]
+note 0=2400
+note 1=2516
+note 2=2553
+note 3=2600
+note 4=2631
+note 5=2669
+note 6=2716
+note 7=2784
+note 8=2869
+note 9=2900
+note 10=2984
+note 11=3016
+note 12=3100
+note 13=3169
+note 14=3216
+note 15=3253
+note 16=3284
+note 17=3331
+note 18=3369
+note 19=3484
+note 20=3600
+note 21=3716
+note 22=3753
+note 23=3800
+note 24=3831
+note 25=3869
+note 26=3916
+note 27=3984
+note 28=4069
+note 29=4100
+note 30=4184
+note 31=4216
+note 32=4300
+note 33=4369
+note 34=4416
+note 35=4453
+note 36=4484
+note 37=4531
+note 38=4569
+note 39=4684
+note 40=4800
+note 41=4916
+note 42=4953
+note 43=5000
+note 44=5031
+note 45=5069
+note 46=5116
+note 47=5184
+note 48=5269
+note 49=5300
+note 50=5384
+note 51=5416
+note 52=5500
+note 53=5569
+note 54=5616
+note 55=5653
+note 56=5684
+note 57=5731
+note 58=5769
+note 59=5884
+note 60=6000
+note 61=6116
+note 62=6153
+note 63=6200
+note 64=6231
+note 65=6269
+note 66=6316
+note 67=6384
+note 68=6469
+note 69=6500
+note 70=6584
+note 71=6616
+note 72=6700
+note 73=6769
+note 74=6816
+note 75=6853
+note 76=6884
+note 77=6931
+note 78=6969
+note 79=7084
+note 80=7200
+note 81=7316
+note 82=7353
+note 83=7400
+note 84=7431
+note 85=7469
+note 86=7516
+note 87=7584
+note 88=7669
+note 89=7700
+note 90=7784
+note 91=7816
+note 92=7900
+note 93=7969
+note 94=8016
+note 95=8053
+note 96=8084
+note 97=8131
+note 98=8169
+note 99=8284
+note 100=8400
+note 101=8516
+note 102=8553
+note 103=8600
+note 104=8631
+note 105=8669
+note 106=8716
+note 107=8784
+note 108=8869
+note 109=8900
+note 110=8984
+note 111=9016
+note 112=9100
+note 113=9169
+note 114=9216
+note 115=9253
+note 116=9284
+note 117=9331
+note 118=9369
+note 119=9484
+note 120=9600
+note 121=9716
+note 122=9753
+note 123=9800
+note 124=9831
+note 125=9869
+note 126=9916
+note 127=9984
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stellar.tun"
+ID= "ID_stellar.tun"
+Filename= "stellar.scl"
+Description= "stellar scale in 1/4 kleismic marvel tempering"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2400.000000
+note 1= 2515.587050
+note 2= 2553.211740
+note 3= 2600.054240
+note 4= 2631.174094
+note 5= 2668.798790
+note 6= 2715.641287
+note 7= 2784.385830
+note 8= 2868.853030
+note 9= 2899.972880
+note 10= 2984.440070
+note 11= 3015.559930
+note 12= 3100.027120
+note 13= 3168.771670
+note 14= 3215.614170
+note 15= 3253.238860
+note 16= 3284.358713
+note 17= 3331.201210
+note 18= 3368.825906
+note 19= 3484.412950
+note 20= 3600.000000
+note 21= 3715.587050
+note 22= 3753.211740
+note 23= 3800.054240
+note 24= 3831.174094
+note 25= 3868.798790
+note 26= 3915.641287
+note 27= 3984.385830
+note 28= 4068.853030
+note 29= 4099.972880
+note 30= 4184.440070
+note 31= 4215.559930
+note 32= 4300.027120
+note 33= 4368.771670
+note 34= 4415.614170
+note 35= 4453.238860
+note 36= 4484.358713
+note 37= 4531.201210
+note 38= 4568.825906
+note 39= 4684.412950
+note 40= 4800.000000
+note 41= 4915.587050
+note 42= 4953.211740
+note 43= 5000.054240
+note 44= 5031.174094
+note 45= 5068.798790
+note 46= 5115.641287
+note 47= 5184.385830
+note 48= 5268.853030
+note 49= 5299.972880
+note 50= 5384.440070
+note 51= 5415.559930
+note 52= 5500.027120
+note 53= 5568.771670
+note 54= 5615.614170
+note 55= 5653.238860
+note 56= 5684.358713
+note 57= 5731.201210
+note 58= 5768.825906
+note 59= 5884.412950
+note 60= 6000.000000
+note 61= 6115.587050
+note 62= 6153.211740
+note 63= 6200.054240
+note 64= 6231.174094
+note 65= 6268.798790
+note 66= 6315.641287
+note 67= 6384.385830
+note 68= 6468.853030
+note 69= 6499.972880
+note 70= 6584.440070
+note 71= 6615.559930
+note 72= 6700.027120
+note 73= 6768.771670
+note 74= 6815.614170
+note 75= 6853.238860
+note 76= 6884.358713
+note 77= 6931.201210
+note 78= 6968.825906
+note 79= 7084.412950
+note 80= 7200.000000
+note 81= 7315.587050
+note 82= 7353.211740
+note 83= 7400.054240
+note 84= 7431.174094
+note 85= 7468.798790
+note 86= 7515.641287
+note 87= 7584.385830
+note 88= 7668.853030
+note 89= 7699.972880
+note 90= 7784.440070
+note 91= 7815.559930
+note 92= 7900.027120
+note 93= 7968.771670
+note 94= 8015.614170
+note 95= 8053.238860
+note 96= 8084.358713
+note 97= 8131.201210
+note 98= 8168.825906
+note 99= 8284.412950
+note 100= 8400.000000
+note 101= 8515.587050
+note 102= 8553.211740
+note 103= 8600.054240
+note 104= 8631.174094
+note 105= 8668.798790
+note 106= 8715.641287
+note 107= 8784.385830
+note 108= 8868.853030
+note 109= 8899.972880
+note 110= 8984.440070
+note 111= 9015.559930
+note 112= 9100.027120
+note 113= 9168.771670
+note 114= 9215.614170
+note 115= 9253.238860
+note 116= 9284.358713
+note 117= 9331.201210
+note 118= 9368.825906
+note 119= 9484.412950
+note 120= 9600.000000
+note 121= 9715.587050
+note 122= 9753.211740
+note 123= 9800.054240
+note 124= 9831.174094
+note 125= 9868.798790
+note 126= 9915.641287
+note 127= 9984.385830
+
+[Functional Tuning]
+note 1="#=0 % 115.587050"
+note 2="#=0 % 153.211740"
+note 3="#=0 % 200.054240"
+note 4="#=0 * 8/7"
+note 5="#=0 % 268.798790"
+note 6="#=0 * 6/5"
+note 7="#=0 % 384.385830"
+note 8="#=0 % 468.853030"
+note 9="#=0 % 499.972880"
+note 10="#=0 % 584.440070"
+note 11="#=0 % 615.559930"
+note 12="#=0 % 700.027120"
+note 13="#=0 % 768.771670"
+note 14="#=0 % 815.614170"
+note 15="#=0 % 853.238860"
+note 16="#=0 * 5/3"
+note 17="#=0 % 931.201210"
+note 18="#=0 * 7/4"
+note 19="#=0 % 1084.412950"
+note 20="#>-20 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

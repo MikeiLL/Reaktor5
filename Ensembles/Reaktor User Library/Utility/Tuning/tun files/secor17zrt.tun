@@ -1,0 +1,299 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; George Secor's 17-tone Zany Rational Temperament (2012)
+;
+; VAZ Plus section
+[Tuning]
+note 0=1754
+note 1=1786
+note 2=1898
+note 3=1967
+note 4=2037
+note 5=2093
+note 6=2183
+note 7=2246
+note 8=2288
+note 9=2400
+note 10=2460
+note 11=2531
+note 12=2595
+note 13=2674
+note 14=2739
+note 15=2791
+note 16=2894
+note 17=2954
+note 18=2986
+note 19=3098
+note 20=3167
+note 21=3237
+note 22=3293
+note 23=3383
+note 24=3446
+note 25=3488
+note 26=3600
+note 27=3660
+note 28=3731
+note 29=3795
+note 30=3874
+note 31=3939
+note 32=3991
+note 33=4094
+note 34=4154
+note 35=4186
+note 36=4298
+note 37=4367
+note 38=4437
+note 39=4493
+note 40=4583
+note 41=4646
+note 42=4688
+note 43=4800
+note 44=4860
+note 45=4931
+note 46=4995
+note 47=5074
+note 48=5139
+note 49=5191
+note 50=5294
+note 51=5354
+note 52=5386
+note 53=5498
+note 54=5567
+note 55=5637
+note 56=5693
+note 57=5783
+note 58=5846
+note 59=5888
+note 60=6000
+note 61=6060
+note 62=6131
+note 63=6195
+note 64=6274
+note 65=6339
+note 66=6391
+note 67=6494
+note 68=6554
+note 69=6586
+note 70=6698
+note 71=6767
+note 72=6837
+note 73=6893
+note 74=6983
+note 75=7046
+note 76=7088
+note 77=7200
+note 78=7260
+note 79=7331
+note 80=7395
+note 81=7474
+note 82=7539
+note 83=7591
+note 84=7694
+note 85=7754
+note 86=7786
+note 87=7898
+note 88=7967
+note 89=8037
+note 90=8093
+note 91=8183
+note 92=8246
+note 93=8288
+note 94=8400
+note 95=8460
+note 96=8531
+note 97=8595
+note 98=8674
+note 99=8739
+note 100=8791
+note 101=8894
+note 102=8954
+note 103=8986
+note 104=9098
+note 105=9167
+note 106=9237
+note 107=9293
+note 108=9383
+note 109=9446
+note 110=9488
+note 111=9600
+note 112=9660
+note 113=9731
+note 114=9795
+note 115=9874
+note 116=9939
+note 117=9991
+note 118=10094
+note 119=10154
+note 120=10186
+note 121=10298
+note 122=10367
+note 123=10437
+note 124=10493
+note 125=10583
+note 126=10646
+note 127=10688
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "secor17zrt.tun"
+ID= "ID_secor17zrt.tun"
+Filename= "secor17zrt.scl"
+Description= "George Secor's 17-tone Zany Rational Temperament (2012)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1753.665379
+note 1= 1785.858497
+note 2= 1897.643083
+note 3= 1967.451836
+note 4= 2036.547812
+note 5= 2092.950463
+note 6= 2183.121892
+note 7= 2246.424163
+note 8= 2288.268715
+note 9= 2400.000000
+note 10= 2460.305725
+note 11= 2530.603790
+note 12= 2595.275400
+note 13= 2674.237870
+note 14= 2739.166757
+note 15= 2790.614919
+note 16= 2893.733081
+note 17= 2953.665379
+note 18= 2985.858497
+note 19= 3097.643083
+note 20= 3167.451836
+note 21= 3236.547812
+note 22= 3292.950463
+note 23= 3383.121892
+note 24= 3446.424163
+note 25= 3488.268715
+note 26= 3600.000000
+note 27= 3660.305725
+note 28= 3730.603790
+note 29= 3795.275400
+note 30= 3874.237870
+note 31= 3939.166757
+note 32= 3990.614919
+note 33= 4093.733081
+note 34= 4153.665379
+note 35= 4185.858497
+note 36= 4297.643083
+note 37= 4367.451836
+note 38= 4436.547812
+note 39= 4492.950463
+note 40= 4583.121892
+note 41= 4646.424163
+note 42= 4688.268715
+note 43= 4800.000000
+note 44= 4860.305725
+note 45= 4930.603790
+note 46= 4995.275400
+note 47= 5074.237870
+note 48= 5139.166757
+note 49= 5190.614919
+note 50= 5293.733081
+note 51= 5353.665379
+note 52= 5385.858497
+note 53= 5497.643083
+note 54= 5567.451836
+note 55= 5636.547812
+note 56= 5692.950463
+note 57= 5783.121892
+note 58= 5846.424163
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6060.305725
+note 62= 6130.603790
+note 63= 6195.275400
+note 64= 6274.237870
+note 65= 6339.166757
+note 66= 6390.614919
+note 67= 6493.733081
+note 68= 6553.665379
+note 69= 6585.858497
+note 70= 6697.643083
+note 71= 6767.451836
+note 72= 6836.547812
+note 73= 6892.950463
+note 74= 6983.121892
+note 75= 7046.424163
+note 76= 7088.268715
+note 77= 7200.000000
+note 78= 7260.305725
+note 79= 7330.603790
+note 80= 7395.275400
+note 81= 7474.237870
+note 82= 7539.166757
+note 83= 7590.614919
+note 84= 7693.733081
+note 85= 7753.665379
+note 86= 7785.858497
+note 87= 7897.643083
+note 88= 7967.451836
+note 89= 8036.547812
+note 90= 8092.950463
+note 91= 8183.121892
+note 92= 8246.424163
+note 93= 8288.268715
+note 94= 8400.000000
+note 95= 8460.305725
+note 96= 8530.603790
+note 97= 8595.275400
+note 98= 8674.237870
+note 99= 8739.166757
+note 100= 8790.614919
+note 101= 8893.733081
+note 102= 8953.665379
+note 103= 8985.858497
+note 104= 9097.643083
+note 105= 9167.451836
+note 106= 9236.547812
+note 107= 9292.950463
+note 108= 9383.121892
+note 109= 9446.424163
+note 110= 9488.268715
+note 111= 9600.000000
+note 112= 9660.305725
+note 113= 9730.603790
+note 114= 9795.275400
+note 115= 9874.237870
+note 116= 9939.166757
+note 117= 9990.614919
+note 118= 10093.733081
+note 119= 10153.665379
+note 120= 10185.858497
+note 121= 10297.643083
+note 122= 10367.451836
+note 123= 10436.547812
+note 124= 10492.950463
+note 125= 10583.121892
+note 126= 10646.424163
+note 127= 10688.268715
+
+[Functional Tuning]
+note 1="#=0 * 555/536"
+note 2="#=0 * 289/268"
+note 3="#=0 * 75/67"
+note 4="#=0 * 157/134"
+note 5="#=0 * 163/134"
+note 6="#=0 * 2015/1608"
+note 7="#=0 * 802/603"
+note 8="#=0 * 369/268"
+note 9="#=0 * 5075/3618"
+note 10="#=0 * 401/268"
+note 11="#=0 * 835/536"
+note 12="#=0 * 869/536"
+note 13="#=0 * 1010/603"
+note 14="#=0 * 1064/603"
+note 15="#=0 * 981/536"
+note 16="#=0 * 15/8"
+note 17="#>-17 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

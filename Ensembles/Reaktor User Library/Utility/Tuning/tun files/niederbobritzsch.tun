@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Göthel organ, Niederbobritzsch, 19th cent. from Klaus Walter, 1988
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=98
+note 2=202
+note 3=298
+note 4=399
+note 5=503
+note 6=600
+note 7=699
+note 8=798
+note 9=900
+note 10=1001
+note 11=1094
+note 12=1200
+note 13=1298
+note 14=1402
+note 15=1498
+note 16=1599
+note 17=1703
+note 18=1800
+note 19=1899
+note 20=1998
+note 21=2100
+note 22=2201
+note 23=2294
+note 24=2400
+note 25=2498
+note 26=2602
+note 27=2698
+note 28=2799
+note 29=2903
+note 30=3000
+note 31=3099
+note 32=3198
+note 33=3300
+note 34=3401
+note 35=3494
+note 36=3600
+note 37=3698
+note 38=3802
+note 39=3898
+note 40=3999
+note 41=4103
+note 42=4200
+note 43=4299
+note 44=4398
+note 45=4500
+note 46=4601
+note 47=4694
+note 48=4800
+note 49=4898
+note 50=5002
+note 51=5098
+note 52=5199
+note 53=5303
+note 54=5400
+note 55=5499
+note 56=5598
+note 57=5700
+note 58=5801
+note 59=5894
+note 60=6000
+note 61=6098
+note 62=6202
+note 63=6298
+note 64=6399
+note 65=6503
+note 66=6600
+note 67=6699
+note 68=6798
+note 69=6900
+note 70=7001
+note 71=7094
+note 72=7200
+note 73=7298
+note 74=7402
+note 75=7498
+note 76=7599
+note 77=7703
+note 78=7800
+note 79=7899
+note 80=7998
+note 81=8100
+note 82=8201
+note 83=8294
+note 84=8400
+note 85=8498
+note 86=8602
+note 87=8698
+note 88=8799
+note 89=8903
+note 90=9000
+note 91=9099
+note 92=9198
+note 93=9300
+note 94=9401
+note 95=9494
+note 96=9600
+note 97=9698
+note 98=9802
+note 99=9898
+note 100=9999
+note 101=10103
+note 102=10200
+note 103=10299
+note 104=10398
+note 105=10500
+note 106=10601
+note 107=10694
+note 108=10800
+note 109=10898
+note 110=11002
+note 111=11098
+note 112=11199
+note 113=11303
+note 114=11400
+note 115=11499
+note 116=11598
+note 117=11700
+note 118=11801
+note 119=11894
+note 120=12000
+note 121=12098
+note 122=12202
+note 123=12298
+note 124=12399
+note 125=12503
+note 126=12600
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "niederbobritzsch.tun"
+ID= "ID_niederbobritzsch.tun"
+Filename= "niederbobritzsch.scl"
+Description= "Göthel organ, Niederbobritzsch, 19th cent. from Klaus Walter, 1988"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 98.045000
+note 2= 202.443750
+note 3= 298.045000
+note 4= 399.022500
+note 5= 503.421250
+note 6= 600.488750
+note 7= 699.022500
+note 8= 798.045000
+note 9= 900.000000
+note 10= 1001.466250
+note 11= 1094.135000
+note 12= 1200.000000
+note 13= 1298.045000
+note 14= 1402.443750
+note 15= 1498.045000
+note 16= 1599.022500
+note 17= 1703.421250
+note 18= 1800.488750
+note 19= 1899.022500
+note 20= 1998.045000
+note 21= 2100.000000
+note 22= 2201.466250
+note 23= 2294.135000
+note 24= 2400.000000
+note 25= 2498.045000
+note 26= 2602.443750
+note 27= 2698.045000
+note 28= 2799.022500
+note 29= 2903.421250
+note 30= 3000.488750
+note 31= 3099.022500
+note 32= 3198.045000
+note 33= 3300.000000
+note 34= 3401.466250
+note 35= 3494.135000
+note 36= 3600.000000
+note 37= 3698.045000
+note 38= 3802.443750
+note 39= 3898.045000
+note 40= 3999.022500
+note 41= 4103.421250
+note 42= 4200.488750
+note 43= 4299.022500
+note 44= 4398.045000
+note 45= 4500.000000
+note 46= 4601.466250
+note 47= 4694.135000
+note 48= 4800.000000
+note 49= 4898.045000
+note 50= 5002.443750
+note 51= 5098.045000
+note 52= 5199.022500
+note 53= 5303.421250
+note 54= 5400.488750
+note 55= 5499.022500
+note 56= 5598.045000
+note 57= 5700.000000
+note 58= 5801.466250
+note 59= 5894.135000
+note 60= 6000.000000
+note 61= 6098.045000
+note 62= 6202.443750
+note 63= 6298.045000
+note 64= 6399.022500
+note 65= 6503.421250
+note 66= 6600.488750
+note 67= 6699.022500
+note 68= 6798.045000
+note 69= 6900.000000
+note 70= 7001.466250
+note 71= 7094.135000
+note 72= 7200.000000
+note 73= 7298.045000
+note 74= 7402.443750
+note 75= 7498.045000
+note 76= 7599.022500
+note 77= 7703.421250
+note 78= 7800.488750
+note 79= 7899.022500
+note 80= 7998.045000
+note 81= 8100.000000
+note 82= 8201.466250
+note 83= 8294.135000
+note 84= 8400.000000
+note 85= 8498.045000
+note 86= 8602.443750
+note 87= 8698.045000
+note 88= 8799.022500
+note 89= 8903.421250
+note 90= 9000.488750
+note 91= 9099.022500
+note 92= 9198.045000
+note 93= 9300.000000
+note 94= 9401.466250
+note 95= 9494.135000
+note 96= 9600.000000
+note 97= 9698.045000
+note 98= 9802.443750
+note 99= 9898.045000
+note 100= 9999.022500
+note 101= 10103.421250
+note 102= 10200.488750
+note 103= 10299.022500
+note 104= 10398.045000
+note 105= 10500.000000
+note 106= 10601.466250
+note 107= 10694.135000
+note 108= 10800.000000
+note 109= 10898.045000
+note 110= 11002.443750
+note 111= 11098.045000
+note 112= 11199.022500
+note 113= 11303.421250
+note 114= 11400.488750
+note 115= 11499.022500
+note 116= 11598.045000
+note 117= 11700.000000
+note 118= 11801.466250
+note 119= 11894.135000
+note 120= 12000.000000
+note 121= 12098.045000
+note 122= 12202.443750
+note 123= 12298.045000
+note 124= 12399.022500
+note 125= 12503.421250
+note 126= 12600.488750
+note 127= 12699.022500
+
+[Functional Tuning]
+note 1="#=0 % 98.045000"
+note 2="#=0 % 202.443750"
+note 3="#=0 % 298.045000"
+note 4="#=0 % 399.022500"
+note 5="#=0 % 503.421250"
+note 6="#=0 % 600.488750"
+note 7="#=0 % 699.022500"
+note 8="#=0 % 798.045000"
+note 9="#=0 % 900.000000"
+note 10="#=0 % 1001.466250"
+note 11="#=0 % 1094.135000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

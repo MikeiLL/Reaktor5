@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Starling (126/125) tempered dekatesserany, one major and minor triad extra
+;
+; VAZ Plus section
+[Tuning]
+note 0=779
+note 1=858
+note 2=967
+note 3=1091
+note 4=1200
+note 5=1278
+note 6=1323
+note 7=1357
+note 8=1402
+note 9=1590
+note 10=1668
+note 11=1856
+note 12=1901
+note 13=1934
+note 14=1979
+note 15=2058
+note 16=2167
+note 17=2291
+note 18=2400
+note 19=2478
+note 20=2523
+note 21=2557
+note 22=2602
+note 23=2790
+note 24=2868
+note 25=3056
+note 26=3101
+note 27=3134
+note 28=3179
+note 29=3258
+note 30=3367
+note 31=3491
+note 32=3600
+note 33=3678
+note 34=3723
+note 35=3757
+note 36=3802
+note 37=3990
+note 38=4068
+note 39=4256
+note 40=4301
+note 41=4334
+note 42=4379
+note 43=4458
+note 44=4567
+note 45=4691
+note 46=4800
+note 47=4878
+note 48=4923
+note 49=4957
+note 50=5002
+note 51=5190
+note 52=5268
+note 53=5456
+note 54=5501
+note 55=5534
+note 56=5579
+note 57=5658
+note 58=5767
+note 59=5891
+note 60=6000
+note 61=6078
+note 62=6123
+note 63=6157
+note 64=6202
+note 65=6390
+note 66=6468
+note 67=6656
+note 68=6701
+note 69=6734
+note 70=6779
+note 71=6858
+note 72=6967
+note 73=7091
+note 74=7200
+note 75=7278
+note 76=7323
+note 77=7357
+note 78=7402
+note 79=7590
+note 80=7668
+note 81=7856
+note 82=7901
+note 83=7934
+note 84=7979
+note 85=8058
+note 86=8167
+note 87=8291
+note 88=8400
+note 89=8478
+note 90=8523
+note 91=8557
+note 92=8602
+note 93=8790
+note 94=8868
+note 95=9056
+note 96=9101
+note 97=9134
+note 98=9179
+note 99=9258
+note 100=9367
+note 101=9491
+note 102=9600
+note 103=9678
+note 104=9723
+note 105=9757
+note 106=9802
+note 107=9990
+note 108=10068
+note 109=10256
+note 110=10301
+note 111=10334
+note 112=10379
+note 113=10458
+note 114=10567
+note 115=10691
+note 116=10800
+note 117=10878
+note 118=10923
+note 119=10957
+note 120=11002
+note 121=11190
+note 122=11268
+note 123=11456
+note 124=11501
+note 125=11534
+note 126=11579
+note 127=11658
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "stelhex1star.tun"
+ID= "ID_stelhex1star.tun"
+Filename= "stelhex1star.scl"
+Description= "Starling (126/125) tempered dekatesserany, one major and minor triad extra"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 779.342590
+note 1= 857.773150
+note 2= 967.189840
+note 3= 1090.583320
+note 4= 1200.000000
+note 5= 1278.430560
+note 6= 1323.393480
+note 7= 1356.861130
+note 8= 1401.824040
+note 9= 1589.671290
+note 10= 1668.101860
+note 11= 1855.949110
+note 12= 1900.912020
+note 13= 1934.379670
+note 14= 1979.342590
+note 15= 2057.773150
+note 16= 2167.189840
+note 17= 2290.583320
+note 18= 2400.000000
+note 19= 2478.430560
+note 20= 2523.393480
+note 21= 2556.861130
+note 22= 2601.824040
+note 23= 2789.671290
+note 24= 2868.101860
+note 25= 3055.949110
+note 26= 3100.912020
+note 27= 3134.379670
+note 28= 3179.342590
+note 29= 3257.773150
+note 30= 3367.189840
+note 31= 3490.583320
+note 32= 3600.000000
+note 33= 3678.430560
+note 34= 3723.393480
+note 35= 3756.861130
+note 36= 3801.824040
+note 37= 3989.671290
+note 38= 4068.101860
+note 39= 4255.949110
+note 40= 4300.912020
+note 41= 4334.379670
+note 42= 4379.342590
+note 43= 4457.773150
+note 44= 4567.189840
+note 45= 4690.583320
+note 46= 4800.000000
+note 47= 4878.430560
+note 48= 4923.393480
+note 49= 4956.861130
+note 50= 5001.824040
+note 51= 5189.671290
+note 52= 5268.101860
+note 53= 5455.949110
+note 54= 5500.912020
+note 55= 5534.379670
+note 56= 5579.342590
+note 57= 5657.773150
+note 58= 5767.189840
+note 59= 5890.583320
+note 60= 6000.000000
+note 61= 6078.430560
+note 62= 6123.393480
+note 63= 6156.861130
+note 64= 6201.824040
+note 65= 6389.671290
+note 66= 6468.101860
+note 67= 6655.949110
+note 68= 6700.912020
+note 69= 6734.379670
+note 70= 6779.342590
+note 71= 6857.773150
+note 72= 6967.189840
+note 73= 7090.583320
+note 74= 7200.000000
+note 75= 7278.430560
+note 76= 7323.393480
+note 77= 7356.861130
+note 78= 7401.824040
+note 79= 7589.671290
+note 80= 7668.101860
+note 81= 7855.949110
+note 82= 7900.912020
+note 83= 7934.379670
+note 84= 7979.342590
+note 85= 8057.773150
+note 86= 8167.189840
+note 87= 8290.583320
+note 88= 8400.000000
+note 89= 8478.430560
+note 90= 8523.393480
+note 91= 8556.861130
+note 92= 8601.824040
+note 93= 8789.671290
+note 94= 8868.101860
+note 95= 9055.949110
+note 96= 9100.912020
+note 97= 9134.379670
+note 98= 9179.342590
+note 99= 9257.773150
+note 100= 9367.189840
+note 101= 9490.583320
+note 102= 9600.000000
+note 103= 9678.430560
+note 104= 9723.393480
+note 105= 9756.861130
+note 106= 9801.824040
+note 107= 9989.671290
+note 108= 10068.101860
+note 109= 10255.949110
+note 110= 10300.912020
+note 111= 10334.379670
+note 112= 10379.342590
+note 113= 10457.773150
+note 114= 10567.189840
+note 115= 10690.583320
+note 116= 10800.000000
+note 117= 10878.430560
+note 118= 10923.393480
+note 119= 10956.861130
+note 120= 11001.824040
+note 121= 11189.671290
+note 122= 11268.101860
+note 123= 11455.949110
+note 124= 11500.912020
+note 125= 11534.379670
+note 126= 11579.342590
+note 127= 11657.773150
+
+[Functional Tuning]
+note 1="#=0 % 78.430560"
+note 2="#=0 % 123.393480"
+note 3="#=0 % 156.861130"
+note 4="#=0 % 201.824040"
+note 5="#=0 % 389.671290"
+note 6="#=0 % 468.101860"
+note 7="#=0 % 655.949110"
+note 8="#=0 % 700.912020"
+note 9="#=0 % 734.379670"
+note 10="#=0 % 779.342590"
+note 11="#=0 % 857.773150"
+note 12="#=0 % 967.189840"
+note 13="#=0 % 1090.583320"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

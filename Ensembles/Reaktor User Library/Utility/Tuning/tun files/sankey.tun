@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; John Sankey's Scarlatti tuning, personal evaluation based on d'Alembert's
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=86
+note 2=193
+note 3=291
+note 4=386
+note 5=498
+note 6=585
+note 7=697
+note 8=788
+note 9=889
+note 10=995
+note 11=1086
+note 12=1200
+note 13=1286
+note 14=1393
+note 15=1491
+note 16=1586
+note 17=1698
+note 18=1785
+note 19=1897
+note 20=1988
+note 21=2089
+note 22=2195
+note 23=2286
+note 24=2400
+note 25=2486
+note 26=2593
+note 27=2691
+note 28=2786
+note 29=2898
+note 30=2985
+note 31=3097
+note 32=3188
+note 33=3289
+note 34=3395
+note 35=3486
+note 36=3600
+note 37=3686
+note 38=3793
+note 39=3891
+note 40=3986
+note 41=4098
+note 42=4185
+note 43=4297
+note 44=4388
+note 45=4489
+note 46=4595
+note 47=4686
+note 48=4800
+note 49=4886
+note 50=4993
+note 51=5091
+note 52=5186
+note 53=5298
+note 54=5385
+note 55=5497
+note 56=5588
+note 57=5689
+note 58=5795
+note 59=5886
+note 60=6000
+note 61=6086
+note 62=6193
+note 63=6291
+note 64=6386
+note 65=6498
+note 66=6585
+note 67=6697
+note 68=6788
+note 69=6889
+note 70=6995
+note 71=7086
+note 72=7200
+note 73=7286
+note 74=7393
+note 75=7491
+note 76=7586
+note 77=7698
+note 78=7785
+note 79=7897
+note 80=7988
+note 81=8089
+note 82=8195
+note 83=8286
+note 84=8400
+note 85=8486
+note 86=8593
+note 87=8691
+note 88=8786
+note 89=8898
+note 90=8985
+note 91=9097
+note 92=9188
+note 93=9289
+note 94=9395
+note 95=9486
+note 96=9600
+note 97=9686
+note 98=9793
+note 99=9891
+note 100=9986
+note 101=10098
+note 102=10185
+note 103=10297
+note 104=10388
+note 105=10489
+note 106=10595
+note 107=10686
+note 108=10800
+note 109=10886
+note 110=10993
+note 111=11091
+note 112=11186
+note 113=11298
+note 114=11385
+note 115=11497
+note 116=11588
+note 117=11689
+note 118=11795
+note 119=11886
+note 120=12000
+note 121=12086
+note 122=12193
+note 123=12291
+note 124=12386
+note 125=12498
+note 126=12585
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sankey.tun"
+ID= "ID_sankey.tun"
+Filename= "sankey.scl"
+Description= "John Sankey's Scarlatti tuning, personal evaluation based on d'Alembert's"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 85.600000
+note 2= 193.400000
+note 3= 291.400000
+note 4= 386.313714
+note 5= 498.044999
+note 6= 584.700000
+note 7= 696.700000
+note 8= 787.500000
+note 9= 888.700000
+note 10= 994.900000
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1285.600000
+note 14= 1393.400000
+note 15= 1491.400000
+note 16= 1586.313714
+note 17= 1698.044999
+note 18= 1784.700000
+note 19= 1896.700000
+note 20= 1987.500000
+note 21= 2088.700000
+note 22= 2194.900000
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2485.600000
+note 26= 2593.400000
+note 27= 2691.400000
+note 28= 2786.313714
+note 29= 2898.044999
+note 30= 2984.700000
+note 31= 3096.700000
+note 32= 3187.500000
+note 33= 3288.700000
+note 34= 3394.900000
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3685.600000
+note 38= 3793.400000
+note 39= 3891.400000
+note 40= 3986.313714
+note 41= 4098.044999
+note 42= 4184.700000
+note 43= 4296.700000
+note 44= 4387.500000
+note 45= 4488.700000
+note 46= 4594.900000
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4885.600000
+note 50= 4993.400000
+note 51= 5091.400000
+note 52= 5186.313714
+note 53= 5298.044999
+note 54= 5384.700000
+note 55= 5496.700000
+note 56= 5587.500000
+note 57= 5688.700000
+note 58= 5794.900000
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6085.600000
+note 62= 6193.400000
+note 63= 6291.400000
+note 64= 6386.313714
+note 65= 6498.044999
+note 66= 6584.700000
+note 67= 6696.700000
+note 68= 6787.500000
+note 69= 6888.700000
+note 70= 6994.900000
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7285.600000
+note 74= 7393.400000
+note 75= 7491.400000
+note 76= 7586.313714
+note 77= 7698.044999
+note 78= 7784.700000
+note 79= 7896.700000
+note 80= 7987.500000
+note 81= 8088.700000
+note 82= 8194.900000
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8485.600000
+note 86= 8593.400000
+note 87= 8691.400000
+note 88= 8786.313714
+note 89= 8898.044999
+note 90= 8984.700000
+note 91= 9096.700000
+note 92= 9187.500000
+note 93= 9288.700000
+note 94= 9394.900000
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9685.600000
+note 98= 9793.400000
+note 99= 9891.400000
+note 100= 9986.313714
+note 101= 10098.044999
+note 102= 10184.700000
+note 103= 10296.700000
+note 104= 10387.500000
+note 105= 10488.700000
+note 106= 10594.900000
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10885.600000
+note 110= 10993.400000
+note 111= 11091.400000
+note 112= 11186.313714
+note 113= 11298.044999
+note 114= 11384.700000
+note 115= 11496.700000
+note 116= 11587.500000
+note 117= 11688.700000
+note 118= 11794.900000
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12085.600000
+note 122= 12193.400000
+note 123= 12291.400000
+note 124= 12386.313714
+note 125= 12498.044999
+note 126= 12584.700000
+note 127= 12696.700000
+
+[Functional Tuning]
+note 1="#=0 % 85.600000"
+note 2="#=0 % 193.400000"
+note 3="#=0 % 291.400000"
+note 4="#=0 * 5/4"
+note 5="#=0 * 4/3"
+note 6="#=0 % 584.700000"
+note 7="#=0 % 696.700000"
+note 8="#=0 % 787.500000"
+note 9="#=0 % 888.700000"
+note 10="#=0 % 994.900000"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

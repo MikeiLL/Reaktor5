@@ -1,0 +1,301 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Brian Carlson's guitar scale (or 7 is 21/16 instead) fretted by Mark Rankin
+;
+; VAZ Plus section
+[Tuning]
+note 0=2218
+note 1=2288
+note 2=2351
+note 3=2400
+note 4=2484
+note 5=2555
+note 6=2604
+note 7=2667
+note 8=2716
+note 9=2786
+note 10=2849
+note 11=2898
+note 12=2983
+note 13=3053
+note 14=3102
+note 15=3165
+note 16=3214
+note 17=3284
+note 18=3369
+note 19=3418
+note 20=3488
+note 21=3551
+note 22=3600
+note 23=3684
+note 24=3755
+note 25=3804
+note 26=3867
+note 27=3916
+note 28=3986
+note 29=4049
+note 30=4098
+note 31=4183
+note 32=4253
+note 33=4302
+note 34=4365
+note 35=4414
+note 36=4484
+note 37=4569
+note 38=4618
+note 39=4688
+note 40=4751
+note 41=4800
+note 42=4884
+note 43=4955
+note 44=5004
+note 45=5067
+note 46=5116
+note 47=5186
+note 48=5249
+note 49=5298
+note 50=5383
+note 51=5453
+note 52=5502
+note 53=5565
+note 54=5614
+note 55=5684
+note 56=5769
+note 57=5818
+note 58=5888
+note 59=5951
+note 60=6000
+note 61=6084
+note 62=6155
+note 63=6204
+note 64=6267
+note 65=6316
+note 66=6386
+note 67=6449
+note 68=6498
+note 69=6583
+note 70=6653
+note 71=6702
+note 72=6765
+note 73=6814
+note 74=6884
+note 75=6969
+note 76=7018
+note 77=7088
+note 78=7151
+note 79=7200
+note 80=7284
+note 81=7355
+note 82=7404
+note 83=7467
+note 84=7516
+note 85=7586
+note 86=7649
+note 87=7698
+note 88=7783
+note 89=7853
+note 90=7902
+note 91=7965
+note 92=8014
+note 93=8084
+note 94=8169
+note 95=8218
+note 96=8288
+note 97=8351
+note 98=8400
+note 99=8484
+note 100=8555
+note 101=8604
+note 102=8667
+note 103=8716
+note 104=8786
+note 105=8849
+note 106=8898
+note 107=8983
+note 108=9053
+note 109=9102
+note 110=9165
+note 111=9214
+note 112=9284
+note 113=9369
+note 114=9418
+note 115=9488
+note 116=9551
+note 117=9600
+note 118=9684
+note 119=9755
+note 120=9804
+note 121=9867
+note 122=9916
+note 123=9986
+note 124=10049
+note 125=10098
+note 126=10183
+note 127=10253
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "carlson.tun"
+ID= "ID_carlson.tun"
+Filename= "carlson.scl"
+Description= "Brian Carlson's guitar scale (or 7 is 21/16 instead) fretted by Mark Rankin"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2217.596288
+note 1= 2288.268715
+note 2= 2351.229619
+note 3= 2400.000000
+note 4= 2484.467193
+note 5= 2555.139620
+note 6= 2603.910002
+note 7= 2666.870906
+note 8= 2715.641287
+note 9= 2786.313714
+note 10= 2849.274618
+note 11= 2898.044999
+note 12= 2982.512193
+note 13= 3053.184619
+note 14= 3101.955001
+note 15= 3164.915905
+note 16= 3213.686286
+note 17= 3284.358713
+note 18= 3368.825906
+note 19= 3417.596288
+note 20= 3488.268715
+note 21= 3551.229619
+note 22= 3600.000000
+note 23= 3684.467193
+note 24= 3755.139620
+note 25= 3803.910002
+note 26= 3866.870906
+note 27= 3915.641287
+note 28= 3986.313714
+note 29= 4049.274618
+note 30= 4098.044999
+note 31= 4182.512193
+note 32= 4253.184619
+note 33= 4301.955001
+note 34= 4364.915905
+note 35= 4413.686286
+note 36= 4484.358713
+note 37= 4568.825906
+note 38= 4617.596288
+note 39= 4688.268715
+note 40= 4751.229619
+note 41= 4800.000000
+note 42= 4884.467193
+note 43= 4955.139620
+note 44= 5003.910002
+note 45= 5066.870906
+note 46= 5115.641287
+note 47= 5186.313714
+note 48= 5249.274618
+note 49= 5298.044999
+note 50= 5382.512193
+note 51= 5453.184619
+note 52= 5501.955001
+note 53= 5564.915905
+note 54= 5613.686286
+note 55= 5684.358713
+note 56= 5768.825906
+note 57= 5817.596288
+note 58= 5888.268715
+note 59= 5951.229619
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6155.139620
+note 63= 6203.910002
+note 64= 6266.870906
+note 65= 6315.641287
+note 66= 6386.313714
+note 67= 6449.274618
+note 68= 6498.044999
+note 69= 6582.512193
+note 70= 6653.184619
+note 71= 6701.955001
+note 72= 6764.915905
+note 73= 6813.686286
+note 74= 6884.358713
+note 75= 6968.825906
+note 76= 7017.596288
+note 77= 7088.268715
+note 78= 7151.229619
+note 79= 7200.000000
+note 80= 7284.467193
+note 81= 7355.139620
+note 82= 7403.910002
+note 83= 7466.870906
+note 84= 7515.641287
+note 85= 7586.313714
+note 86= 7649.274618
+note 87= 7698.044999
+note 88= 7782.512193
+note 89= 7853.184619
+note 90= 7901.955001
+note 91= 7964.915905
+note 92= 8013.686286
+note 93= 8084.358713
+note 94= 8168.825906
+note 95= 8217.596288
+note 96= 8288.268715
+note 97= 8351.229619
+note 98= 8400.000000
+note 99= 8484.467193
+note 100= 8555.139620
+note 101= 8603.910002
+note 102= 8666.870906
+note 103= 8715.641287
+note 104= 8786.313714
+note 105= 8849.274618
+note 106= 8898.044999
+note 107= 8982.512193
+note 108= 9053.184619
+note 109= 9101.955001
+note 110= 9164.915905
+note 111= 9213.686286
+note 112= 9284.358713
+note 113= 9368.825906
+note 114= 9417.596288
+note 115= 9488.268715
+note 116= 9551.229619
+note 117= 9600.000000
+note 118= 9684.467193
+note 119= 9755.139620
+note 120= 9803.910002
+note 121= 9866.870906
+note 122= 9915.641287
+note 123= 9986.313714
+note 124= 10049.274618
+note 125= 10098.044999
+note 126= 10182.512193
+note 127= 10253.184619
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 35/32"
+note 3="#=0 * 9/8"
+note 4="#=0 * 7/6"
+note 5="#=0 * 6/5"
+note 6="#=0 * 5/4"
+note 7="#=0 * 35/27"
+note 8="#=0 * 4/3"
+note 9="#=0 * 7/5"
+note 10="#=0 * 35/24"
+note 11="#=0 * 3/2"
+note 12="#=0 * 14/9"
+note 13="#=0 * 8/5"
+note 14="#=0 * 5/3"
+note 15="#=0 * 7/4"
+note 16="#=0 * 9/5"
+note 17="#=0 * 15/8"
+note 18="#=0 * 35/18"
+note 19="#>-19 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

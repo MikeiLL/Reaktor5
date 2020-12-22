@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Brink McGoogy's Phinocchio tuning, mix of 5th (black keys) and 7th (white keys) root of phi
+;
+; VAZ Plus section
+[Tuning]
+note 0=2021
+note 1=2058
+note 2=2140
+note 3=2225
+note 4=2259
+note 5=2378
+note 6=2391
+note 7=2428
+note 8=2510
+note 9=2594
+note 10=2629
+note 11=2748
+note 12=2761
+note 13=2867
+note 14=2928
+note 15=2986
+note 16=3094
+note 17=3105
+note 18=3224
+note 19=3261
+note 20=3343
+note 21=3427
+note 22=3462
+note 23=3581
+note 24=3594
+note 25=3631
+note 26=3713
+note 27=3797
+note 28=3832
+note 29=3951
+note 30=3964
+note 31=4070
+note 32=4131
+note 33=4189
+note 34=4297
+note 35=4308
+note 36=4427
+note 37=4464
+note 38=4546
+note 39=4630
+note 40=4665
+note 41=4784
+note 42=4797
+note 43=4834
+note 44=4916
+note 45=5000
+note 46=5035
+note 47=5154
+note 48=5167
+note 49=5273
+note 50=5334
+note 51=5392
+note 52=5500
+note 53=5511
+note 54=5630
+note 55=5667
+note 56=5749
+note 57=5833
+note 58=5868
+note 59=5987
+note 60=6000
+note 61=6037
+note 62=6119
+note 63=6203
+note 64=6238
+note 65=6357
+note 66=6370
+note 67=6476
+note 68=6536
+note 69=6595
+note 70=6703
+note 71=6714
+note 72=6833
+note 73=6870
+note 74=6952
+note 75=7036
+note 76=7071
+note 77=7190
+note 78=7203
+note 79=7240
+note 80=7322
+note 81=7406
+note 82=7441
+note 83=7560
+note 84=7573
+note 85=7679
+note 86=7739
+note 87=7798
+note 88=7906
+note 89=7917
+note 90=8036
+note 91=8073
+note 92=8155
+note 93=8239
+note 94=8274
+note 95=8393
+note 96=8406
+note 97=8443
+note 98=8525
+note 99=8609
+note 100=8644
+note 101=8763
+note 102=8776
+note 103=8882
+note 104=8942
+note 105=9001
+note 106=9109
+note 107=9120
+note 108=9239
+note 109=9276
+note 110=9358
+note 111=9442
+note 112=9477
+note 113=9596
+note 114=9609
+note 115=9645
+note 116=9728
+note 117=9812
+note 118=9847
+note 119=9966
+note 120=9979
+note 121=10085
+note 122=10145
+note 123=10204
+note 124=10312
+note 125=10323
+note 126=10442
+note 127=10479
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mcgoogy_phi.tun"
+ID= "ID_mcgoogy_phi.tun"
+Filename= "mcgoogy_phi.scl"
+Description= "Brink McGoogy's Phinocchio tuning, mix of 5th (black keys) and 7th (white keys) root of phi"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2021.312420
+note 1= 2057.930480
+note 2= 2140.325320
+note 3= 2224.548540
+note 4= 2259.338220
+note 5= 2378.351110
+note 6= 2391.166590
+note 7= 2427.784650
+note 8= 2510.179490
+note 9= 2594.402710
+note 10= 2629.192390
+note 11= 2748.205290
+note 12= 2761.020770
+note 13= 2867.218190
+note 14= 2927.638830
+note 15= 2986.231090
+note 16= 3094.256890
+note 17= 3105.243990
+note 18= 3224.256890
+note 19= 3260.874950
+note 20= 3343.269790
+note 21= 3427.493010
+note 22= 3462.282690
+note 23= 3581.295580
+note 24= 3594.111060
+note 25= 3630.729120
+note 26= 3713.123960
+note 27= 3797.347180
+note 28= 3832.136860
+note 29= 3951.149760
+note 30= 3963.965240
+note 31= 4070.162660
+note 32= 4130.583300
+note 33= 4189.175560
+note 34= 4297.201360
+note 35= 4308.188460
+note 36= 4427.201360
+note 37= 4463.819420
+note 38= 4546.214260
+note 39= 4630.437480
+note 40= 4665.227160
+note 41= 4784.240050
+note 42= 4797.055530
+note 43= 4833.673590
+note 44= 4916.068430
+note 45= 5000.291650
+note 46= 5035.081330
+note 47= 5154.094230
+note 48= 5166.909710
+note 49= 5273.107130
+note 50= 5333.527770
+note 51= 5392.120030
+note 52= 5500.145830
+note 53= 5511.132930
+note 54= 5630.145830
+note 55= 5666.763890
+note 56= 5749.158730
+note 57= 5833.381950
+note 58= 5868.171630
+note 59= 5987.184520
+note 60= 6000.000000
+note 61= 6036.618060
+note 62= 6119.012900
+note 63= 6203.236120
+note 64= 6238.025800
+note 65= 6357.038700
+note 66= 6369.854180
+note 67= 6476.051600
+note 68= 6536.472240
+note 69= 6595.064500
+note 70= 6703.090300
+note 71= 6714.077400
+note 72= 6833.090300
+note 73= 6869.708360
+note 74= 6952.103200
+note 75= 7036.326420
+note 76= 7071.116100
+note 77= 7190.128990
+note 78= 7202.944470
+note 79= 7239.562530
+note 80= 7321.957370
+note 81= 7406.180590
+note 82= 7440.970270
+note 83= 7559.983170
+note 84= 7572.798650
+note 85= 7678.996070
+note 86= 7739.416710
+note 87= 7798.008970
+note 88= 7906.034770
+note 89= 7917.021870
+note 90= 8036.034770
+note 91= 8072.652830
+note 92= 8155.047670
+note 93= 8239.270890
+note 94= 8274.060570
+note 95= 8393.073460
+note 96= 8405.888940
+note 97= 8442.507000
+note 98= 8524.901840
+note 99= 8609.125060
+note 100= 8643.914740
+note 101= 8762.927640
+note 102= 8775.743120
+note 103= 8881.940540
+note 104= 8942.361180
+note 105= 9000.953440
+note 106= 9108.979240
+note 107= 9119.966340
+note 108= 9238.979240
+note 109= 9275.597300
+note 110= 9357.992140
+note 111= 9442.215360
+note 112= 9477.005040
+note 113= 9596.017930
+note 114= 9608.833410
+note 115= 9645.451470
+note 116= 9727.846310
+note 117= 9812.069530
+note 118= 9846.859210
+note 119= 9965.872110
+note 120= 9978.687590
+note 121= 10084.885010
+note 122= 10145.305650
+note 123= 10203.897910
+note 124= 10311.923710
+note 125= 10322.910810
+note 126= 10441.923710
+note 127= 10478.541770
+
+[Functional Tuning]
+note 1="#=0 % 36.618060"
+note 2="#=0 % 119.012900"
+note 3="#=0 % 203.236120"
+note 4="#=0 % 238.025800"
+note 5="#=0 % 357.038700"
+note 6="#=0 % 369.854180"
+note 7="#=0 % 476.051600"
+note 8="#=0 % 536.472240"
+note 9="#=0 % 595.064500"
+note 10="#=0 % 703.090300"
+note 11="#=0 % 714.077400"
+note 12="#=0 % 833.090300"
+note 13="#=0 % 869.708360"
+note 14="#=0 % 952.103200"
+note 15="#=0 % 1036.326420"
+note 16="#=0 % 1071.116100"
+note 17="#=0 % 1190.128990"
+note 18="#>-18 % 1202.944470 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

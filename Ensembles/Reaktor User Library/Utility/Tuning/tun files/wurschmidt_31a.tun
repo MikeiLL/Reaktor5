@@ -1,0 +1,313 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Würschmidt's 31-tone system with alternative tritone
+;
+; VAZ Plus section
+[Tuning]
+note 0=3671
+note 1=3712
+note 2=3763
+note 3=3804
+note 4=3845
+note 5=3875
+note 6=3916
+note 7=3945
+note 8=3986
+note 9=4027
+note 10=4057
+note 11=4098
+note 12=4139
+note 13=4169
+note 14=4210
+note 15=4261
+note 16=4302
+note 17=4343
+note 18=4373
+note 19=4414
+note 20=4455
+note 21=4484
+note 22=4525
+note 23=4555
+note 24=4596
+note 25=4637
+note 26=4688
+note 27=4729
+note 28=4759
+note 29=4800
+note 30=4841
+note 31=4871
+note 32=4912
+note 33=4963
+note 34=5004
+note 35=5045
+note 36=5075
+note 37=5116
+note 38=5145
+note 39=5186
+note 40=5227
+note 41=5257
+note 42=5298
+note 43=5339
+note 44=5369
+note 45=5410
+note 46=5461
+note 47=5502
+note 48=5543
+note 49=5573
+note 50=5614
+note 51=5655
+note 52=5684
+note 53=5725
+note 54=5755
+note 55=5796
+note 56=5837
+note 57=5888
+note 58=5929
+note 59=5959
+note 60=6000
+note 61=6041
+note 62=6071
+note 63=6112
+note 64=6163
+note 65=6204
+note 66=6245
+note 67=6275
+note 68=6316
+note 69=6345
+note 70=6386
+note 71=6427
+note 72=6457
+note 73=6498
+note 74=6539
+note 75=6569
+note 76=6610
+note 77=6661
+note 78=6702
+note 79=6743
+note 80=6773
+note 81=6814
+note 82=6855
+note 83=6884
+note 84=6925
+note 85=6955
+note 86=6996
+note 87=7037
+note 88=7088
+note 89=7129
+note 90=7159
+note 91=7200
+note 92=7241
+note 93=7271
+note 94=7312
+note 95=7363
+note 96=7404
+note 97=7445
+note 98=7475
+note 99=7516
+note 100=7545
+note 101=7586
+note 102=7627
+note 103=7657
+note 104=7698
+note 105=7739
+note 106=7769
+note 107=7810
+note 108=7861
+note 109=7902
+note 110=7943
+note 111=7973
+note 112=8014
+note 113=8055
+note 114=8084
+note 115=8125
+note 116=8155
+note 117=8196
+note 118=8237
+note 119=8288
+note 120=8329
+note 121=8359
+note 122=8400
+note 123=8441
+note 124=8471
+note 125=8512
+note 126=8563
+note 127=8604
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wurschmidt_31a.tun"
+ID= "ID_wurschmidt_31a.tun"
+Filename= "wurschmidt_31a.scl"
+Description= "Würschmidt's 31-tone system with alternative tritone"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3670.672427
+note 1= 3711.731285
+note 2= 3762.851143
+note 3= 3803.910002
+note 4= 3844.968860
+note 5= 3874.582429
+note 6= 3915.641287
+note 7= 3945.254855
+note 8= 3986.313714
+note 9= 4027.372572
+note 10= 4056.986141
+note 11= 4098.044999
+note 12= 4139.103858
+note 13= 4168.717426
+note 14= 4209.776284
+note 15= 4260.896142
+note 16= 4301.955001
+note 17= 4343.013859
+note 18= 4372.627428
+note 19= 4413.686286
+note 20= 4454.745145
+note 21= 4484.358713
+note 22= 4525.417571
+note 23= 4555.031140
+note 24= 4596.089998
+note 25= 4637.148857
+note 26= 4688.268715
+note 27= 4729.327573
+note 28= 4758.941142
+note 29= 4800.000000
+note 30= 4841.058858
+note 31= 4870.672427
+note 32= 4911.731285
+note 33= 4962.851143
+note 34= 5003.910002
+note 35= 5044.968860
+note 36= 5074.582429
+note 37= 5115.641287
+note 38= 5145.254855
+note 39= 5186.313714
+note 40= 5227.372572
+note 41= 5256.986141
+note 42= 5298.044999
+note 43= 5339.103858
+note 44= 5368.717426
+note 45= 5409.776284
+note 46= 5460.896142
+note 47= 5501.955001
+note 48= 5543.013859
+note 49= 5572.627428
+note 50= 5613.686286
+note 51= 5654.745145
+note 52= 5684.358713
+note 53= 5725.417571
+note 54= 5755.031140
+note 55= 5796.089998
+note 56= 5837.148857
+note 57= 5888.268715
+note 58= 5929.327573
+note 59= 5958.941142
+note 60= 6000.000000
+note 61= 6041.058858
+note 62= 6070.672427
+note 63= 6111.731285
+note 64= 6162.851143
+note 65= 6203.910002
+note 66= 6244.968860
+note 67= 6274.582429
+note 68= 6315.641287
+note 69= 6345.254855
+note 70= 6386.313714
+note 71= 6427.372572
+note 72= 6456.986141
+note 73= 6498.044999
+note 74= 6539.103858
+note 75= 6568.717426
+note 76= 6609.776284
+note 77= 6660.896142
+note 78= 6701.955001
+note 79= 6743.013859
+note 80= 6772.627428
+note 81= 6813.686286
+note 82= 6854.745145
+note 83= 6884.358713
+note 84= 6925.417571
+note 85= 6955.031140
+note 86= 6996.089998
+note 87= 7037.148857
+note 88= 7088.268715
+note 89= 7129.327573
+note 90= 7158.941142
+note 91= 7200.000000
+note 92= 7241.058858
+note 93= 7270.672427
+note 94= 7311.731285
+note 95= 7362.851143
+note 96= 7403.910002
+note 97= 7444.968860
+note 98= 7474.582429
+note 99= 7515.641287
+note 100= 7545.254855
+note 101= 7586.313714
+note 102= 7627.372572
+note 103= 7656.986141
+note 104= 7698.044999
+note 105= 7739.103858
+note 106= 7768.717426
+note 107= 7809.776284
+note 108= 7860.896142
+note 109= 7901.955001
+note 110= 7943.013859
+note 111= 7972.627428
+note 112= 8013.686286
+note 113= 8054.745145
+note 114= 8084.358713
+note 115= 8125.417571
+note 116= 8155.031140
+note 117= 8196.089998
+note 118= 8237.148857
+note 119= 8288.268715
+note 120= 8329.327573
+note 121= 8358.941142
+note 122= 8400.000000
+note 123= 8441.058858
+note 124= 8470.672427
+note 125= 8511.731285
+note 126= 8562.851143
+note 127= 8603.910002
+
+[Functional Tuning]
+note 1="#=0 * 128/125"
+note 2="#=0 * 25/24"
+note 3="#=0 * 16/15"
+note 4="#=0 * 1125/1024"
+note 5="#=0 * 9/8"
+note 6="#=0 * 144/125"
+note 7="#=0 * 75/64"
+note 8="#=0 * 6/5"
+note 9="#=0 * 625/512"
+note 10="#=0 * 5/4"
+note 11="#=0 * 32/25"
+note 12="#=0 * 125/96"
+note 13="#=0 * 4/3"
+note 14="#=0 * 512/375"
+note 15="#=0 * 25/18"
+note 16="#=0 * 64/45"
+note 17="#=0 * 375/256"
+note 18="#=0 * 3/2"
+note 19="#=0 * 192/125"
+note 20="#=0 * 25/16"
+note 21="#=0 * 8/5"
+note 22="#=0 * 1024/625"
+note 23="#=0 * 5/3"
+note 24="#=0 * 128/75"
+note 25="#=0 * 125/72"
+note 26="#=0 * 16/9"
+note 27="#=0 * 2048/1125"
+note 28="#=0 * 15/8"
+note 29="#=0 * 48/25"
+note 30="#=0 * 125/64"
+note 31="#>-31 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Jürgen Grönewald, simplified Bach temperament, Ars Organi vol.57 no.1, March 2009, p.39
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=90
+note 2=189
+note 3=294
+note 4=387
+note 5=498
+note 6=588
+note 7=693
+note 8=792
+note 9=887
+note 10=996
+note 11=1087
+note 12=1200
+note 13=1290
+note 14=1389
+note 15=1494
+note 16=1587
+note 17=1698
+note 18=1788
+note 19=1893
+note 20=1992
+note 21=2087
+note 22=2196
+note 23=2287
+note 24=2400
+note 25=2490
+note 26=2589
+note 27=2694
+note 28=2787
+note 29=2898
+note 30=2988
+note 31=3093
+note 32=3192
+note 33=3287
+note 34=3396
+note 35=3487
+note 36=3600
+note 37=3690
+note 38=3789
+note 39=3894
+note 40=3987
+note 41=4098
+note 42=4188
+note 43=4293
+note 44=4392
+note 45=4487
+note 46=4596
+note 47=4687
+note 48=4800
+note 49=4890
+note 50=4989
+note 51=5094
+note 52=5187
+note 53=5298
+note 54=5388
+note 55=5493
+note 56=5592
+note 57=5687
+note 58=5796
+note 59=5887
+note 60=6000
+note 61=6090
+note 62=6189
+note 63=6294
+note 64=6387
+note 65=6498
+note 66=6588
+note 67=6693
+note 68=6792
+note 69=6887
+note 70=6996
+note 71=7087
+note 72=7200
+note 73=7290
+note 74=7389
+note 75=7494
+note 76=7587
+note 77=7698
+note 78=7788
+note 79=7893
+note 80=7992
+note 81=8087
+note 82=8196
+note 83=8287
+note 84=8400
+note 85=8490
+note 86=8589
+note 87=8694
+note 88=8787
+note 89=8898
+note 90=8988
+note 91=9093
+note 92=9192
+note 93=9287
+note 94=9396
+note 95=9487
+note 96=9600
+note 97=9690
+note 98=9789
+note 99=9894
+note 100=9987
+note 101=10098
+note 102=10188
+note 103=10293
+note 104=10392
+note 105=10487
+note 106=10596
+note 107=10687
+note 108=10800
+note 109=10890
+note 110=10989
+note 111=11094
+note 112=11187
+note 113=11298
+note 114=11388
+note 115=11493
+note 116=11592
+note 117=11687
+note 118=11796
+note 119=11887
+note 120=12000
+note 121=12090
+note 122=12189
+note 123=12294
+note 124=12387
+note 125=12498
+note 126=12588
+note 127=12693
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "groenewald_bach.tun"
+ID= "ID_groenewald_bach.tun"
+Filename= "groenewald_bach.scl"
+Description= "Jürgen Grönewald, simplified Bach temperament, Ars Organi vol.57 no.1, March 2009, p.39"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 90.224996
+note 2= 189.250080
+note 3= 294.134997
+note 4= 386.606050
+note 5= 498.044999
+note 6= 588.269995
+note 7= 693.175090
+note 8= 792.179997
+note 9= 887.275060
+note 10= 996.089998
+note 11= 1086.808120
+note 12= 1200.000000
+note 13= 1290.224996
+note 14= 1389.250080
+note 15= 1494.134997
+note 16= 1586.606050
+note 17= 1698.044999
+note 18= 1788.269995
+note 19= 1893.175090
+note 20= 1992.179997
+note 21= 2087.275060
+note 22= 2196.089998
+note 23= 2286.808120
+note 24= 2400.000000
+note 25= 2490.224996
+note 26= 2589.250080
+note 27= 2694.134997
+note 28= 2786.606050
+note 29= 2898.044999
+note 30= 2988.269995
+note 31= 3093.175090
+note 32= 3192.179997
+note 33= 3287.275060
+note 34= 3396.089998
+note 35= 3486.808120
+note 36= 3600.000000
+note 37= 3690.224996
+note 38= 3789.250080
+note 39= 3894.134997
+note 40= 3986.606050
+note 41= 4098.044999
+note 42= 4188.269995
+note 43= 4293.175090
+note 44= 4392.179997
+note 45= 4487.275060
+note 46= 4596.089998
+note 47= 4686.808120
+note 48= 4800.000000
+note 49= 4890.224996
+note 50= 4989.250080
+note 51= 5094.134997
+note 52= 5186.606050
+note 53= 5298.044999
+note 54= 5388.269995
+note 55= 5493.175090
+note 56= 5592.179997
+note 57= 5687.275060
+note 58= 5796.089998
+note 59= 5886.808120
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6189.250080
+note 63= 6294.134997
+note 64= 6386.606050
+note 65= 6498.044999
+note 66= 6588.269995
+note 67= 6693.175090
+note 68= 6792.179997
+note 69= 6887.275060
+note 70= 6996.089998
+note 71= 7086.808120
+note 72= 7200.000000
+note 73= 7290.224996
+note 74= 7389.250080
+note 75= 7494.134997
+note 76= 7586.606050
+note 77= 7698.044999
+note 78= 7788.269995
+note 79= 7893.175090
+note 80= 7992.179997
+note 81= 8087.275060
+note 82= 8196.089998
+note 83= 8286.808120
+note 84= 8400.000000
+note 85= 8490.224996
+note 86= 8589.250080
+note 87= 8694.134997
+note 88= 8786.606050
+note 89= 8898.044999
+note 90= 8988.269995
+note 91= 9093.175090
+note 92= 9192.179997
+note 93= 9287.275060
+note 94= 9396.089998
+note 95= 9486.808120
+note 96= 9600.000000
+note 97= 9690.224996
+note 98= 9789.250080
+note 99= 9894.134997
+note 100= 9986.606050
+note 101= 10098.044999
+note 102= 10188.269995
+note 103= 10293.175090
+note 104= 10392.179997
+note 105= 10487.275060
+note 106= 10596.089998
+note 107= 10686.808120
+note 108= 10800.000000
+note 109= 10890.224996
+note 110= 10989.250080
+note 111= 11094.134997
+note 112= 11186.606050
+note 113= 11298.044999
+note 114= 11388.269995
+note 115= 11493.175090
+note 116= 11592.179997
+note 117= 11687.275060
+note 118= 11796.089998
+note 119= 11886.808120
+note 120= 12000.000000
+note 121= 12090.224996
+note 122= 12189.250080
+note 123= 12294.134997
+note 124= 12386.606050
+note 125= 12498.044999
+note 126= 12588.269995
+note 127= 12693.175090
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 % 189.250080"
+note 3="#=0 * 32/27"
+note 4="#=0 % 386.606050"
+note 5="#=0 * 4/3"
+note 6="#=0 * 1024/729"
+note 7="#=0 % 693.175090"
+note 8="#=0 * 128/81"
+note 9="#=0 % 887.275060"
+note 10="#=0 * 16/9"
+note 11="#=0 % 1086.808120"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

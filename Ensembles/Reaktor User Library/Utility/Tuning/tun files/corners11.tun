@@ -1,0 +1,311 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Quadratic Corners 11-limit, John Chalmers (1996)
+;
+; VAZ Plus section
+[Tuning]
+note 0=3503
+note 1=3547
+note 2=3600
+note 3=3653
+note 4=3697
+note 5=3712
+note 6=3755
+note 7=3804
+note 8=3831
+note 9=3862
+note 10=3920
+note 11=3986
+note 12=4027
+note 13=4062
+note 14=4071
+note 15=4098
+note 16=4151
+note 17=4249
+note 18=4302
+note 19=4329
+note 20=4338
+note 21=4373
+note 22=4414
+note 23=4480
+note 24=4538
+note 25=4569
+note 26=4596
+note 27=4645
+note 28=4688
+note 29=4703
+note 30=4747
+note 31=4800
+note 32=4853
+note 33=4897
+note 34=4912
+note 35=4955
+note 36=5004
+note 37=5031
+note 38=5062
+note 39=5120
+note 40=5186
+note 41=5227
+note 42=5262
+note 43=5271
+note 44=5298
+note 45=5351
+note 46=5449
+note 47=5502
+note 48=5529
+note 49=5538
+note 50=5573
+note 51=5614
+note 52=5680
+note 53=5738
+note 54=5769
+note 55=5796
+note 56=5845
+note 57=5888
+note 58=5903
+note 59=5947
+note 60=6000
+note 61=6053
+note 62=6097
+note 63=6112
+note 64=6155
+note 65=6204
+note 66=6231
+note 67=6262
+note 68=6320
+note 69=6386
+note 70=6427
+note 71=6462
+note 72=6471
+note 73=6498
+note 74=6551
+note 75=6649
+note 76=6702
+note 77=6729
+note 78=6738
+note 79=6773
+note 80=6814
+note 81=6880
+note 82=6938
+note 83=6969
+note 84=6996
+note 85=7045
+note 86=7088
+note 87=7103
+note 88=7147
+note 89=7200
+note 90=7253
+note 91=7297
+note 92=7312
+note 93=7355
+note 94=7404
+note 95=7431
+note 96=7462
+note 97=7520
+note 98=7586
+note 99=7627
+note 100=7662
+note 101=7671
+note 102=7698
+note 103=7751
+note 104=7849
+note 105=7902
+note 106=7929
+note 107=7938
+note 108=7973
+note 109=8014
+note 110=8080
+note 111=8138
+note 112=8169
+note 113=8196
+note 114=8245
+note 115=8288
+note 116=8303
+note 117=8347
+note 118=8400
+note 119=8453
+note 120=8497
+note 121=8512
+note 122=8555
+note 123=8604
+note 124=8631
+note 125=8662
+note 126=8720
+note 127=8786
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "corners11.tun"
+ID= "ID_corners11.tun"
+Filename= "corners11.scl"
+Description= "Quadratic Corners 11-limit, John Chalmers (1996)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3502.635885
+note 1= 3546.727057
+note 2= 3600.000000
+note 3= 3653.272943
+note 4= 3697.364115
+note 5= 3711.731285
+note 6= 3755.139620
+note 7= 3803.910002
+note 8= 3831.174094
+note 9= 3862.368344
+note 10= 3920.143849
+note 11= 3986.313714
+note 12= 4027.372572
+note 13= 4062.348187
+note 14= 4070.780907
+note 15= 4098.044999
+note 16= 4151.317942
+note 17= 4248.682058
+note 18= 4301.955001
+note 19= 4329.219093
+note 20= 4337.651813
+note 21= 4372.627428
+note 22= 4413.686286
+note 23= 4479.856151
+note 24= 4537.631656
+note 25= 4568.825906
+note 26= 4596.089998
+note 27= 4644.860380
+note 28= 4688.268715
+note 29= 4702.635885
+note 30= 4746.727057
+note 31= 4800.000000
+note 32= 4853.272943
+note 33= 4897.364115
+note 34= 4911.731285
+note 35= 4955.139620
+note 36= 5003.910002
+note 37= 5031.174094
+note 38= 5062.368344
+note 39= 5120.143849
+note 40= 5186.313714
+note 41= 5227.372572
+note 42= 5262.348187
+note 43= 5270.780907
+note 44= 5298.044999
+note 45= 5351.317942
+note 46= 5448.682058
+note 47= 5501.955001
+note 48= 5529.219093
+note 49= 5537.651813
+note 50= 5572.627428
+note 51= 5613.686286
+note 52= 5679.856151
+note 53= 5737.631656
+note 54= 5768.825906
+note 55= 5796.089998
+note 56= 5844.860380
+note 57= 5888.268715
+note 58= 5902.635885
+note 59= 5946.727057
+note 60= 6000.000000
+note 61= 6053.272943
+note 62= 6097.364115
+note 63= 6111.731285
+note 64= 6155.139620
+note 65= 6203.910002
+note 66= 6231.174094
+note 67= 6262.368344
+note 68= 6320.143849
+note 69= 6386.313714
+note 70= 6427.372572
+note 71= 6462.348187
+note 72= 6470.780907
+note 73= 6498.044999
+note 74= 6551.317942
+note 75= 6648.682058
+note 76= 6701.955001
+note 77= 6729.219093
+note 78= 6737.651813
+note 79= 6772.627428
+note 80= 6813.686286
+note 81= 6879.856151
+note 82= 6937.631656
+note 83= 6968.825906
+note 84= 6996.089998
+note 85= 7044.860380
+note 86= 7088.268715
+note 87= 7102.635885
+note 88= 7146.727057
+note 89= 7200.000000
+note 90= 7253.272943
+note 91= 7297.364115
+note 92= 7311.731285
+note 93= 7355.139620
+note 94= 7403.910002
+note 95= 7431.174094
+note 96= 7462.368344
+note 97= 7520.143849
+note 98= 7586.313714
+note 99= 7627.372572
+note 100= 7662.348187
+note 101= 7670.780907
+note 102= 7698.044999
+note 103= 7751.317942
+note 104= 7848.682058
+note 105= 7901.955001
+note 106= 7929.219093
+note 107= 7937.651813
+note 108= 7972.627428
+note 109= 8013.686286
+note 110= 8079.856151
+note 111= 8137.631656
+note 112= 8168.825906
+note 113= 8196.089998
+note 114= 8244.860380
+note 115= 8288.268715
+note 116= 8302.635885
+note 117= 8346.727057
+note 118= 8400.000000
+note 119= 8453.272943
+note 120= 8497.364115
+note 121= 8511.731285
+note 122= 8555.139620
+note 123= 8603.910002
+note 124= 8631.174094
+note 125= 8662.368344
+note 126= 8720.143849
+note 127= 8786.313714
+
+[Functional Tuning]
+note 1="#=0 * 33/32"
+note 2="#=0 * 128/121"
+note 3="#=0 * 16/15"
+note 4="#=0 * 35/32"
+note 5="#=0 * 9/8"
+note 6="#=0 * 8/7"
+note 7="#=0 * 64/55"
+note 8="#=0 * 77/64"
+note 9="#=0 * 5/4"
+note 10="#=0 * 32/25"
+note 11="#=0 * 64/49"
+note 12="#=0 * 21/16"
+note 13="#=0 * 4/3"
+note 14="#=0 * 11/8"
+note 15="#=0 * 16/11"
+note 16="#=0 * 3/2"
+note 17="#=0 * 32/21"
+note 18="#=0 * 49/32"
+note 19="#=0 * 25/16"
+note 20="#=0 * 8/5"
+note 21="#=0 * 128/77"
+note 22="#=0 * 55/32"
+note 23="#=0 * 7/4"
+note 24="#=0 * 16/9"
+note 25="#=0 * 64/35"
+note 26="#=0 * 15/8"
+note 27="#=0 * 121/64"
+note 28="#=0 * 64/33"
+note 29="#>-29 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

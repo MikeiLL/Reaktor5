@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 14-tET approximation with minimal order 19 beats
+;
+; VAZ Plus section
+[Tuning]
+note 0=859
+note 1=941
+note 2=1030
+note 3=1111
+note 4=1200
+note 5=1289
+note 6=1373
+note 7=1467
+note 8=1547
+note 9=1635
+note 10=1698
+note 11=1803
+note 12=1902
+note 13=1973
+note 14=2059
+note 15=2141
+note 16=2230
+note 17=2311
+note 18=2400
+note 19=2489
+note 20=2573
+note 21=2667
+note 22=2747
+note 23=2835
+note 24=2898
+note 25=3003
+note 26=3102
+note 27=3173
+note 28=3259
+note 29=3341
+note 30=3430
+note 31=3511
+note 32=3600
+note 33=3689
+note 34=3773
+note 35=3867
+note 36=3947
+note 37=4035
+note 38=4098
+note 39=4203
+note 40=4302
+note 41=4373
+note 42=4459
+note 43=4541
+note 44=4630
+note 45=4711
+note 46=4800
+note 47=4889
+note 48=4973
+note 49=5067
+note 50=5147
+note 51=5235
+note 52=5298
+note 53=5403
+note 54=5502
+note 55=5573
+note 56=5659
+note 57=5741
+note 58=5830
+note 59=5911
+note 60=6000
+note 61=6089
+note 62=6173
+note 63=6267
+note 64=6347
+note 65=6435
+note 66=6498
+note 67=6603
+note 68=6702
+note 69=6773
+note 70=6859
+note 71=6941
+note 72=7030
+note 73=7111
+note 74=7200
+note 75=7289
+note 76=7373
+note 77=7467
+note 78=7547
+note 79=7635
+note 80=7698
+note 81=7803
+note 82=7902
+note 83=7973
+note 84=8059
+note 85=8141
+note 86=8230
+note 87=8311
+note 88=8400
+note 89=8489
+note 90=8573
+note 91=8667
+note 92=8747
+note 93=8835
+note 94=8898
+note 95=9003
+note 96=9102
+note 97=9173
+note 98=9259
+note 99=9341
+note 100=9430
+note 101=9511
+note 102=9600
+note 103=9689
+note 104=9773
+note 105=9867
+note 106=9947
+note 107=10035
+note 108=10098
+note 109=10203
+note 110=10302
+note 111=10373
+note 112=10459
+note 113=10541
+note 114=10630
+note 115=10711
+note 116=10800
+note 117=10889
+note 118=10973
+note 119=11067
+note 120=11147
+note 121=11235
+note 122=11298
+note 123=11403
+note 124=11502
+note 125=11573
+note 126=11659
+note 127=11741
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "b14_19.tun"
+ID= "ID_b14_19.tun"
+Filename= "b14_19.scl"
+Description= "14-tET approximation with minimal order 19 beats"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 859.448441
+note 1= 941.125571
+note 2= 1029.577194
+note 3= 1111.199302
+note 4= 1200.000000
+note 5= 1288.800698
+note 6= 1373.267891
+note 7= 1466.870906
+note 8= 1547.407941
+note 9= 1635.084095
+note 10= 1698.044999
+note 11= 1803.000409
+note 12= 1901.955001
+note 13= 1972.627428
+note 14= 2059.448441
+note 15= 2141.125571
+note 16= 2229.577194
+note 17= 2311.199302
+note 18= 2400.000000
+note 19= 2488.800698
+note 20= 2573.267891
+note 21= 2666.870906
+note 22= 2747.407941
+note 23= 2835.084095
+note 24= 2898.044999
+note 25= 3003.000409
+note 26= 3101.955001
+note 27= 3172.627428
+note 28= 3259.448441
+note 29= 3341.125571
+note 30= 3429.577194
+note 31= 3511.199302
+note 32= 3600.000000
+note 33= 3688.800698
+note 34= 3773.267891
+note 35= 3866.870906
+note 36= 3947.407941
+note 37= 4035.084095
+note 38= 4098.044999
+note 39= 4203.000409
+note 40= 4301.955001
+note 41= 4372.627428
+note 42= 4459.448441
+note 43= 4541.125571
+note 44= 4629.577194
+note 45= 4711.199302
+note 46= 4800.000000
+note 47= 4888.800698
+note 48= 4973.267891
+note 49= 5066.870906
+note 50= 5147.407941
+note 51= 5235.084095
+note 52= 5298.044999
+note 53= 5403.000409
+note 54= 5501.955001
+note 55= 5572.627428
+note 56= 5659.448441
+note 57= 5741.125571
+note 58= 5829.577194
+note 59= 5911.199302
+note 60= 6000.000000
+note 61= 6088.800698
+note 62= 6173.267891
+note 63= 6266.870906
+note 64= 6347.407941
+note 65= 6435.084095
+note 66= 6498.044999
+note 67= 6603.000409
+note 68= 6701.955001
+note 69= 6772.627428
+note 70= 6859.448441
+note 71= 6941.125571
+note 72= 7029.577194
+note 73= 7111.199302
+note 74= 7200.000000
+note 75= 7288.800698
+note 76= 7373.267891
+note 77= 7466.870906
+note 78= 7547.407941
+note 79= 7635.084095
+note 80= 7698.044999
+note 81= 7803.000409
+note 82= 7901.955001
+note 83= 7972.627428
+note 84= 8059.448441
+note 85= 8141.125571
+note 86= 8229.577194
+note 87= 8311.199302
+note 88= 8400.000000
+note 89= 8488.800698
+note 90= 8573.267891
+note 91= 8666.870906
+note 92= 8747.407941
+note 93= 8835.084095
+note 94= 8898.044999
+note 95= 9003.000409
+note 96= 9101.955001
+note 97= 9172.627428
+note 98= 9259.448441
+note 99= 9341.125571
+note 100= 9429.577194
+note 101= 9511.199302
+note 102= 9600.000000
+note 103= 9688.800698
+note 104= 9773.267891
+note 105= 9866.870906
+note 106= 9947.407941
+note 107= 10035.084095
+note 108= 10098.044999
+note 109= 10203.000409
+note 110= 10301.955001
+note 111= 10372.627428
+note 112= 10459.448441
+note 113= 10541.125571
+note 114= 10629.577194
+note 115= 10711.199302
+note 116= 10800.000000
+note 117= 10888.800698
+note 118= 10973.267891
+note 119= 11066.870906
+note 120= 11147.407941
+note 121= 11235.084095
+note 122= 11298.044999
+note 123= 11403.000409
+note 124= 11501.955001
+note 125= 11572.627428
+note 126= 11659.448441
+note 127= 11741.125571
+
+[Functional Tuning]
+note 1="#=0 * 20/19"
+note 2="#=0 * 21/19"
+note 3="#=0 * 7/6"
+note 4="#=0 * 11/9"
+note 5="#=0 * 9/7"
+note 6="#=0 * 4/3"
+note 7="#=0 * 17/12"
+note 8="#=0 * 3/2"
+note 9="#=0 * 25/16"
+note 10="#=0 * 23/14"
+note 11="#=0 * 31/18"
+note 12="#=0 * 29/16"
+note 13="#=0 * 19/10"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

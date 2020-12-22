@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Spectrum sequence of 7/6: 1 to 27 reduced by 2/1
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=105
+note 2=204
+note 3=298
+note 4=386
+note 5=551
+note 6=628
+note 7=702
+note 8=773
+note 9=841
+note 10=906
+note 11=1088
+note 12=1200
+note 13=1305
+note 14=1404
+note 15=1498
+note 16=1586
+note 17=1751
+note 18=1828
+note 19=1902
+note 20=1973
+note 21=2041
+note 22=2106
+note 23=2288
+note 24=2400
+note 25=2505
+note 26=2604
+note 27=2698
+note 28=2786
+note 29=2951
+note 30=3028
+note 31=3102
+note 32=3173
+note 33=3241
+note 34=3306
+note 35=3488
+note 36=3600
+note 37=3705
+note 38=3804
+note 39=3898
+note 40=3986
+note 41=4151
+note 42=4228
+note 43=4302
+note 44=4373
+note 45=4441
+note 46=4506
+note 47=4688
+note 48=4800
+note 49=4905
+note 50=5004
+note 51=5098
+note 52=5186
+note 53=5351
+note 54=5428
+note 55=5502
+note 56=5573
+note 57=5641
+note 58=5706
+note 59=5888
+note 60=6000
+note 61=6105
+note 62=6204
+note 63=6298
+note 64=6386
+note 65=6551
+note 66=6628
+note 67=6702
+note 68=6773
+note 69=6841
+note 70=6906
+note 71=7088
+note 72=7200
+note 73=7305
+note 74=7404
+note 75=7498
+note 76=7586
+note 77=7751
+note 78=7828
+note 79=7902
+note 80=7973
+note 81=8041
+note 82=8106
+note 83=8288
+note 84=8400
+note 85=8505
+note 86=8604
+note 87=8698
+note 88=8786
+note 89=8951
+note 90=9028
+note 91=9102
+note 92=9173
+note 93=9241
+note 94=9306
+note 95=9488
+note 96=9600
+note 97=9705
+note 98=9804
+note 99=9898
+note 100=9986
+note 101=10151
+note 102=10228
+note 103=10302
+note 104=10373
+note 105=10441
+note 106=10506
+note 107=10688
+note 108=10800
+note 109=10905
+note 110=11004
+note 111=11098
+note 112=11186
+note 113=11351
+note 114=11428
+note 115=11502
+note 116=11573
+note 117=11641
+note 118=11706
+note 119=11888
+note 120=12000
+note 121=12105
+note 122=12204
+note 123=12298
+note 124=12386
+note 125=12551
+note 126=12628
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "spec1_17.tun"
+ID= "ID_spec1_17.tun"
+Filename= "spec1_17.scl"
+Description= "Spectrum sequence of 7/6: 1 to 27 reduced by 2/1"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 104.955410
+note 2= 203.910002
+note 3= 297.513016
+note 4= 386.313714
+note 5= 551.317942
+note 6= 628.274347
+note 7= 701.955001
+note 8= 772.627428
+note 9= 840.527662
+note 10= 905.865003
+note 11= 1088.268715
+note 12= 1200.000000
+note 13= 1304.955410
+note 14= 1403.910002
+note 15= 1497.513016
+note 16= 1586.313714
+note 17= 1751.317942
+note 18= 1828.274347
+note 19= 1901.955001
+note 20= 1972.627428
+note 21= 2040.527662
+note 22= 2105.865003
+note 23= 2288.268715
+note 24= 2400.000000
+note 25= 2504.955410
+note 26= 2603.910002
+note 27= 2697.513016
+note 28= 2786.313714
+note 29= 2951.317942
+note 30= 3028.274347
+note 31= 3101.955001
+note 32= 3172.627428
+note 33= 3240.527662
+note 34= 3305.865003
+note 35= 3488.268715
+note 36= 3600.000000
+note 37= 3704.955410
+note 38= 3803.910002
+note 39= 3897.513016
+note 40= 3986.313714
+note 41= 4151.317942
+note 42= 4228.274347
+note 43= 4301.955001
+note 44= 4372.627428
+note 45= 4440.527662
+note 46= 4505.865003
+note 47= 4688.268715
+note 48= 4800.000000
+note 49= 4904.955410
+note 50= 5003.910002
+note 51= 5097.513016
+note 52= 5186.313714
+note 53= 5351.317942
+note 54= 5428.274347
+note 55= 5501.955001
+note 56= 5572.627428
+note 57= 5640.527662
+note 58= 5705.865003
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6104.955410
+note 62= 6203.910002
+note 63= 6297.513016
+note 64= 6386.313714
+note 65= 6551.317942
+note 66= 6628.274347
+note 67= 6701.955001
+note 68= 6772.627428
+note 69= 6840.527662
+note 70= 6905.865003
+note 71= 7088.268715
+note 72= 7200.000000
+note 73= 7304.955410
+note 74= 7403.910002
+note 75= 7497.513016
+note 76= 7586.313714
+note 77= 7751.317942
+note 78= 7828.274347
+note 79= 7901.955001
+note 80= 7972.627428
+note 81= 8040.527662
+note 82= 8105.865003
+note 83= 8288.268715
+note 84= 8400.000000
+note 85= 8504.955410
+note 86= 8603.910002
+note 87= 8697.513016
+note 88= 8786.313714
+note 89= 8951.317942
+note 90= 9028.274347
+note 91= 9101.955001
+note 92= 9172.627428
+note 93= 9240.527662
+note 94= 9305.865003
+note 95= 9488.268715
+note 96= 9600.000000
+note 97= 9704.955410
+note 98= 9803.910002
+note 99= 9897.513016
+note 100= 9986.313714
+note 101= 10151.317942
+note 102= 10228.274347
+note 103= 10301.955001
+note 104= 10372.627428
+note 105= 10440.527662
+note 106= 10505.865003
+note 107= 10688.268715
+note 108= 10800.000000
+note 109= 10904.955410
+note 110= 11003.910002
+note 111= 11097.513016
+note 112= 11186.313714
+note 113= 11351.317942
+note 114= 11428.274347
+note 115= 11501.955001
+note 116= 11572.627428
+note 117= 11640.527662
+note 118= 11705.865003
+note 119= 11888.268715
+note 120= 12000.000000
+note 121= 12104.955410
+note 122= 12203.910002
+note 123= 12297.513016
+note 124= 12386.313714
+note 125= 12551.317942
+note 126= 12628.274347
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 17/16"
+note 2="#=0 * 9/8"
+note 3="#=0 * 19/16"
+note 4="#=0 * 5/4"
+note 5="#=0 * 11/8"
+note 6="#=0 * 23/16"
+note 7="#=0 * 3/2"
+note 8="#=0 * 25/16"
+note 9="#=0 * 13/8"
+note 10="#=0 * 27/16"
+note 11="#=0 * 15/8"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

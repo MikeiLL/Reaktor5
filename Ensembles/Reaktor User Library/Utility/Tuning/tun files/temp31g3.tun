@@ -1,0 +1,313 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Wonder Scale, cycle of 31 sevenths tempered by 1/3 gamelan residue, s.wonder1.scl
+;
+; VAZ Plus section
+[Tuning]
+note 0=3660
+note 1=3690
+note 2=3774
+note 3=3804
+note 4=3834
+note 5=3864
+note 6=3894
+note 7=3924
+note 8=4008
+note 9=4038
+note 10=4068
+note 11=4098
+note 12=4128
+note 13=4158
+note 14=4242
+note 15=4272
+note 16=4302
+note 17=4332
+note 18=4362
+note 19=4392
+note 20=4476
+note 21=4506
+note 22=4536
+note 23=4566
+note 24=4596
+note 25=4626
+note 26=4710
+note 27=4740
+note 28=4770
+note 29=4800
+note 30=4830
+note 31=4860
+note 32=4890
+note 33=4974
+note 34=5004
+note 35=5034
+note 36=5064
+note 37=5094
+note 38=5124
+note 39=5208
+note 40=5238
+note 41=5268
+note 42=5298
+note 43=5328
+note 44=5358
+note 45=5442
+note 46=5472
+note 47=5502
+note 48=5532
+note 49=5562
+note 50=5592
+note 51=5676
+note 52=5706
+note 53=5736
+note 54=5766
+note 55=5796
+note 56=5826
+note 57=5910
+note 58=5940
+note 59=5970
+note 60=6000
+note 61=6030
+note 62=6060
+note 63=6090
+note 64=6174
+note 65=6204
+note 66=6234
+note 67=6264
+note 68=6294
+note 69=6324
+note 70=6408
+note 71=6438
+note 72=6468
+note 73=6498
+note 74=6528
+note 75=6558
+note 76=6642
+note 77=6672
+note 78=6702
+note 79=6732
+note 80=6762
+note 81=6792
+note 82=6876
+note 83=6906
+note 84=6936
+note 85=6966
+note 86=6996
+note 87=7026
+note 88=7110
+note 89=7140
+note 90=7170
+note 91=7200
+note 92=7230
+note 93=7260
+note 94=7290
+note 95=7374
+note 96=7404
+note 97=7434
+note 98=7464
+note 99=7494
+note 100=7524
+note 101=7608
+note 102=7638
+note 103=7668
+note 104=7698
+note 105=7728
+note 106=7758
+note 107=7842
+note 108=7872
+note 109=7902
+note 110=7932
+note 111=7962
+note 112=7992
+note 113=8076
+note 114=8106
+note 115=8136
+note 116=8166
+note 117=8196
+note 118=8226
+note 119=8310
+note 120=8340
+note 121=8370
+note 122=8400
+note 123=8430
+note 124=8460
+note 125=8490
+note 126=8574
+note 127=8604
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "temp31g3.tun"
+ID= "ID_temp31g3.tun"
+Filename= "temp31g3.scl"
+Description= "Wonder Scale, cycle of 31 sevenths tempered by 1/3 gamelan residue, s.wonder1.scl"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3660.150000
+note 1= 3690.224996
+note 2= 3773.835000
+note 3= 3803.910002
+note 4= 3833.985000
+note 5= 3864.060000
+note 6= 3894.134997
+note 7= 3924.210000
+note 8= 4007.820003
+note 9= 4037.895000
+note 10= 4067.970000
+note 11= 4098.044999
+note 12= 4128.120000
+note 13= 4158.195000
+note 14= 4241.805000
+note 15= 4271.880000
+note 16= 4301.955001
+note 17= 4332.030000
+note 18= 4362.105000
+note 19= 4392.179997
+note 20= 4475.790000
+note 21= 4505.865003
+note 22= 4535.940000
+note 23= 4566.015000
+note 24= 4596.089998
+note 25= 4626.165000
+note 26= 4709.775004
+note 27= 4739.850000
+note 28= 4769.925000
+note 29= 4800.000000
+note 30= 4830.075000
+note 31= 4860.150000
+note 32= 4890.224996
+note 33= 4973.835000
+note 34= 5003.910002
+note 35= 5033.985000
+note 36= 5064.060000
+note 37= 5094.134997
+note 38= 5124.210000
+note 39= 5207.820003
+note 40= 5237.895000
+note 41= 5267.970000
+note 42= 5298.044999
+note 43= 5328.120000
+note 44= 5358.195000
+note 45= 5441.805000
+note 46= 5471.880000
+note 47= 5501.955001
+note 48= 5532.030000
+note 49= 5562.105000
+note 50= 5592.179997
+note 51= 5675.790000
+note 52= 5705.865003
+note 53= 5735.940000
+note 54= 5766.015000
+note 55= 5796.089998
+note 56= 5826.165000
+note 57= 5909.775004
+note 58= 5939.850000
+note 59= 5969.925000
+note 60= 6000.000000
+note 61= 6030.075000
+note 62= 6060.150000
+note 63= 6090.224996
+note 64= 6173.835000
+note 65= 6203.910002
+note 66= 6233.985000
+note 67= 6264.060000
+note 68= 6294.134997
+note 69= 6324.210000
+note 70= 6407.820003
+note 71= 6437.895000
+note 72= 6467.970000
+note 73= 6498.044999
+note 74= 6528.120000
+note 75= 6558.195000
+note 76= 6641.805000
+note 77= 6671.880000
+note 78= 6701.955001
+note 79= 6732.030000
+note 80= 6762.105000
+note 81= 6792.179997
+note 82= 6875.790000
+note 83= 6905.865003
+note 84= 6935.940000
+note 85= 6966.015000
+note 86= 6996.089998
+note 87= 7026.165000
+note 88= 7109.775004
+note 89= 7139.850000
+note 90= 7169.925000
+note 91= 7200.000000
+note 92= 7230.075000
+note 93= 7260.150000
+note 94= 7290.224996
+note 95= 7373.835000
+note 96= 7403.910002
+note 97= 7433.985000
+note 98= 7464.060000
+note 99= 7494.134997
+note 100= 7524.210000
+note 101= 7607.820003
+note 102= 7637.895000
+note 103= 7667.970000
+note 104= 7698.044999
+note 105= 7728.120000
+note 106= 7758.195000
+note 107= 7841.805000
+note 108= 7871.880000
+note 109= 7901.955001
+note 110= 7932.030000
+note 111= 7962.105000
+note 112= 7992.179997
+note 113= 8075.790000
+note 114= 8105.865003
+note 115= 8135.940000
+note 116= 8166.015000
+note 117= 8196.089998
+note 118= 8226.165000
+note 119= 8309.775004
+note 120= 8339.850000
+note 121= 8369.925000
+note 122= 8400.000000
+note 123= 8430.075000
+note 124= 8460.150000
+note 125= 8490.224996
+note 126= 8573.835000
+note 127= 8603.910002
+
+[Functional Tuning]
+note 1="#=0 % 30.075000"
+note 2="#=0 % 60.150000"
+note 3="#=0 * 256/243"
+note 4="#=0 % 173.835000"
+note 5="#=0 * 9/8"
+note 6="#=0 % 233.985000"
+note 7="#=0 % 264.060000"
+note 8="#=0 * 32/27"
+note 9="#=0 % 324.210000"
+note 10="#=0 * 81/64"
+note 11="#=0 % 437.895000"
+note 12="#=0 % 467.970000"
+note 13="#=0 * 4/3"
+note 14="#=0 % 528.120000"
+note 15="#=0 % 558.195000"
+note 16="#=0 % 641.805000"
+note 17="#=0 % 671.880000"
+note 18="#=0 * 3/2"
+note 19="#=0 % 732.030000"
+note 20="#=0 % 762.105000"
+note 21="#=0 * 128/81"
+note 22="#=0 % 875.790000"
+note 23="#=0 * 27/16"
+note 24="#=0 % 935.940000"
+note 25="#=0 % 966.015000"
+note 26="#=0 * 16/9"
+note 27="#=0 % 1026.165000"
+note 28="#=0 * 243/128"
+note 29="#=0 % 1139.850000"
+note 30="#=0 % 1169.925000"
+note 31="#>-31 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

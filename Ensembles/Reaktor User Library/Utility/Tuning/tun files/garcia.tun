@@ -1,0 +1,311 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Linear 29-tone scale by José L. Garcia, 1988  15/13-52/45 alternating
+;
+; VAZ Plus section
+[Tuning]
+note 0=3508
+note 1=3554
+note 2=3600
+note 3=3644
+note 4=3665
+note 5=3712
+note 6=3756
+note 7=3804
+note 8=3848
+note 9=3894
+note 10=3916
+note 11=3959
+note 12=4008
+note 13=4052
+note 14=4098
+note 15=4142
+note 16=4163
+note 17=4210
+note 18=4254
+note 19=4302
+note 20=4346
+note 21=4367
+note 22=4414
+note 23=4458
+note 24=4506
+note 25=4550
+note 26=4596
+note 27=4618
+note 28=4661
+note 29=4708
+note 30=4754
+note 31=4800
+note 32=4844
+note 33=4865
+note 34=4912
+note 35=4956
+note 36=5004
+note 37=5048
+note 38=5094
+note 39=5116
+note 40=5159
+note 41=5208
+note 42=5252
+note 43=5298
+note 44=5342
+note 45=5363
+note 46=5410
+note 47=5454
+note 48=5502
+note 49=5546
+note 50=5567
+note 51=5614
+note 52=5658
+note 53=5706
+note 54=5750
+note 55=5796
+note 56=5818
+note 57=5861
+note 58=5908
+note 59=5954
+note 60=6000
+note 61=6044
+note 62=6065
+note 63=6112
+note 64=6156
+note 65=6204
+note 66=6248
+note 67=6294
+note 68=6316
+note 69=6359
+note 70=6408
+note 71=6452
+note 72=6498
+note 73=6542
+note 74=6563
+note 75=6610
+note 76=6654
+note 77=6702
+note 78=6746
+note 79=6767
+note 80=6814
+note 81=6858
+note 82=6906
+note 83=6950
+note 84=6996
+note 85=7018
+note 86=7061
+note 87=7108
+note 88=7154
+note 89=7200
+note 90=7244
+note 91=7265
+note 92=7312
+note 93=7356
+note 94=7404
+note 95=7448
+note 96=7494
+note 97=7516
+note 98=7559
+note 99=7608
+note 100=7652
+note 101=7698
+note 102=7742
+note 103=7763
+note 104=7810
+note 105=7854
+note 106=7902
+note 107=7946
+note 108=7967
+note 109=8014
+note 110=8058
+note 111=8106
+note 112=8150
+note 113=8196
+note 114=8218
+note 115=8261
+note 116=8308
+note 117=8354
+note 118=8400
+note 119=8444
+note 120=8465
+note 121=8512
+note 122=8556
+note 123=8604
+note 124=8648
+note 125=8694
+note 126=8716
+note 127=8759
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "garcia.tun"
+ID= "ID_garcia.tun"
+Filename= "garcia.scl"
+Description= "Linear 29-tone scale by José L. Garcia, 1988  15/13-52/45 alternating"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3507.821284
+note 1= 3553.606056
+note 2= 3600.000000
+note 3= 3643.831051
+note 4= 3665.337341
+note 5= 3711.731285
+note 6= 3755.562336
+note 7= 3803.910002
+note 8= 3847.741053
+note 9= 3894.134997
+note 10= 3915.641287
+note 11= 3959.472338
+note 12= 4007.820003
+note 13= 4051.651055
+note 14= 4098.044999
+note 15= 4141.876050
+note 16= 4163.382340
+note 17= 4209.776284
+note 18= 4253.607336
+note 19= 4301.955001
+note 20= 4345.786052
+note 21= 4367.292342
+note 22= 4413.686286
+note 23= 4457.517337
+note 24= 4505.865003
+note 25= 4549.696054
+note 26= 4596.089998
+note 27= 4617.596288
+note 28= 4661.427339
+note 29= 4707.821284
+note 30= 4753.606056
+note 31= 4800.000000
+note 32= 4843.831051
+note 33= 4865.337341
+note 34= 4911.731285
+note 35= 4955.562336
+note 36= 5003.910002
+note 37= 5047.741053
+note 38= 5094.134997
+note 39= 5115.641287
+note 40= 5159.472338
+note 41= 5207.820003
+note 42= 5251.651055
+note 43= 5298.044999
+note 44= 5341.876050
+note 45= 5363.382340
+note 46= 5409.776284
+note 47= 5453.607336
+note 48= 5501.955001
+note 49= 5545.786052
+note 50= 5567.292342
+note 51= 5613.686286
+note 52= 5657.517337
+note 53= 5705.865003
+note 54= 5749.696054
+note 55= 5796.089998
+note 56= 5817.596288
+note 57= 5861.427339
+note 58= 5907.821284
+note 59= 5953.606056
+note 60= 6000.000000
+note 61= 6043.831051
+note 62= 6065.337341
+note 63= 6111.731285
+note 64= 6155.562336
+note 65= 6203.910002
+note 66= 6247.741053
+note 67= 6294.134997
+note 68= 6315.641287
+note 69= 6359.472338
+note 70= 6407.820003
+note 71= 6451.651055
+note 72= 6498.044999
+note 73= 6541.876050
+note 74= 6563.382340
+note 75= 6609.776284
+note 76= 6653.607336
+note 77= 6701.955001
+note 78= 6745.786052
+note 79= 6767.292342
+note 80= 6813.686286
+note 81= 6857.517337
+note 82= 6905.865003
+note 83= 6949.696054
+note 84= 6996.089998
+note 85= 7017.596288
+note 86= 7061.427339
+note 87= 7107.821284
+note 88= 7153.606056
+note 89= 7200.000000
+note 90= 7243.831051
+note 91= 7265.337341
+note 92= 7311.731285
+note 93= 7355.562336
+note 94= 7403.910002
+note 95= 7447.741053
+note 96= 7494.134997
+note 97= 7515.641287
+note 98= 7559.472338
+note 99= 7607.820003
+note 100= 7651.651055
+note 101= 7698.044999
+note 102= 7741.876050
+note 103= 7763.382340
+note 104= 7809.776284
+note 105= 7853.607336
+note 106= 7901.955001
+note 107= 7945.786052
+note 108= 7967.292342
+note 109= 8013.686286
+note 110= 8057.517337
+note 111= 8105.865003
+note 112= 8149.696054
+note 113= 8196.089998
+note 114= 8217.596288
+note 115= 8261.427339
+note 116= 8307.821284
+note 117= 8353.606056
+note 118= 8400.000000
+note 119= 8443.831051
+note 120= 8465.337341
+note 121= 8511.731285
+note 122= 8555.562336
+note 123= 8603.910002
+note 124= 8647.741053
+note 125= 8694.134997
+note 126= 8715.641287
+note 127= 8759.472338
+
+[Functional Tuning]
+note 1="#=0 * 40/39"
+note 2="#=0 * 27/26"
+note 3="#=0 * 16/15"
+note 4="#=0 * 128/117"
+note 5="#=0 * 9/8"
+note 6="#=0 * 15/13"
+note 7="#=0 * 32/27"
+note 8="#=0 * 6/5"
+note 9="#=0 * 16/13"
+note 10="#=0 * 81/64"
+note 11="#=0 * 135/104"
+note 12="#=0 * 4/3"
+note 13="#=0 * 160/117"
+note 14="#=0 * 18/13"
+note 15="#=0 * 64/45"
+note 16="#=0 * 512/351"
+note 17="#=0 * 3/2"
+note 18="#=0 * 20/13"
+note 19="#=0 * 81/52"
+note 20="#=0 * 8/5"
+note 21="#=0 * 64/39"
+note 22="#=0 * 27/16"
+note 23="#=0 * 45/26"
+note 24="#=0 * 16/9"
+note 25="#=0 * 9/5"
+note 26="#=0 * 24/13"
+note 27="#=0 * 256/135"
+note 28="#=0 * 405/208"
+note 29="#>-29 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Werckmeister Clavier temperament (Nothw. Anm.) Poletti reconstr. 1/6-comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=89
+note 2=197
+note 3=296
+note 4=393
+note 5=502
+note 6=590
+note 7=698
+note 8=792
+note 9=895
+note 10=1000
+note 11=1092
+note 12=1200
+note 13=1289
+note 14=1397
+note 15=1496
+note 16=1593
+note 17=1702
+note 18=1790
+note 19=1898
+note 20=1992
+note 21=2095
+note 22=2200
+note 23=2292
+note 24=2400
+note 25=2489
+note 26=2597
+note 27=2696
+note 28=2793
+note 29=2902
+note 30=2990
+note 31=3098
+note 32=3192
+note 33=3295
+note 34=3400
+note 35=3492
+note 36=3600
+note 37=3689
+note 38=3797
+note 39=3896
+note 40=3993
+note 41=4102
+note 42=4190
+note 43=4298
+note 44=4392
+note 45=4495
+note 46=4600
+note 47=4692
+note 48=4800
+note 49=4889
+note 50=4997
+note 51=5096
+note 52=5193
+note 53=5302
+note 54=5390
+note 55=5498
+note 56=5592
+note 57=5695
+note 58=5800
+note 59=5892
+note 60=6000
+note 61=6089
+note 62=6197
+note 63=6296
+note 64=6393
+note 65=6502
+note 66=6590
+note 67=6698
+note 68=6792
+note 69=6895
+note 70=7000
+note 71=7092
+note 72=7200
+note 73=7289
+note 74=7397
+note 75=7496
+note 76=7593
+note 77=7702
+note 78=7790
+note 79=7898
+note 80=7992
+note 81=8095
+note 82=8200
+note 83=8292
+note 84=8400
+note 85=8489
+note 86=8597
+note 87=8696
+note 88=8793
+note 89=8902
+note 90=8990
+note 91=9098
+note 92=9192
+note 93=9295
+note 94=9400
+note 95=9492
+note 96=9600
+note 97=9689
+note 98=9797
+note 99=9896
+note 100=9993
+note 101=10102
+note 102=10190
+note 103=10298
+note 104=10392
+note 105=10495
+note 106=10600
+note 107=10692
+note 108=10800
+note 109=10889
+note 110=10997
+note 111=11096
+note 112=11193
+note 113=11302
+note 114=11390
+note 115=11498
+note 116=11592
+note 117=11695
+note 118=11800
+note 119=11892
+note 120=12000
+note 121=12089
+note 122=12197
+note 123=12296
+note 124=12393
+note 125=12502
+note 126=12590
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "werck_cl6.tun"
+ID= "ID_werck_cl6.tun"
+Filename= "werck_cl6.scl"
+Description= "Werckmeister Clavier temperament (Nothw. Anm.) Poletti reconstr. 1/6-comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 88.594330
+note 2= 196.741240
+note 3= 295.674380
+note 4= 393.482480
+note 5= 501.629380
+note 6= 590.223716
+note 7= 698.370620
+note 8= 791.674380
+note 9= 895.111860
+note 10= 999.674380
+note 11= 1091.853100
+note 12= 1200.000000
+note 13= 1288.594330
+note 14= 1396.741240
+note 15= 1495.674380
+note 16= 1593.482480
+note 17= 1701.629380
+note 18= 1790.223716
+note 19= 1898.370620
+note 20= 1991.674380
+note 21= 2095.111860
+note 22= 2199.674380
+note 23= 2291.853100
+note 24= 2400.000000
+note 25= 2488.594330
+note 26= 2596.741240
+note 27= 2695.674380
+note 28= 2793.482480
+note 29= 2901.629380
+note 30= 2990.223716
+note 31= 3098.370620
+note 32= 3191.674380
+note 33= 3295.111860
+note 34= 3399.674380
+note 35= 3491.853100
+note 36= 3600.000000
+note 37= 3688.594330
+note 38= 3796.741240
+note 39= 3895.674380
+note 40= 3993.482480
+note 41= 4101.629380
+note 42= 4190.223716
+note 43= 4298.370620
+note 44= 4391.674380
+note 45= 4495.111860
+note 46= 4599.674380
+note 47= 4691.853100
+note 48= 4800.000000
+note 49= 4888.594330
+note 50= 4996.741240
+note 51= 5095.674380
+note 52= 5193.482480
+note 53= 5301.629380
+note 54= 5390.223716
+note 55= 5498.370620
+note 56= 5591.674380
+note 57= 5695.111860
+note 58= 5799.674380
+note 59= 5891.853100
+note 60= 6000.000000
+note 61= 6088.594330
+note 62= 6196.741240
+note 63= 6295.674380
+note 64= 6393.482480
+note 65= 6501.629380
+note 66= 6590.223716
+note 67= 6698.370620
+note 68= 6791.674380
+note 69= 6895.111860
+note 70= 6999.674380
+note 71= 7091.853100
+note 72= 7200.000000
+note 73= 7288.594330
+note 74= 7396.741240
+note 75= 7495.674380
+note 76= 7593.482480
+note 77= 7701.629380
+note 78= 7790.223716
+note 79= 7898.370620
+note 80= 7991.674380
+note 81= 8095.111860
+note 82= 8199.674380
+note 83= 8291.853100
+note 84= 8400.000000
+note 85= 8488.594330
+note 86= 8596.741240
+note 87= 8695.674380
+note 88= 8793.482480
+note 89= 8901.629380
+note 90= 8990.223716
+note 91= 9098.370620
+note 92= 9191.674380
+note 93= 9295.111860
+note 94= 9399.674380
+note 95= 9491.853100
+note 96= 9600.000000
+note 97= 9688.594330
+note 98= 9796.741240
+note 99= 9895.674380
+note 100= 9993.482480
+note 101= 10101.629380
+note 102= 10190.223716
+note 103= 10298.370620
+note 104= 10391.674380
+note 105= 10495.111860
+note 106= 10599.674380
+note 107= 10691.853100
+note 108= 10800.000000
+note 109= 10888.594330
+note 110= 10996.741240
+note 111= 11095.674380
+note 112= 11193.482480
+note 113= 11301.629380
+note 114= 11390.223716
+note 115= 11498.370620
+note 116= 11591.674380
+note 117= 11695.111860
+note 118= 11799.674380
+note 119= 11891.853100
+note 120= 12000.000000
+note 121= 12088.594330
+note 122= 12196.741240
+note 123= 12295.674380
+note 124= 12393.482480
+note 125= 12501.629380
+note 126= 12590.223716
+note 127= 12698.370620
+
+[Functional Tuning]
+note 1="#=0 % 88.594330"
+note 2="#=0 % 196.741240"
+note 3="#=0 % 295.674380"
+note 4="#=0 % 393.482480"
+note 5="#=0 % 501.629380"
+note 6="#=0 * 45/32"
+note 7="#=0 % 698.370620"
+note 8="#=0 % 791.674380"
+note 9="#=0 % 895.111860"
+note 10="#=0 % 999.674380"
+note 11="#=0 % 1091.853100"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

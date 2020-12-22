@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Lesfip scale with two ~17/14 semi-wolves, 11-limit diamond target, 10 cents error
+;
+; VAZ Plus section
+[Tuning]
+note 0=2710
+note 1=2751
+note 2=2787
+note 3=2857
+note 4=2914
+note 5=2984
+note 6=3020
+note 7=3061
+note 8=3100
+note 9=3169
+note 10=3249
+note 11=3288
+note 12=3332
+note 13=3370
+note 14=3412
+note 15=3485
+note 16=3600
+note 17=3639
+note 18=3681
+note 19=3721
+note 20=3802
+note 21=3870
+note 22=3910
+note 23=3951
+note 24=3987
+note 25=4057
+note 26=4114
+note 27=4184
+note 28=4220
+note 29=4261
+note 30=4300
+note 31=4369
+note 32=4449
+note 33=4488
+note 34=4532
+note 35=4570
+note 36=4612
+note 37=4685
+note 38=4800
+note 39=4839
+note 40=4881
+note 41=4921
+note 42=5002
+note 43=5070
+note 44=5110
+note 45=5151
+note 46=5187
+note 47=5257
+note 48=5314
+note 49=5384
+note 50=5420
+note 51=5461
+note 52=5500
+note 53=5569
+note 54=5649
+note 55=5688
+note 56=5732
+note 57=5770
+note 58=5812
+note 59=5885
+note 60=6000
+note 61=6039
+note 62=6081
+note 63=6121
+note 64=6202
+note 65=6270
+note 66=6310
+note 67=6351
+note 68=6387
+note 69=6457
+note 70=6514
+note 71=6584
+note 72=6620
+note 73=6661
+note 74=6700
+note 75=6769
+note 76=6849
+note 77=6888
+note 78=6932
+note 79=6970
+note 80=7012
+note 81=7085
+note 82=7200
+note 83=7239
+note 84=7281
+note 85=7321
+note 86=7402
+note 87=7470
+note 88=7510
+note 89=7551
+note 90=7587
+note 91=7657
+note 92=7714
+note 93=7784
+note 94=7820
+note 95=7861
+note 96=7900
+note 97=7969
+note 98=8049
+note 99=8088
+note 100=8132
+note 101=8170
+note 102=8212
+note 103=8285
+note 104=8400
+note 105=8439
+note 106=8481
+note 107=8521
+note 108=8602
+note 109=8670
+note 110=8710
+note 111=8751
+note 112=8787
+note 113=8857
+note 114=8914
+note 115=8984
+note 116=9020
+note 117=9061
+note 118=9100
+note 119=9169
+note 120=9249
+note 121=9288
+note 122=9332
+note 123=9370
+note 124=9412
+note 125=9485
+note 126=9600
+note 127=9639
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "mynafip22.tun"
+ID= "ID_mynafip22.tun"
+Filename= "mynafip22.scl"
+Description= "Lesfip scale with two ~17/14 semi-wolves, 11-limit diamond target, 10 cents error"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2709.684170
+note 1= 2750.938820
+note 2= 2787.179200
+note 3= 2856.688020
+note 4= 2914.158630
+note 5= 2984.006730
+note 6= 3019.961440
+note 7= 3061.054500
+note 8= 3100.416590
+note 9= 3168.807800
+note 10= 3249.447660
+note 11= 3288.045580
+note 12= 3332.207930
+note 13= 3370.070040
+note 14= 3411.527320
+note 15= 3485.248220
+note 16= 3600.000000
+note 17= 3638.693590
+note 18= 3681.406200
+note 19= 3721.301600
+note 20= 3801.530900
+note 21= 3869.692620
+note 22= 3909.684170
+note 23= 3950.938820
+note 24= 3987.179200
+note 25= 4056.688020
+note 26= 4114.158630
+note 27= 4184.006730
+note 28= 4219.961440
+note 29= 4261.054500
+note 30= 4300.416590
+note 31= 4368.807800
+note 32= 4449.447660
+note 33= 4488.045580
+note 34= 4532.207930
+note 35= 4570.070040
+note 36= 4611.527320
+note 37= 4685.248220
+note 38= 4800.000000
+note 39= 4838.693590
+note 40= 4881.406200
+note 41= 4921.301600
+note 42= 5001.530900
+note 43= 5069.692620
+note 44= 5109.684170
+note 45= 5150.938820
+note 46= 5187.179200
+note 47= 5256.688020
+note 48= 5314.158630
+note 49= 5384.006730
+note 50= 5419.961440
+note 51= 5461.054500
+note 52= 5500.416590
+note 53= 5568.807800
+note 54= 5649.447660
+note 55= 5688.045580
+note 56= 5732.207930
+note 57= 5770.070040
+note 58= 5811.527320
+note 59= 5885.248220
+note 60= 6000.000000
+note 61= 6038.693590
+note 62= 6081.406200
+note 63= 6121.301600
+note 64= 6201.530900
+note 65= 6269.692620
+note 66= 6309.684170
+note 67= 6350.938820
+note 68= 6387.179200
+note 69= 6456.688020
+note 70= 6514.158630
+note 71= 6584.006730
+note 72= 6619.961440
+note 73= 6661.054500
+note 74= 6700.416590
+note 75= 6768.807800
+note 76= 6849.447660
+note 77= 6888.045580
+note 78= 6932.207930
+note 79= 6970.070040
+note 80= 7011.527320
+note 81= 7085.248220
+note 82= 7200.000000
+note 83= 7238.693590
+note 84= 7281.406200
+note 85= 7321.301600
+note 86= 7401.530900
+note 87= 7469.692620
+note 88= 7509.684170
+note 89= 7550.938820
+note 90= 7587.179200
+note 91= 7656.688020
+note 92= 7714.158630
+note 93= 7784.006730
+note 94= 7819.961440
+note 95= 7861.054500
+note 96= 7900.416590
+note 97= 7968.807800
+note 98= 8049.447660
+note 99= 8088.045580
+note 100= 8132.207930
+note 101= 8170.070040
+note 102= 8211.527320
+note 103= 8285.248220
+note 104= 8400.000000
+note 105= 8438.693590
+note 106= 8481.406200
+note 107= 8521.301600
+note 108= 8601.530900
+note 109= 8669.692620
+note 110= 8709.684170
+note 111= 8750.938820
+note 112= 8787.179200
+note 113= 8856.688020
+note 114= 8914.158630
+note 115= 8984.006730
+note 116= 9019.961440
+note 117= 9061.054500
+note 118= 9100.416590
+note 119= 9168.807800
+note 120= 9249.447660
+note 121= 9288.045580
+note 122= 9332.207930
+note 123= 9370.070040
+note 124= 9411.527320
+note 125= 9485.248220
+note 126= 9600.000000
+note 127= 9638.693590
+
+[Functional Tuning]
+note 1="#=0 % 38.693590"
+note 2="#=0 % 81.406200"
+note 3="#=0 % 121.301600"
+note 4="#=0 % 201.530900"
+note 5="#=0 % 269.692620"
+note 6="#=0 % 309.684170"
+note 7="#=0 % 350.938820"
+note 8="#=0 % 387.179200"
+note 9="#=0 % 456.688020"
+note 10="#=0 % 514.158630"
+note 11="#=0 % 584.006730"
+note 12="#=0 % 619.961440"
+note 13="#=0 % 661.054500"
+note 14="#=0 % 700.416590"
+note 15="#=0 % 768.807800"
+note 16="#=0 % 849.447660"
+note 17="#=0 % 888.045580"
+note 18="#=0 % 932.207930"
+note 19="#=0 % 970.070040"
+note 20="#=0 % 1011.527320"
+note 21="#=0 % 1085.248220"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

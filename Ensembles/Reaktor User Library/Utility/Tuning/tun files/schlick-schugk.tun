@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Schlick's temperament reconstructed by Hans-Joachim Schugk (1980)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=81
+note 2=195
+note 3=308
+note 4=389
+note 5=503
+note 6=584
+note 7=697
+note 8=778
+note 9=892
+note 10=1005
+note 11=1086
+note 12=1200
+note 13=1281
+note 14=1395
+note 15=1508
+note 16=1589
+note 17=1703
+note 18=1784
+note 19=1897
+note 20=1978
+note 21=2092
+note 22=2205
+note 23=2286
+note 24=2400
+note 25=2481
+note 26=2595
+note 27=2708
+note 28=2789
+note 29=2903
+note 30=2984
+note 31=3097
+note 32=3178
+note 33=3292
+note 34=3405
+note 35=3486
+note 36=3600
+note 37=3681
+note 38=3795
+note 39=3908
+note 40=3989
+note 41=4103
+note 42=4184
+note 43=4297
+note 44=4378
+note 45=4492
+note 46=4605
+note 47=4686
+note 48=4800
+note 49=4881
+note 50=4995
+note 51=5108
+note 52=5189
+note 53=5303
+note 54=5384
+note 55=5497
+note 56=5578
+note 57=5692
+note 58=5805
+note 59=5886
+note 60=6000
+note 61=6081
+note 62=6195
+note 63=6308
+note 64=6389
+note 65=6503
+note 66=6584
+note 67=6697
+note 68=6778
+note 69=6892
+note 70=7005
+note 71=7086
+note 72=7200
+note 73=7281
+note 74=7395
+note 75=7508
+note 76=7589
+note 77=7703
+note 78=7784
+note 79=7897
+note 80=7978
+note 81=8092
+note 82=8205
+note 83=8286
+note 84=8400
+note 85=8481
+note 86=8595
+note 87=8708
+note 88=8789
+note 89=8903
+note 90=8984
+note 91=9097
+note 92=9178
+note 93=9292
+note 94=9405
+note 95=9486
+note 96=9600
+note 97=9681
+note 98=9795
+note 99=9908
+note 100=9989
+note 101=10103
+note 102=10184
+note 103=10297
+note 104=10378
+note 105=10492
+note 106=10605
+note 107=10686
+note 108=10800
+note 109=10881
+note 110=10995
+note 111=11108
+note 112=11189
+note 113=11303
+note 114=11384
+note 115=11497
+note 116=11578
+note 117=11692
+note 118=11805
+note 119=11886
+note 120=12000
+note 121=12081
+note 122=12195
+note 123=12308
+note 124=12389
+note 125=12503
+note 126=12584
+note 127=12697
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "schlick-schugk.tun"
+ID= "ID_schlick-schugk.tun"
+Filename= "schlick-schugk.scl"
+Description= "Schlick's temperament reconstructed by Hans-Joachim Schugk (1980)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 80.840990
+note 2= 194.526000
+note 3= 308.211000
+note 4= 389.052000
+note 5= 502.737000
+note 6= 583.577990
+note 7= 697.263000
+note 8= 778.103990
+note 9= 891.789000
+note 10= 1005.474000
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1280.840990
+note 14= 1394.526000
+note 15= 1508.211000
+note 16= 1589.052000
+note 17= 1702.737000
+note 18= 1783.577990
+note 19= 1897.263000
+note 20= 1978.103990
+note 21= 2091.789000
+note 22= 2205.474000
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2480.840990
+note 26= 2594.526000
+note 27= 2708.211000
+note 28= 2789.052000
+note 29= 2902.737000
+note 30= 2983.577990
+note 31= 3097.263000
+note 32= 3178.103990
+note 33= 3291.789000
+note 34= 3405.474000
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3680.840990
+note 38= 3794.526000
+note 39= 3908.211000
+note 40= 3989.052000
+note 41= 4102.737000
+note 42= 4183.577990
+note 43= 4297.263000
+note 44= 4378.103990
+note 45= 4491.789000
+note 46= 4605.474000
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4880.840990
+note 50= 4994.526000
+note 51= 5108.211000
+note 52= 5189.052000
+note 53= 5302.737000
+note 54= 5383.577990
+note 55= 5497.263000
+note 56= 5578.103990
+note 57= 5691.789000
+note 58= 5805.474000
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6080.840990
+note 62= 6194.526000
+note 63= 6308.211000
+note 64= 6389.052000
+note 65= 6502.737000
+note 66= 6583.577990
+note 67= 6697.263000
+note 68= 6778.103990
+note 69= 6891.789000
+note 70= 7005.474000
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7280.840990
+note 74= 7394.526000
+note 75= 7508.211000
+note 76= 7589.052000
+note 77= 7702.737000
+note 78= 7783.577990
+note 79= 7897.263000
+note 80= 7978.103990
+note 81= 8091.789000
+note 82= 8205.474000
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8480.840990
+note 86= 8594.526000
+note 87= 8708.211000
+note 88= 8789.052000
+note 89= 8902.737000
+note 90= 8983.577990
+note 91= 9097.263000
+note 92= 9178.103990
+note 93= 9291.789000
+note 94= 9405.474000
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9680.840990
+note 98= 9794.526000
+note 99= 9908.211000
+note 100= 9989.052000
+note 101= 10102.737000
+note 102= 10183.577990
+note 103= 10297.263000
+note 104= 10378.103990
+note 105= 10491.789000
+note 106= 10605.474000
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10880.840990
+note 110= 10994.526000
+note 111= 11108.211000
+note 112= 11189.052000
+note 113= 11302.737000
+note 114= 11383.577990
+note 115= 11497.263000
+note 116= 11578.103990
+note 117= 11691.789000
+note 118= 11805.474000
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12080.840990
+note 122= 12194.526000
+note 123= 12308.211000
+note 124= 12389.052000
+note 125= 12502.737000
+note 126= 12583.577990
+note 127= 12697.263000
+
+[Functional Tuning]
+note 1="#=0 % 80.840990"
+note 2="#=0 % 194.526000"
+note 3="#=0 % 308.211000"
+note 4="#=0 % 389.052000"
+note 5="#=0 % 502.737000"
+note 6="#=0 % 583.577990"
+note 7="#=0 % 697.263000"
+note 8="#=0 % 778.103990"
+note 9="#=0 % 891.789000"
+note 10="#=0 % 1005.474000"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

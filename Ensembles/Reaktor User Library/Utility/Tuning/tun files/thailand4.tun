@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Khong mon (bronze percussion vessels) tuning, Gemeentemuseum Den Haag 1/1=465
+;
+; VAZ Plus section
+[Tuning]
+note 0=-4116
+note 1=-3987
+note 2=-3854
+note 3=-3701
+note 4=-3413
+note 5=-3312
+note 6=-3132
+note 7=-2916
+note 8=-2787
+note 9=-2654
+note 10=-2500
+note 11=-2212
+note 12=-2114
+note 13=-1930
+note 14=-1716
+note 15=-1587
+note 16=-1458
+note 17=-1325
+note 18=-1172
+note 19=-884
+note 20=-783
+note 21=-603
+note 22=-387
+note 23=-258
+note 24=-125
+note 25=29
+note 26=317
+note 27=415
+note 28=599
+note 29=813
+note 30=942
+note 31=1071
+note 32=1204
+note 33=1357
+note 34=1645
+note 35=1746
+note 36=1926
+note 37=2142
+note 38=2271
+note 39=2404
+note 40=2558
+note 41=2846
+note 42=2944
+note 43=3128
+note 44=3342
+note 45=3471
+note 46=3600
+note 47=3733
+note 48=3886
+note 49=4174
+note 50=4275
+note 51=4455
+note 52=4671
+note 53=4800
+note 54=4933
+note 55=5087
+note 56=5375
+note 57=5473
+note 58=5657
+note 59=5871
+note 60=6000
+note 61=6129
+note 62=6262
+note 63=6415
+note 64=6703
+note 65=6804
+note 66=6984
+note 67=7200
+note 68=7329
+note 69=7462
+note 70=7617
+note 71=7904
+note 72=8002
+note 73=8186
+note 74=8400
+note 75=8529
+note 76=8658
+note 77=8791
+note 78=8944
+note 79=9232
+note 80=9333
+note 81=9513
+note 82=9729
+note 83=9858
+note 84=9991
+note 85=10146
+note 86=10434
+note 87=10531
+note 88=10715
+note 89=10929
+note 90=11058
+note 91=11187
+note 92=11320
+note 93=11473
+note 94=11761
+note 95=11863
+note 96=12042
+note 97=12258
+note 98=12387
+note 99=12520
+note 100=12675
+note 101=12963
+note 102=13060
+note 103=13244
+note 104=13458
+note 105=13587
+note 106=13716
+note 107=13849
+note 108=14002
+note 109=14290
+note 110=14392
+note 111=14571
+note 112=14787
+note 113=14916
+note 114=15049
+note 115=15204
+note 116=15492
+note 117=15589
+note 118=15774
+note 119=15987
+note 120=16116
+note 121=16245
+note 122=16378
+note 123=16531
+note 124=16820
+note 125=16921
+note 126=17101
+note 127=17316
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "thailand4.tun"
+ID= "ID_thailand4.tun"
+Filename= "thailand4.scl"
+Description= "Khong mon (bronze percussion vessels) tuning, Gemeentemuseum Den Haag 1/1=465"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0=-4116.383440
+note 1=-3987.287580
+note 2=-3854.305990
+note 3=-3701.270540
+note 4=-3413.187860
+note 5=-3312.029970
+note 6=-3132.201630
+note 7=-2916.383440
+note 8=-2787.287580
+note 9=-2654.305990
+note 10=-2499.806500
+note 11=-2211.948160
+note 12=-2114.371060
+note 13=-1930.094230
+note 14=-1716.383440
+note 15=-1587.287580
+note 16=-1458.191720
+note 17=-1325.210130
+note 18=-1172.174680
+note 19=-884.092000
+note 20=-782.934110
+note 21=-603.105770
+note 22=-387.287580
+note 23=-258.191720
+note 24=-125.210130
+note 25= 29.289360
+note 26= 317.147700
+note 27= 414.724800
+note 28= 599.001630
+note 29= 812.712420
+note 30= 941.808280
+note 31= 1070.904140
+note 32= 1203.885730
+note 33= 1356.921180
+note 34= 1645.003860
+note 35= 1746.161750
+note 36= 1925.990090
+note 37= 2141.808280
+note 38= 2270.904140
+note 39= 2403.885730
+note 40= 2558.385220
+note 41= 2846.243560
+note 42= 2943.820660
+note 43= 3128.097490
+note 44= 3341.808280
+note 45= 3470.904140
+note 46= 3600.000000
+note 47= 3732.981590
+note 48= 3886.017040
+note 49= 4174.099720
+note 50= 4275.257610
+note 51= 4455.085950
+note 52= 4670.904140
+note 53= 4800.000000
+note 54= 4932.981590
+note 55= 5087.481080
+note 56= 5375.339420
+note 57= 5472.916520
+note 58= 5657.193350
+note 59= 5870.904140
+note 60= 6000.000000
+note 61= 6129.095860
+note 62= 6262.077450
+note 63= 6415.112900
+note 64= 6703.195580
+note 65= 6804.353470
+note 66= 6984.181810
+note 67= 7200.000000
+note 68= 7329.095860
+note 69= 7462.077450
+note 70= 7616.576940
+note 71= 7904.435280
+note 72= 8002.012380
+note 73= 8186.289210
+note 74= 8400.000000
+note 75= 8529.095860
+note 76= 8658.191720
+note 77= 8791.173310
+note 78= 8944.208760
+note 79= 9232.291440
+note 80= 9333.449330
+note 81= 9513.277670
+note 82= 9729.095860
+note 83= 9858.191720
+note 84= 9991.173310
+note 85= 10145.672800
+note 86= 10433.531140
+note 87= 10531.108240
+note 88= 10715.385070
+note 89= 10929.095860
+note 90= 11058.191720
+note 91= 11187.287580
+note 92= 11320.269170
+note 93= 11473.304620
+note 94= 11761.387300
+note 95= 11862.545190
+note 96= 12042.373530
+note 97= 12258.191720
+note 98= 12387.287580
+note 99= 12520.269170
+note 100= 12674.768660
+note 101= 12962.627000
+note 102= 13060.204100
+note 103= 13244.480930
+note 104= 13458.191720
+note 105= 13587.287580
+note 106= 13716.383440
+note 107= 13849.365030
+note 108= 14002.400480
+note 109= 14290.483160
+note 110= 14391.641050
+note 111= 14571.469390
+note 112= 14787.287580
+note 113= 14916.383440
+note 114= 15049.365030
+note 115= 15203.864520
+note 116= 15491.722860
+note 117= 15589.299960
+note 118= 15773.576790
+note 119= 15987.287580
+note 120= 16116.383440
+note 121= 16245.479300
+note 122= 16378.460890
+note 123= 16531.496340
+note 124= 16819.579020
+note 125= 16920.736910
+note 126= 17100.565250
+note 127= 17316.383440
+
+[Functional Tuning]
+note 1="#=0 % 129.095860"
+note 2="#=0 % 262.077450"
+note 3="#=0 % 415.112900"
+note 4="#=0 % 703.195580"
+note 5="#=0 % 804.353470"
+note 6="#=0 % 984.181810"
+note 7="#=0 * 2/1"
+note 8="#=0 % 1329.095860"
+note 9="#=0 % 1462.077450"
+note 10="#=0 % 1616.576940"
+note 11="#=0 % 1904.435280"
+note 12="#=0 % 2002.012380"
+note 13="#=0 % 2186.289210"
+note 14="#=0 * 4/1"
+note 15="#>-15 % 2529.095860 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

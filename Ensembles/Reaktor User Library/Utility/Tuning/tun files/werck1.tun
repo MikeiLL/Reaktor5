@@ -1,0 +1,302 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Werckmeister I (just intonation)
+;
+; VAZ Plus section
+[Tuning]
+note 0=2400
+note 1=2471
+note 2=2512
+note 3=2582
+note 4=2604
+note 5=2675
+note 6=2716
+note 7=2786
+note 8=2898
+note 9=2969
+note 10=2990
+note 11=3102
+note 12=3173
+note 13=3214
+note 14=3284
+note 15=3306
+note 16=3377
+note 17=3396
+note 18=3418
+note 19=3488
+note 20=3600
+note 21=3671
+note 22=3712
+note 23=3782
+note 24=3804
+note 25=3875
+note 26=3916
+note 27=3986
+note 28=4098
+note 29=4169
+note 30=4190
+note 31=4302
+note 32=4373
+note 33=4414
+note 34=4484
+note 35=4506
+note 36=4577
+note 37=4596
+note 38=4618
+note 39=4688
+note 40=4800
+note 41=4871
+note 42=4912
+note 43=4982
+note 44=5004
+note 45=5075
+note 46=5116
+note 47=5186
+note 48=5298
+note 49=5369
+note 50=5390
+note 51=5502
+note 52=5573
+note 53=5614
+note 54=5684
+note 55=5706
+note 56=5777
+note 57=5796
+note 58=5818
+note 59=5888
+note 60=6000
+note 61=6071
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6275
+note 66=6316
+note 67=6386
+note 68=6498
+note 69=6569
+note 70=6590
+note 71=6702
+note 72=6773
+note 73=6814
+note 74=6884
+note 75=6906
+note 76=6977
+note 77=6996
+note 78=7018
+note 79=7088
+note 80=7200
+note 81=7271
+note 82=7312
+note 83=7382
+note 84=7404
+note 85=7475
+note 86=7516
+note 87=7586
+note 88=7698
+note 89=7769
+note 90=7790
+note 91=7902
+note 92=7973
+note 93=8014
+note 94=8084
+note 95=8106
+note 96=8177
+note 97=8196
+note 98=8218
+note 99=8288
+note 100=8400
+note 101=8471
+note 102=8512
+note 103=8582
+note 104=8604
+note 105=8675
+note 106=8716
+note 107=8786
+note 108=8898
+note 109=8969
+note 110=8990
+note 111=9102
+note 112=9173
+note 113=9214
+note 114=9284
+note 115=9306
+note 116=9377
+note 117=9396
+note 118=9418
+note 119=9488
+note 120=9600
+note 121=9671
+note 122=9712
+note 123=9782
+note 124=9804
+note 125=9875
+note 126=9916
+note 127=9986
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "werck1.tun"
+ID= "ID_werck1.tun"
+Filename= "werck1.scl"
+Description= "Werckmeister I (just intonation)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2400.000000
+note 1= 2470.672427
+note 2= 2511.731285
+note 3= 2582.403712
+note 4= 2603.910002
+note 5= 2674.582429
+note 6= 2715.641287
+note 7= 2786.313714
+note 8= 2898.044999
+note 9= 2968.717426
+note 10= 2990.223716
+note 11= 3101.955001
+note 12= 3172.627428
+note 13= 3213.686286
+note 14= 3284.358713
+note 15= 3305.865003
+note 16= 3376.537429
+note 17= 3396.089998
+note 18= 3417.596288
+note 19= 3488.268715
+note 20= 3600.000000
+note 21= 3670.672427
+note 22= 3711.731285
+note 23= 3782.403712
+note 24= 3803.910002
+note 25= 3874.582429
+note 26= 3915.641287
+note 27= 3986.313714
+note 28= 4098.044999
+note 29= 4168.717426
+note 30= 4190.223716
+note 31= 4301.955001
+note 32= 4372.627428
+note 33= 4413.686286
+note 34= 4484.358713
+note 35= 4505.865003
+note 36= 4576.537429
+note 37= 4596.089998
+note 38= 4617.596288
+note 39= 4688.268715
+note 40= 4800.000000
+note 41= 4870.672427
+note 42= 4911.731285
+note 43= 4982.403712
+note 44= 5003.910002
+note 45= 5074.582429
+note 46= 5115.641287
+note 47= 5186.313714
+note 48= 5298.044999
+note 49= 5368.717426
+note 50= 5390.223716
+note 51= 5501.955001
+note 52= 5572.627428
+note 53= 5613.686286
+note 54= 5684.358713
+note 55= 5705.865003
+note 56= 5776.537429
+note 57= 5796.089998
+note 58= 5817.596288
+note 59= 5888.268715
+note 60= 6000.000000
+note 61= 6070.672427
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6274.582429
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6498.044999
+note 69= 6568.717426
+note 70= 6590.223716
+note 71= 6701.955001
+note 72= 6772.627428
+note 73= 6813.686286
+note 74= 6884.358713
+note 75= 6905.865003
+note 76= 6976.537429
+note 77= 6996.089998
+note 78= 7017.596288
+note 79= 7088.268715
+note 80= 7200.000000
+note 81= 7270.672427
+note 82= 7311.731285
+note 83= 7382.403712
+note 84= 7403.910002
+note 85= 7474.582429
+note 86= 7515.641287
+note 87= 7586.313714
+note 88= 7698.044999
+note 89= 7768.717426
+note 90= 7790.223716
+note 91= 7901.955001
+note 92= 7972.627428
+note 93= 8013.686286
+note 94= 8084.358713
+note 95= 8105.865003
+note 96= 8176.537429
+note 97= 8196.089998
+note 98= 8217.596288
+note 99= 8288.268715
+note 100= 8400.000000
+note 101= 8470.672427
+note 102= 8511.731285
+note 103= 8582.403712
+note 104= 8603.910002
+note 105= 8674.582429
+note 106= 8715.641287
+note 107= 8786.313714
+note 108= 8898.044999
+note 109= 8968.717426
+note 110= 8990.223716
+note 111= 9101.955001
+note 112= 9172.627428
+note 113= 9213.686286
+note 114= 9284.358713
+note 115= 9305.865003
+note 116= 9376.537429
+note 117= 9396.089998
+note 118= 9417.596288
+note 119= 9488.268715
+note 120= 9600.000000
+note 121= 9670.672427
+note 122= 9711.731285
+note 123= 9782.403712
+note 124= 9803.910002
+note 125= 9874.582429
+note 126= 9915.641287
+note 127= 9986.313714
+
+[Functional Tuning]
+note 1="#=0 * 25/24"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 75/64"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 4/3"
+note 9="#=0 * 25/18"
+note 10="#=0 * 45/32"
+note 11="#=0 * 3/2"
+note 12="#=0 * 25/16"
+note 13="#=0 * 8/5"
+note 14="#=0 * 5/3"
+note 15="#=0 * 27/16"
+note 16="#=0 * 225/128"
+note 17="#=0 * 16/9"
+note 18="#=0 * 9/5"
+note 19="#=0 * 15/8"
+note 20="#>-20 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bagpipe tuning from Fortuna, try key of G with F natural
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=30
+note 2=188
+note 3=257
+note 4=343
+note 5=494
+note 6=549
+note 7=685
+note 8=730
+note 9=872
+note 10=986
+note 11=1049
+note 12=1200
+note 13=1230
+note 14=1388
+note 15=1457
+note 16=1543
+note 17=1694
+note 18=1749
+note 19=1885
+note 20=1930
+note 21=2072
+note 22=2186
+note 23=2249
+note 24=2400
+note 25=2430
+note 26=2588
+note 27=2657
+note 28=2743
+note 29=2894
+note 30=2949
+note 31=3085
+note 32=3130
+note 33=3272
+note 34=3386
+note 35=3449
+note 36=3600
+note 37=3630
+note 38=3788
+note 39=3857
+note 40=3943
+note 41=4094
+note 42=4149
+note 43=4285
+note 44=4330
+note 45=4472
+note 46=4586
+note 47=4649
+note 48=4800
+note 49=4830
+note 50=4988
+note 51=5057
+note 52=5143
+note 53=5294
+note 54=5349
+note 55=5485
+note 56=5530
+note 57=5672
+note 58=5786
+note 59=5849
+note 60=6000
+note 61=6030
+note 62=6188
+note 63=6257
+note 64=6343
+note 65=6494
+note 66=6549
+note 67=6685
+note 68=6730
+note 69=6872
+note 70=6986
+note 71=7049
+note 72=7200
+note 73=7230
+note 74=7388
+note 75=7457
+note 76=7543
+note 77=7694
+note 78=7749
+note 79=7885
+note 80=7930
+note 81=8072
+note 82=8186
+note 83=8249
+note 84=8400
+note 85=8430
+note 86=8588
+note 87=8657
+note 88=8743
+note 89=8894
+note 90=8949
+note 91=9085
+note 92=9130
+note 93=9272
+note 94=9386
+note 95=9449
+note 96=9600
+note 97=9630
+note 98=9788
+note 99=9857
+note 100=9943
+note 101=10094
+note 102=10149
+note 103=10285
+note 104=10330
+note 105=10472
+note 106=10586
+note 107=10649
+note 108=10800
+note 109=10830
+note 110=10988
+note 111=11057
+note 112=11143
+note 113=11294
+note 114=11349
+note 115=11485
+note 116=11530
+note 117=11672
+note 118=11786
+note 119=11849
+note 120=12000
+note 121=12030
+note 122=12188
+note 123=12257
+note 124=12343
+note 125=12494
+note 126=12549
+note 127=12685
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fortuna_bag.tun"
+ID= "ID_fortuna_bag.tun"
+Filename= "fortuna_bag.scl"
+Description= "Bagpipe tuning from Fortuna, try key of G with F natural"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 29.849602
+note 2= 187.681869
+note 3= 256.596489
+note 4= 343.090647
+note 5= 493.957077
+note 6= 548.648344
+note 7= 684.728649
+note 8= 729.878736
+note 9= 871.948380
+note 10= 985.798925
+note 11= 1049.362941
+note 12= 1200.000000
+note 13= 1229.849602
+note 14= 1387.681869
+note 15= 1456.596489
+note 16= 1543.090647
+note 17= 1693.957077
+note 18= 1748.648344
+note 19= 1884.728649
+note 20= 1929.878736
+note 21= 2071.948380
+note 22= 2185.798925
+note 23= 2249.362941
+note 24= 2400.000000
+note 25= 2429.849602
+note 26= 2587.681869
+note 27= 2656.596489
+note 28= 2743.090647
+note 29= 2893.957077
+note 30= 2948.648344
+note 31= 3084.728649
+note 32= 3129.878736
+note 33= 3271.948380
+note 34= 3385.798925
+note 35= 3449.362941
+note 36= 3600.000000
+note 37= 3629.849602
+note 38= 3787.681869
+note 39= 3856.596489
+note 40= 3943.090647
+note 41= 4093.957077
+note 42= 4148.648344
+note 43= 4284.728649
+note 44= 4329.878736
+note 45= 4471.948380
+note 46= 4585.798925
+note 47= 4649.362941
+note 48= 4800.000000
+note 49= 4829.849602
+note 50= 4987.681869
+note 51= 5056.596489
+note 52= 5143.090647
+note 53= 5293.957077
+note 54= 5348.648344
+note 55= 5484.728649
+note 56= 5529.878736
+note 57= 5671.948380
+note 58= 5785.798925
+note 59= 5849.362941
+note 60= 6000.000000
+note 61= 6029.849602
+note 62= 6187.681869
+note 63= 6256.596489
+note 64= 6343.090647
+note 65= 6493.957077
+note 66= 6548.648344
+note 67= 6684.728649
+note 68= 6729.878736
+note 69= 6871.948380
+note 70= 6985.798925
+note 71= 7049.362941
+note 72= 7200.000000
+note 73= 7229.849602
+note 74= 7387.681869
+note 75= 7456.596489
+note 76= 7543.090647
+note 77= 7693.957077
+note 78= 7748.648344
+note 79= 7884.728649
+note 80= 7929.878736
+note 81= 8071.948380
+note 82= 8185.798925
+note 83= 8249.362941
+note 84= 8400.000000
+note 85= 8429.849602
+note 86= 8587.681869
+note 87= 8656.596489
+note 88= 8743.090647
+note 89= 8893.957077
+note 90= 8948.648344
+note 91= 9084.728649
+note 92= 9129.878736
+note 93= 9271.948380
+note 94= 9385.798925
+note 95= 9449.362941
+note 96= 9600.000000
+note 97= 9629.849602
+note 98= 9787.681869
+note 99= 9856.596489
+note 100= 9943.090647
+note 101= 10093.957077
+note 102= 10148.648344
+note 103= 10284.728649
+note 104= 10329.878736
+note 105= 10471.948380
+note 106= 10585.798925
+note 107= 10649.362941
+note 108= 10800.000000
+note 109= 10829.849602
+note 110= 10987.681869
+note 111= 11056.596489
+note 112= 11143.090647
+note 113= 11293.957077
+note 114= 11348.648344
+note 115= 11484.728649
+note 116= 11529.878736
+note 117= 11671.948380
+note 118= 11785.798925
+note 119= 11849.362941
+note 120= 12000.000000
+note 121= 12029.849602
+note 122= 12187.681869
+note 123= 12256.596489
+note 124= 12343.090647
+note 125= 12493.957077
+note 126= 12548.648344
+note 127= 12684.728649
+
+[Functional Tuning]
+note 1="#=0 * 117/115"
+note 2="#=0 * 146/131"
+note 3="#=0 * 196/169"
+note 4="#=0 * 89/73"
+note 5="#=0 * 141/106"
+note 6="#=0 * 81/59"
+note 7="#=0 * 150/101"
+note 8="#=0 * 125/82"
+note 9="#=0 * 139/84"
+note 10="#=0 * 205/116"
+note 11="#=0 * 11/6"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

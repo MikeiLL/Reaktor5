@@ -1,0 +1,304 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Paul Erlich's Pajara or Twintone with minimax optimal generator and just octave
+;
+; VAZ Plus section
+[Tuning]
+note 0=2728
+note 1=2784
+note 2=2837
+note 3=2894
+note 4=2947
+note 5=3000
+note 6=3056
+note 7=3109
+note 8=3166
+note 9=3219
+note 10=3275
+note 11=3328
+note 12=3384
+note 13=3437
+note 14=3494
+note 15=3547
+note 16=3600
+note 17=3656
+note 18=3709
+note 19=3766
+note 20=3819
+note 21=3875
+note 22=3928
+note 23=3984
+note 24=4037
+note 25=4094
+note 26=4147
+note 27=4200
+note 28=4256
+note 29=4309
+note 30=4366
+note 31=4419
+note 32=4475
+note 33=4528
+note 34=4584
+note 35=4637
+note 36=4694
+note 37=4747
+note 38=4800
+note 39=4856
+note 40=4909
+note 41=4966
+note 42=5019
+note 43=5075
+note 44=5128
+note 45=5184
+note 46=5237
+note 47=5294
+note 48=5347
+note 49=5400
+note 50=5456
+note 51=5509
+note 52=5566
+note 53=5619
+note 54=5675
+note 55=5728
+note 56=5784
+note 57=5837
+note 58=5894
+note 59=5947
+note 60=6000
+note 61=6056
+note 62=6109
+note 63=6166
+note 64=6219
+note 65=6275
+note 66=6328
+note 67=6384
+note 68=6437
+note 69=6494
+note 70=6547
+note 71=6600
+note 72=6656
+note 73=6709
+note 74=6766
+note 75=6819
+note 76=6875
+note 77=6928
+note 78=6984
+note 79=7037
+note 80=7094
+note 81=7147
+note 82=7200
+note 83=7256
+note 84=7309
+note 85=7366
+note 86=7419
+note 87=7475
+note 88=7528
+note 89=7584
+note 90=7637
+note 91=7694
+note 92=7747
+note 93=7800
+note 94=7856
+note 95=7909
+note 96=7966
+note 97=8019
+note 98=8075
+note 99=8128
+note 100=8184
+note 101=8237
+note 102=8294
+note 103=8347
+note 104=8400
+note 105=8456
+note 106=8509
+note 107=8566
+note 108=8619
+note 109=8675
+note 110=8728
+note 111=8784
+note 112=8837
+note 113=8894
+note 114=8947
+note 115=9000
+note 116=9056
+note 117=9109
+note 118=9166
+note 119=9219
+note 120=9275
+note 121=9328
+note 122=9384
+note 123=9437
+note 124=9494
+note 125=9547
+note 126=9600
+note 127=9656
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "pajara_mm.tun"
+ID= "ID_pajara_mm.tun"
+Filename= "pajara_mm.scl"
+Description= "Paul Erlich's Pajara or Twintone with minimax optimal generator and just octave"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2728.089000
+note 1= 2784.268000
+note 2= 2837.452000
+note 3= 2893.631000
+note 4= 2946.815000
+note 5= 3000.000000
+note 6= 3056.178000
+note 7= 3109.363000
+note 8= 3165.542000
+note 9= 3218.726000
+note 10= 3274.905000
+note 11= 3328.089000
+note 12= 3384.268000
+note 13= 3437.452000
+note 14= 3493.631000
+note 15= 3546.815000
+note 16= 3600.000000
+note 17= 3656.178000
+note 18= 3709.363000
+note 19= 3765.542000
+note 20= 3818.726000
+note 21= 3874.905000
+note 22= 3928.089000
+note 23= 3984.268000
+note 24= 4037.452000
+note 25= 4093.631000
+note 26= 4146.815000
+note 27= 4200.000000
+note 28= 4256.178000
+note 29= 4309.363000
+note 30= 4365.542000
+note 31= 4418.726000
+note 32= 4474.905000
+note 33= 4528.089000
+note 34= 4584.268000
+note 35= 4637.452000
+note 36= 4693.631000
+note 37= 4746.815000
+note 38= 4800.000000
+note 39= 4856.178000
+note 40= 4909.363000
+note 41= 4965.542000
+note 42= 5018.726000
+note 43= 5074.905000
+note 44= 5128.089000
+note 45= 5184.268000
+note 46= 5237.452000
+note 47= 5293.631000
+note 48= 5346.815000
+note 49= 5400.000000
+note 50= 5456.178000
+note 51= 5509.363000
+note 52= 5565.542000
+note 53= 5618.726000
+note 54= 5674.905000
+note 55= 5728.089000
+note 56= 5784.268000
+note 57= 5837.452000
+note 58= 5893.631000
+note 59= 5946.815000
+note 60= 6000.000000
+note 61= 6056.178000
+note 62= 6109.363000
+note 63= 6165.542000
+note 64= 6218.726000
+note 65= 6274.905000
+note 66= 6328.089000
+note 67= 6384.268000
+note 68= 6437.452000
+note 69= 6493.631000
+note 70= 6546.815000
+note 71= 6600.000000
+note 72= 6656.178000
+note 73= 6709.363000
+note 74= 6765.542000
+note 75= 6818.726000
+note 76= 6874.905000
+note 77= 6928.089000
+note 78= 6984.268000
+note 79= 7037.452000
+note 80= 7093.631000
+note 81= 7146.815000
+note 82= 7200.000000
+note 83= 7256.178000
+note 84= 7309.363000
+note 85= 7365.542000
+note 86= 7418.726000
+note 87= 7474.905000
+note 88= 7528.089000
+note 89= 7584.268000
+note 90= 7637.452000
+note 91= 7693.631000
+note 92= 7746.815000
+note 93= 7800.000000
+note 94= 7856.178000
+note 95= 7909.363000
+note 96= 7965.542000
+note 97= 8018.726000
+note 98= 8074.905000
+note 99= 8128.089000
+note 100= 8184.268000
+note 101= 8237.452000
+note 102= 8293.631000
+note 103= 8346.815000
+note 104= 8400.000000
+note 105= 8456.178000
+note 106= 8509.363000
+note 107= 8565.542000
+note 108= 8618.726000
+note 109= 8674.905000
+note 110= 8728.089000
+note 111= 8784.268000
+note 112= 8837.452000
+note 113= 8893.631000
+note 114= 8946.815000
+note 115= 9000.000000
+note 116= 9056.178000
+note 117= 9109.363000
+note 118= 9165.542000
+note 119= 9218.726000
+note 120= 9274.905000
+note 121= 9328.089000
+note 122= 9384.268000
+note 123= 9437.452000
+note 124= 9493.631000
+note 125= 9546.815000
+note 126= 9600.000000
+note 127= 9656.178000
+
+[Functional Tuning]
+note 1="#=0 % 56.178000"
+note 2="#=0 % 109.363000"
+note 3="#=0 % 165.542000"
+note 4="#=0 % 218.726000"
+note 5="#=0 % 274.905000"
+note 6="#=0 % 328.089000"
+note 7="#=0 % 384.268000"
+note 8="#=0 % 437.452000"
+note 9="#=0 % 493.631000"
+note 10="#=0 % 546.815000"
+note 11="#=0 % 600.000000"
+note 12="#=0 % 656.178000"
+note 13="#=0 % 709.363000"
+note 14="#=0 % 765.542000"
+note 15="#=0 % 818.726000"
+note 16="#=0 % 874.905000"
+note 17="#=0 % 928.089000"
+note 18="#=0 % 984.268000"
+note 19="#=0 % 1037.452000"
+note 20="#=0 % 1093.631000"
+note 21="#=0 % 1146.815000"
+note 22="#>-22 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

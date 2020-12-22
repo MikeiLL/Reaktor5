@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Tuning of the Baumeister organ in Maihingen (1737)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=85
+note 2=199
+note 3=306
+note 4=387
+note 5=501
+note 6=583
+note 7=702
+note 8=781
+note 9=896
+note 10=994
+note 11=1086
+note 12=1200
+note 13=1285
+note 14=1399
+note 15=1506
+note 16=1587
+note 17=1701
+note 18=1783
+note 19=1902
+note 20=1981
+note 21=2096
+note 22=2194
+note 23=2286
+note 24=2400
+note 25=2485
+note 26=2599
+note 27=2706
+note 28=2787
+note 29=2901
+note 30=2983
+note 31=3102
+note 32=3181
+note 33=3296
+note 34=3394
+note 35=3486
+note 36=3600
+note 37=3685
+note 38=3799
+note 39=3906
+note 40=3987
+note 41=4101
+note 42=4183
+note 43=4302
+note 44=4381
+note 45=4496
+note 46=4594
+note 47=4686
+note 48=4800
+note 49=4885
+note 50=4999
+note 51=5106
+note 52=5187
+note 53=5301
+note 54=5383
+note 55=5502
+note 56=5581
+note 57=5696
+note 58=5794
+note 59=5886
+note 60=6000
+note 61=6085
+note 62=6199
+note 63=6306
+note 64=6387
+note 65=6501
+note 66=6583
+note 67=6702
+note 68=6781
+note 69=6896
+note 70=6994
+note 71=7086
+note 72=7200
+note 73=7285
+note 74=7399
+note 75=7506
+note 76=7587
+note 77=7701
+note 78=7783
+note 79=7902
+note 80=7981
+note 81=8096
+note 82=8194
+note 83=8286
+note 84=8400
+note 85=8485
+note 86=8599
+note 87=8706
+note 88=8787
+note 89=8901
+note 90=8983
+note 91=9102
+note 92=9181
+note 93=9296
+note 94=9394
+note 95=9486
+note 96=9600
+note 97=9685
+note 98=9799
+note 99=9906
+note 100=9987
+note 101=10101
+note 102=10183
+note 103=10302
+note 104=10381
+note 105=10496
+note 106=10594
+note 107=10686
+note 108=10800
+note 109=10885
+note 110=10999
+note 111=11106
+note 112=11187
+note 113=11301
+note 114=11383
+note 115=11502
+note 116=11581
+note 117=11696
+note 118=11794
+note 119=11886
+note 120=12000
+note 121=12085
+note 122=12199
+note 123=12306
+note 124=12387
+note 125=12501
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "maihingen.tun"
+ID= "ID_maihingen.tun"
+Filename= "maihingen.scl"
+Description= "Tuning of the Baumeister organ in Maihingen (1737)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 85.337490
+note 2= 199.022500
+note 3= 305.865000
+note 4= 387.292490
+note 5= 500.977500
+note 6= 583.382490
+note 7= 701.955001
+note 8= 781.427490
+note 9= 896.090000
+note 10= 994.135000
+note 11= 1086.314994
+note 12= 1200.000000
+note 13= 1285.337490
+note 14= 1399.022500
+note 15= 1505.865000
+note 16= 1587.292490
+note 17= 1700.977500
+note 18= 1783.382490
+note 19= 1901.955001
+note 20= 1981.427490
+note 21= 2096.090000
+note 22= 2194.135000
+note 23= 2286.314994
+note 24= 2400.000000
+note 25= 2485.337490
+note 26= 2599.022500
+note 27= 2705.865000
+note 28= 2787.292490
+note 29= 2900.977500
+note 30= 2983.382490
+note 31= 3101.955001
+note 32= 3181.427490
+note 33= 3296.090000
+note 34= 3394.135000
+note 35= 3486.314994
+note 36= 3600.000000
+note 37= 3685.337490
+note 38= 3799.022500
+note 39= 3905.865000
+note 40= 3987.292490
+note 41= 4100.977500
+note 42= 4183.382490
+note 43= 4301.955001
+note 44= 4381.427490
+note 45= 4496.090000
+note 46= 4594.135000
+note 47= 4686.314994
+note 48= 4800.000000
+note 49= 4885.337490
+note 50= 4999.022500
+note 51= 5105.865000
+note 52= 5187.292490
+note 53= 5300.977500
+note 54= 5383.382490
+note 55= 5501.955001
+note 56= 5581.427490
+note 57= 5696.090000
+note 58= 5794.135000
+note 59= 5886.314994
+note 60= 6000.000000
+note 61= 6085.337490
+note 62= 6199.022500
+note 63= 6305.865000
+note 64= 6387.292490
+note 65= 6500.977500
+note 66= 6583.382490
+note 67= 6701.955001
+note 68= 6781.427490
+note 69= 6896.090000
+note 70= 6994.135000
+note 71= 7086.314994
+note 72= 7200.000000
+note 73= 7285.337490
+note 74= 7399.022500
+note 75= 7505.865000
+note 76= 7587.292490
+note 77= 7700.977500
+note 78= 7783.382490
+note 79= 7901.955001
+note 80= 7981.427490
+note 81= 8096.090000
+note 82= 8194.135000
+note 83= 8286.314994
+note 84= 8400.000000
+note 85= 8485.337490
+note 86= 8599.022500
+note 87= 8705.865000
+note 88= 8787.292490
+note 89= 8900.977500
+note 90= 8983.382490
+note 91= 9101.955001
+note 92= 9181.427490
+note 93= 9296.090000
+note 94= 9394.135000
+note 95= 9486.314994
+note 96= 9600.000000
+note 97= 9685.337490
+note 98= 9799.022500
+note 99= 9905.865000
+note 100= 9987.292490
+note 101= 10100.977500
+note 102= 10183.382490
+note 103= 10301.955001
+note 104= 10381.427490
+note 105= 10496.090000
+note 106= 10594.135000
+note 107= 10686.314994
+note 108= 10800.000000
+note 109= 10885.337490
+note 110= 10999.022500
+note 111= 11105.865000
+note 112= 11187.292490
+note 113= 11300.977500
+note 114= 11383.382490
+note 115= 11501.955001
+note 116= 11581.427490
+note 117= 11696.090000
+note 118= 11794.135000
+note 119= 11886.314994
+note 120= 12000.000000
+note 121= 12085.337490
+note 122= 12199.022500
+note 123= 12305.865000
+note 124= 12387.292490
+note 125= 12500.977500
+note 126= 12583.382490
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 % 85.337490"
+note 2="#=0 % 199.022500"
+note 3="#=0 % 305.865000"
+note 4="#=0 % 387.292490"
+note 5="#=0 % 500.977500"
+note 6="#=0 % 583.382490"
+note 7="#=0 * 3/2"
+note 8="#=0 % 781.427490"
+note 9="#=0 % 896.090000"
+note 10="#=0 % 994.135000"
+note 11="#=0 * 4096/2187"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

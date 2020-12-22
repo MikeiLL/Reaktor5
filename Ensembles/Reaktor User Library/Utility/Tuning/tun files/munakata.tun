@@ -1,0 +1,297 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Nobuo Munakata, shamisen Ritsu Yang and Yin tuning, 1/1=E, TL 19-04-2008
+;
+; VAZ Plus section
+[Tuning]
+note 0=1200
+note 1=1265
+note 2=1404
+note 3=1469
+note 4=1494
+note 5=1608
+note 6=1673
+note 7=1698
+note 8=1763
+note 9=1902
+note 10=1967
+note 11=2106
+note 12=2171
+note 13=2196
+note 14=2310
+note 15=2400
+note 16=2465
+note 17=2604
+note 18=2669
+note 19=2694
+note 20=2808
+note 21=2873
+note 22=2898
+note 23=2963
+note 24=3102
+note 25=3167
+note 26=3306
+note 27=3371
+note 28=3396
+note 29=3510
+note 30=3600
+note 31=3665
+note 32=3804
+note 33=3869
+note 34=3894
+note 35=4008
+note 36=4073
+note 37=4098
+note 38=4163
+note 39=4302
+note 40=4367
+note 41=4506
+note 42=4571
+note 43=4596
+note 44=4710
+note 45=4800
+note 46=4865
+note 47=5004
+note 48=5069
+note 49=5094
+note 50=5208
+note 51=5273
+note 52=5298
+note 53=5363
+note 54=5502
+note 55=5567
+note 56=5706
+note 57=5771
+note 58=5796
+note 59=5910
+note 60=6000
+note 61=6065
+note 62=6204
+note 63=6269
+note 64=6294
+note 65=6408
+note 66=6473
+note 67=6498
+note 68=6563
+note 69=6702
+note 70=6767
+note 71=6906
+note 72=6971
+note 73=6996
+note 74=7110
+note 75=7200
+note 76=7265
+note 77=7404
+note 78=7469
+note 79=7494
+note 80=7608
+note 81=7673
+note 82=7698
+note 83=7763
+note 84=7902
+note 85=7967
+note 86=8106
+note 87=8171
+note 88=8196
+note 89=8310
+note 90=8400
+note 91=8465
+note 92=8604
+note 93=8669
+note 94=8694
+note 95=8808
+note 96=8873
+note 97=8898
+note 98=8963
+note 99=9102
+note 100=9167
+note 101=9306
+note 102=9371
+note 103=9396
+note 104=9510
+note 105=9600
+note 106=9665
+note 107=9804
+note 108=9869
+note 109=9894
+note 110=10008
+note 111=10073
+note 112=10098
+note 113=10163
+note 114=10302
+note 115=10367
+note 116=10506
+note 117=10571
+note 118=10596
+note 119=10710
+note 120=10800
+note 121=10865
+note 122=11004
+note 123=11069
+note 124=11094
+note 125=11208
+note 126=11273
+note 127=11298
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "munakata.tun"
+ID= "ID_munakata.tun"
+Filename= "munakata.scl"
+Description= "Nobuo Munakata, shamisen Ritsu Yang and Yin tuning, 1/1=E, TL 19-04-2008"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1200.000000
+note 1= 1265.337341
+note 2= 1403.910002
+note 3= 1469.247343
+note 4= 1494.134997
+note 5= 1607.820003
+note 6= 1673.157344
+note 7= 1698.044999
+note 8= 1763.382340
+note 9= 1901.955001
+note 10= 1967.292342
+note 11= 2105.865003
+note 12= 2171.202343
+note 13= 2196.089998
+note 14= 2309.775004
+note 15= 2400.000000
+note 16= 2465.337341
+note 17= 2603.910002
+note 18= 2669.247343
+note 19= 2694.134997
+note 20= 2807.820003
+note 21= 2873.157344
+note 22= 2898.044999
+note 23= 2963.382340
+note 24= 3101.955001
+note 25= 3167.292342
+note 26= 3305.865003
+note 27= 3371.202343
+note 28= 3396.089998
+note 29= 3509.775004
+note 30= 3600.000000
+note 31= 3665.337341
+note 32= 3803.910002
+note 33= 3869.247343
+note 34= 3894.134997
+note 35= 4007.820003
+note 36= 4073.157344
+note 37= 4098.044999
+note 38= 4163.382340
+note 39= 4301.955001
+note 40= 4367.292342
+note 41= 4505.865003
+note 42= 4571.202343
+note 43= 4596.089998
+note 44= 4709.775004
+note 45= 4800.000000
+note 46= 4865.337341
+note 47= 5003.910002
+note 48= 5069.247343
+note 49= 5094.134997
+note 50= 5207.820003
+note 51= 5273.157344
+note 52= 5298.044999
+note 53= 5363.382340
+note 54= 5501.955001
+note 55= 5567.292342
+note 56= 5705.865003
+note 57= 5771.202343
+note 58= 5796.089998
+note 59= 5909.775004
+note 60= 6000.000000
+note 61= 6065.337341
+note 62= 6203.910002
+note 63= 6269.247343
+note 64= 6294.134997
+note 65= 6407.820003
+note 66= 6473.157344
+note 67= 6498.044999
+note 68= 6563.382340
+note 69= 6701.955001
+note 70= 6767.292342
+note 71= 6905.865003
+note 72= 6971.202343
+note 73= 6996.089998
+note 74= 7109.775004
+note 75= 7200.000000
+note 76= 7265.337341
+note 77= 7403.910002
+note 78= 7469.247343
+note 79= 7494.134997
+note 80= 7607.820003
+note 81= 7673.157344
+note 82= 7698.044999
+note 83= 7763.382340
+note 84= 7901.955001
+note 85= 7967.292342
+note 86= 8105.865003
+note 87= 8171.202343
+note 88= 8196.089998
+note 89= 8309.775004
+note 90= 8400.000000
+note 91= 8465.337341
+note 92= 8603.910002
+note 93= 8669.247343
+note 94= 8694.134997
+note 95= 8807.820003
+note 96= 8873.157344
+note 97= 8898.044999
+note 98= 8963.382340
+note 99= 9101.955001
+note 100= 9167.292342
+note 101= 9305.865003
+note 102= 9371.202343
+note 103= 9396.089998
+note 104= 9509.775004
+note 105= 9600.000000
+note 106= 9665.337341
+note 107= 9803.910002
+note 108= 9869.247343
+note 109= 9894.134997
+note 110= 10007.820003
+note 111= 10073.157344
+note 112= 10098.044999
+note 113= 10163.382340
+note 114= 10301.955001
+note 115= 10367.292342
+note 116= 10505.865003
+note 117= 10571.202343
+note 118= 10596.089998
+note 119= 10709.775004
+note 120= 10800.000000
+note 121= 10865.337341
+note 122= 11003.910002
+note 123= 11069.247343
+note 124= 11094.134997
+note 125= 11207.820003
+note 126= 11273.157344
+note 127= 11298.044999
+
+[Functional Tuning]
+note 1="#=0 * 27/26"
+note 2="#=0 * 9/8"
+note 3="#=0 * 243/208"
+note 4="#=0 * 32/27"
+note 5="#=0 * 81/64"
+note 6="#=0 * 2187/1664"
+note 7="#=0 * 4/3"
+note 8="#=0 * 18/13"
+note 9="#=0 * 3/2"
+note 10="#=0 * 81/52"
+note 11="#=0 * 27/16"
+note 12="#=0 * 729/416"
+note 13="#=0 * 16/9"
+note 14="#=0 * 243/128"
+note 15="#>-15 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

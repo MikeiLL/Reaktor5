@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Regularly varied fifths well temperament with just fifth. Op de Coul (2007)
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=196
+note 3=295
+note 4=394
+note 5=498
+note 6=594
+note 7=698
+note 8=794
+note 9=895
+note 10=996
+note 11=1094
+note 12=1200
+note 13=1294
+note 14=1396
+note 15=1495
+note 16=1594
+note 17=1698
+note 18=1794
+note 19=1898
+note 20=1994
+note 21=2095
+note 22=2196
+note 23=2294
+note 24=2400
+note 25=2494
+note 26=2596
+note 27=2695
+note 28=2794
+note 29=2898
+note 30=2994
+note 31=3098
+note 32=3194
+note 33=3295
+note 34=3396
+note 35=3494
+note 36=3600
+note 37=3694
+note 38=3796
+note 39=3895
+note 40=3994
+note 41=4098
+note 42=4194
+note 43=4298
+note 44=4394
+note 45=4495
+note 46=4596
+note 47=4694
+note 48=4800
+note 49=4894
+note 50=4996
+note 51=5095
+note 52=5194
+note 53=5298
+note 54=5394
+note 55=5498
+note 56=5594
+note 57=5695
+note 58=5796
+note 59=5894
+note 60=6000
+note 61=6094
+note 62=6196
+note 63=6295
+note 64=6394
+note 65=6498
+note 66=6594
+note 67=6698
+note 68=6794
+note 69=6895
+note 70=6996
+note 71=7094
+note 72=7200
+note 73=7294
+note 74=7396
+note 75=7495
+note 76=7594
+note 77=7698
+note 78=7794
+note 79=7898
+note 80=7994
+note 81=8095
+note 82=8196
+note 83=8294
+note 84=8400
+note 85=8494
+note 86=8596
+note 87=8695
+note 88=8794
+note 89=8898
+note 90=8994
+note 91=9098
+note 92=9194
+note 93=9295
+note 94=9396
+note 95=9494
+note 96=9600
+note 97=9694
+note 98=9796
+note 99=9895
+note 100=9994
+note 101=10098
+note 102=10194
+note 103=10298
+note 104=10394
+note 105=10495
+note 106=10596
+note 107=10694
+note 108=10800
+note 109=10894
+note 110=10996
+note 111=11095
+note 112=11194
+note 113=11298
+note 114=11394
+note 115=11498
+note 116=11594
+note 117=11695
+note 118=11796
+note 119=11894
+note 120=12000
+note 121=12094
+note 122=12196
+note 123=12295
+note 124=12394
+note 125=12498
+note 126=12594
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "rvfj_12.tun"
+ID= "ID_rvfj_12.tun"
+Filename= "rvfj_12.scl"
+Description= "Regularly varied fifths well temperament with just fifth. Op de Coul (2007)"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 93.779540
+note 2= 196.445450
+note 3= 295.201360
+note 4= 394.312720
+note 5= 498.044999
+note 6= 593.601820
+note 7= 698.045000
+note 8= 794.312720
+note 9= 895.201360
+note 10= 996.445450
+note 11= 1093.779540
+note 12= 1200.000000
+note 13= 1293.779540
+note 14= 1396.445450
+note 15= 1495.201360
+note 16= 1594.312720
+note 17= 1698.044999
+note 18= 1793.601820
+note 19= 1898.045000
+note 20= 1994.312720
+note 21= 2095.201360
+note 22= 2196.445450
+note 23= 2293.779540
+note 24= 2400.000000
+note 25= 2493.779540
+note 26= 2596.445450
+note 27= 2695.201360
+note 28= 2794.312720
+note 29= 2898.044999
+note 30= 2993.601820
+note 31= 3098.045000
+note 32= 3194.312720
+note 33= 3295.201360
+note 34= 3396.445450
+note 35= 3493.779540
+note 36= 3600.000000
+note 37= 3693.779540
+note 38= 3796.445450
+note 39= 3895.201360
+note 40= 3994.312720
+note 41= 4098.044999
+note 42= 4193.601820
+note 43= 4298.045000
+note 44= 4394.312720
+note 45= 4495.201360
+note 46= 4596.445450
+note 47= 4693.779540
+note 48= 4800.000000
+note 49= 4893.779540
+note 50= 4996.445450
+note 51= 5095.201360
+note 52= 5194.312720
+note 53= 5298.044999
+note 54= 5393.601820
+note 55= 5498.045000
+note 56= 5594.312720
+note 57= 5695.201360
+note 58= 5796.445450
+note 59= 5893.779540
+note 60= 6000.000000
+note 61= 6093.779540
+note 62= 6196.445450
+note 63= 6295.201360
+note 64= 6394.312720
+note 65= 6498.044999
+note 66= 6593.601820
+note 67= 6698.045000
+note 68= 6794.312720
+note 69= 6895.201360
+note 70= 6996.445450
+note 71= 7093.779540
+note 72= 7200.000000
+note 73= 7293.779540
+note 74= 7396.445450
+note 75= 7495.201360
+note 76= 7594.312720
+note 77= 7698.044999
+note 78= 7793.601820
+note 79= 7898.045000
+note 80= 7994.312720
+note 81= 8095.201360
+note 82= 8196.445450
+note 83= 8293.779540
+note 84= 8400.000000
+note 85= 8493.779540
+note 86= 8596.445450
+note 87= 8695.201360
+note 88= 8794.312720
+note 89= 8898.044999
+note 90= 8993.601820
+note 91= 9098.045000
+note 92= 9194.312720
+note 93= 9295.201360
+note 94= 9396.445450
+note 95= 9493.779540
+note 96= 9600.000000
+note 97= 9693.779540
+note 98= 9796.445450
+note 99= 9895.201360
+note 100= 9994.312720
+note 101= 10098.044999
+note 102= 10193.601820
+note 103= 10298.045000
+note 104= 10394.312720
+note 105= 10495.201360
+note 106= 10596.445450
+note 107= 10693.779540
+note 108= 10800.000000
+note 109= 10893.779540
+note 110= 10996.445450
+note 111= 11095.201360
+note 112= 11194.312720
+note 113= 11298.044999
+note 114= 11393.601820
+note 115= 11498.045000
+note 116= 11594.312720
+note 117= 11695.201360
+note 118= 11796.445450
+note 119= 11893.779540
+note 120= 12000.000000
+note 121= 12093.779540
+note 122= 12196.445450
+note 123= 12295.201360
+note 124= 12394.312720
+note 125= 12498.044999
+note 126= 12593.601820
+note 127= 12698.045000
+
+[Functional Tuning]
+note 1="#=0 % 93.779540"
+note 2="#=0 % 196.445450"
+note 3="#=0 % 295.201360"
+note 4="#=0 % 394.312720"
+note 5="#=0 * 4/3"
+note 6="#=0 % 593.601820"
+note 7="#=0 % 698.045000"
+note 8="#=0 % 794.312720"
+note 9="#=0 % 895.201360"
+note 10="#=0 % 996.445450"
+note 11="#=0 % 1093.779540"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

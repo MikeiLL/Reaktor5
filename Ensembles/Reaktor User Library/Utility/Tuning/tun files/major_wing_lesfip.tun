@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Lesfip version of Chalmers' Major Wing, 7-limit, 15 cents
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=76
+note 2=197
+note 3=311
+note 4=388
+note 5=502
+note 6=698
+note 7=775
+note 8=814
+note 9=888
+note 10=1009
+note 11=1085
+note 12=1200
+note 13=1276
+note 14=1397
+note 15=1511
+note 16=1588
+note 17=1702
+note 18=1898
+note 19=1975
+note 20=2014
+note 21=2088
+note 22=2209
+note 23=2285
+note 24=2400
+note 25=2476
+note 26=2597
+note 27=2711
+note 28=2788
+note 29=2902
+note 30=3098
+note 31=3175
+note 32=3214
+note 33=3288
+note 34=3409
+note 35=3485
+note 36=3600
+note 37=3676
+note 38=3797
+note 39=3911
+note 40=3988
+note 41=4102
+note 42=4298
+note 43=4375
+note 44=4414
+note 45=4488
+note 46=4609
+note 47=4685
+note 48=4800
+note 49=4876
+note 50=4997
+note 51=5111
+note 52=5188
+note 53=5302
+note 54=5498
+note 55=5575
+note 56=5614
+note 57=5688
+note 58=5809
+note 59=5885
+note 60=6000
+note 61=6076
+note 62=6197
+note 63=6311
+note 64=6388
+note 65=6502
+note 66=6698
+note 67=6775
+note 68=6814
+note 69=6888
+note 70=7009
+note 71=7085
+note 72=7200
+note 73=7276
+note 74=7397
+note 75=7511
+note 76=7588
+note 77=7702
+note 78=7898
+note 79=7975
+note 80=8014
+note 81=8088
+note 82=8209
+note 83=8285
+note 84=8400
+note 85=8476
+note 86=8597
+note 87=8711
+note 88=8788
+note 89=8902
+note 90=9098
+note 91=9175
+note 92=9214
+note 93=9288
+note 94=9409
+note 95=9485
+note 96=9600
+note 97=9676
+note 98=9797
+note 99=9911
+note 100=9988
+note 101=10102
+note 102=10298
+note 103=10375
+note 104=10414
+note 105=10488
+note 106=10609
+note 107=10685
+note 108=10800
+note 109=10876
+note 110=10997
+note 111=11111
+note 112=11188
+note 113=11302
+note 114=11498
+note 115=11575
+note 116=11614
+note 117=11688
+note 118=11809
+note 119=11885
+note 120=12000
+note 121=12076
+note 122=12197
+note 123=12311
+note 124=12388
+note 125=12502
+note 126=12698
+note 127=12775
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "major_wing_lesfip.tun"
+ID= "ID_major_wing_lesfip.tun"
+Filename= "major_wing_lesfip.scl"
+Description= "Lesfip version of Chalmers' Major Wing, 7-limit, 15 cents"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 75.758510
+note 2= 196.980240
+note 3= 310.533620
+note 4= 387.556570
+note 5= 501.788420
+note 6= 697.534270
+note 7= 774.557220
+note 8= 814.476520
+note 9= 888.110600
+note 10= 1009.332330
+note 11= 1085.090840
+note 12= 1200.000000
+note 13= 1275.758510
+note 14= 1396.980240
+note 15= 1510.533620
+note 16= 1587.556570
+note 17= 1701.788420
+note 18= 1897.534270
+note 19= 1974.557220
+note 20= 2014.476520
+note 21= 2088.110600
+note 22= 2209.332330
+note 23= 2285.090840
+note 24= 2400.000000
+note 25= 2475.758510
+note 26= 2596.980240
+note 27= 2710.533620
+note 28= 2787.556570
+note 29= 2901.788420
+note 30= 3097.534270
+note 31= 3174.557220
+note 32= 3214.476520
+note 33= 3288.110600
+note 34= 3409.332330
+note 35= 3485.090840
+note 36= 3600.000000
+note 37= 3675.758510
+note 38= 3796.980240
+note 39= 3910.533620
+note 40= 3987.556570
+note 41= 4101.788420
+note 42= 4297.534270
+note 43= 4374.557220
+note 44= 4414.476520
+note 45= 4488.110600
+note 46= 4609.332330
+note 47= 4685.090840
+note 48= 4800.000000
+note 49= 4875.758510
+note 50= 4996.980240
+note 51= 5110.533620
+note 52= 5187.556570
+note 53= 5301.788420
+note 54= 5497.534270
+note 55= 5574.557220
+note 56= 5614.476520
+note 57= 5688.110600
+note 58= 5809.332330
+note 59= 5885.090840
+note 60= 6000.000000
+note 61= 6075.758510
+note 62= 6196.980240
+note 63= 6310.533620
+note 64= 6387.556570
+note 65= 6501.788420
+note 66= 6697.534270
+note 67= 6774.557220
+note 68= 6814.476520
+note 69= 6888.110600
+note 70= 7009.332330
+note 71= 7085.090840
+note 72= 7200.000000
+note 73= 7275.758510
+note 74= 7396.980240
+note 75= 7510.533620
+note 76= 7587.556570
+note 77= 7701.788420
+note 78= 7897.534270
+note 79= 7974.557220
+note 80= 8014.476520
+note 81= 8088.110600
+note 82= 8209.332330
+note 83= 8285.090840
+note 84= 8400.000000
+note 85= 8475.758510
+note 86= 8596.980240
+note 87= 8710.533620
+note 88= 8787.556570
+note 89= 8901.788420
+note 90= 9097.534270
+note 91= 9174.557220
+note 92= 9214.476520
+note 93= 9288.110600
+note 94= 9409.332330
+note 95= 9485.090840
+note 96= 9600.000000
+note 97= 9675.758510
+note 98= 9796.980240
+note 99= 9910.533620
+note 100= 9987.556570
+note 101= 10101.788420
+note 102= 10297.534270
+note 103= 10374.557220
+note 104= 10414.476520
+note 105= 10488.110600
+note 106= 10609.332330
+note 107= 10685.090840
+note 108= 10800.000000
+note 109= 10875.758510
+note 110= 10996.980240
+note 111= 11110.533620
+note 112= 11187.556570
+note 113= 11301.788420
+note 114= 11497.534270
+note 115= 11574.557220
+note 116= 11614.476520
+note 117= 11688.110600
+note 118= 11809.332330
+note 119= 11885.090840
+note 120= 12000.000000
+note 121= 12075.758510
+note 122= 12196.980240
+note 123= 12310.533620
+note 124= 12387.556570
+note 125= 12501.788420
+note 126= 12697.534270
+note 127= 12774.557220
+
+[Functional Tuning]
+note 1="#=0 % 75.758510"
+note 2="#=0 % 196.980240"
+note 3="#=0 % 310.533620"
+note 4="#=0 % 387.556570"
+note 5="#=0 % 501.788420"
+note 6="#=0 % 697.534270"
+note 7="#=0 % 774.557220"
+note 8="#=0 % 814.476520"
+note 9="#=0 % 888.110600"
+note 10="#=0 % 1009.332330"
+note 11="#=0 % 1085.090840"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

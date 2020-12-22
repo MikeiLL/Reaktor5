@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Herman Miller, "Bug I" well-temperament
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=93
+note 2=195
+note 3=296
+note 4=389
+note 5=498
+note 6=593
+note 7=698
+note 8=795
+note 9=891
+note 10=996
+note 11=1091
+note 12=1200
+note 13=1293
+note 14=1395
+note 15=1496
+note 16=1589
+note 17=1698
+note 18=1793
+note 19=1898
+note 20=1995
+note 21=2091
+note 22=2196
+note 23=2291
+note 24=2400
+note 25=2493
+note 26=2595
+note 27=2696
+note 28=2789
+note 29=2898
+note 30=2993
+note 31=3098
+note 32=3195
+note 33=3291
+note 34=3396
+note 35=3491
+note 36=3600
+note 37=3693
+note 38=3795
+note 39=3896
+note 40=3989
+note 41=4098
+note 42=4193
+note 43=4298
+note 44=4395
+note 45=4491
+note 46=4596
+note 47=4691
+note 48=4800
+note 49=4893
+note 50=4995
+note 51=5096
+note 52=5189
+note 53=5298
+note 54=5393
+note 55=5498
+note 56=5595
+note 57=5691
+note 58=5796
+note 59=5891
+note 60=6000
+note 61=6093
+note 62=6195
+note 63=6296
+note 64=6389
+note 65=6498
+note 66=6593
+note 67=6698
+note 68=6795
+note 69=6891
+note 70=6996
+note 71=7091
+note 72=7200
+note 73=7293
+note 74=7395
+note 75=7496
+note 76=7589
+note 77=7698
+note 78=7793
+note 79=7898
+note 80=7995
+note 81=8091
+note 82=8196
+note 83=8291
+note 84=8400
+note 85=8493
+note 86=8595
+note 87=8696
+note 88=8789
+note 89=8898
+note 90=8993
+note 91=9098
+note 92=9195
+note 93=9291
+note 94=9396
+note 95=9491
+note 96=9600
+note 97=9693
+note 98=9795
+note 99=9896
+note 100=9989
+note 101=10098
+note 102=10193
+note 103=10298
+note 104=10395
+note 105=10491
+note 106=10596
+note 107=10691
+note 108=10800
+note 109=10893
+note 110=10995
+note 111=11096
+note 112=11189
+note 113=11298
+note 114=11393
+note 115=11498
+note 116=11595
+note 117=11691
+note 118=11796
+note 119=11891
+note 120=12000
+note 121=12093
+note 122=12195
+note 123=12296
+note 124=12389
+note 125=12498
+note 126=12593
+note 127=12698
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "miller_bug.tun"
+ID= "ID_miller_bug.tun"
+Filename= "miller_bug.scl"
+Description= "Herman Miller, "Bug I" well-temperament"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 92.571000
+note 2= 194.526000
+note 3= 296.481000
+note 4= 389.052000
+note 5= 498.044999
+note 6= 592.962000
+note 7= 698.436000
+note 8= 794.526000
+note 9= 890.616000
+note 10= 996.089998
+note 11= 1091.007000
+note 12= 1200.000000
+note 13= 1292.571000
+note 14= 1394.526000
+note 15= 1496.481000
+note 16= 1589.052000
+note 17= 1698.044999
+note 18= 1792.962000
+note 19= 1898.436000
+note 20= 1994.526000
+note 21= 2090.616000
+note 22= 2196.089998
+note 23= 2291.007000
+note 24= 2400.000000
+note 25= 2492.571000
+note 26= 2594.526000
+note 27= 2696.481000
+note 28= 2789.052000
+note 29= 2898.044999
+note 30= 2992.962000
+note 31= 3098.436000
+note 32= 3194.526000
+note 33= 3290.616000
+note 34= 3396.089998
+note 35= 3491.007000
+note 36= 3600.000000
+note 37= 3692.571000
+note 38= 3794.526000
+note 39= 3896.481000
+note 40= 3989.052000
+note 41= 4098.044999
+note 42= 4192.962000
+note 43= 4298.436000
+note 44= 4394.526000
+note 45= 4490.616000
+note 46= 4596.089998
+note 47= 4691.007000
+note 48= 4800.000000
+note 49= 4892.571000
+note 50= 4994.526000
+note 51= 5096.481000
+note 52= 5189.052000
+note 53= 5298.044999
+note 54= 5392.962000
+note 55= 5498.436000
+note 56= 5594.526000
+note 57= 5690.616000
+note 58= 5796.089998
+note 59= 5891.007000
+note 60= 6000.000000
+note 61= 6092.571000
+note 62= 6194.526000
+note 63= 6296.481000
+note 64= 6389.052000
+note 65= 6498.044999
+note 66= 6592.962000
+note 67= 6698.436000
+note 68= 6794.526000
+note 69= 6890.616000
+note 70= 6996.089998
+note 71= 7091.007000
+note 72= 7200.000000
+note 73= 7292.571000
+note 74= 7394.526000
+note 75= 7496.481000
+note 76= 7589.052000
+note 77= 7698.044999
+note 78= 7792.962000
+note 79= 7898.436000
+note 80= 7994.526000
+note 81= 8090.616000
+note 82= 8196.089998
+note 83= 8291.007000
+note 84= 8400.000000
+note 85= 8492.571000
+note 86= 8594.526000
+note 87= 8696.481000
+note 88= 8789.052000
+note 89= 8898.044999
+note 90= 8992.962000
+note 91= 9098.436000
+note 92= 9194.526000
+note 93= 9290.616000
+note 94= 9396.089998
+note 95= 9491.007000
+note 96= 9600.000000
+note 97= 9692.571000
+note 98= 9794.526000
+note 99= 9896.481000
+note 100= 9989.052000
+note 101= 10098.044999
+note 102= 10192.962000
+note 103= 10298.436000
+note 104= 10394.526000
+note 105= 10490.616000
+note 106= 10596.089998
+note 107= 10691.007000
+note 108= 10800.000000
+note 109= 10892.571000
+note 110= 10994.526000
+note 111= 11096.481000
+note 112= 11189.052000
+note 113= 11298.044999
+note 114= 11392.962000
+note 115= 11498.436000
+note 116= 11594.526000
+note 117= 11690.616000
+note 118= 11796.089998
+note 119= 11891.007000
+note 120= 12000.000000
+note 121= 12092.571000
+note 122= 12194.526000
+note 123= 12296.481000
+note 124= 12389.052000
+note 125= 12498.044999
+note 126= 12592.962000
+note 127= 12698.436000
+
+[Functional Tuning]
+note 1="#=0 % 92.571000"
+note 2="#=0 % 194.526000"
+note 3="#=0 % 296.481000"
+note 4="#=0 % 389.052000"
+note 5="#=0 * 4/3"
+note 6="#=0 % 592.962000"
+note 7="#=0 % 698.436000"
+note 8="#=0 % 794.526000"
+note 9="#=0 % 890.616000"
+note 10="#=0 * 16/9"
+note 11="#=0 % 1091.007000"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

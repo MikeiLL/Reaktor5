@@ -1,0 +1,307 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; convex closure of 7-limit diamond with respect to 4375/4374
+;
+; VAZ Plus section
+[Tuning]
+note 0=3102
+note 1=3151
+note 2=3214
+note 3=3235
+note 4=3284
+note 5=3333
+note 6=3369
+note 7=3418
+note 8=3467
+note 9=3551
+note 10=3600
+note 11=3649
+note 12=3733
+note 13=3782
+note 14=3831
+note 15=3867
+note 16=3916
+note 17=3965
+note 18=3986
+note 19=4049
+note 20=4098
+note 21=4169
+note 22=4183
+note 23=4217
+note 24=4231
+note 25=4302
+note 26=4351
+note 27=4414
+note 28=4435
+note 29=4484
+note 30=4533
+note 31=4569
+note 32=4618
+note 33=4667
+note 34=4751
+note 35=4800
+note 36=4849
+note 37=4933
+note 38=4982
+note 39=5031
+note 40=5067
+note 41=5116
+note 42=5165
+note 43=5186
+note 44=5249
+note 45=5298
+note 46=5369
+note 47=5383
+note 48=5417
+note 49=5431
+note 50=5502
+note 51=5551
+note 52=5614
+note 53=5635
+note 54=5684
+note 55=5733
+note 56=5769
+note 57=5818
+note 58=5867
+note 59=5951
+note 60=6000
+note 61=6049
+note 62=6133
+note 63=6182
+note 64=6231
+note 65=6267
+note 66=6316
+note 67=6365
+note 68=6386
+note 69=6449
+note 70=6498
+note 71=6569
+note 72=6583
+note 73=6617
+note 74=6631
+note 75=6702
+note 76=6751
+note 77=6814
+note 78=6835
+note 79=6884
+note 80=6933
+note 81=6969
+note 82=7018
+note 83=7067
+note 84=7151
+note 85=7200
+note 86=7249
+note 87=7333
+note 88=7382
+note 89=7431
+note 90=7467
+note 91=7516
+note 92=7565
+note 93=7586
+note 94=7649
+note 95=7698
+note 96=7769
+note 97=7783
+note 98=7817
+note 99=7831
+note 100=7902
+note 101=7951
+note 102=8014
+note 103=8035
+note 104=8084
+note 105=8133
+note 106=8169
+note 107=8218
+note 108=8267
+note 109=8351
+note 110=8400
+note 111=8449
+note 112=8533
+note 113=8582
+note 114=8631
+note 115=8667
+note 116=8716
+note 117=8765
+note 118=8786
+note 119=8849
+note 120=8898
+note 121=8969
+note 122=8983
+note 123=9017
+note 124=9031
+note 125=9102
+note 126=9151
+note 127=9214
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "diaconv4375.tun"
+ID= "ID_diaconv4375.tun"
+Filename= "diaconv4375.scl"
+Description= "convex closure of 7-limit diamond with respect to 4375/4374"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3101.955001
+note 1= 3150.725382
+note 2= 3213.686286
+note 3= 3235.192576
+note 4= 3284.358713
+note 5= 3333.129094
+note 6= 3368.825906
+note 7= 3417.596288
+note 8= 3466.762425
+note 9= 3551.229619
+note 10= 3600.000000
+note 11= 3648.770381
+note 12= 3733.237575
+note 13= 3782.403712
+note 14= 3831.174094
+note 15= 3866.870906
+note 16= 3915.641287
+note 17= 3964.807424
+note 18= 3986.313714
+note 19= 4049.274618
+note 20= 4098.044999
+note 21= 4168.717426
+note 22= 4182.512193
+note 23= 4217.487807
+note 24= 4231.282574
+note 25= 4301.955001
+note 26= 4350.725382
+note 27= 4413.686286
+note 28= 4435.192576
+note 29= 4484.358713
+note 30= 4533.129094
+note 31= 4568.825906
+note 32= 4617.596288
+note 33= 4666.762425
+note 34= 4751.229619
+note 35= 4800.000000
+note 36= 4848.770381
+note 37= 4933.237575
+note 38= 4982.403712
+note 39= 5031.174094
+note 40= 5066.870906
+note 41= 5115.641287
+note 42= 5164.807424
+note 43= 5186.313714
+note 44= 5249.274618
+note 45= 5298.044999
+note 46= 5368.717426
+note 47= 5382.512193
+note 48= 5417.487807
+note 49= 5431.282574
+note 50= 5501.955001
+note 51= 5550.725382
+note 52= 5613.686286
+note 53= 5635.192576
+note 54= 5684.358713
+note 55= 5733.129094
+note 56= 5768.825906
+note 57= 5817.596288
+note 58= 5866.762425
+note 59= 5951.229619
+note 60= 6000.000000
+note 61= 6048.770381
+note 62= 6133.237575
+note 63= 6182.403712
+note 64= 6231.174094
+note 65= 6266.870906
+note 66= 6315.641287
+note 67= 6364.807424
+note 68= 6386.313714
+note 69= 6449.274618
+note 70= 6498.044999
+note 71= 6568.717426
+note 72= 6582.512193
+note 73= 6617.487807
+note 74= 6631.282574
+note 75= 6701.955001
+note 76= 6750.725382
+note 77= 6813.686286
+note 78= 6835.192576
+note 79= 6884.358713
+note 80= 6933.129094
+note 81= 6968.825906
+note 82= 7017.596288
+note 83= 7066.762425
+note 84= 7151.229619
+note 85= 7200.000000
+note 86= 7248.770381
+note 87= 7333.237575
+note 88= 7382.403712
+note 89= 7431.174094
+note 90= 7466.870906
+note 91= 7515.641287
+note 92= 7564.807424
+note 93= 7586.313714
+note 94= 7649.274618
+note 95= 7698.044999
+note 96= 7768.717426
+note 97= 7782.512193
+note 98= 7817.487807
+note 99= 7831.282574
+note 100= 7901.955001
+note 101= 7950.725382
+note 102= 8013.686286
+note 103= 8035.192576
+note 104= 8084.358713
+note 105= 8133.129094
+note 106= 8168.825906
+note 107= 8217.596288
+note 108= 8266.762425
+note 109= 8351.229619
+note 110= 8400.000000
+note 111= 8448.770381
+note 112= 8533.237575
+note 113= 8582.403712
+note 114= 8631.174094
+note 115= 8666.870906
+note 116= 8715.641287
+note 117= 8764.807424
+note 118= 8786.313714
+note 119= 8849.274618
+note 120= 8898.044999
+note 121= 8968.717426
+note 122= 8982.512193
+note 123= 9017.487807
+note 124= 9031.282574
+note 125= 9101.955001
+note 126= 9150.725382
+note 127= 9213.686286
+
+[Functional Tuning]
+note 1="#=0 * 36/35"
+note 2="#=0 * 27/25"
+note 3="#=0 * 10/9"
+note 4="#=0 * 8/7"
+note 5="#=0 * 7/6"
+note 6="#=0 * 6/5"
+note 7="#=0 * 100/81"
+note 8="#=0 * 5/4"
+note 9="#=0 * 35/27"
+note 10="#=0 * 4/3"
+note 11="#=0 * 25/18"
+note 12="#=0 * 7/5"
+note 13="#=0 * 10/7"
+note 14="#=0 * 36/25"
+note 15="#=0 * 3/2"
+note 16="#=0 * 54/35"
+note 17="#=0 * 8/5"
+note 18="#=0 * 81/50"
+note 19="#=0 * 5/3"
+note 20="#=0 * 12/7"
+note 21="#=0 * 7/4"
+note 22="#=0 * 9/5"
+note 23="#=0 * 50/27"
+note 24="#=0 * 35/18"
+note 25="#>-25 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

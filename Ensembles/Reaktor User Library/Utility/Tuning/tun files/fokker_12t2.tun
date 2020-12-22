@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Another tempered version of fokker_12.scl with egalised 225/224
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=115
+note 2=199
+note 3=268
+note 4=384
+note 5=499
+note 6=584
+note 7=699
+note 8=815
+note 9=884
+note 10=969
+note 11=1084
+note 12=1200
+note 13=1315
+note 14=1399
+note 15=1468
+note 16=1584
+note 17=1699
+note 18=1784
+note 19=1899
+note 20=2015
+note 21=2084
+note 22=2169
+note 23=2284
+note 24=2400
+note 25=2515
+note 26=2599
+note 27=2668
+note 28=2784
+note 29=2899
+note 30=2984
+note 31=3099
+note 32=3215
+note 33=3284
+note 34=3369
+note 35=3484
+note 36=3600
+note 37=3715
+note 38=3799
+note 39=3868
+note 40=3984
+note 41=4099
+note 42=4184
+note 43=4299
+note 44=4415
+note 45=4484
+note 46=4569
+note 47=4684
+note 48=4800
+note 49=4915
+note 50=4999
+note 51=5068
+note 52=5184
+note 53=5299
+note 54=5384
+note 55=5499
+note 56=5615
+note 57=5684
+note 58=5769
+note 59=5884
+note 60=6000
+note 61=6115
+note 62=6199
+note 63=6268
+note 64=6384
+note 65=6499
+note 66=6584
+note 67=6699
+note 68=6815
+note 69=6884
+note 70=6969
+note 71=7084
+note 72=7200
+note 73=7315
+note 74=7399
+note 75=7468
+note 76=7584
+note 77=7699
+note 78=7784
+note 79=7899
+note 80=8015
+note 81=8084
+note 82=8169
+note 83=8284
+note 84=8400
+note 85=8515
+note 86=8599
+note 87=8668
+note 88=8784
+note 89=8899
+note 90=8984
+note 91=9099
+note 92=9215
+note 93=9284
+note 94=9369
+note 95=9484
+note 96=9600
+note 97=9715
+note 98=9799
+note 99=9868
+note 100=9984
+note 101=10099
+note 102=10184
+note 103=10299
+note 104=10415
+note 105=10484
+note 106=10569
+note 107=10684
+note 108=10800
+note 109=10915
+note 110=10999
+note 111=11068
+note 112=11184
+note 113=11299
+note 114=11384
+note 115=11499
+note 116=11615
+note 117=11684
+note 118=11769
+note 119=11884
+note 120=12000
+note 121=12115
+note 122=12199
+note 123=12268
+note 124=12384
+note 125=12499
+note 126=12584
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fokker_12t2.tun"
+ID= "ID_fokker_12t2.tun"
+Filename= "fokker_12t2.scl"
+Description= "Another tempered version of fokker_12.scl with egalised 225/224"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 114.603240
+note 2= 199.206990
+note 3= 268.101050
+note 4= 384.353730
+note 5= 499.387400
+note 6= 584.177620
+note 7= 699.211290
+note 8= 815.463960
+note 9= 884.358713
+note 10= 968.961780
+note 11= 1083.565020
+note 12= 1200.000000
+note 13= 1314.603240
+note 14= 1399.206990
+note 15= 1468.101050
+note 16= 1584.353730
+note 17= 1699.387400
+note 18= 1784.177620
+note 19= 1899.211290
+note 20= 2015.463960
+note 21= 2084.358713
+note 22= 2168.961780
+note 23= 2283.565020
+note 24= 2400.000000
+note 25= 2514.603240
+note 26= 2599.206990
+note 27= 2668.101050
+note 28= 2784.353730
+note 29= 2899.387400
+note 30= 2984.177620
+note 31= 3099.211290
+note 32= 3215.463960
+note 33= 3284.358713
+note 34= 3368.961780
+note 35= 3483.565020
+note 36= 3600.000000
+note 37= 3714.603240
+note 38= 3799.206990
+note 39= 3868.101050
+note 40= 3984.353730
+note 41= 4099.387400
+note 42= 4184.177620
+note 43= 4299.211290
+note 44= 4415.463960
+note 45= 4484.358713
+note 46= 4568.961780
+note 47= 4683.565020
+note 48= 4800.000000
+note 49= 4914.603240
+note 50= 4999.206990
+note 51= 5068.101050
+note 52= 5184.353730
+note 53= 5299.387400
+note 54= 5384.177620
+note 55= 5499.211290
+note 56= 5615.463960
+note 57= 5684.358713
+note 58= 5768.961780
+note 59= 5883.565020
+note 60= 6000.000000
+note 61= 6114.603240
+note 62= 6199.206990
+note 63= 6268.101050
+note 64= 6384.353730
+note 65= 6499.387400
+note 66= 6584.177620
+note 67= 6699.211290
+note 68= 6815.463960
+note 69= 6884.358713
+note 70= 6968.961780
+note 71= 7083.565020
+note 72= 7200.000000
+note 73= 7314.603240
+note 74= 7399.206990
+note 75= 7468.101050
+note 76= 7584.353730
+note 77= 7699.387400
+note 78= 7784.177620
+note 79= 7899.211290
+note 80= 8015.463960
+note 81= 8084.358713
+note 82= 8168.961780
+note 83= 8283.565020
+note 84= 8400.000000
+note 85= 8514.603240
+note 86= 8599.206990
+note 87= 8668.101050
+note 88= 8784.353730
+note 89= 8899.387400
+note 90= 8984.177620
+note 91= 9099.211290
+note 92= 9215.463960
+note 93= 9284.358713
+note 94= 9368.961780
+note 95= 9483.565020
+note 96= 9600.000000
+note 97= 9714.603240
+note 98= 9799.206990
+note 99= 9868.101050
+note 100= 9984.353730
+note 101= 10099.387400
+note 102= 10184.177620
+note 103= 10299.211290
+note 104= 10415.463960
+note 105= 10484.358713
+note 106= 10568.961780
+note 107= 10683.565020
+note 108= 10800.000000
+note 109= 10914.603240
+note 110= 10999.206990
+note 111= 11068.101050
+note 112= 11184.353730
+note 113= 11299.387400
+note 114= 11384.177620
+note 115= 11499.211290
+note 116= 11615.463960
+note 117= 11684.358713
+note 118= 11768.961780
+note 119= 11883.565020
+note 120= 12000.000000
+note 121= 12114.603240
+note 122= 12199.206990
+note 123= 12268.101050
+note 124= 12384.353730
+note 125= 12499.387400
+note 126= 12584.177620
+note 127= 12699.211290
+
+[Functional Tuning]
+note 1="#=0 % 114.603240"
+note 2="#=0 % 199.206990"
+note 3="#=0 % 268.101050"
+note 4="#=0 % 384.353730"
+note 5="#=0 % 499.387400"
+note 6="#=0 % 584.177620"
+note 7="#=0 % 699.211290"
+note 8="#=0 % 815.463960"
+note 9="#=0 * 5/3"
+note 10="#=0 % 968.961780"
+note 11="#=0 % 1083.565020"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

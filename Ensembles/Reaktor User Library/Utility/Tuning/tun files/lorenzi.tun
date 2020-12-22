@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Giambattista de Lorenzi, Venetian temperament (c. 1830), Barbieri, 1986
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=98
+note 2=199
+note 3=300
+note 4=397
+note 5=500
+note 6=597
+note 7=699
+note 8=799
+note 9=898
+note 10=1000
+note 11=1097
+note 12=1200
+note 13=1298
+note 14=1399
+note 15=1500
+note 16=1597
+note 17=1700
+note 18=1797
+note 19=1899
+note 20=1999
+note 21=2098
+note 22=2200
+note 23=2297
+note 24=2400
+note 25=2498
+note 26=2599
+note 27=2700
+note 28=2797
+note 29=2900
+note 30=2997
+note 31=3099
+note 32=3199
+note 33=3298
+note 34=3400
+note 35=3497
+note 36=3600
+note 37=3698
+note 38=3799
+note 39=3900
+note 40=3997
+note 41=4100
+note 42=4197
+note 43=4299
+note 44=4399
+note 45=4498
+note 46=4600
+note 47=4697
+note 48=4800
+note 49=4898
+note 50=4999
+note 51=5100
+note 52=5197
+note 53=5300
+note 54=5397
+note 55=5499
+note 56=5599
+note 57=5698
+note 58=5800
+note 59=5897
+note 60=6000
+note 61=6098
+note 62=6199
+note 63=6300
+note 64=6397
+note 65=6500
+note 66=6597
+note 67=6699
+note 68=6799
+note 69=6898
+note 70=7000
+note 71=7097
+note 72=7200
+note 73=7298
+note 74=7399
+note 75=7500
+note 76=7597
+note 77=7700
+note 78=7797
+note 79=7899
+note 80=7999
+note 81=8098
+note 82=8200
+note 83=8297
+note 84=8400
+note 85=8498
+note 86=8599
+note 87=8700
+note 88=8797
+note 89=8900
+note 90=8997
+note 91=9099
+note 92=9199
+note 93=9298
+note 94=9400
+note 95=9497
+note 96=9600
+note 97=9698
+note 98=9799
+note 99=9900
+note 100=9997
+note 101=10100
+note 102=10197
+note 103=10299
+note 104=10399
+note 105=10498
+note 106=10600
+note 107=10697
+note 108=10800
+note 109=10898
+note 110=10999
+note 111=11100
+note 112=11197
+note 113=11300
+note 114=11397
+note 115=11499
+note 116=11599
+note 117=11698
+note 118=11800
+note 119=11897
+note 120=12000
+note 121=12098
+note 122=12199
+note 123=12300
+note 124=12397
+note 125=12500
+note 126=12597
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "lorenzi.tun"
+ID= "ID_lorenzi.tun"
+Filename= "lorenzi.scl"
+Description= "Giambattista de Lorenzi, Venetian temperament (c. 1830), Barbieri, 1986"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 97.555290
+note 2= 198.533430
+note 3= 299.511560
+note 4= 397.066860
+note 5= 499.837180
+note 6= 597.392480
+note 7= 699.266710
+note 8= 798.532730
+note 9= 897.800140
+note 10= 999.674370
+note 11= 1097.229670
+note 12= 1200.000000
+note 13= 1297.555290
+note 14= 1398.533430
+note 15= 1499.511560
+note 16= 1597.066860
+note 17= 1699.837180
+note 18= 1797.392480
+note 19= 1899.266710
+note 20= 1998.532730
+note 21= 2097.800140
+note 22= 2199.674370
+note 23= 2297.229670
+note 24= 2400.000000
+note 25= 2497.555290
+note 26= 2598.533430
+note 27= 2699.511560
+note 28= 2797.066860
+note 29= 2899.837180
+note 30= 2997.392480
+note 31= 3099.266710
+note 32= 3198.532730
+note 33= 3297.800140
+note 34= 3399.674370
+note 35= 3497.229670
+note 36= 3600.000000
+note 37= 3697.555290
+note 38= 3798.533430
+note 39= 3899.511560
+note 40= 3997.066860
+note 41= 4099.837180
+note 42= 4197.392480
+note 43= 4299.266710
+note 44= 4398.532730
+note 45= 4497.800140
+note 46= 4599.674370
+note 47= 4697.229670
+note 48= 4800.000000
+note 49= 4897.555290
+note 50= 4998.533430
+note 51= 5099.511560
+note 52= 5197.066860
+note 53= 5299.837180
+note 54= 5397.392480
+note 55= 5499.266710
+note 56= 5598.532730
+note 57= 5697.800140
+note 58= 5799.674370
+note 59= 5897.229670
+note 60= 6000.000000
+note 61= 6097.555290
+note 62= 6198.533430
+note 63= 6299.511560
+note 64= 6397.066860
+note 65= 6499.837180
+note 66= 6597.392480
+note 67= 6699.266710
+note 68= 6798.532730
+note 69= 6897.800140
+note 70= 6999.674370
+note 71= 7097.229670
+note 72= 7200.000000
+note 73= 7297.555290
+note 74= 7398.533430
+note 75= 7499.511560
+note 76= 7597.066860
+note 77= 7699.837180
+note 78= 7797.392480
+note 79= 7899.266710
+note 80= 7998.532730
+note 81= 8097.800140
+note 82= 8199.674370
+note 83= 8297.229670
+note 84= 8400.000000
+note 85= 8497.555290
+note 86= 8598.533430
+note 87= 8699.511560
+note 88= 8797.066860
+note 89= 8899.837180
+note 90= 8997.392480
+note 91= 9099.266710
+note 92= 9198.532730
+note 93= 9297.800140
+note 94= 9399.674370
+note 95= 9497.229670
+note 96= 9600.000000
+note 97= 9697.555290
+note 98= 9798.533430
+note 99= 9899.511560
+note 100= 9997.066860
+note 101= 10099.837180
+note 102= 10197.392480
+note 103= 10299.266710
+note 104= 10398.532730
+note 105= 10497.800140
+note 106= 10599.674370
+note 107= 10697.229670
+note 108= 10800.000000
+note 109= 10897.555290
+note 110= 10998.533430
+note 111= 11099.511560
+note 112= 11197.066860
+note 113= 11299.837180
+note 114= 11397.392480
+note 115= 11499.266710
+note 116= 11598.532730
+note 117= 11697.800140
+note 118= 11799.674370
+note 119= 11897.229670
+note 120= 12000.000000
+note 121= 12097.555290
+note 122= 12198.533430
+note 123= 12299.511560
+note 124= 12397.066860
+note 125= 12499.837180
+note 126= 12597.392480
+note 127= 12699.266710
+
+[Functional Tuning]
+note 1="#=0 % 97.555290"
+note 2="#=0 % 198.533430"
+note 3="#=0 % 299.511560"
+note 4="#=0 % 397.066860"
+note 5="#=0 % 499.837180"
+note 6="#=0 % 597.392480"
+note 7="#=0 % 699.266710"
+note 8="#=0 % 798.532730"
+note 9="#=0 % 897.800140"
+note 10="#=0 % 999.674370"
+note 11="#=0 % 1097.229670"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

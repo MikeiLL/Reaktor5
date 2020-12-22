@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; George Secor's 1/7-comma well-temperament, Gene Ward Smith rational version
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=95
+note 2=198
+note 3=297
+note 4=396
+note 5=501
+note 6=593
+note 7=699
+note 8=797
+note 9=897
+note 10=999
+note 11=1094
+note 12=1200
+note 13=1295
+note 14=1398
+note 15=1497
+note 16=1596
+note 17=1701
+note 18=1793
+note 19=1899
+note 20=1997
+note 21=2097
+note 22=2199
+note 23=2294
+note 24=2400
+note 25=2495
+note 26=2598
+note 27=2697
+note 28=2796
+note 29=2901
+note 30=2993
+note 31=3099
+note 32=3197
+note 33=3297
+note 34=3399
+note 35=3494
+note 36=3600
+note 37=3695
+note 38=3798
+note 39=3897
+note 40=3996
+note 41=4101
+note 42=4193
+note 43=4299
+note 44=4397
+note 45=4497
+note 46=4599
+note 47=4694
+note 48=4800
+note 49=4895
+note 50=4998
+note 51=5097
+note 52=5196
+note 53=5301
+note 54=5393
+note 55=5499
+note 56=5597
+note 57=5697
+note 58=5799
+note 59=5894
+note 60=6000
+note 61=6095
+note 62=6198
+note 63=6297
+note 64=6396
+note 65=6501
+note 66=6593
+note 67=6699
+note 68=6797
+note 69=6897
+note 70=6999
+note 71=7094
+note 72=7200
+note 73=7295
+note 74=7398
+note 75=7497
+note 76=7596
+note 77=7701
+note 78=7793
+note 79=7899
+note 80=7997
+note 81=8097
+note 82=8199
+note 83=8294
+note 84=8400
+note 85=8495
+note 86=8598
+note 87=8697
+note 88=8796
+note 89=8901
+note 90=8993
+note 91=9099
+note 92=9197
+note 93=9297
+note 94=9399
+note 95=9494
+note 96=9600
+note 97=9695
+note 98=9798
+note 99=9897
+note 100=9996
+note 101=10101
+note 102=10193
+note 103=10299
+note 104=10397
+note 105=10497
+note 106=10599
+note 107=10694
+note 108=10800
+note 109=10895
+note 110=10998
+note 111=11097
+note 112=11196
+note 113=11301
+note 114=11393
+note 115=11499
+note 116=11597
+note 117=11697
+note 118=11799
+note 119=11894
+note 120=12000
+note 121=12095
+note 122=12198
+note 123=12297
+note 124=12396
+note 125=12501
+note 126=12593
+note 127=12699
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "secor_wt1-7r.tun"
+ID= "ID_secor_wt1-7r.tun"
+Filename= "secor_wt1-7r.scl"
+Description= "George Secor's 1/7-comma well-temperament, Gene Ward Smith rational version"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 95.154499
+note 2= 197.741189
+note 3= 297.212799
+note 4= 395.527849
+note 5= 501.122801
+note 6= 593.199498
+note 7= 698.872692
+note 8= 797.109500
+note 9= 896.637226
+note 10= 999.167800
+note 11= 1094.413038
+note 12= 1200.000000
+note 13= 1295.154499
+note 14= 1397.741189
+note 15= 1497.212799
+note 16= 1595.527849
+note 17= 1701.122801
+note 18= 1793.199498
+note 19= 1898.872692
+note 20= 1997.109500
+note 21= 2096.637226
+note 22= 2199.167800
+note 23= 2294.413038
+note 24= 2400.000000
+note 25= 2495.154499
+note 26= 2597.741189
+note 27= 2697.212799
+note 28= 2795.527849
+note 29= 2901.122801
+note 30= 2993.199498
+note 31= 3098.872692
+note 32= 3197.109500
+note 33= 3296.637226
+note 34= 3399.167800
+note 35= 3494.413038
+note 36= 3600.000000
+note 37= 3695.154499
+note 38= 3797.741189
+note 39= 3897.212799
+note 40= 3995.527849
+note 41= 4101.122801
+note 42= 4193.199498
+note 43= 4298.872692
+note 44= 4397.109500
+note 45= 4496.637226
+note 46= 4599.167800
+note 47= 4694.413038
+note 48= 4800.000000
+note 49= 4895.154499
+note 50= 4997.741189
+note 51= 5097.212799
+note 52= 5195.527849
+note 53= 5301.122801
+note 54= 5393.199498
+note 55= 5498.872692
+note 56= 5597.109500
+note 57= 5696.637226
+note 58= 5799.167800
+note 59= 5894.413038
+note 60= 6000.000000
+note 61= 6095.154499
+note 62= 6197.741189
+note 63= 6297.212799
+note 64= 6395.527849
+note 65= 6501.122801
+note 66= 6593.199498
+note 67= 6698.872692
+note 68= 6797.109500
+note 69= 6896.637226
+note 70= 6999.167800
+note 71= 7094.413038
+note 72= 7200.000000
+note 73= 7295.154499
+note 74= 7397.741189
+note 75= 7497.212799
+note 76= 7595.527849
+note 77= 7701.122801
+note 78= 7793.199498
+note 79= 7898.872692
+note 80= 7997.109500
+note 81= 8096.637226
+note 82= 8199.167800
+note 83= 8294.413038
+note 84= 8400.000000
+note 85= 8495.154499
+note 86= 8597.741189
+note 87= 8697.212799
+note 88= 8795.527849
+note 89= 8901.122801
+note 90= 8993.199498
+note 91= 9098.872692
+note 92= 9197.109500
+note 93= 9296.637226
+note 94= 9399.167800
+note 95= 9494.413038
+note 96= 9600.000000
+note 97= 9695.154499
+note 98= 9797.741189
+note 99= 9897.212799
+note 100= 9995.527849
+note 101= 10101.122801
+note 102= 10193.199498
+note 103= 10298.872692
+note 104= 10397.109500
+note 105= 10496.637226
+note 106= 10599.167800
+note 107= 10694.413038
+note 108= 10800.000000
+note 109= 10895.154499
+note 110= 10997.741189
+note 111= 11097.212799
+note 112= 11195.527849
+note 113= 11301.122801
+note 114= 11393.199498
+note 115= 11498.872692
+note 116= 11597.109500
+note 117= 11696.637226
+note 118= 11799.167800
+note 119= 11894.413038
+note 120= 12000.000000
+note 121= 12095.154499
+note 122= 12197.741189
+note 123= 12297.212799
+note 124= 12395.527849
+note 125= 12501.122801
+note 126= 12593.199498
+note 127= 12698.872692
+
+[Functional Tuning]
+note 1="#=0 * 6264/5929"
+note 2="#=0 * 33232/29645"
+note 3="#=0 * 105592/88935"
+note 4="#=0 * 5322/4235"
+note 5="#=0 * 39597/29645"
+note 6="#=0 * 8352/5929"
+note 7="#=0 * 31706/21175"
+note 8="#=0 * 9396/5929"
+note 9="#=0 * 9952/5929"
+note 10="#=0 * 52796/29645"
+note 11="#=0 * 55782/29645"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

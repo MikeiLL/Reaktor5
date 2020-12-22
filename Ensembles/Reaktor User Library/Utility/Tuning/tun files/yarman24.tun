@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 24-tone maqam music scale with 12-tones tempered in the style of Rameau's modified meantone
+;
+; VAZ Plus section
+[Tuning]
+note 0=3031
+note 1=3096
+note 2=3102
+note 3=3188
+note 4=3253
+note 5=3288
+note 6=3306
+note 7=3396
+note 8=3435
+note 9=3472
+note 10=3488
+note 11=3519
+note 12=3600
+note 13=3684
+note 14=3742
+note 15=3792
+note 16=3804
+note 17=3892
+note 18=3936
+note 19=3959
+note 20=3986
+note 21=4009
+note 22=4098
+note 23=4184
+note 24=4231
+note 25=4296
+note 26=4302
+note 27=4388
+note 28=4453
+note 29=4488
+note 30=4506
+note 31=4596
+note 32=4635
+note 33=4672
+note 34=4688
+note 35=4719
+note 36=4800
+note 37=4884
+note 38=4942
+note 39=4992
+note 40=5004
+note 41=5092
+note 42=5136
+note 43=5159
+note 44=5186
+note 45=5209
+note 46=5298
+note 47=5384
+note 48=5431
+note 49=5496
+note 50=5502
+note 51=5588
+note 52=5653
+note 53=5688
+note 54=5706
+note 55=5796
+note 56=5835
+note 57=5872
+note 58=5888
+note 59=5919
+note 60=6000
+note 61=6084
+note 62=6142
+note 63=6192
+note 64=6204
+note 65=6292
+note 66=6336
+note 67=6359
+note 68=6386
+note 69=6409
+note 70=6498
+note 71=6584
+note 72=6631
+note 73=6696
+note 74=6702
+note 75=6788
+note 76=6853
+note 77=6888
+note 78=6906
+note 79=6996
+note 80=7035
+note 81=7072
+note 82=7088
+note 83=7119
+note 84=7200
+note 85=7284
+note 86=7342
+note 87=7392
+note 88=7404
+note 89=7492
+note 90=7536
+note 91=7559
+note 92=7586
+note 93=7609
+note 94=7698
+note 95=7784
+note 96=7831
+note 97=7896
+note 98=7902
+note 99=7988
+note 100=8053
+note 101=8088
+note 102=8106
+note 103=8196
+note 104=8235
+note 105=8272
+note 106=8288
+note 107=8319
+note 108=8400
+note 109=8484
+note 110=8542
+note 111=8592
+note 112=8604
+note 113=8692
+note 114=8736
+note 115=8759
+note 116=8786
+note 117=8809
+note 118=8898
+note 119=8984
+note 120=9031
+note 121=9096
+note 122=9102
+note 123=9188
+note 124=9253
+note 125=9288
+note 126=9306
+note 127=9396
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "yarman24.tun"
+ID= "ID_yarman24.tun"
+Filename= "yarman24.scl"
+Description= "24-tone maqam music scale with 12-tones tempered in the style of Rameau's modified meantone"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3031.282574
+note 1= 3096.090000
+note 2= 3101.955001
+note 3= 3188.270000
+note 4= 3252.592059
+note 5= 3288.270000
+note 6= 3305.865003
+note 7= 3396.089998
+note 8= 3434.995772
+note 9= 3471.701755
+note 10= 3488.268715
+note 11= 3519.462965
+note 12= 3600.000000
+note 13= 3684.360000
+note 14= 3742.373396
+note 15= 3792.180000
+note 16= 3803.910002
+note 17= 3892.180000
+note 18= 3936.129503
+note 19= 3959.472338
+note 20= 3986.313714
+note 21= 4009.244301
+note 22= 4098.044999
+note 23= 4184.079060
+note 24= 4231.282574
+note 25= 4296.090000
+note 26= 4301.955001
+note 27= 4388.270000
+note 28= 4452.592059
+note 29= 4488.270000
+note 30= 4505.865003
+note 31= 4596.089998
+note 32= 4634.995772
+note 33= 4671.701755
+note 34= 4688.268715
+note 35= 4719.462965
+note 36= 4800.000000
+note 37= 4884.360000
+note 38= 4942.373396
+note 39= 4992.180000
+note 40= 5003.910002
+note 41= 5092.180000
+note 42= 5136.129503
+note 43= 5159.472338
+note 44= 5186.313714
+note 45= 5209.244301
+note 46= 5298.044999
+note 47= 5384.079060
+note 48= 5431.282574
+note 49= 5496.090000
+note 50= 5501.955001
+note 51= 5588.270000
+note 52= 5652.592059
+note 53= 5688.270000
+note 54= 5705.865003
+note 55= 5796.089998
+note 56= 5834.995772
+note 57= 5871.701755
+note 58= 5888.268715
+note 59= 5919.462965
+note 60= 6000.000000
+note 61= 6084.360000
+note 62= 6142.373396
+note 63= 6192.180000
+note 64= 6203.910002
+note 65= 6292.180000
+note 66= 6336.129503
+note 67= 6359.472338
+note 68= 6386.313714
+note 69= 6409.244301
+note 70= 6498.044999
+note 71= 6584.079060
+note 72= 6631.282574
+note 73= 6696.090000
+note 74= 6701.955001
+note 75= 6788.270000
+note 76= 6852.592059
+note 77= 6888.270000
+note 78= 6905.865003
+note 79= 6996.089998
+note 80= 7034.995772
+note 81= 7071.701755
+note 82= 7088.268715
+note 83= 7119.462965
+note 84= 7200.000000
+note 85= 7284.360000
+note 86= 7342.373396
+note 87= 7392.180000
+note 88= 7403.910002
+note 89= 7492.180000
+note 90= 7536.129503
+note 91= 7559.472338
+note 92= 7586.313714
+note 93= 7609.244301
+note 94= 7698.044999
+note 95= 7784.079060
+note 96= 7831.282574
+note 97= 7896.090000
+note 98= 7901.955001
+note 99= 7988.270000
+note 100= 8052.592059
+note 101= 8088.270000
+note 102= 8105.865003
+note 103= 8196.089998
+note 104= 8234.995772
+note 105= 8271.701755
+note 106= 8288.268715
+note 107= 8319.462965
+note 108= 8400.000000
+note 109= 8484.360000
+note 110= 8542.373396
+note 111= 8592.180000
+note 112= 8603.910002
+note 113= 8692.180000
+note 114= 8736.129503
+note 115= 8759.472338
+note 116= 8786.313714
+note 117= 8809.244301
+note 118= 8898.044999
+note 119= 8984.079060
+note 120= 9031.282574
+note 121= 9096.090000
+note 122= 9101.955001
+note 123= 9188.270000
+note 124= 9252.592059
+note 125= 9288.270000
+note 126= 9305.865003
+note 127= 9396.089998
+
+[Functional Tuning]
+note 1="#=0 % 84.360000"
+note 2="#=0 * 38/35"
+note 3="#=0 % 192.180000"
+note 4="#=0 * 9/8"
+note 5="#=0 % 292.180000"
+note 6="#=0 * 17/14"
+note 7="#=0 * 16/13"
+note 8="#=0 * 5/4"
+note 9="#=0 * 19/15"
+note 10="#=0 * 4/3"
+note 11="#=0 % 584.079060"
+note 12="#=0 * 36/25"
+note 13="#=0 % 696.090000"
+note 14="#=0 * 3/2"
+note 15="#=0 % 788.270000"
+note 16="#=0 * 18/11"
+note 17="#=0 % 888.270000"
+note 18="#=0 * 27/16"
+note 19="#=0 * 16/9"
+note 20="#=0 * 20/11"
+note 21="#=0 * 13/7"
+note 22="#=0 * 15/8"
+note 23="#=0 * 21/11"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

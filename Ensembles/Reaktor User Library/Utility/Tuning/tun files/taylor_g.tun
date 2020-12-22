@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Gregory Taylor's Dutch train ride scale based on pelog_schmidt
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=84
+note 2=165
+note 3=204
+note 4=316
+note 5=520
+note 6=583
+note 7=702
+note 8=786
+note 9=814
+note 10=867
+note 11=1018
+note 12=1200
+note 13=1284
+note 14=1365
+note 15=1404
+note 16=1516
+note 17=1720
+note 18=1783
+note 19=1902
+note 20=1986
+note 21=2014
+note 22=2067
+note 23=2218
+note 24=2400
+note 25=2484
+note 26=2565
+note 27=2604
+note 28=2716
+note 29=2920
+note 30=2983
+note 31=3102
+note 32=3186
+note 33=3214
+note 34=3267
+note 35=3418
+note 36=3600
+note 37=3684
+note 38=3765
+note 39=3804
+note 40=3916
+note 41=4120
+note 42=4183
+note 43=4302
+note 44=4386
+note 45=4414
+note 46=4467
+note 47=4618
+note 48=4800
+note 49=4884
+note 50=4965
+note 51=5004
+note 52=5116
+note 53=5320
+note 54=5383
+note 55=5502
+note 56=5586
+note 57=5614
+note 58=5667
+note 59=5818
+note 60=6000
+note 61=6084
+note 62=6165
+note 63=6204
+note 64=6316
+note 65=6520
+note 66=6583
+note 67=6702
+note 68=6786
+note 69=6814
+note 70=6867
+note 71=7018
+note 72=7200
+note 73=7284
+note 74=7365
+note 75=7404
+note 76=7516
+note 77=7720
+note 78=7783
+note 79=7902
+note 80=7986
+note 81=8014
+note 82=8067
+note 83=8218
+note 84=8400
+note 85=8484
+note 86=8565
+note 87=8604
+note 88=8716
+note 89=8920
+note 90=8983
+note 91=9102
+note 92=9186
+note 93=9214
+note 94=9267
+note 95=9418
+note 96=9600
+note 97=9684
+note 98=9765
+note 99=9804
+note 100=9916
+note 101=10120
+note 102=10183
+note 103=10302
+note 104=10386
+note 105=10414
+note 106=10467
+note 107=10618
+note 108=10800
+note 109=10884
+note 110=10965
+note 111=11004
+note 112=11116
+note 113=11320
+note 114=11383
+note 115=11502
+note 116=11586
+note 117=11614
+note 118=11667
+note 119=11818
+note 120=12000
+note 121=12084
+note 122=12165
+note 123=12204
+note 124=12316
+note 125=12520
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "taylor_g.tun"
+ID= "ID_taylor_g.tun"
+Filename= "taylor_g.scl"
+Description= "Gregory Taylor's Dutch train ride scale based on pelog_schmidt"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 84.467193
+note 2= 165.004228
+note 3= 203.910002
+note 4= 315.641287
+note 5= 519.551289
+note 6= 582.512193
+note 7= 701.955001
+note 8= 786.422194
+note 9= 813.686286
+note 10= 866.959229
+note 11= 1017.596288
+note 12= 1200.000000
+note 13= 1284.467193
+note 14= 1365.004228
+note 15= 1403.910002
+note 16= 1515.641287
+note 17= 1719.551289
+note 18= 1782.512193
+note 19= 1901.955001
+note 20= 1986.422194
+note 21= 2013.686286
+note 22= 2066.959229
+note 23= 2217.596288
+note 24= 2400.000000
+note 25= 2484.467193
+note 26= 2565.004228
+note 27= 2603.910002
+note 28= 2715.641287
+note 29= 2919.551289
+note 30= 2982.512193
+note 31= 3101.955001
+note 32= 3186.422194
+note 33= 3213.686286
+note 34= 3266.959229
+note 35= 3417.596288
+note 36= 3600.000000
+note 37= 3684.467193
+note 38= 3765.004228
+note 39= 3803.910002
+note 40= 3915.641287
+note 41= 4119.551289
+note 42= 4182.512193
+note 43= 4301.955001
+note 44= 4386.422194
+note 45= 4413.686286
+note 46= 4466.959229
+note 47= 4617.596288
+note 48= 4800.000000
+note 49= 4884.467193
+note 50= 4965.004228
+note 51= 5003.910002
+note 52= 5115.641287
+note 53= 5319.551289
+note 54= 5382.512193
+note 55= 5501.955001
+note 56= 5586.422194
+note 57= 5613.686286
+note 58= 5666.959229
+note 59= 5817.596288
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6165.004228
+note 63= 6203.910002
+note 64= 6315.641287
+note 65= 6519.551289
+note 66= 6582.512193
+note 67= 6701.955001
+note 68= 6786.422194
+note 69= 6813.686286
+note 70= 6866.959229
+note 71= 7017.596288
+note 72= 7200.000000
+note 73= 7284.467193
+note 74= 7365.004228
+note 75= 7403.910002
+note 76= 7515.641287
+note 77= 7719.551289
+note 78= 7782.512193
+note 79= 7901.955001
+note 80= 7986.422194
+note 81= 8013.686286
+note 82= 8066.959229
+note 83= 8217.596288
+note 84= 8400.000000
+note 85= 8484.467193
+note 86= 8565.004228
+note 87= 8603.910002
+note 88= 8715.641287
+note 89= 8919.551289
+note 90= 8982.512193
+note 91= 9101.955001
+note 92= 9186.422194
+note 93= 9213.686286
+note 94= 9266.959229
+note 95= 9417.596288
+note 96= 9600.000000
+note 97= 9684.467193
+note 98= 9765.004228
+note 99= 9803.910002
+note 100= 9915.641287
+note 101= 10119.551289
+note 102= 10182.512193
+note 103= 10301.955001
+note 104= 10386.422194
+note 105= 10413.686286
+note 106= 10466.959229
+note 107= 10617.596288
+note 108= 10800.000000
+note 109= 10884.467193
+note 110= 10965.004228
+note 111= 11003.910002
+note 112= 11115.641287
+note 113= 11319.551289
+note 114= 11382.512193
+note 115= 11501.955001
+note 116= 11586.422194
+note 117= 11613.686286
+note 118= 11666.959229
+note 119= 11817.596288
+note 120= 12000.000000
+note 121= 12084.467193
+note 122= 12165.004228
+note 123= 12203.910002
+note 124= 12315.641287
+note 125= 12519.551289
+note 126= 12582.512193
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 11/10"
+note 3="#=0 * 9/8"
+note 4="#=0 * 6/5"
+note 5="#=0 * 27/20"
+note 6="#=0 * 7/5"
+note 7="#=0 * 3/2"
+note 8="#=0 * 63/40"
+note 9="#=0 * 8/5"
+note 10="#=0 * 33/20"
+note 11="#=0 * 9/5"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

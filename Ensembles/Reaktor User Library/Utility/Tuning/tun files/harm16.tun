@@ -1,0 +1,298 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Harmonics 16 to 32, Tom Stone's Guitar Scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1586
+note 1=1671
+note 2=1751
+note 3=1828
+note 4=1902
+note 5=1973
+note 6=2041
+note 7=2106
+note 8=2169
+note 9=2230
+note 10=2288
+note 11=2345
+note 12=2400
+note 13=2505
+note 14=2604
+note 15=2698
+note 16=2786
+note 17=2871
+note 18=2951
+note 19=3028
+note 20=3102
+note 21=3173
+note 22=3241
+note 23=3306
+note 24=3369
+note 25=3430
+note 26=3488
+note 27=3545
+note 28=3600
+note 29=3705
+note 30=3804
+note 31=3898
+note 32=3986
+note 33=4071
+note 34=4151
+note 35=4228
+note 36=4302
+note 37=4373
+note 38=4441
+note 39=4506
+note 40=4569
+note 41=4630
+note 42=4688
+note 43=4745
+note 44=4800
+note 45=4905
+note 46=5004
+note 47=5098
+note 48=5186
+note 49=5271
+note 50=5351
+note 51=5428
+note 52=5502
+note 53=5573
+note 54=5641
+note 55=5706
+note 56=5769
+note 57=5830
+note 58=5888
+note 59=5945
+note 60=6000
+note 61=6105
+note 62=6204
+note 63=6298
+note 64=6386
+note 65=6471
+note 66=6551
+note 67=6628
+note 68=6702
+note 69=6773
+note 70=6841
+note 71=6906
+note 72=6969
+note 73=7030
+note 74=7088
+note 75=7145
+note 76=7200
+note 77=7305
+note 78=7404
+note 79=7498
+note 80=7586
+note 81=7671
+note 82=7751
+note 83=7828
+note 84=7902
+note 85=7973
+note 86=8041
+note 87=8106
+note 88=8169
+note 89=8230
+note 90=8288
+note 91=8345
+note 92=8400
+note 93=8505
+note 94=8604
+note 95=8698
+note 96=8786
+note 97=8871
+note 98=8951
+note 99=9028
+note 100=9102
+note 101=9173
+note 102=9241
+note 103=9306
+note 104=9369
+note 105=9430
+note 106=9488
+note 107=9545
+note 108=9600
+note 109=9705
+note 110=9804
+note 111=9898
+note 112=9986
+note 113=10071
+note 114=10151
+note 115=10228
+note 116=10302
+note 117=10373
+note 118=10441
+note 119=10506
+note 120=10569
+note 121=10630
+note 122=10688
+note 123=10745
+note 124=10800
+note 125=10905
+note 126=11004
+note 127=11098
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "harm16.tun"
+ID= "ID_harm16.tun"
+Filename= "harm16.scl"
+Description= "Harmonics 16 to 32, Tom Stone's Guitar Scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1586.313714
+note 1= 1670.780907
+note 2= 1751.317942
+note 3= 1828.274347
+note 4= 1901.955001
+note 5= 1972.627428
+note 6= 2040.527662
+note 7= 2105.865003
+note 8= 2168.825906
+note 9= 2229.577194
+note 10= 2288.268715
+note 11= 2345.035572
+note 12= 2400.000000
+note 13= 2504.955410
+note 14= 2603.910002
+note 15= 2697.513016
+note 16= 2786.313714
+note 17= 2870.780907
+note 18= 2951.317942
+note 19= 3028.274347
+note 20= 3101.955001
+note 21= 3172.627428
+note 22= 3240.527662
+note 23= 3305.865003
+note 24= 3368.825906
+note 25= 3429.577194
+note 26= 3488.268715
+note 27= 3545.035572
+note 28= 3600.000000
+note 29= 3704.955410
+note 30= 3803.910002
+note 31= 3897.513016
+note 32= 3986.313714
+note 33= 4070.780907
+note 34= 4151.317942
+note 35= 4228.274347
+note 36= 4301.955001
+note 37= 4372.627428
+note 38= 4440.527662
+note 39= 4505.865003
+note 40= 4568.825906
+note 41= 4629.577194
+note 42= 4688.268715
+note 43= 4745.035572
+note 44= 4800.000000
+note 45= 4904.955410
+note 46= 5003.910002
+note 47= 5097.513016
+note 48= 5186.313714
+note 49= 5270.780907
+note 50= 5351.317942
+note 51= 5428.274347
+note 52= 5501.955001
+note 53= 5572.627428
+note 54= 5640.527662
+note 55= 5705.865003
+note 56= 5768.825906
+note 57= 5829.577194
+note 58= 5888.268715
+note 59= 5945.035572
+note 60= 6000.000000
+note 61= 6104.955410
+note 62= 6203.910002
+note 63= 6297.513016
+note 64= 6386.313714
+note 65= 6470.780907
+note 66= 6551.317942
+note 67= 6628.274347
+note 68= 6701.955001
+note 69= 6772.627428
+note 70= 6840.527662
+note 71= 6905.865003
+note 72= 6968.825906
+note 73= 7029.577194
+note 74= 7088.268715
+note 75= 7145.035572
+note 76= 7200.000000
+note 77= 7304.955410
+note 78= 7403.910002
+note 79= 7497.513016
+note 80= 7586.313714
+note 81= 7670.780907
+note 82= 7751.317942
+note 83= 7828.274347
+note 84= 7901.955001
+note 85= 7972.627428
+note 86= 8040.527662
+note 87= 8105.865003
+note 88= 8168.825906
+note 89= 8229.577194
+note 90= 8288.268715
+note 91= 8345.035572
+note 92= 8400.000000
+note 93= 8504.955410
+note 94= 8603.910002
+note 95= 8697.513016
+note 96= 8786.313714
+note 97= 8870.780907
+note 98= 8951.317942
+note 99= 9028.274347
+note 100= 9101.955001
+note 101= 9172.627428
+note 102= 9240.527662
+note 103= 9305.865003
+note 104= 9368.825906
+note 105= 9429.577194
+note 106= 9488.268715
+note 107= 9545.035572
+note 108= 9600.000000
+note 109= 9704.955410
+note 110= 9803.910002
+note 111= 9897.513016
+note 112= 9986.313714
+note 113= 10070.780907
+note 114= 10151.317942
+note 115= 10228.274347
+note 116= 10301.955001
+note 117= 10372.627428
+note 118= 10440.527662
+note 119= 10505.865003
+note 120= 10568.825906
+note 121= 10629.577194
+note 122= 10688.268715
+note 123= 10745.035572
+note 124= 10800.000000
+note 125= 10904.955410
+note 126= 11003.910002
+note 127= 11097.513016
+
+[Functional Tuning]
+note 1="#=0 * 17/16"
+note 2="#=0 * 9/8"
+note 3="#=0 * 19/16"
+note 4="#=0 * 5/4"
+note 5="#=0 * 21/16"
+note 6="#=0 * 11/8"
+note 7="#=0 * 23/16"
+note 8="#=0 * 3/2"
+note 9="#=0 * 25/16"
+note 10="#=0 * 13/8"
+note 11="#=0 * 27/16"
+note 12="#=0 * 7/4"
+note 13="#=0 * 29/16"
+note 14="#=0 * 15/8"
+note 15="#=0 * 31/16"
+note 16="#>-16 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

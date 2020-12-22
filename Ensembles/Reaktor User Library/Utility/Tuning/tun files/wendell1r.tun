@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Rational version of wendell1.scl by Gene Ward Smith
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=94
+note 2=198
+note 3=298
+note 4=394
+note 5=498
+note 6=598
+note 7=700
+note 8=796
+note 9=896
+note 10=1000
+note 11=1096
+note 12=1200
+note 13=1294
+note 14=1398
+note 15=1498
+note 16=1594
+note 17=1698
+note 18=1798
+note 19=1900
+note 20=1996
+note 21=2096
+note 22=2200
+note 23=2296
+note 24=2400
+note 25=2494
+note 26=2598
+note 27=2698
+note 28=2794
+note 29=2898
+note 30=2998
+note 31=3100
+note 32=3196
+note 33=3296
+note 34=3400
+note 35=3496
+note 36=3600
+note 37=3694
+note 38=3798
+note 39=3898
+note 40=3994
+note 41=4098
+note 42=4198
+note 43=4300
+note 44=4396
+note 45=4496
+note 46=4600
+note 47=4696
+note 48=4800
+note 49=4894
+note 50=4998
+note 51=5098
+note 52=5194
+note 53=5298
+note 54=5398
+note 55=5500
+note 56=5596
+note 57=5696
+note 58=5800
+note 59=5896
+note 60=6000
+note 61=6094
+note 62=6198
+note 63=6298
+note 64=6394
+note 65=6498
+note 66=6598
+note 67=6700
+note 68=6796
+note 69=6896
+note 70=7000
+note 71=7096
+note 72=7200
+note 73=7294
+note 74=7398
+note 75=7498
+note 76=7594
+note 77=7698
+note 78=7798
+note 79=7900
+note 80=7996
+note 81=8096
+note 82=8200
+note 83=8296
+note 84=8400
+note 85=8494
+note 86=8598
+note 87=8698
+note 88=8794
+note 89=8898
+note 90=8998
+note 91=9100
+note 92=9196
+note 93=9296
+note 94=9400
+note 95=9496
+note 96=9600
+note 97=9694
+note 98=9798
+note 99=9898
+note 100=9994
+note 101=10098
+note 102=10198
+note 103=10300
+note 104=10396
+note 105=10496
+note 106=10600
+note 107=10696
+note 108=10800
+note 109=10894
+note 110=10998
+note 111=11098
+note 112=11194
+note 113=11298
+note 114=11398
+note 115=11500
+note 116=11596
+note 117=11696
+note 118=11800
+note 119=11896
+note 120=12000
+note 121=12094
+note 122=12198
+note 123=12298
+note 124=12394
+note 125=12498
+note 126=12598
+note 127=12700
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "wendell1r.tun"
+ID= "ID_wendell1r.tun"
+Filename= "wendell1r.scl"
+Description= "Rational version of wendell1.scl by Gene Ward Smith"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 94.200233
+note 2= 198.250185
+note 3= 298.110235
+note 4= 393.736901
+note 5= 498.044999
+note 6= 597.646903
+note 7= 699.575216
+note 8= 796.155234
+note 9= 895.822121
+note 10= 1000.065235
+note 11= 1095.691902
+note 12= 1200.000000
+note 13= 1294.200233
+note 14= 1398.250185
+note 15= 1498.110235
+note 16= 1593.736901
+note 17= 1698.044999
+note 18= 1797.646903
+note 19= 1899.575216
+note 20= 1996.155234
+note 21= 2095.822121
+note 22= 2200.065235
+note 23= 2295.691902
+note 24= 2400.000000
+note 25= 2494.200233
+note 26= 2598.250185
+note 27= 2698.110235
+note 28= 2793.736901
+note 29= 2898.044999
+note 30= 2997.646903
+note 31= 3099.575216
+note 32= 3196.155234
+note 33= 3295.822121
+note 34= 3400.065235
+note 35= 3495.691902
+note 36= 3600.000000
+note 37= 3694.200233
+note 38= 3798.250185
+note 39= 3898.110235
+note 40= 3993.736901
+note 41= 4098.044999
+note 42= 4197.646903
+note 43= 4299.575216
+note 44= 4396.155234
+note 45= 4495.822121
+note 46= 4600.065235
+note 47= 4695.691902
+note 48= 4800.000000
+note 49= 4894.200233
+note 50= 4998.250185
+note 51= 5098.110235
+note 52= 5193.736901
+note 53= 5298.044999
+note 54= 5397.646903
+note 55= 5499.575216
+note 56= 5596.155234
+note 57= 5695.822121
+note 58= 5800.065235
+note 59= 5895.691902
+note 60= 6000.000000
+note 61= 6094.200233
+note 62= 6198.250185
+note 63= 6298.110235
+note 64= 6393.736901
+note 65= 6498.044999
+note 66= 6597.646903
+note 67= 6699.575216
+note 68= 6796.155234
+note 69= 6895.822121
+note 70= 7000.065235
+note 71= 7095.691902
+note 72= 7200.000000
+note 73= 7294.200233
+note 74= 7398.250185
+note 75= 7498.110235
+note 76= 7593.736901
+note 77= 7698.044999
+note 78= 7797.646903
+note 79= 7899.575216
+note 80= 7996.155234
+note 81= 8095.822121
+note 82= 8200.065235
+note 83= 8295.691902
+note 84= 8400.000000
+note 85= 8494.200233
+note 86= 8598.250185
+note 87= 8698.110235
+note 88= 8793.736901
+note 89= 8898.044999
+note 90= 8997.646903
+note 91= 9099.575216
+note 92= 9196.155234
+note 93= 9295.822121
+note 94= 9400.065235
+note 95= 9495.691902
+note 96= 9600.000000
+note 97= 9694.200233
+note 98= 9798.250185
+note 99= 9898.110235
+note 100= 9993.736901
+note 101= 10098.044999
+note 102= 10197.646903
+note 103= 10299.575216
+note 104= 10396.155234
+note 105= 10495.822121
+note 106= 10600.065235
+note 107= 10695.691902
+note 108= 10800.000000
+note 109= 10894.200233
+note 110= 10998.250185
+note 111= 11098.110235
+note 112= 11193.736901
+note 113= 11298.044999
+note 114= 11397.646903
+note 115= 11499.575216
+note 116= 11596.155234
+note 117= 11695.822121
+note 118= 11800.065235
+note 119= 11895.691902
+note 120= 12000.000000
+note 121= 12094.200233
+note 122= 12198.250185
+note 123= 12298.110235
+note 124= 12393.736901
+note 125= 12498.044999
+note 126= 12597.646903
+note 127= 12699.575216
+
+[Functional Tuning]
+note 1="#=0 * 24000/22729"
+note 2="#=0 * 76460/68187"
+note 3="#=0 * 27000/22729"
+note 4="#=0 * 85600/68187"
+note 5="#=0 * 4/3"
+note 6="#=0 * 32100/22729"
+note 7="#=0 * 102140/68187"
+note 8="#=0 * 36000/22729"
+note 9="#=0 * 114400/68187"
+note 10="#=0 * 40500/22729"
+note 11="#=0 * 42800/22729"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

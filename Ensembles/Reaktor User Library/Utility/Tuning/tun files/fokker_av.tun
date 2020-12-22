@@ -1,0 +1,313 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Fokker's suggestion for a shrinked octave by averaging approximations
+;
+; VAZ Plus section
+[Tuning]
+note 0=3681
+note 1=3720
+note 2=3758
+note 3=3797
+note 4=3836
+note 5=3874
+note 6=3913
+note 7=3951
+note 8=3990
+note 9=4029
+note 10=4067
+note 11=4106
+note 12=4145
+note 13=4183
+note 14=4222
+note 15=4261
+note 16=4299
+note 17=4338
+note 18=4377
+note 19=4415
+note 20=4454
+note 21=4493
+note 22=4531
+note 23=4570
+note 24=4609
+note 25=4647
+note 26=4686
+note 27=4724
+note 28=4763
+note 29=4802
+note 30=4840
+note 31=4879
+note 32=4918
+note 33=4956
+note 34=4995
+note 35=5034
+note 36=5072
+note 37=5111
+note 38=5150
+note 39=5188
+note 40=5227
+note 41=5266
+note 42=5304
+note 43=5343
+note 44=5382
+note 45=5420
+note 46=5459
+note 47=5498
+note 48=5536
+note 49=5575
+note 50=5613
+note 51=5652
+note 52=5691
+note 53=5729
+note 54=5768
+note 55=5807
+note 56=5845
+note 57=5884
+note 58=5923
+note 59=5961
+note 60=6000
+note 61=6039
+note 62=6077
+note 63=6116
+note 64=6155
+note 65=6193
+note 66=6232
+note 67=6271
+note 68=6309
+note 69=6348
+note 70=6387
+note 71=6425
+note 72=6464
+note 73=6502
+note 74=6541
+note 75=6580
+note 76=6618
+note 77=6657
+note 78=6696
+note 79=6734
+note 80=6773
+note 81=6812
+note 82=6850
+note 83=6889
+note 84=6928
+note 85=6966
+note 86=7005
+note 87=7044
+note 88=7082
+note 89=7121
+note 90=7160
+note 91=7198
+note 92=7237
+note 93=7276
+note 94=7314
+note 95=7353
+note 96=7391
+note 97=7430
+note 98=7469
+note 99=7507
+note 100=7546
+note 101=7585
+note 102=7623
+note 103=7662
+note 104=7701
+note 105=7739
+note 106=7778
+note 107=7817
+note 108=7855
+note 109=7894
+note 110=7933
+note 111=7971
+note 112=8010
+note 113=8049
+note 114=8087
+note 115=8126
+note 116=8164
+note 117=8203
+note 118=8242
+note 119=8280
+note 120=8319
+note 121=8358
+note 122=8396
+note 123=8435
+note 124=8474
+note 125=8512
+note 126=8551
+note 127=8590
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "fokker_av.tun"
+ID= "ID_fokker_av.tun"
+Filename= "fokker_av.scl"
+Description= "Fokker's suggestion for a shrinked octave by averaging approximations"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3680.903230
+note 1= 3719.554840
+note 2= 3758.206450
+note 3= 3796.858060
+note 4= 3835.509680
+note 5= 3874.161290
+note 6= 3912.812900
+note 7= 3951.464520
+note 8= 3990.116130
+note 9= 4028.767740
+note 10= 4067.419350
+note 11= 4106.070970
+note 12= 4144.722580
+note 13= 4183.374190
+note 14= 4222.025810
+note 15= 4260.677420
+note 16= 4299.329030
+note 17= 4337.980650
+note 18= 4376.632260
+note 19= 4415.283870
+note 20= 4453.935480
+note 21= 4492.587100
+note 22= 4531.238710
+note 23= 4569.890320
+note 24= 4608.541940
+note 25= 4647.193550
+note 26= 4685.845160
+note 27= 4724.496770
+note 28= 4763.148390
+note 29= 4801.800000
+note 30= 4840.451610
+note 31= 4879.103230
+note 32= 4917.754840
+note 33= 4956.406450
+note 34= 4995.058060
+note 35= 5033.709680
+note 36= 5072.361290
+note 37= 5111.012900
+note 38= 5149.664520
+note 39= 5188.316130
+note 40= 5226.967740
+note 41= 5265.619350
+note 42= 5304.270970
+note 43= 5342.922580
+note 44= 5381.574190
+note 45= 5420.225810
+note 46= 5458.877420
+note 47= 5497.529030
+note 48= 5536.180650
+note 49= 5574.832260
+note 50= 5613.483870
+note 51= 5652.135480
+note 52= 5690.787100
+note 53= 5729.438710
+note 54= 5768.090320
+note 55= 5806.741940
+note 56= 5845.393550
+note 57= 5884.045160
+note 58= 5922.696770
+note 59= 5961.348390
+note 60= 6000.000000
+note 61= 6038.651610
+note 62= 6077.303230
+note 63= 6115.954840
+note 64= 6154.606450
+note 65= 6193.258060
+note 66= 6231.909680
+note 67= 6270.561290
+note 68= 6309.212900
+note 69= 6347.864520
+note 70= 6386.516130
+note 71= 6425.167740
+note 72= 6463.819350
+note 73= 6502.470970
+note 74= 6541.122580
+note 75= 6579.774190
+note 76= 6618.425810
+note 77= 6657.077420
+note 78= 6695.729030
+note 79= 6734.380650
+note 80= 6773.032260
+note 81= 6811.683870
+note 82= 6850.335480
+note 83= 6888.987100
+note 84= 6927.638710
+note 85= 6966.290320
+note 86= 7004.941940
+note 87= 7043.593550
+note 88= 7082.245160
+note 89= 7120.896770
+note 90= 7159.548390
+note 91= 7198.200000
+note 92= 7236.851610
+note 93= 7275.503230
+note 94= 7314.154840
+note 95= 7352.806450
+note 96= 7391.458060
+note 97= 7430.109680
+note 98= 7468.761290
+note 99= 7507.412900
+note 100= 7546.064520
+note 101= 7584.716130
+note 102= 7623.367740
+note 103= 7662.019350
+note 104= 7700.670970
+note 105= 7739.322580
+note 106= 7777.974190
+note 107= 7816.625810
+note 108= 7855.277420
+note 109= 7893.929030
+note 110= 7932.580650
+note 111= 7971.232260
+note 112= 8009.883870
+note 113= 8048.535480
+note 114= 8087.187100
+note 115= 8125.838710
+note 116= 8164.490320
+note 117= 8203.141940
+note 118= 8241.793550
+note 119= 8280.445160
+note 120= 8319.096770
+note 121= 8357.748390
+note 122= 8396.400000
+note 123= 8435.051610
+note 124= 8473.703230
+note 125= 8512.354840
+note 126= 8551.006450
+note 127= 8589.658060
+
+[Functional Tuning]
+note 1="#=0 % 38.651610"
+note 2="#=0 % 77.303230"
+note 3="#=0 % 115.954840"
+note 4="#=0 % 154.606450"
+note 5="#=0 % 193.258060"
+note 6="#=0 % 231.909680"
+note 7="#=0 % 270.561290"
+note 8="#=0 % 309.212900"
+note 9="#=0 % 347.864520"
+note 10="#=0 % 386.516130"
+note 11="#=0 % 425.167740"
+note 12="#=0 % 463.819350"
+note 13="#=0 % 502.470970"
+note 14="#=0 % 541.122580"
+note 15="#=0 % 579.774190"
+note 16="#=0 % 618.425810"
+note 17="#=0 % 657.077420"
+note 18="#=0 % 695.729030"
+note 19="#=0 % 734.380650"
+note 20="#=0 % 773.032260"
+note 21="#=0 % 811.683870"
+note 22="#=0 % 850.335480"
+note 23="#=0 % 888.987100"
+note 24="#=0 % 927.638710"
+note 25="#=0 % 966.290320"
+note 26="#=0 % 1004.941940"
+note 27="#=0 % 1043.593550"
+note 28="#=0 % 1082.245160"
+note 29="#=0 % 1120.896770"
+note 30="#=0 % 1159.548390"
+note 31="#>-31 % 1198.200000 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

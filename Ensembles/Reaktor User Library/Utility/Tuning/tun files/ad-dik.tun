@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Amin Ad-Dik, 24-tone Egyptian tuning, d'Erlanger vol.5, p. 42
+;
+; VAZ Plus section
+[Tuning]
+note 0=2988
+note 1=3039
+note 2=3102
+note 3=3138
+note 4=3192
+note 5=3253
+note 6=3306
+note 7=3352
+note 8=3418
+note 9=3449
+note 10=3488
+note 11=3551
+note 12=3600
+note 13=3648
+note 14=3690
+note 15=3751
+note 16=3804
+note 17=3840
+note 18=3894
+note 19=3955
+note 20=3986
+note 21=4035
+note 22=4098
+note 23=4147
+note 24=4188
+note 25=4239
+note 26=4302
+note 27=4338
+note 28=4392
+note 29=4453
+note 30=4506
+note 31=4552
+note 32=4618
+note 33=4649
+note 34=4688
+note 35=4751
+note 36=4800
+note 37=4848
+note 38=4890
+note 39=4951
+note 40=5004
+note 41=5040
+note 42=5094
+note 43=5155
+note 44=5186
+note 45=5235
+note 46=5298
+note 47=5347
+note 48=5388
+note 49=5439
+note 50=5502
+note 51=5538
+note 52=5592
+note 53=5653
+note 54=5706
+note 55=5752
+note 56=5818
+note 57=5849
+note 58=5888
+note 59=5951
+note 60=6000
+note 61=6048
+note 62=6090
+note 63=6151
+note 64=6204
+note 65=6240
+note 66=6294
+note 67=6355
+note 68=6386
+note 69=6435
+note 70=6498
+note 71=6547
+note 72=6588
+note 73=6639
+note 74=6702
+note 75=6738
+note 76=6792
+note 77=6853
+note 78=6906
+note 79=6952
+note 80=7018
+note 81=7049
+note 82=7088
+note 83=7151
+note 84=7200
+note 85=7248
+note 86=7290
+note 87=7351
+note 88=7404
+note 89=7440
+note 90=7494
+note 91=7555
+note 92=7586
+note 93=7635
+note 94=7698
+note 95=7747
+note 96=7788
+note 97=7839
+note 98=7902
+note 99=7938
+note 100=7992
+note 101=8053
+note 102=8106
+note 103=8152
+note 104=8218
+note 105=8249
+note 106=8288
+note 107=8351
+note 108=8400
+note 109=8448
+note 110=8490
+note 111=8551
+note 112=8604
+note 113=8640
+note 114=8694
+note 115=8755
+note 116=8786
+note 117=8835
+note 118=8898
+note 119=8947
+note 120=8988
+note 121=9039
+note 122=9102
+note 123=9138
+note 124=9192
+note 125=9253
+note 126=9306
+note 127=9352
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "ad-dik.tun"
+ID= "ID_ad-dik.tun"
+Filename= "ad-dik.scl"
+Description= "Amin Ad-Dik, 24-tone Egyptian tuning, d'Erlanger vol.5, p. 42"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2988.269995
+note 1= 3038.994097
+note 2= 3101.955001
+note 3= 3137.651813
+note 4= 3192.179997
+note 5= 3252.592059
+note 6= 3305.865003
+note 7= 3352.258947
+note 8= 3417.596288
+note 9= 3449.362941
+note 10= 3488.268715
+note 11= 3551.229619
+note 12= 3600.000000
+note 13= 3648.347665
+note 14= 3690.224996
+note 15= 3750.637059
+note 16= 3803.910002
+note 17= 3839.606814
+note 18= 3894.134997
+note 19= 3954.547060
+note 20= 3986.313714
+note 21= 4035.084095
+note 22= 4098.044999
+note 23= 4146.815381
+note 24= 4188.269995
+note 25= 4238.994097
+note 26= 4301.955001
+note 27= 4337.651813
+note 28= 4392.179997
+note 29= 4452.592059
+note 30= 4505.865003
+note 31= 4552.258947
+note 32= 4617.596288
+note 33= 4649.362941
+note 34= 4688.268715
+note 35= 4751.229619
+note 36= 4800.000000
+note 37= 4848.347665
+note 38= 4890.224996
+note 39= 4950.637059
+note 40= 5003.910002
+note 41= 5039.606814
+note 42= 5094.134997
+note 43= 5154.547060
+note 44= 5186.313714
+note 45= 5235.084095
+note 46= 5298.044999
+note 47= 5346.815381
+note 48= 5388.269995
+note 49= 5438.994097
+note 50= 5501.955001
+note 51= 5537.651813
+note 52= 5592.179997
+note 53= 5652.592059
+note 54= 5705.865003
+note 55= 5752.258947
+note 56= 5817.596288
+note 57= 5849.362941
+note 58= 5888.268715
+note 59= 5951.229619
+note 60= 6000.000000
+note 61= 6048.347665
+note 62= 6090.224996
+note 63= 6150.637059
+note 64= 6203.910002
+note 65= 6239.606814
+note 66= 6294.134997
+note 67= 6354.547060
+note 68= 6386.313714
+note 69= 6435.084095
+note 70= 6498.044999
+note 71= 6546.815381
+note 72= 6588.269995
+note 73= 6638.994097
+note 74= 6701.955001
+note 75= 6737.651813
+note 76= 6792.179997
+note 77= 6852.592059
+note 78= 6905.865003
+note 79= 6952.258947
+note 80= 7017.596288
+note 81= 7049.362941
+note 82= 7088.268715
+note 83= 7151.229619
+note 84= 7200.000000
+note 85= 7248.347665
+note 86= 7290.224996
+note 87= 7350.637059
+note 88= 7403.910002
+note 89= 7439.606814
+note 90= 7494.134997
+note 91= 7554.547060
+note 92= 7586.313714
+note 93= 7635.084095
+note 94= 7698.044999
+note 95= 7746.815381
+note 96= 7788.269995
+note 97= 7838.994097
+note 98= 7901.955001
+note 99= 7937.651813
+note 100= 7992.179997
+note 101= 8052.592059
+note 102= 8105.865003
+note 103= 8152.258947
+note 104= 8217.596288
+note 105= 8249.362941
+note 106= 8288.268715
+note 107= 8351.229619
+note 108= 8400.000000
+note 109= 8448.347665
+note 110= 8490.224996
+note 111= 8550.637059
+note 112= 8603.910002
+note 113= 8639.606814
+note 114= 8694.134997
+note 115= 8754.547060
+note 116= 8786.313714
+note 117= 8835.084095
+note 118= 8898.044999
+note 119= 8946.815381
+note 120= 8988.269995
+note 121= 9038.994097
+note 122= 9101.955001
+note 123= 9137.651813
+note 124= 9192.179997
+note 125= 9252.592059
+note 126= 9305.865003
+note 127= 9352.258947
+
+[Functional Tuning]
+note 1="#=0 * 1053/1024"
+note 2="#=0 * 256/243"
+note 3="#=0 * 12/11"
+note 4="#=0 * 9/8"
+note 5="#=0 * 147/128"
+note 6="#=0 * 32/27"
+note 7="#=0 * 27/22"
+note 8="#=0 * 5/4"
+note 9="#=0 * 9/7"
+note 10="#=0 * 4/3"
+note 11="#=0 * 48/35"
+note 12="#=0 * 1024/729"
+note 13="#=0 * 81/56"
+note 14="#=0 * 3/2"
+note 15="#=0 * 49/32"
+note 16="#=0 * 128/81"
+note 17="#=0 * 18/11"
+note 18="#=0 * 27/16"
+note 19="#=0 * 26/15"
+note 20="#=0 * 9/5"
+note 21="#=0 * 11/6"
+note 22="#=0 * 15/8"
+note 23="#=0 * 35/18"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,296 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Circle of seven minor, six major, and one subminor thirds in 531-et
+;
+; VAZ Plus section
+[Tuning]
+note 0=908
+note 1=933
+note 2=1019
+note 3=1114
+note 4=1200
+note 5=1225
+note 6=1406
+note 7=1431
+note 8=1516
+note 9=1611
+note 10=1722
+note 11=1817
+note 12=1903
+note 13=1928
+note 14=2108
+note 15=2133
+note 16=2219
+note 17=2314
+note 18=2400
+note 19=2425
+note 20=2606
+note 21=2631
+note 22=2716
+note 23=2811
+note 24=2922
+note 25=3017
+note 26=3103
+note 27=3128
+note 28=3308
+note 29=3333
+note 30=3419
+note 31=3514
+note 32=3600
+note 33=3625
+note 34=3806
+note 35=3831
+note 36=3916
+note 37=4011
+note 38=4122
+note 39=4217
+note 40=4303
+note 41=4328
+note 42=4508
+note 43=4533
+note 44=4619
+note 45=4714
+note 46=4800
+note 47=4825
+note 48=5006
+note 49=5031
+note 50=5116
+note 51=5211
+note 52=5322
+note 53=5417
+note 54=5503
+note 55=5528
+note 56=5708
+note 57=5733
+note 58=5819
+note 59=5914
+note 60=6000
+note 61=6025
+note 62=6206
+note 63=6231
+note 64=6316
+note 65=6411
+note 66=6522
+note 67=6617
+note 68=6703
+note 69=6728
+note 70=6908
+note 71=6933
+note 72=7019
+note 73=7114
+note 74=7200
+note 75=7225
+note 76=7406
+note 77=7431
+note 78=7516
+note 79=7611
+note 80=7722
+note 81=7817
+note 82=7903
+note 83=7928
+note 84=8108
+note 85=8133
+note 86=8219
+note 87=8314
+note 88=8400
+note 89=8425
+note 90=8606
+note 91=8631
+note 92=8716
+note 93=8811
+note 94=8922
+note 95=9017
+note 96=9103
+note 97=9128
+note 98=9308
+note 99=9333
+note 100=9419
+note 101=9514
+note 102=9600
+note 103=9625
+note 104=9806
+note 105=9831
+note 106=9916
+note 107=10011
+note 108=10122
+note 109=10217
+note 110=10303
+note 111=10328
+note 112=10508
+note 113=10533
+note 114=10619
+note 115=10714
+note 116=10800
+note 117=10825
+note 118=11006
+note 119=11031
+note 120=11116
+note 121=11211
+note 122=11322
+note 123=11417
+note 124=11503
+note 125=11528
+note 126=11708
+note 127=11733
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "circ5120.tun"
+ID= "ID_circ5120.tun"
+Filename= "circ5120.scl"
+Description= "Circle of seven minor, six major, and one subminor thirds in 531-et"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 908.474576
+note 1= 933.333333
+note 2= 1019.209040
+note 3= 1114.124294
+note 4= 1200.000000
+note 5= 1224.858757
+note 6= 1405.649718
+note 7= 1430.508475
+note 8= 1516.384181
+note 9= 1611.299435
+note 10= 1722.033898
+note 11= 1816.949153
+note 12= 1902.824859
+note 13= 1927.683616
+note 14= 2108.474576
+note 15= 2133.333333
+note 16= 2219.209040
+note 17= 2314.124294
+note 18= 2400.000000
+note 19= 2424.858757
+note 20= 2605.649718
+note 21= 2630.508475
+note 22= 2716.384181
+note 23= 2811.299435
+note 24= 2922.033898
+note 25= 3016.949153
+note 26= 3102.824859
+note 27= 3127.683616
+note 28= 3308.474576
+note 29= 3333.333333
+note 30= 3419.209040
+note 31= 3514.124294
+note 32= 3600.000000
+note 33= 3624.858757
+note 34= 3805.649718
+note 35= 3830.508475
+note 36= 3916.384181
+note 37= 4011.299435
+note 38= 4122.033898
+note 39= 4216.949153
+note 40= 4302.824859
+note 41= 4327.683616
+note 42= 4508.474576
+note 43= 4533.333333
+note 44= 4619.209040
+note 45= 4714.124294
+note 46= 4800.000000
+note 47= 4824.858757
+note 48= 5005.649718
+note 49= 5030.508475
+note 50= 5116.384181
+note 51= 5211.299435
+note 52= 5322.033898
+note 53= 5416.949153
+note 54= 5502.824859
+note 55= 5527.683616
+note 56= 5708.474576
+note 57= 5733.333333
+note 58= 5819.209040
+note 59= 5914.124294
+note 60= 6000.000000
+note 61= 6024.858757
+note 62= 6205.649718
+note 63= 6230.508475
+note 64= 6316.384181
+note 65= 6411.299435
+note 66= 6522.033898
+note 67= 6616.949153
+note 68= 6702.824859
+note 69= 6727.683616
+note 70= 6908.474576
+note 71= 6933.333333
+note 72= 7019.209040
+note 73= 7114.124294
+note 74= 7200.000000
+note 75= 7224.858757
+note 76= 7405.649718
+note 77= 7430.508475
+note 78= 7516.384181
+note 79= 7611.299435
+note 80= 7722.033898
+note 81= 7816.949153
+note 82= 7902.824859
+note 83= 7927.683616
+note 84= 8108.474576
+note 85= 8133.333333
+note 86= 8219.209040
+note 87= 8314.124294
+note 88= 8400.000000
+note 89= 8424.858757
+note 90= 8605.649718
+note 91= 8630.508475
+note 92= 8716.384181
+note 93= 8811.299435
+note 94= 8922.033898
+note 95= 9016.949153
+note 96= 9102.824859
+note 97= 9127.683616
+note 98= 9308.474576
+note 99= 9333.333333
+note 100= 9419.209040
+note 101= 9514.124294
+note 102= 9600.000000
+note 103= 9624.858757
+note 104= 9805.649718
+note 105= 9830.508475
+note 106= 9916.384181
+note 107= 10011.299435
+note 108= 10122.033898
+note 109= 10216.949153
+note 110= 10302.824859
+note 111= 10327.683616
+note 112= 10508.474576
+note 113= 10533.333333
+note 114= 10619.209040
+note 115= 10714.124294
+note 116= 10800.000000
+note 117= 10824.858757
+note 118= 11005.649718
+note 119= 11030.508475
+note 120= 11116.384181
+note 121= 11211.299435
+note 122= 11322.033898
+note 123= 11416.949153
+note 124= 11502.824859
+note 125= 11527.683616
+note 126= 11708.474576
+note 127= 11733.333333
+
+[Functional Tuning]
+note 1="#=0 % 24.858757"
+note 2="#=0 % 205.649718"
+note 3="#=0 % 230.508475"
+note 4="#=0 % 316.384181"
+note 5="#=0 % 411.299435"
+note 6="#=0 % 522.033898"
+note 7="#=0 % 616.949153"
+note 8="#=0 % 702.824859"
+note 9="#=0 % 727.683616"
+note 10="#=0 % 908.474576"
+note 11="#=0 % 933.333333"
+note 12="#=0 % 1019.209040"
+note 13="#=0 % 1114.124294"
+note 14="#>-14 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

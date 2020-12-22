@@ -1,0 +1,300 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Leo de Vries 19/72 Through-Transposing-Tonality 18 tone scale
+;
+; VAZ Plus section
+[Tuning]
+note 0=1967
+note 1=2033
+note 2=2150
+note 3=2217
+note 4=2283
+note 5=2350
+note 6=2400
+note 7=2467
+note 8=2533
+note 9=2600
+note 10=2667
+note 11=2717
+note 12=2783
+note 13=2850
+note 14=2917
+note 15=2983
+note 16=3033
+note 17=3100
+note 18=3167
+note 19=3233
+note 20=3350
+note 21=3417
+note 22=3483
+note 23=3550
+note 24=3600
+note 25=3667
+note 26=3733
+note 27=3800
+note 28=3867
+note 29=3917
+note 30=3983
+note 31=4050
+note 32=4117
+note 33=4183
+note 34=4233
+note 35=4300
+note 36=4367
+note 37=4433
+note 38=4550
+note 39=4617
+note 40=4683
+note 41=4750
+note 42=4800
+note 43=4867
+note 44=4933
+note 45=5000
+note 46=5067
+note 47=5117
+note 48=5183
+note 49=5250
+note 50=5317
+note 51=5383
+note 52=5433
+note 53=5500
+note 54=5567
+note 55=5633
+note 56=5750
+note 57=5817
+note 58=5883
+note 59=5950
+note 60=6000
+note 61=6067
+note 62=6133
+note 63=6200
+note 64=6267
+note 65=6317
+note 66=6383
+note 67=6450
+note 68=6517
+note 69=6583
+note 70=6633
+note 71=6700
+note 72=6767
+note 73=6833
+note 74=6950
+note 75=7017
+note 76=7083
+note 77=7150
+note 78=7200
+note 79=7267
+note 80=7333
+note 81=7400
+note 82=7467
+note 83=7517
+note 84=7583
+note 85=7650
+note 86=7717
+note 87=7783
+note 88=7833
+note 89=7900
+note 90=7967
+note 91=8033
+note 92=8150
+note 93=8217
+note 94=8283
+note 95=8350
+note 96=8400
+note 97=8467
+note 98=8533
+note 99=8600
+note 100=8667
+note 101=8717
+note 102=8783
+note 103=8850
+note 104=8917
+note 105=8983
+note 106=9033
+note 107=9100
+note 108=9167
+note 109=9233
+note 110=9350
+note 111=9417
+note 112=9483
+note 113=9550
+note 114=9600
+note 115=9667
+note 116=9733
+note 117=9800
+note 118=9867
+note 119=9917
+note 120=9983
+note 121=10050
+note 122=10117
+note 123=10183
+note 124=10233
+note 125=10300
+note 126=10367
+note 127=10433
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "vries19-72.tun"
+ID= "ID_vries19-72.tun"
+Filename= "vries19-72.scl"
+Description= "Leo de Vries 19/72 Through-Transposing-Tonality 18 tone scale"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 1966.666670
+note 1= 2033.333330
+note 2= 2150.000000
+note 3= 2216.666670
+note 4= 2283.333330
+note 5= 2350.000000
+note 6= 2400.000000
+note 7= 2466.666670
+note 8= 2533.333330
+note 9= 2600.000000
+note 10= 2666.666670
+note 11= 2716.666670
+note 12= 2783.333330
+note 13= 2850.000000
+note 14= 2916.666670
+note 15= 2983.333330
+note 16= 3033.333330
+note 17= 3100.000000
+note 18= 3166.666670
+note 19= 3233.333330
+note 20= 3350.000000
+note 21= 3416.666670
+note 22= 3483.333330
+note 23= 3550.000000
+note 24= 3600.000000
+note 25= 3666.666670
+note 26= 3733.333330
+note 27= 3800.000000
+note 28= 3866.666670
+note 29= 3916.666670
+note 30= 3983.333330
+note 31= 4050.000000
+note 32= 4116.666670
+note 33= 4183.333330
+note 34= 4233.333330
+note 35= 4300.000000
+note 36= 4366.666670
+note 37= 4433.333330
+note 38= 4550.000000
+note 39= 4616.666670
+note 40= 4683.333330
+note 41= 4750.000000
+note 42= 4800.000000
+note 43= 4866.666670
+note 44= 4933.333330
+note 45= 5000.000000
+note 46= 5066.666670
+note 47= 5116.666670
+note 48= 5183.333330
+note 49= 5250.000000
+note 50= 5316.666670
+note 51= 5383.333330
+note 52= 5433.333330
+note 53= 5500.000000
+note 54= 5566.666670
+note 55= 5633.333330
+note 56= 5750.000000
+note 57= 5816.666670
+note 58= 5883.333330
+note 59= 5950.000000
+note 60= 6000.000000
+note 61= 6066.666670
+note 62= 6133.333330
+note 63= 6200.000000
+note 64= 6266.666670
+note 65= 6316.666670
+note 66= 6383.333330
+note 67= 6450.000000
+note 68= 6516.666670
+note 69= 6583.333330
+note 70= 6633.333330
+note 71= 6700.000000
+note 72= 6766.666670
+note 73= 6833.333330
+note 74= 6950.000000
+note 75= 7016.666670
+note 76= 7083.333330
+note 77= 7150.000000
+note 78= 7200.000000
+note 79= 7266.666670
+note 80= 7333.333330
+note 81= 7400.000000
+note 82= 7466.666670
+note 83= 7516.666670
+note 84= 7583.333330
+note 85= 7650.000000
+note 86= 7716.666670
+note 87= 7783.333330
+note 88= 7833.333330
+note 89= 7900.000000
+note 90= 7966.666670
+note 91= 8033.333330
+note 92= 8150.000000
+note 93= 8216.666670
+note 94= 8283.333330
+note 95= 8350.000000
+note 96= 8400.000000
+note 97= 8466.666670
+note 98= 8533.333330
+note 99= 8600.000000
+note 100= 8666.666670
+note 101= 8716.666670
+note 102= 8783.333330
+note 103= 8850.000000
+note 104= 8916.666670
+note 105= 8983.333330
+note 106= 9033.333330
+note 107= 9100.000000
+note 108= 9166.666670
+note 109= 9233.333330
+note 110= 9350.000000
+note 111= 9416.666670
+note 112= 9483.333330
+note 113= 9550.000000
+note 114= 9600.000000
+note 115= 9666.666670
+note 116= 9733.333330
+note 117= 9800.000000
+note 118= 9866.666670
+note 119= 9916.666670
+note 120= 9983.333330
+note 121= 10050.000000
+note 122= 10116.666670
+note 123= 10183.333330
+note 124= 10233.333330
+note 125= 10300.000000
+note 126= 10366.666670
+note 127= 10433.333330
+
+[Functional Tuning]
+note 1="#=0 % 66.666670"
+note 2="#=0 % 133.333330"
+note 3="#=0 % 200.000000"
+note 4="#=0 % 266.666670"
+note 5="#=0 % 316.666670"
+note 6="#=0 % 383.333330"
+note 7="#=0 % 450.000000"
+note 8="#=0 % 516.666670"
+note 9="#=0 % 583.333330"
+note 10="#=0 % 633.333330"
+note 11="#=0 % 700.000000"
+note 12="#=0 % 766.666670"
+note 13="#=0 % 833.333330"
+note 14="#=0 % 950.000000"
+note 15="#=0 % 1016.666670"
+note 16="#=0 % 1083.333330"
+note 17="#=0 % 1150.000000"
+note 18="#>-18 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; 5.7.13.15.21 tuning based on a single Balasept sequence
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=84
+note 2=248
+note 3=334
+note 4=454
+note 5=498
+note 6=583
+note 7=702
+note 8=832
+note 9=952
+note 10=1081
+note 11=1156
+note 12=1200
+note 13=1284
+note 14=1448
+note 15=1534
+note 16=1654
+note 17=1698
+note 18=1783
+note 19=1902
+note 20=2032
+note 21=2152
+note 22=2281
+note 23=2356
+note 24=2400
+note 25=2484
+note 26=2648
+note 27=2734
+note 28=2854
+note 29=2898
+note 30=2983
+note 31=3102
+note 32=3232
+note 33=3352
+note 34=3481
+note 35=3556
+note 36=3600
+note 37=3684
+note 38=3848
+note 39=3934
+note 40=4054
+note 41=4098
+note 42=4183
+note 43=4302
+note 44=4432
+note 45=4552
+note 46=4681
+note 47=4756
+note 48=4800
+note 49=4884
+note 50=5048
+note 51=5134
+note 52=5254
+note 53=5298
+note 54=5383
+note 55=5502
+note 56=5632
+note 57=5752
+note 58=5881
+note 59=5956
+note 60=6000
+note 61=6084
+note 62=6248
+note 63=6334
+note 64=6454
+note 65=6498
+note 66=6583
+note 67=6702
+note 68=6832
+note 69=6952
+note 70=7081
+note 71=7156
+note 72=7200
+note 73=7284
+note 74=7448
+note 75=7534
+note 76=7654
+note 77=7698
+note 78=7783
+note 79=7902
+note 80=8032
+note 81=8152
+note 82=8281
+note 83=8356
+note 84=8400
+note 85=8484
+note 86=8648
+note 87=8734
+note 88=8854
+note 89=8898
+note 90=8983
+note 91=9102
+note 92=9232
+note 93=9352
+note 94=9481
+note 95=9556
+note 96=9600
+note 97=9684
+note 98=9848
+note 99=9934
+note 100=10054
+note 101=10098
+note 102=10183
+note 103=10302
+note 104=10432
+note 105=10552
+note 106=10681
+note 107=10756
+note 108=10800
+note 109=10884
+note 110=11048
+note 111=11134
+note 112=11254
+note 113=11298
+note 114=11383
+note 115=11502
+note 116=11632
+note 117=11752
+note 118=11881
+note 119=11956
+note 120=12000
+note 121=12084
+note 122=12248
+note 123=12334
+note 124=12454
+note 125=12498
+note 126=12583
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "dudon_balasept-under.tun"
+ID= "ID_dudon_balasept-under.tun"
+Filename= "dudon_balasept-under.scl"
+Description= "5.7.13.15.21 tuning based on a single Balasept sequence"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 84.467193
+note 2= 248.221885
+note 3= 333.581697
+note 4= 454.213948
+note 5= 498.044999
+note 6= 582.512193
+note 7= 701.955001
+note 8= 831.626696
+note 9= 952.258947
+note 10= 1080.557192
+note 11= 1156.168949
+note 12= 1200.000000
+note 13= 1284.467193
+note 14= 1448.221885
+note 15= 1533.581697
+note 16= 1654.213948
+note 17= 1698.044999
+note 18= 1782.512193
+note 19= 1901.955001
+note 20= 2031.626696
+note 21= 2152.258947
+note 22= 2280.557192
+note 23= 2356.168949
+note 24= 2400.000000
+note 25= 2484.467193
+note 26= 2648.221885
+note 27= 2733.581697
+note 28= 2854.213948
+note 29= 2898.044999
+note 30= 2982.512193
+note 31= 3101.955001
+note 32= 3231.626696
+note 33= 3352.258947
+note 34= 3480.557192
+note 35= 3556.168949
+note 36= 3600.000000
+note 37= 3684.467193
+note 38= 3848.221885
+note 39= 3933.581697
+note 40= 4054.213948
+note 41= 4098.044999
+note 42= 4182.512193
+note 43= 4301.955001
+note 44= 4431.626696
+note 45= 4552.258947
+note 46= 4680.557192
+note 47= 4756.168949
+note 48= 4800.000000
+note 49= 4884.467193
+note 50= 5048.221885
+note 51= 5133.581697
+note 52= 5254.213948
+note 53= 5298.044999
+note 54= 5382.512193
+note 55= 5501.955001
+note 56= 5631.626696
+note 57= 5752.258947
+note 58= 5880.557192
+note 59= 5956.168949
+note 60= 6000.000000
+note 61= 6084.467193
+note 62= 6248.221885
+note 63= 6333.581697
+note 64= 6454.213948
+note 65= 6498.044999
+note 66= 6582.512193
+note 67= 6701.955001
+note 68= 6831.626696
+note 69= 6952.258947
+note 70= 7080.557192
+note 71= 7156.168949
+note 72= 7200.000000
+note 73= 7284.467193
+note 74= 7448.221885
+note 75= 7533.581697
+note 76= 7654.213948
+note 77= 7698.044999
+note 78= 7782.512193
+note 79= 7901.955001
+note 80= 8031.626696
+note 81= 8152.258947
+note 82= 8280.557192
+note 83= 8356.168949
+note 84= 8400.000000
+note 85= 8484.467193
+note 86= 8648.221885
+note 87= 8733.581697
+note 88= 8854.213948
+note 89= 8898.044999
+note 90= 8982.512193
+note 91= 9101.955001
+note 92= 9231.626696
+note 93= 9352.258947
+note 94= 9480.557192
+note 95= 9556.168949
+note 96= 9600.000000
+note 97= 9684.467193
+note 98= 9848.221885
+note 99= 9933.581697
+note 100= 10054.213948
+note 101= 10098.044999
+note 102= 10182.512193
+note 103= 10301.955001
+note 104= 10431.626696
+note 105= 10552.258947
+note 106= 10680.557192
+note 107= 10756.168949
+note 108= 10800.000000
+note 109= 10884.467193
+note 110= 11048.221885
+note 111= 11133.581697
+note 112= 11254.213948
+note 113= 11298.044999
+note 114= 11382.512193
+note 115= 11501.955001
+note 116= 11631.626696
+note 117= 11752.258947
+note 118= 11880.557192
+note 119= 11956.168949
+note 120= 12000.000000
+note 121= 12084.467193
+note 122= 12248.221885
+note 123= 12333.581697
+note 124= 12454.213948
+note 125= 12498.044999
+note 126= 12582.512193
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 21/20"
+note 2="#=0 * 277/240"
+note 3="#=0 * 97/80"
+note 4="#=0 * 13/10"
+note 5="#=0 * 4/3"
+note 6="#=0 * 7/5"
+note 7="#=0 * 3/2"
+note 8="#=0 * 97/60"
+note 9="#=0 * 26/15"
+note 10="#=0 * 28/15"
+note 11="#=0 * 39/20"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

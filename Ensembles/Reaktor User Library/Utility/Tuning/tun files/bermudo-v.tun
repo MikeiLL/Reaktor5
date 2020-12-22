@@ -1,0 +1,294 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Bermudo's vihuela temperament, 3 1/6P, 1 1/2P comma
+;
+; VAZ Plus section
+[Tuning]
+note 0=0
+note 1=103
+note 2=200
+note 3=294
+note 4=401
+note 5=498
+note 6=601
+note 7=702
+note 8=805
+note 9=902
+note 10=996
+note 11=1103
+note 12=1200
+note 13=1303
+note 14=1400
+note 15=1494
+note 16=1601
+note 17=1698
+note 18=1801
+note 19=1902
+note 20=2005
+note 21=2102
+note 22=2196
+note 23=2303
+note 24=2400
+note 25=2503
+note 26=2600
+note 27=2694
+note 28=2801
+note 29=2898
+note 30=3001
+note 31=3102
+note 32=3205
+note 33=3302
+note 34=3396
+note 35=3503
+note 36=3600
+note 37=3703
+note 38=3800
+note 39=3894
+note 40=4001
+note 41=4098
+note 42=4201
+note 43=4302
+note 44=4405
+note 45=4502
+note 46=4596
+note 47=4703
+note 48=4800
+note 49=4903
+note 50=5000
+note 51=5094
+note 52=5201
+note 53=5298
+note 54=5401
+note 55=5502
+note 56=5605
+note 57=5702
+note 58=5796
+note 59=5903
+note 60=6000
+note 61=6103
+note 62=6200
+note 63=6294
+note 64=6401
+note 65=6498
+note 66=6601
+note 67=6702
+note 68=6805
+note 69=6902
+note 70=6996
+note 71=7103
+note 72=7200
+note 73=7303
+note 74=7400
+note 75=7494
+note 76=7601
+note 77=7698
+note 78=7801
+note 79=7902
+note 80=8005
+note 81=8102
+note 82=8196
+note 83=8303
+note 84=8400
+note 85=8503
+note 86=8600
+note 87=8694
+note 88=8801
+note 89=8898
+note 90=9001
+note 91=9102
+note 92=9205
+note 93=9302
+note 94=9396
+note 95=9503
+note 96=9600
+note 97=9703
+note 98=9800
+note 99=9894
+note 100=10001
+note 101=10098
+note 102=10201
+note 103=10302
+note 104=10405
+note 105=10502
+note 106=10596
+note 107=10703
+note 108=10800
+note 109=10903
+note 110=11000
+note 111=11094
+note 112=11201
+note 113=11298
+note 114=11401
+note 115=11502
+note 116=11605
+note 117=11702
+note 118=11796
+note 119=11903
+note 120=12000
+note 121=12103
+note 122=12200
+note 123=12294
+note 124=12401
+note 125=12498
+note 126=12601
+note 127=12702
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "bermudo-v.tun"
+ID= "ID_bermudo-v.tun"
+Filename= "bermudo-v.scl"
+Description= "Bermudo's vihuela temperament, 3 1/6P, 1 1/2P comma"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 0.000000
+note 1= 102.883532
+note 2= 200.307016
+note 3= 294.134997
+note 4= 400.621515
+note 5= 498.044999
+note 6= 600.928531
+note 7= 701.955001
+note 8= 804.838532
+note 9= 902.262017
+note 10= 996.089998
+note 11= 1102.576516
+note 12= 1200.000000
+note 13= 1302.883532
+note 14= 1400.307016
+note 15= 1494.134997
+note 16= 1600.621515
+note 17= 1698.044999
+note 18= 1800.928531
+note 19= 1901.955001
+note 20= 2004.838532
+note 21= 2102.262017
+note 22= 2196.089998
+note 23= 2302.576516
+note 24= 2400.000000
+note 25= 2502.883532
+note 26= 2600.307016
+note 27= 2694.134997
+note 28= 2800.621515
+note 29= 2898.044999
+note 30= 3000.928531
+note 31= 3101.955001
+note 32= 3204.838532
+note 33= 3302.262017
+note 34= 3396.089998
+note 35= 3502.576516
+note 36= 3600.000000
+note 37= 3702.883532
+note 38= 3800.307016
+note 39= 3894.134997
+note 40= 4000.621515
+note 41= 4098.044999
+note 42= 4200.928531
+note 43= 4301.955001
+note 44= 4404.838532
+note 45= 4502.262017
+note 46= 4596.089998
+note 47= 4702.576516
+note 48= 4800.000000
+note 49= 4902.883532
+note 50= 5000.307016
+note 51= 5094.134997
+note 52= 5200.621515
+note 53= 5298.044999
+note 54= 5400.928531
+note 55= 5501.955001
+note 56= 5604.838532
+note 57= 5702.262017
+note 58= 5796.089998
+note 59= 5902.576516
+note 60= 6000.000000
+note 61= 6102.883532
+note 62= 6200.307016
+note 63= 6294.134997
+note 64= 6400.621515
+note 65= 6498.044999
+note 66= 6600.928531
+note 67= 6701.955001
+note 68= 6804.838532
+note 69= 6902.262017
+note 70= 6996.089998
+note 71= 7102.576516
+note 72= 7200.000000
+note 73= 7302.883532
+note 74= 7400.307016
+note 75= 7494.134997
+note 76= 7600.621515
+note 77= 7698.044999
+note 78= 7800.928531
+note 79= 7901.955001
+note 80= 8004.838532
+note 81= 8102.262017
+note 82= 8196.089998
+note 83= 8302.576516
+note 84= 8400.000000
+note 85= 8502.883532
+note 86= 8600.307016
+note 87= 8694.134997
+note 88= 8800.621515
+note 89= 8898.044999
+note 90= 9000.928531
+note 91= 9101.955001
+note 92= 9204.838532
+note 93= 9302.262017
+note 94= 9396.089998
+note 95= 9502.576516
+note 96= 9600.000000
+note 97= 9702.883532
+note 98= 9800.307016
+note 99= 9894.134997
+note 100= 10000.621515
+note 101= 10098.044999
+note 102= 10200.928531
+note 103= 10301.955001
+note 104= 10404.838532
+note 105= 10502.262017
+note 106= 10596.089998
+note 107= 10702.576516
+note 108= 10800.000000
+note 109= 10902.883532
+note 110= 11000.307016
+note 111= 11094.134997
+note 112= 11200.621515
+note 113= 11298.044999
+note 114= 11400.928531
+note 115= 11501.955001
+note 116= 11604.838532
+note 117= 11702.262017
+note 118= 11796.089998
+note 119= 11902.576516
+note 120= 12000.000000
+note 121= 12102.883532
+note 122= 12200.307016
+note 123= 12294.134997
+note 124= 12400.621515
+note 125= 12498.044999
+note 126= 12600.928531
+note 127= 12701.955001
+
+[Functional Tuning]
+note 1="#=0 * 492075/463684"
+note 2="#=0 * 540/481"
+note 3="#=0 * 32/27"
+note 4="#=0 * 1215/964"
+note 5="#=0 * 4/3"
+note 6="#=0 * 164025/115921"
+note 7="#=0 * 3/2"
+note 8="#=0 * 1476225/927368"
+note 9="#=0 * 810/481"
+note 10="#=0 * 16/9"
+note 11="#=0 * 3645/1928"
+note 12="#>-12 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

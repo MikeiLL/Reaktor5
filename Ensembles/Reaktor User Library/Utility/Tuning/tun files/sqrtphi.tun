@@ -1,0 +1,305 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Sqrtphi[23], the 23-note MOS of the 49&72 temperament in sqrt(phi) tuning
+;
+; VAZ Plus section
+[Tuning]
+note 0=2866
+note 1=2916
+note 2=2965
+note 3=3035
+note 4=3084
+note 5=3134
+note 6=3183
+note 7=3233
+note 8=3283
+note 9=3332
+note 10=3382
+note 11=3451
+note 12=3501
+note 13=3550
+note 14=3600
+note 15=3650
+note 16=3699
+note 17=3749
+note 18=3818
+note 19=3868
+note 20=3917
+note 21=3967
+note 22=4017
+note 23=4066
+note 24=4116
+note 25=4165
+note 26=4235
+note 27=4284
+note 28=4334
+note 29=4383
+note 30=4433
+note 31=4483
+note 32=4532
+note 33=4582
+note 34=4651
+note 35=4701
+note 36=4750
+note 37=4800
+note 38=4850
+note 39=4899
+note 40=4949
+note 41=5018
+note 42=5068
+note 43=5117
+note 44=5167
+note 45=5217
+note 46=5266
+note 47=5316
+note 48=5365
+note 49=5435
+note 50=5484
+note 51=5534
+note 52=5583
+note 53=5633
+note 54=5683
+note 55=5732
+note 56=5782
+note 57=5851
+note 58=5901
+note 59=5950
+note 60=6000
+note 61=6050
+note 62=6099
+note 63=6149
+note 64=6218
+note 65=6268
+note 66=6317
+note 67=6367
+note 68=6417
+note 69=6466
+note 70=6516
+note 71=6565
+note 72=6635
+note 73=6684
+note 74=6734
+note 75=6783
+note 76=6833
+note 77=6883
+note 78=6932
+note 79=6982
+note 80=7051
+note 81=7101
+note 82=7150
+note 83=7200
+note 84=7250
+note 85=7299
+note 86=7349
+note 87=7418
+note 88=7468
+note 89=7517
+note 90=7567
+note 91=7617
+note 92=7666
+note 93=7716
+note 94=7765
+note 95=7835
+note 96=7884
+note 97=7934
+note 98=7983
+note 99=8033
+note 100=8083
+note 101=8132
+note 102=8182
+note 103=8251
+note 104=8301
+note 105=8350
+note 106=8400
+note 107=8450
+note 108=8499
+note 109=8549
+note 110=8618
+note 111=8668
+note 112=8717
+note 113=8767
+note 114=8817
+note 115=8866
+note 116=8916
+note 117=8965
+note 118=9035
+note 119=9084
+note 120=9134
+note 121=9183
+note 122=9233
+note 123=9283
+note 124=9332
+note 125=9382
+note 126=9451
+note 127=9501
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "sqrtphi.tun"
+ID= "ID_sqrtphi.tun"
+Filename= "sqrtphi.scl"
+Description= "Sqrtphi[23], the 23-note MOS of the 49&72 temperament in sqrt(phi) tuning"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 2866.180590
+note 1= 2915.816040
+note 2= 2965.451480
+note 3= 3034.548520
+note 4= 3084.183960
+note 5= 3133.819410
+note 6= 3183.454850
+note 7= 3233.090300
+note 8= 3282.725740
+note 9= 3332.361190
+note 10= 3381.996630
+note 11= 3451.093670
+note 12= 3500.729110
+note 13= 3550.364560
+note 14= 3600.000000
+note 15= 3649.635440
+note 16= 3699.270890
+note 17= 3748.906330
+note 18= 3818.003370
+note 19= 3867.638810
+note 20= 3917.274260
+note 21= 3966.909700
+note 22= 4016.545150
+note 23= 4066.180590
+note 24= 4115.816040
+note 25= 4165.451480
+note 26= 4234.548520
+note 27= 4284.183960
+note 28= 4333.819410
+note 29= 4383.454850
+note 30= 4433.090300
+note 31= 4482.725740
+note 32= 4532.361190
+note 33= 4581.996630
+note 34= 4651.093670
+note 35= 4700.729110
+note 36= 4750.364560
+note 37= 4800.000000
+note 38= 4849.635440
+note 39= 4899.270890
+note 40= 4948.906330
+note 41= 5018.003370
+note 42= 5067.638810
+note 43= 5117.274260
+note 44= 5166.909700
+note 45= 5216.545150
+note 46= 5266.180590
+note 47= 5315.816040
+note 48= 5365.451480
+note 49= 5434.548520
+note 50= 5484.183960
+note 51= 5533.819410
+note 52= 5583.454850
+note 53= 5633.090300
+note 54= 5682.725740
+note 55= 5732.361190
+note 56= 5781.996630
+note 57= 5851.093670
+note 58= 5900.729110
+note 59= 5950.364560
+note 60= 6000.000000
+note 61= 6049.635440
+note 62= 6099.270890
+note 63= 6148.906330
+note 64= 6218.003370
+note 65= 6267.638810
+note 66= 6317.274260
+note 67= 6366.909700
+note 68= 6416.545150
+note 69= 6466.180590
+note 70= 6515.816040
+note 71= 6565.451480
+note 72= 6634.548520
+note 73= 6684.183960
+note 74= 6733.819410
+note 75= 6783.454850
+note 76= 6833.090300
+note 77= 6882.725740
+note 78= 6932.361190
+note 79= 6981.996630
+note 80= 7051.093670
+note 81= 7100.729110
+note 82= 7150.364560
+note 83= 7200.000000
+note 84= 7249.635440
+note 85= 7299.270890
+note 86= 7348.906330
+note 87= 7418.003370
+note 88= 7467.638810
+note 89= 7517.274260
+note 90= 7566.909700
+note 91= 7616.545150
+note 92= 7666.180590
+note 93= 7715.816040
+note 94= 7765.451480
+note 95= 7834.548520
+note 96= 7884.183960
+note 97= 7933.819410
+note 98= 7983.454850
+note 99= 8033.090300
+note 100= 8082.725740
+note 101= 8132.361190
+note 102= 8181.996630
+note 103= 8251.093670
+note 104= 8300.729110
+note 105= 8350.364560
+note 106= 8400.000000
+note 107= 8449.635440
+note 108= 8499.270890
+note 109= 8548.906330
+note 110= 8618.003370
+note 111= 8667.638810
+note 112= 8717.274260
+note 113= 8766.909700
+note 114= 8816.545150
+note 115= 8866.180590
+note 116= 8915.816040
+note 117= 8965.451480
+note 118= 9034.548520
+note 119= 9084.183960
+note 120= 9133.819410
+note 121= 9183.454850
+note 122= 9233.090300
+note 123= 9282.725740
+note 124= 9332.361190
+note 125= 9381.996630
+note 126= 9451.093670
+note 127= 9500.729110
+
+[Functional Tuning]
+note 1="#=0 % 49.635440"
+note 2="#=0 % 99.270890"
+note 3="#=0 % 148.906330"
+note 4="#=0 % 218.003370"
+note 5="#=0 % 267.638810"
+note 6="#=0 % 317.274260"
+note 7="#=0 % 366.909700"
+note 8="#=0 % 416.545150"
+note 9="#=0 % 466.180590"
+note 10="#=0 % 515.816040"
+note 11="#=0 % 565.451480"
+note 12="#=0 % 634.548520"
+note 13="#=0 % 684.183960"
+note 14="#=0 % 733.819410"
+note 15="#=0 % 783.454850"
+note 16="#=0 % 833.090300"
+note 17="#=0 % 882.725740"
+note 18="#=0 % 932.361190"
+note 19="#=0 % 981.996630"
+note 20="#=0 % 1051.093670"
+note 21="#=0 % 1100.729110"
+note 22="#=0 % 1150.364560"
+note 23="#>-23 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]

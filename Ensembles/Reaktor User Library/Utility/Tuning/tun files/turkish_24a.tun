@@ -1,0 +1,306 @@
+; VAZ Plus/AnaMark softsynth tuning file
+; Turkish gamut with schismatic simplifications
+;
+; VAZ Plus section
+[Tuning]
+note 0=3010
+note 1=3080
+note 2=3102
+note 3=3192
+note 4=3214
+note 5=3284
+note 6=3306
+note 7=3375
+note 8=3396
+note 9=3488
+note 10=3510
+note 11=3578
+note 12=3600
+note 13=3690
+note 14=3712
+note 15=3782
+note 16=3804
+note 17=3894
+note 18=3916
+note 19=3986
+note 20=4008
+note 21=4077
+note 22=4098
+note 23=4190
+note 24=4210
+note 25=4280
+note 26=4302
+note 27=4392
+note 28=4414
+note 29=4484
+note 30=4506
+note 31=4575
+note 32=4596
+note 33=4688
+note 34=4710
+note 35=4778
+note 36=4800
+note 37=4890
+note 38=4912
+note 39=4982
+note 40=5004
+note 41=5094
+note 42=5116
+note 43=5186
+note 44=5208
+note 45=5277
+note 46=5298
+note 47=5390
+note 48=5410
+note 49=5480
+note 50=5502
+note 51=5592
+note 52=5614
+note 53=5684
+note 54=5706
+note 55=5775
+note 56=5796
+note 57=5888
+note 58=5910
+note 59=5978
+note 60=6000
+note 61=6090
+note 62=6112
+note 63=6182
+note 64=6204
+note 65=6294
+note 66=6316
+note 67=6386
+note 68=6408
+note 69=6477
+note 70=6498
+note 71=6590
+note 72=6610
+note 73=6680
+note 74=6702
+note 75=6792
+note 76=6814
+note 77=6884
+note 78=6906
+note 79=6975
+note 80=6996
+note 81=7088
+note 82=7110
+note 83=7178
+note 84=7200
+note 85=7290
+note 86=7312
+note 87=7382
+note 88=7404
+note 89=7494
+note 90=7516
+note 91=7586
+note 92=7608
+note 93=7677
+note 94=7698
+note 95=7790
+note 96=7810
+note 97=7880
+note 98=7902
+note 99=7992
+note 100=8014
+note 101=8084
+note 102=8106
+note 103=8175
+note 104=8196
+note 105=8288
+note 106=8310
+note 107=8378
+note 108=8400
+note 109=8490
+note 110=8512
+note 111=8582
+note 112=8604
+note 113=8694
+note 114=8716
+note 115=8786
+note 116=8808
+note 117=8877
+note 118=8898
+note 119=8990
+note 120=9010
+note 121=9080
+note 122=9102
+note 123=9192
+note 124=9214
+note 125=9284
+note 126=9306
+note 127=9375
+
+; AnaMark section
+[Scale Begin]
+Format= "AnaMark-TUN"
+FormatVersion= 200
+FormatSpecs= "http:\\\\www.mark-henning.de\\eternity\\tuningspecs.html"
+
+[Info]
+Name= "turkish_24a.tun"
+ID= "ID_turkish_24a.tun"
+Filename= "turkish_24a.scl"
+Description= "Turkish gamut with schismatic simplifications"
+Editor= "Scala"
+
+[Exact Tuning]
+note 0= 3009.776284
+note 1= 3080.448711
+note 2= 3101.955001
+note 3= 3192.179997
+note 4= 3213.686286
+note 5= 3284.358713
+note 6= 3305.865003
+note 7= 3374.583709
+note 8= 3396.089998
+note 9= 3488.268715
+note 10= 3509.775004
+note 11= 3578.493710
+note 12= 3600.000000
+note 13= 3690.224996
+note 14= 3711.731285
+note 15= 3782.403712
+note 16= 3803.910002
+note 17= 3894.134997
+note 18= 3915.641287
+note 19= 3986.313714
+note 20= 4007.820003
+note 21= 4076.538710
+note 22= 4098.044999
+note 23= 4190.223716
+note 24= 4209.776284
+note 25= 4280.448711
+note 26= 4301.955001
+note 27= 4392.179997
+note 28= 4413.686286
+note 29= 4484.358713
+note 30= 4505.865003
+note 31= 4574.583709
+note 32= 4596.089998
+note 33= 4688.268715
+note 34= 4709.775004
+note 35= 4778.493710
+note 36= 4800.000000
+note 37= 4890.224996
+note 38= 4911.731285
+note 39= 4982.403712
+note 40= 5003.910002
+note 41= 5094.134997
+note 42= 5115.641287
+note 43= 5186.313714
+note 44= 5207.820003
+note 45= 5276.538710
+note 46= 5298.044999
+note 47= 5390.223716
+note 48= 5409.776284
+note 49= 5480.448711
+note 50= 5501.955001
+note 51= 5592.179997
+note 52= 5613.686286
+note 53= 5684.358713
+note 54= 5705.865003
+note 55= 5774.583709
+note 56= 5796.089998
+note 57= 5888.268715
+note 58= 5909.775004
+note 59= 5978.493710
+note 60= 6000.000000
+note 61= 6090.224996
+note 62= 6111.731285
+note 63= 6182.403712
+note 64= 6203.910002
+note 65= 6294.134997
+note 66= 6315.641287
+note 67= 6386.313714
+note 68= 6407.820003
+note 69= 6476.538710
+note 70= 6498.044999
+note 71= 6590.223716
+note 72= 6609.776284
+note 73= 6680.448711
+note 74= 6701.955001
+note 75= 6792.179997
+note 76= 6813.686286
+note 77= 6884.358713
+note 78= 6905.865003
+note 79= 6974.583709
+note 80= 6996.089998
+note 81= 7088.268715
+note 82= 7109.775004
+note 83= 7178.493710
+note 84= 7200.000000
+note 85= 7290.224996
+note 86= 7311.731285
+note 87= 7382.403712
+note 88= 7403.910002
+note 89= 7494.134997
+note 90= 7515.641287
+note 91= 7586.313714
+note 92= 7607.820003
+note 93= 7676.538710
+note 94= 7698.044999
+note 95= 7790.223716
+note 96= 7809.776284
+note 97= 7880.448711
+note 98= 7901.955001
+note 99= 7992.179997
+note 100= 8013.686286
+note 101= 8084.358713
+note 102= 8105.865003
+note 103= 8174.583709
+note 104= 8196.089998
+note 105= 8288.268715
+note 106= 8309.775004
+note 107= 8378.493710
+note 108= 8400.000000
+note 109= 8490.224996
+note 110= 8511.731285
+note 111= 8582.403712
+note 112= 8603.910002
+note 113= 8694.134997
+note 114= 8715.641287
+note 115= 8786.313714
+note 116= 8807.820003
+note 117= 8876.538710
+note 118= 8898.044999
+note 119= 8990.223716
+note 120= 9009.776284
+note 121= 9080.448711
+note 122= 9101.955001
+note 123= 9192.179997
+note 124= 9213.686286
+note 125= 9284.358713
+note 126= 9305.865003
+note 127= 9374.583709
+
+[Functional Tuning]
+note 1="#=0 * 256/243"
+note 2="#=0 * 16/15"
+note 3="#=0 * 10/9"
+note 4="#=0 * 9/8"
+note 5="#=0 * 32/27"
+note 6="#=0 * 6/5"
+note 7="#=0 * 5/4"
+note 8="#=0 * 81/64"
+note 9="#=0 * 320/243"
+note 10="#=0 * 4/3"
+note 11="#=0 * 45/32"
+note 12="#=0 * 64/45"
+note 13="#=0 * 40/27"
+note 14="#=0 * 3/2"
+note 15="#=0 * 128/81"
+note 16="#=0 * 8/5"
+note 17="#=0 * 5/3"
+note 18="#=0 * 27/16"
+note 19="#=0 * 1280/729"
+note 20="#=0 * 16/9"
+note 21="#=0 * 15/8"
+note 22="#=0 * 243/128"
+note 23="#=0 * 160/81"
+note 24="#>-24 * 2/1 ~999"
+
+; Set reference key to absolute frequency (not scale note but midi key)
+note 60="! 261.625565"
+[Scale End]
